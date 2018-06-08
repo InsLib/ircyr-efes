@@ -66,7 +66,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373879, http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
                               fallen from the <rs type="monuList" ref="http://www.slsgazetteer.org/1215">Arch of Constantine</rs>; found in <date type="found">1935</date>.</p>
                         </provenance>
                         <provenance type="observed">
@@ -143,7 +143,7 @@
                </bibl> whence <bibl>
                   <title>AE</title> 
                   <citedRange>1963.141.3</citedRange></bibl>; reprinted, <bibl>
-                  <ptr target="rgg1976"/><citedRange type="pages">221-225</citedRange></bibl>;
+                  <ptr target="rgg1976"/><citedRange unit="page">221-225</citedRange></bibl>;
             </p>
          </div>
          

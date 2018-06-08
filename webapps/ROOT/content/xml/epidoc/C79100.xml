@@ -50,7 +50,7 @@
                      <origDate notBefore="0101" notAfter="0200" precision="low" evidence="lettering">Probably second century C.E.</origDate>
                   </origin>
                   <provenance type="found"><p>
-                     <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                      <rs type="monuList" ref="http://www.slsgazetteer.org/1070">South Necropolis</rs>, to the north of the secondary road from Cyrene to Beida, 
                      running south of and parallel to the old road, 
                               approximately south of the milestone, <ref type="inscription">C86700</ref>. <!-- check Cassels S --></p>

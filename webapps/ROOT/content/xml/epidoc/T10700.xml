@@ -60,7 +60,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373736 http://www.slsgazetteer.org/913">Taucheira</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>: 
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1126">East Wall</rs>, in situ on the inner face, the second group south of the east gate.</p>
                         </provenance>
                         <provenance type="observed">
@@ -131,8 +131,8 @@
                     <bibl>
                        <ptr target="applebaum1954"/>  <citedRange>29</citedRange><citedRange>46-47</citedRange></bibl>, cited 
                <bibl><title>SEG</title> <citedRange>17.822</citedRange></bibl><bibl>,
-                  <ptr target="applebaum1958"/>  <citedRange type="pages">74</citedRange></bibl><bibl>,
-                  <ptr target="applebaum1979"/>  <citedRange type="pages">141</citedRange></bibl>.
+                  <ptr target="applebaum1958"/>  <citedRange unit="page">74</citedRange></bibl><bibl>,
+                  <ptr target="applebaum1979"/>  <citedRange unit="page">141</citedRange></bibl>.
                 iii: <bibl>
                   <ptr target="gl-jmr1983"/>  <citedRange>41.a</citedRange>
                </bibl>, whence <bibl>

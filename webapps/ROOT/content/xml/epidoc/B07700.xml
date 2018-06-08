@@ -46,7 +46,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373757, http://www.slsgazetteer.org/910">Berenike</placeName>:
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/910">Berenike</placeName>:
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1083">Mafluga</rs>, a little south-east of Sidi Hussein: 
                               recorded in <date type="found">1915</date>.
                    </p>
@@ -107,7 +107,7 @@
                   <title>SEG</title> <citedRange>9.771</citedRange>
                </bibl> and 
              <bibl>
-                  <ptr target="applebaum1954"/>  <citedRange type="number">42</citedRange>, p.48</bibl>;
+                  <ptr target="applebaum1954"/>  <citedRange>42</citedRange>, p.48</bibl>;
                     see also <bibl>
                   <title>SEG</title> <citedRange>17.824</citedRange></bibl>; 
              republished <bibl>

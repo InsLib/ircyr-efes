@@ -52,7 +52,7 @@
                      <origDate  notBefore="0101" notAfter="0300" precision="low" evidence="lettering">Perhaps second to third centuries C.E. </origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
-                     <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373903, http://www.slsgazetteer.org/1186">Taurguni</placeName>; 
+                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1186">Taurguni</placeName>; 
                      found in <date type="found">1957</date></p>
                         </provenance>
                         <provenance type="observed">

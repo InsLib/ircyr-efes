@@ -56,7 +56,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373736 http://www.slsgazetteer.org/913">Taucheira</placeName>:  
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>:  
                                Found in <rs type="monuList" ref="http://www.slsgazetteer.org/1154">Quarry East XV</rs>, East Wall.</p>
                         </provenance>
                         <provenance type="observed">
@@ -123,7 +123,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="wright1963"/>  <citedRange type="pages">36</citedRange>
+                  <ptr target="wright1963"/>  <citedRange unit="page">36</citedRange>
                </bibl>, whence <bibl><ptr target="robertBE"/> <citedRange>1964.593</citedRange>
                </bibl>, <bibl>
                   <title>SEG</title> 

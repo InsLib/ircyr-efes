@@ -51,7 +51,7 @@
                      <origDate notBefore="0001" notAfter="0100" precision="low" evidence="lettering" cert="low">First century C.E.</origDate>
                   </origin><provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1061">Stepped Portico</rs>; found during excavation in <date type="found">1934</date>.</p>
                         </provenance>
                         <provenance type="observed">

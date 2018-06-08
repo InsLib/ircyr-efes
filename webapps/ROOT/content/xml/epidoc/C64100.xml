@@ -57,7 +57,7 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>: Minţaqat Shanīsh, south of 
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/1428" ref="http://pleiades.stoa.org/places/373788">Faidia</rs>; found <date type="found">between 1972 and 1974</date>.</p>
+                        <rs type="monuList" ref="http://www.slsgazetteer.org/1428">Faidia</rs>; found <date type="found">between 1972 and 1974</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>

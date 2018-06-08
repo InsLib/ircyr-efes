@@ -53,7 +53,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</rs>, precise location unspecified; photographed in <date type="found">1925</date>.</p>
                         </provenance>
                         <provenance type="observed">
@@ -114,7 +114,7 @@
             <p>
                <bibl><ptr target="oliverioDAI"/>  <citedRange>113</citedRange>, pl. XXXII, fig. 69</bibl>, whence
                <bibl><title>SEG</title> <citedRange>9.225</citedRange></bibl>; 
-               from these <bibl><ptr target="applebaum1954"/> <citedRange type="number">3</citedRange><citedRange>41</citedRange></bibl>, whence mentioned
+               from these <bibl><ptr target="applebaum1954"/> <citedRange>3</citedRange><citedRange>41</citedRange></bibl>, whence mentioned
                <bibl><title>SEG</title> <citedRange>17.821</citedRange></bibl>; from these  
                <bibl><ptr target="gl-jmr1983"/>  <citedRange>14.b</citedRange></bibl>.</p>
             <p>See also <bibl><ptr target="thorn2009"/> <citedRange>142</citedRange></bibl></p>

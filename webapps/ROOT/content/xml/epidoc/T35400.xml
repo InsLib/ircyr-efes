@@ -52,7 +52,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373736 http://www.slsgazetteer.org/913">Taucheira</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>: 
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1148">Quarry East VIII</rs>, South wall. 
                               <!-- to the right of 117: but this would be 308, which is wrong after an intervening tomb whose 
                               inscriptions are quite illegible. --> First recorded in <date type="found">1936</date>.</p>

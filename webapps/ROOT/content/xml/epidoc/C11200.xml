@@ -49,7 +49,7 @@
                      <origDate notAfter="0092" notBefore="0091" evidence="internal-date">C.E. 91-2 </origDate>
                   </origin><provenance type="found">
                      <p>
-                        <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                        <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                         <rs type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</rs>; photographed in <date type="found">1928</date> with <ref type="inscription">C11100</ref>.
                      </p>
                   </provenance>

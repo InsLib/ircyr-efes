@@ -51,7 +51,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                                Found in <date type="found">1927</date>, during the excavations of the <rs type="monuList" ref="http://www.slsgazetteer.org/1052">Temple of Hekate</rs> 
                               and the Portico in front of it.</p>
                         </provenance>
@@ -126,9 +126,9 @@
                   <title>SEG</title> <citedRange>9.101</citedRange>
                </bibl>
                     see also <bibl>
-                  <ptr target="oliverio1931"/>  <citedRange type="page">52</citedRange></bibl>;
+                  <ptr target="oliverio1931"/>  <citedRange unit="page">52</citedRange></bibl>;
                     <bibl>
-                  <ptr target="roberthell1"/>  <citedRange type="pages">12</citedRange>
+                  <ptr target="roberthell1"/>  <citedRange unit="page">12</citedRange>
                     </bibl>, whence <bibl><ptr target="robertBE"/> <citedRange>1941.179</citedRange></bibl>;
                     <bibl>
                   <ptr target="romanelli1943"/>  <citedRange>104</citedRange>.

@@ -54,7 +54,7 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>:  
-                        <rs type="ancientFindspot" ref="http://www.slsgazetteer.org/1277, http://pleiades.stoa.org/places/373822">El-Gubba</rs>; found in <date type="found">1930</date>.</p>
+                        <rs type="ancientFindspot" ref="http://www.slsgazetteer.org/1277">El-Gubba</rs>; found in <date type="found">1930</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>

@@ -47,10 +47,10 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>: 
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/1200" ref="http://pleiades.stoa.org/places/373772">Chersis</rs>: necropolis.</p>
+                        <rs type="monuList" ref="http://www.slsgazetteer.org/1200">Chersis</rs>: necropolis.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/1422" ref="http://pleiades.stoa.org/places/373780">Derna</rs>, <rs type="monuList" ref="http://www.slsgazetteer.org/1414">Museum of the Society of the Hela</rs></p>
+                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/1422">Derna</rs>, <rs type="monuList" ref="http://www.slsgazetteer.org/1414">Museum of the Society of the Hela</rs></p>
                         </provenance>
                     
                </history>

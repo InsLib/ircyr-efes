@@ -51,7 +51,7 @@
                      <origDate notBefore="-0100" notAfter="0100" precision="low" evidence="lettering, context">First century B.C. to first century C.E.</origDate>
                   </origin>
                   <provenance type="found">
-                     <p><placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373736 http://www.slsgazetteer.org/913">Taucheira</placeName>:
+                     <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>:
                         <rs type="monuList" ref="http://www.slsgazetteer.org/1126">East Wall</rs>, on the inner face just south of the East Gate; along uppermost inscribed course, a long way to the right of <ref type="inscription">T09100</ref></p>
                   </provenance>
                   <provenance type="observed"><p>Findspot.</p></provenance>

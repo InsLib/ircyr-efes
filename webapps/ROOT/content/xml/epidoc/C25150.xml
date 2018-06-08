@@ -53,7 +53,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                                <rs type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo Nymphagetas</rs>;
                               found in <date type="found">1919</date> re-used in a later wall.</p>
                         </provenance>
@@ -125,15 +125,15 @@
                </bibl>;<bibl>;<ptr target="vitali1932"/>  <citedRange>79</citedRange> 
                </bibl>;
                see also <bibl> 
-                  <ptr target="ferri1923"/>  <citedRange type="pages">8</citedRange> 
+                  <ptr target="ferri1923"/>  <citedRange unit="page">8</citedRange> 
                </bibl>
                <bibl> 
-                  <ptr target="oliverio1931"/>  <citedRange type="pages">62</citedRange></bibl>. 
+                  <ptr target="oliverio1931"/>  <citedRange unit="page">62</citedRange></bibl>. 
                <bibl> 
-                  <ptr target="oliverio1940"/>  <citedRange type="pages">404</citedRange> 
+                  <ptr target="oliverio1940"/>  <citedRange unit="page">404</citedRange> 
                </bibl>
                <bibl> 
-                  <ptr target="romanelli1943"/>  <citedRange type="pages">129</citedRange> 
+                  <ptr target="romanelli1943"/>  <citedRange unit="page">129</citedRange> 
                </bibl>.
                 </p>
          </div>

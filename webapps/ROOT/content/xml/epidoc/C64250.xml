@@ -49,7 +49,7 @@
                         </origin>
                         <provenance type="found">
                             <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>: 
-                                <rs type="monuList" ref="http://www.slsgazetteer.org/1198" ref="http://pleiades.stoa.org/places/373844">Limnias</rs>.</p>
+                                <rs type="monuList" ref="http://www.slsgazetteer.org/1198">Limnias</rs>.</p>
                                 </provenance>
                                 <provenance type="observed">
                                     <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>, inv. no. 1707</p>

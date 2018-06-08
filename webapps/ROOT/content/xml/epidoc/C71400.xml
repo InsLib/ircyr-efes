@@ -48,7 +48,7 @@
                   </origin>
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>:
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</rs>.
                               First recorded in <date type="found">1819</date> as 'prope castellum in via ad magnum fontem ducente' 
                               near <ref type="inscription">C12600</ref>, copied with <ref type="inscription">C71500</ref>.</p>

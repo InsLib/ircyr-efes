@@ -41,7 +41,7 @@
                      <origDate notBefore="-0100" notAfter="0300" precision="low" evidence="context">?First century B.C. - third century C.E.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
-                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1181, http://pleiades.stoa.org/places/373750">Barke</rs>;  
+                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1181">Barke</placeName>;  
                               Recorded shortly after <date type="found">1946</date> with <ref type="inscription">G01900</ref>.  <!-- with no. 547 CHECK --></p>
                         </provenance>
                         <provenance type="observed">

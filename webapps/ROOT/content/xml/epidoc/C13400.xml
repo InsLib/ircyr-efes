@@ -48,7 +48,7 @@
                   </origin>
                   <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1017">Acropolis Gate</rs>, three courses of the outer wall; found in <date type="found">1924</date></p>
                         </provenance>
                         <provenance type="observed">
@@ -114,13 +114,13 @@
                   <ptr target="ghislanzoni1925"/> <citedRange>408-9</citedRange> and fig. 1
                </bibl>, whence
                     <bibl>
-                       <title>AE</title> <citedRange type="volume">1927.140</citedRange>
+                       <title>AE</title> <citedRange unit="volume">1927.140</citedRange>
                     </bibl>;
                     <bibl>
                        <ptr target="oliverioDAI"/> <citedRange>54</citedRange>,
                        p. 181  pl.  XXXV, figs. 53]66, 54]67, 55]68</bibl>, whence
                <bibl>
-                  <title>AE</title> <citedRange type="volume">1934.256</citedRange>
+                  <title>AE</title> <citedRange unit="volume">1934.256</citedRange>
                </bibl>; see also <bibl><ptr target="oliverio1931"/>, <citedRange>23</citedRange>
                </bibl>,
                <bibl><ptr target="oliverio1940"/>

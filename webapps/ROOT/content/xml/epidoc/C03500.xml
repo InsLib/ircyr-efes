@@ -46,7 +46,7 @@
                      <origDate notAfter="0101" notBefore="0200"  precision="low" evidence="lettering">Second century C.E.</origDate>
                   </origin><provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>, 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>, 
                               <rs type="monuList" ref="http://www.slsgazetteer.org/992">Temple of Hermes</rs>, on the floor in front of the plinth for the 
                               cult statue; found in <date type="found">1936</date></p>
                         </provenance>

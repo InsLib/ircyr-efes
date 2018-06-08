@@ -57,7 +57,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373732, http://www.slsgazetteer.org/911">Apollonia</placeName>:
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/911">Apollonia</placeName>:
                               Unrecorded. Found probably before <date type="found">1935</date>.</p>
                         </provenance>
                         <provenance type="observed">
@@ -132,7 +132,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-62145"><name nymRef="Θεύξενος">Θεύξε<lb n="2" break="no"/>νος</name> <space quantity="1" unit="character"/>
-                    <lb n="3"/><persName type="attested" key="lgpn:V1-62048"><name nymref="Βαρκαῖος">Βαρκα<unclear>ῖ</unclear><lb n="4" break="no"/>ος</name></persName> <space quantity="3" unit="character"/>
+                    <lb n="3"/><persName type="attested" key="lgpn:V1-62048"><name nymRef="Βαρκαῖος">Βαρκα<unclear>ῖ</unclear><lb n="4" break="no"/>ος</name></persName> <space quantity="3" unit="character"/>
                     <lb n="5"/><persName type="attested" key="lgpn:V1-62144"><name nymRef="Διοκράτης">Διοκρά<lb n="6" break="no"/>τους</name></persName> </persName>
                 </ab>
 </div>

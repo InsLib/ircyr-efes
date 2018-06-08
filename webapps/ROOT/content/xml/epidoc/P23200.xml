@@ -57,7 +57,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373879, http://www.slsgazetteer.org/912">Ptolemais</placeName>:  found in <date type="found">1936</date>
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:  found in <date type="found">1936</date>
                               <rs type="monuList" ref="http://www.slsgazetteer.org/953">village</rs>, by the seashore, re-used in a wall to the right of the door of the former office of the Agenzia di navigazione Sicilia.</p>
                         </provenance>
                         <provenance type="observed">

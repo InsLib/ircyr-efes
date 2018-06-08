@@ -42,7 +42,7 @@
                      <origDate notAfter="0101" notBefore="0200" precision="low" evidence="lettering">Second century C.E.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
-                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1179, http://pleiades.stoa.org/places/373749">Balagrae</placeName>, 
+                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1179">Balagrae</placeName>, 
                      in the <rs type="monuList" ref="http://www.slsgazetteer.org/1289">Asklepeion</rs>; 
                      photogrraphed 23 March <date type="found">1917</date>.
                            </p>

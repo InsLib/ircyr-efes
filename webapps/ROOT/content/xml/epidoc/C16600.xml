@@ -47,7 +47,7 @@
                      <origDate notAfter="0200" notBefore="0101" precision="low" evidence="lettering">Second century C.E.</origDate>
                   </origin><provenance type="found">
                      <p>
-                        <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                        <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                         Valley Street, near <rs type="monuList" ref="http://www.slsgazetteer.org/1340">Public Building E</rs>; found in <date type="found">1957</date>.</p>
                   </provenance>
                         <provenance type="observed">

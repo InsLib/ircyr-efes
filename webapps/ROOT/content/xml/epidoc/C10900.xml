@@ -49,7 +49,7 @@
                      <origDate notBefore="-0012" notAfter="0014" evidence="lettering" precision="low">Between 12 B.C. and 14 C.E.</origDate>
                   </origin> <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>:
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</rs>:found between <date type="found">1916-1941</date>, they had formed part of the panelling presumably of two altars, one of them perhaps 
                         the structure in front of the North Stoa. </p>
                         </provenance>

@@ -44,7 +44,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373757" ref="http://www.slsgazetteer.org/910">Berenike</placeName>:
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/910">Berenike</placeName>:
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1082">Sidi Hussein</rs>: found with <ref type="inscription">B12100</ref>, <ref type="inscription">B12200</ref>, in a 
                               group of tombs excavated in <date type="found">1973/4</date> by the Archaeology Department of the University of Benghazi</p>
                         </provenance>

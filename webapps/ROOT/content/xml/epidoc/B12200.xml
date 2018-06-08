@@ -47,7 +47,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373757, http://www.slsgazetteer.org/910">Berenike</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/910">Berenike</placeName>: 
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1082">Sidi Hussein</rs>: found with <ref type="inscription">B12000</ref>, <ref type="inscription">B12100</ref>, in a
                               group of rock-cut tombs excavated in <date type="found">1973/4</date>
                               by the Archaeology Department of the University of Benghazi</p>
@@ -104,7 +104,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p><bibl><ptr target="jmr1978"/><citedRange>22.iii</citedRange>
-            </bibl>, whence <bibl><title>SEG</title> <citedRange>28., /citedRange>
+            </bibl>, whence <bibl><title>SEG</title> <citedRange>28., </citedRange>
             </bibl>
             </p>
          </div>

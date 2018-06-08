@@ -43,7 +43,7 @@
                      <origDate notBefore="0001" notAfter="0200" precision="low" evidence="lettering">First to second century C.E.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>: 
-                     Eshavo, south of <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1205, http://pleiades.stoa.org/places/373789">Farzuga</rs>; found in <date type="found">1968</date>, with <ref type="inscription">G01200</ref>.</p>
+                     Eshavo, south of <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1205">Farzuga</placeName>; found in <date type="found">1968</date>, with <ref type="inscription">G01200</ref>.</p>
                   </provenance>
                         <provenance type="observed">
                            <p>

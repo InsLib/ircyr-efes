@@ -54,7 +54,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                                <rs type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</rs>:
                        found nearby in <date type="found" notAfter="1925" notBefore="1924">1924-5</date>.</p>
                         </provenance>
@@ -130,7 +130,7 @@
                     <bibl><ptr target="vitali1932"/> <citedRange>83</citedRange>, <citedRange>217</citedRange></bibl>. 
                Also discussed , <bibl><ptr target="robert1927"/></bibl>;  <bibl><ptr target="robert1929"/></bibl>; a mention, <bibl>
                   <title level="j">Rev. Phil. </title> ; 
-                     <citedRange type="volume">n.s. 10</citedRange> (<date>1936</date>) <citedRange type="pages">134</citedRange>. (= OMS II, 1213)</bibl><!-- check -->
+                     <citedRange unit="volume">n.s. 10</citedRange> (<date>1936</date>) <citedRange unit="page">134</citedRange>. (= OMS II, 1213)</bibl><!-- check -->
                     <!-- bibl>
                   <author>J. Delorme</author>
                </bibl> -->
@@ -326,7 +326,7 @@
                     must have been passed in 18/17 conferring the priesthood for the following year. </p>
             
             <p>Lines 31-2: For the restoration, see <bibl>
-               <ptr target="roberthell1"/>  <citedRange type="pages">13</citedRange> , whence <bibl><ptr target="robertBE"/> <citedRange>1941.179</citedRange></bibl>;
+               <ptr target="roberthell1"/>  <citedRange unit="page">13</citedRange> , whence <bibl><ptr target="robertBE"/> <citedRange>1941.179</citedRange></bibl>;
                        </bibl>
             </p>
          </div>

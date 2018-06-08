@@ -50,7 +50,7 @@
                      <origDate notBefore="-0100" notAfter="0300" precision="low" evidence="context">First century B.C. - third century C.E.</origDate>
                   </origin><provenance type="found">
                            <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1172">South of Berenike</placeName>:
-                              at <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1091, http://pleiades.stoa.org/places/373813">Tika/?Gasr Tecasis</rs> near the Gasr; found in <date type="found" precision="low">1967</date></p>
+                              at <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1091">Tika/?Gasr Tecasis</placeName> near the Gasr; found in <date type="found" precision="low">1967</date></p>
                         </provenance>
                         <provenance type="observed">
                            <p>

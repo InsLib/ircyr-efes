@@ -53,7 +53,7 @@
                   </origin>  
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1172">South of Berenike</placeName>:
-                        <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/363924" ref="http://www.slsgazetteer.org/1211">Arae Philaenorum</placeName>, ; reused to 
+                        <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1211">Arae Philaenorum</placeName>, ; reused to 
                         form part of the north side of enclosure D; found in <date type="found">1951</date></p>
                         </provenance>
                         <provenance type="observed">
@@ -119,7 +119,7 @@
                     whence <bibl>
                   <title level="j">AE</title> 
                   <citedRange>1954.184b</citedRange></bibl>; reprinted <bibl>
-                     <ptr target="rgg1976"/>  no. 2, <citedRange type="pages">170</citedRange>, pl. 55</bibl>, 
+                     <ptr target="rgg1976"/>  no. 2, <citedRange unit="page">170</citedRange>, pl. 55</bibl>, 
                whence <bibl><ptr target="salama1965"/> <citedRange>41</citedRange> n.14</bibl>.</p>
          </div>
          

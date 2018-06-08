@@ -51,7 +51,7 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>: 
-                        <rs type="monuList" ref="http://www.geonames.org/83419" ref="http://www.slsgazetteer.org/1209">Gariet Rdanu</rs> with <ref type="inscription">T68700</ref>, <ref type="inscription">T68900</ref>,
+                        <rs type="monuList" ref="http://www.slsgazetteer.org/1209">Gariet Rdanu</rs> with <ref type="inscription">T68700</ref>, <ref type="inscription">T68900</ref>,
                         <ref type="inscription">T69000</ref>, <ref type="inscription">T69100</ref>; found in <date type="found">1966</date>.</p>
                   </provenance>
                         <provenance type="observed">

@@ -48,7 +48,7 @@
                      <origDate notBefore="0100" notAfter="0100" precision="high" evidence="reign">100 C.E.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
-                     in the area of <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1179, http://pleiades.stoa.org/places/373749">Balagrae</placeName>, with <ref type="inscription">C84650</ref>; found in <date type="found">1964</date>.</p>
+                     in the area of <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1179">Balagrae</placeName>, with <ref type="inscription">C84650</ref>; found in <date type="found">1964</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs></p>

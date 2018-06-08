@@ -50,7 +50,7 @@
                   </origin>
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</rs>, south side; found during excavations in <date type="found">1917</date></p>
                         </provenance>
                         <provenance type="observed">
@@ -119,7 +119,7 @@
                     <bibl><title>SEG</title> <citedRange>9.173</citedRange></bibl>;
                     Mentioned <bibl><ptr target="pernier1935"/>  <citedRange>p.111, 138</citedRange></bibl>.
                     <bibl><ptr target="romanelli1943"/>  <citedRange>123</citedRange></bibl>; 
-                    <bibl><author>Robert</author>, <title>Hellenica</title> <citedRange>I</citedRange>, <citedRange type="pages">11f.</citedRange></bibl>;
+                    <bibl><author>Robert</author>, <title>Hellenica</title> <citedRange>I</citedRange>, <citedRange unit="page">11f.</citedRange></bibl>;
                     <bibl><author>Hellenica</author> <citedRange>XI-XII (1960) 547f.</citedRange></bibl>.
                <!-- check SECir p.372 fig 169-->
                 </p>

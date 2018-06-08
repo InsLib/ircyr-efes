@@ -48,7 +48,7 @@
                      <origPlace>Unknown.</origPlace>
                      <origDate notBefore="0101" notAfter="0300" precision="low" evidence="lettering terminology">Second to third centuries C.E.</origDate>
                   </origin><provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>: near
-                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1179, http://pleiades.stoa.org/places/373749">Balagrae</placeName>, at <rs type="monuList" ref="http://www.slsgazetteer.org/1257">Sidi Shaherrwha</rs>; 
+                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1179">Balagrae</placeName>, at <rs type="monuList" ref="http://www.slsgazetteer.org/1257">Sidi Shaherrwha</rs>; 
                      found in excavation in <date type="found">1969</date> of ancient buildings by the modern main road.
                              </p>
                         </provenance>

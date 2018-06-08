@@ -54,7 +54,7 @@
                         <rs type="monuList" ref="http://www.slsgazetteer.org/1061">Stepped Portico</rs>.</origPlace>
                      <origDate notBefore="0138" notAfter="0161" evidence="reign">138-161 C.E.</origDate>
                   </origin><provenance type="found">
-                           <p><placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                           <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                               west of the <rs type="monuList" ref="http://www.slsgazetteer.org/1060">Grotto of the Priests</rs>, fallen onto the 
                                road from the Fountain Terrace to the Theatre; found in <date type="found">1934</date>.</p>
                         </provenance>

@@ -56,7 +56,7 @@
                         </origin>
                         <provenance type="found">
                                     <p>
-                                        <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>;
+                                        <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>;
                                         from the <rs type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</rs>; found in <date>1988.</date></p>
                                 </provenance>
                                 <provenance type="observed">

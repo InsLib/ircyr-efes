@@ -50,7 +50,7 @@
                      <origDate notBefore="0538" notAfter="0539" evidence="internal-date" precision="low">539 C.E. </origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
-                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1618, http://pleiades.stoa.org/places/373864">Theodorias/Gasr Leibia</placeName>, in the  
+                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1618">Theodorias/Gasr Leibia</placeName>, in the  
                      <rs type="monuList" ref="http://www.slsgazetteer.org/1182">East Church</rs>, in the room to the north of the nave; found in <date type="found">1957</date>.</p>
                         </provenance>
                         <provenance type="observed">

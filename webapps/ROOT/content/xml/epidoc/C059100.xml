@@ -53,8 +53,8 @@
                             
                                 <provenance type="found" when="1962">
                                     <p>Found in 1962 at
-                                        <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909" ref="http://pleiades.stoa.org/places/373778">Cyrene</placeName>,
-                                        in the <rs type="monuList" ref="http://www.slsgazetteer.org/1224" ref="...">Theatre 2</rs> (also called Odeon).
+                                        <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>,
+                                        in the <rs type="monuList" ref="http://www.slsgazetteer.org/1224">Theatre 2</rs> (also called Odeon).
                                    </p>
                                 </provenance>
                                 <provenance type="observed" when="1979" resp="CDL">

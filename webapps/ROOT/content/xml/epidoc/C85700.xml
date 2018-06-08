@@ -47,7 +47,7 @@
                      <origDate notBefore="0001" notAfter="0300" precision="low" evidence="context">First - third century C.E.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
-                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1179, http://pleiades.stoa.org/places/373749">Balagrae</placeName>, 
+                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1179">Balagrae</placeName>, 
                      in situ in the cavea of the Roman theatre<!-- check: is this a different theatre? -->; found in 1957</p>
                         </provenance>
                         <provenance type="observed">

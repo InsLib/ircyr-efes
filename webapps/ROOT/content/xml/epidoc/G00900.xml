@@ -44,7 +44,7 @@
                      <origPlace>Unknown </origPlace>
                      <origDate notAfter="0100" notBefore="0101" precision="low" evidence="lettering">First century C.E.</origDate>
                   </origin><provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1173">Sites between Berenike and Taucheira</placeName>:
-                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1247">Elved Ait el-Gazali</rs>, 6km  SSW of <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1249">Hamada</rs> (formerly Filzi) village,
+                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1247">Elved Ait el-Gazali</placeName>, 6km  SSW of <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1249">Hamada</placeName> (formerly Filzi) village,
                      in a rock-cut chamber-tomb  with <ref type="inscription">G00600</ref>, 
                      <ref type="inscription">G00700</ref> and <ref type="inscription">G00800</ref>; found in <date type="found">1963</date>.</p>
                   </provenance>

@@ -46,7 +46,7 @@
                      <origPlace>Unknown.</origPlace>
                      <origDate notBefore="0101" notAfter="0200" precision="low" evidence="lettering">Second century C.E.</origDate>
                   </origin><provenance type="found">
-                           <p><placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene
+                           <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene
                               </placeName>: <rs type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</rs>, probably the Nomophylakeion; 
                               photographed in <date type="found">1925</date>, as frpm the Agora 
                               or Sanctuary, with a piece from the Nomophylakeion.<!-- Find --></p>

@@ -51,7 +51,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373757" ref="http://www.slsgazetteer.org/910">Berenike</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/910">Berenike</placeName>: 
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1088">Sidi Khrebish: Building H</rs> At a date late in the life of the house the room must have been open to the public who scratched graffiti
                               on its walls; it seems probable that it had in fact become an hotel.
                            </p>
@@ -109,7 +109,7 @@
             <p><bibl>
                <ptr target="jmr1974-1975"/> <citedRange>B.iii</citedRange>,
             </bibl> whence 
-               <bibl><title level="s" type="abbreviated">Bull. ep.</title> <citedRange type="numbers"/>1075.793</bibl>; 
+               <bibl><title level="s" type="abbreviated">Bull. ep.</title> <citedRange>1075.793</citedRange></bibl>; 
                ; <bibl>
                   <ptr target="jmr1978"/><citedRange>6.iii</citedRange>
                </bibl>, whence <bibl><title>SEG</title> <citedRange>28.1552</citedRange></bibl>. For the building see <bibl><ptr target="lloyd1978"/> 89-101</bibl>.

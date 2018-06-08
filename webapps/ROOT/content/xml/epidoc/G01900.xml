@@ -46,7 +46,7 @@
                      <origDate notAfter="-0019" notBefore="-0020" cert="low" evidence="internal-date">?20-19 B.C. </origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
-                     area of <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1181, http://pleiades.stoa.org/places/373750">Barke</placeName>; 
+                     area of <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1181">Barke</placeName>; 
                      recorded in Barke Museum shortly after <date type="found">1946</date>,  with <ref type="inscription">G02100</ref>.</p>
                         </provenance>
                         <provenance type="observed">

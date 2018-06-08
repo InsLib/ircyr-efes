@@ -50,7 +50,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                               In the <rs type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</rs>: Cassels, N.274.
                               Transcribed by Cassels in <date type="found">1955</date>.</p>
                         </provenance>
@@ -123,7 +123,7 @@
          <div type="commentary">
             <head>Commentary</head>
             <p>For the interpretation see <bibl>
-                  <ptr target="robert1968"/>  <citedRange type="pages">447</citedRange>
+                  <ptr target="robert1968"/>  <citedRange unit="page">447</citedRange>
                </bibl>; again P.J. Sijpestein, ZPE 88 (1991), 24, whence <bibl>
                   <title>SEG</title> <citedRange>41.1699</citedRange>
                </bibl>.</p>

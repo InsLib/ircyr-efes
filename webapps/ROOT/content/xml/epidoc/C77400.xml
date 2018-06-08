@@ -48,7 +48,7 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>: 
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/1198" ref="http://pleiades.stoa.org/places/373844">Limnias</rs>;
+                        <rs type="monuList" ref="http://www.slsgazetteer.org/1198">Limnias</rs>;
                                found between <date type="found" atLeast="1965" atMost="1968">1965 and 1968</date>.</p>
                         </provenance>
                         <provenance type="observed">

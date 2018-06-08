@@ -46,7 +46,7 @@
                      <origPlace> Unknown.</origPlace>
                      <origDate notAfter="0014" notBefore="-0027"  precision="low" evidence="lettering">Augustan</origDate>
                   </origin><provenance type="found">
-                           <p><placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>, 
+                           <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>, 
                               Between <rs type="monuList" ref="http://www.slsgazetteer.org/994">Theatre 3</rs> and the House of Jason Magnus, in the south theatre area;
                    re-used as a lower moulding against the wall of a small shrine; found in <date type="found">1960</date>
                            </p>

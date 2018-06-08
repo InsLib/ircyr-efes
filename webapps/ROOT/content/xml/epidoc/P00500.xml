@@ -58,7 +58,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373879, http://www.slsgazetteer.org/912">Ptolemais</placeName>:
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:
                               <rs type="monuList" ref="http://www.slsgazetteer.org/939">West Gate</rs>, South Tower, in situ against the extra-urban wall; found in <date type="found">1936</date>,
                        .</p>
                         </provenance>
@@ -126,7 +126,7 @@
                <bibl>
                   <ptr target="romanelli1943"/> <citedRange>102</citedRange>, n. 3</bibl> (text only); <!-- check -->
                <bibl>
-                  <ptr target="caputo1954"/>  vol. III, p.<citedRange type="pages">51</citedRange>, fig. 27 (illustration only)</bibl>;
+                  <ptr target="caputo1954"/>  vol. III, p.<citedRange unit="page">51</citedRange>, fig. 27 (illustration only)</bibl>;
                 from these,  
                   <bibl><title>AE</title> <citedRange>1954.188</citedRange></bibl>;
                <bibl><ptr target="kraeling1962"/>  pl. VI A</bibl> (illustration only; not legible).

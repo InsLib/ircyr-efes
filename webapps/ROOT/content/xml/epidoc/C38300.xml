@@ -49,7 +49,7 @@
                   </origin>
                   <provenance type="found">
                      <p>
-                        <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                        <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                         probably the <rs type="monuList" ref="http://www.slsgazetteer.org/1069">East Necropolis</rs>, on the hill of <rs type="monuList" ref="http://www.slsgazetteer.org/1068">Eluet Gassam</rs>; 
                         found before <date type="found" notAfter="1933">1933</date>.</p>
                         </provenance>

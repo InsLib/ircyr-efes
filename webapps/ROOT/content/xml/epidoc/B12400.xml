@@ -49,7 +49,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373757, http://www.slsgazetteer.org/910">Berenike</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/910">Berenike</placeName>: 
                                <rs type="monuList" ref="http://www.slsgazetteer.org/1083">Mafluga</rs>,  
                               a little south-east of Sidi Hussein, in a tomb; recorded in <date type="found">1915</date>
                            </p>
@@ -142,7 +142,7 @@
                (information from D. Bailey of the British Museum).</note>
             <!-- check a: After the first four letters the reading seems to me to be very uncertain; there
                should presumably be two persons named; the second was aged 30 at the time of
-               death. --></p><p>
+               death. -->
             <p>b: probably the date of death by a regnal year: 
                If the number is correctly read, it would give year 70, presumably the date by the Actian era = C.E. 49/50, which is a little early for the tomb material.</p>
          </div>

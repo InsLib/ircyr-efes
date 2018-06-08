@@ -52,7 +52,7 @@
                      <origDate notBefore="0001" notAfter="0100" precision="low" evidence="lettering">First century C.E.</origDate>
                   </origin><provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>:
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
                               Agora, <rs type="monuList" ref="http://www.slsgazetteer.org/1010">West Stoa</rs>: found probably in <date type="found">1921</date>.</p>
                         </provenance>
                         <provenance type="observed">

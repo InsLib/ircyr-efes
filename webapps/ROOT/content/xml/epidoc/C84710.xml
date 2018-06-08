@@ -51,7 +51,7 @@
                   </origin>
                         <provenance type="found">
                            <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1411, http://pleiades.stoa.org/places/373755">Gasr el Benia/Geballa</rs>, re-used in a late wall</p>
+                              <rs type="monuList" ref="http://www.slsgazetteer.org/1411">Gasr el Benia/Geballa</rs>, re-used in a late wall</p>
                         </provenance>
                         <provenance type="observed">
                            <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs></p>

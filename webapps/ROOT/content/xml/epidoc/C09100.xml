@@ -57,7 +57,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>:
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1483">Augusteum</rs>, built into the West wall close to its junction with the back wall, 
                               opposite and corresponding to <ref type="inscription">C09000</ref>; 
                               found in <date type="found">1916</date>.</p>

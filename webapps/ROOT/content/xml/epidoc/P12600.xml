@@ -52,7 +52,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373879, http://www.slsgazetteer.org/912">Ptolemais</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>: 
                               <rs type="monuList" ref="http://www.slsgazetteer.org/1442">Late Baths</rs>, in the fill; found in <date type="found">1957</date></p>
                         </provenance>
                         <provenance type="observed">
@@ -138,7 +138,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head>
             <p>Year 12, Tybi ?, Loukios St…</p></div>
          
-         div type="commentary">
+         <div type="commentary">
             <head>Commentary</head>
             <p>Line 1: Year 12, Tybi ?; (December/January); the text is probably funerary</p>
             <p>Line 2: probably Στλάκκιος or Σταλάκκιος.</p>

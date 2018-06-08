@@ -60,7 +60,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373879, http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
                               <rs type="monuList" ref="http://www.slsgazetteer.org/953">village</rs>, by the seashore;
                               found before <date type="found">1915</date>.</p>
                         </provenance>

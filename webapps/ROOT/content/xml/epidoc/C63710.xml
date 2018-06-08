@@ -48,7 +48,7 @@
                      <origDate notAfter="0041" notBefore="0040"  evidence="internal dating">Text 3, 40/41 C.E.</origDate>
                   </origin><provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                               'Quartiere centrale, all'esterno di <rs type="monuList" ref="http://www.slsgazetteer.org/1492">Casa Parisi</rs> (parete sud)' (Gasperini).</p>
                         </provenance>
                         <provenance type="observed">

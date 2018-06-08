@@ -47,7 +47,7 @@
                      <origDate notBefore="0201" notAfter="0400" precision="low" evidence="lettering">III-IV cent.</origDate>
                   </origin> <provenance type="found">
                      <p>
-                        <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>: Found in <date type="found">1957</date> in
+                        <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: Found in <date type="found">1957</date> in
                         Valley Street, near the <rs type="monuList" ref="http://www.slsgazetteer.org/1341">fountain</rs> at the west end of building H, 
                         at the intersection with the main North-South Street of the city, upside down.</p>
                   </provenance>

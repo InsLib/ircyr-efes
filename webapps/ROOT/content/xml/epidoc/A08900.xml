@@ -57,7 +57,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373732, http://www.slsgazetteer.org/911">Apollonia</placeName>: 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/911">Apollonia</placeName>: 
                               reused in a modern house near the <rs type="monuList" ref="http://www.slsgazetteer.org/927">Extra-Mural Church</rs>; found in <date type="found">1956</date>.</p>
                         </provenance>
                         <provenance type="observed">
@@ -167,7 +167,7 @@
                     possessores (Tac. Ann. XIV, 18)<!-- , and see Oliverio, DAI II. 129 f. - more stones
                     of the same type have been found since he wrote, including one of C.E. 53, for
                     which see <bibl>
-                  <ptr target="jmr1971c"/>  <citedRange type="pages">47f.</citedRange>
+                  <ptr target="jmr1971c"/>  <citedRange unit="page">47f.</citedRange>
                </bibl> -->. On the subsequent history of this land
                     see on  <ref type="inscription">A09000</ref> and <ref type="inscription">A10800</ref>. The missing part of the text
                     above will have read Νέρων Κλαύδιος θεοῦ Κλαυδίου υἱὸς Γερμανικοῦ Καίσαρος

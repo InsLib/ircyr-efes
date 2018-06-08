@@ -51,7 +51,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>:
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
                                 near the <rs type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</rs>, to the west; found in <date type="found">1927</date>.</p>
                         </provenance>
                         <provenance type="observed">

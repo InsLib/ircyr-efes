@@ -59,7 +59,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909">Cyrene</placeName>:
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
                               Agora, near the <rs type="monuList" ref="http://www.slsgazetteer.org/1012">North Stoa</rs>; found probably in <date type="found">1919</date>.</p>
                         </provenance>
                         <provenance type="observed">
