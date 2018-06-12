@@ -118,7 +118,7 @@
                <ab>
                   <lb n="1"/><persName type="attested"><name nymRef="Φιλοῦς">Φιλοῦς</name>
                      <persName type="attested"><name nymRef="Εὐφράνωρ">Εὐφράν<lb n="2" break="no"/>ορος</name></persName></persName>
-                  <date dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                  <date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                      <num value="60">ξ</num> </date>
                </ab>
             </div>
@@ -126,7 +126,7 @@
                <ab>
                   <lb n="1"/><persName type="attested"><name nymRef="Γάϊος">Γάϊοϲ</name>
                   <lb n="2"/><persName type="attested"><name nymRef="Γάϊος">Γαίου</name></persName></persName>
-                  <date dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                  <date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                      <num value="35">λε</num> </date> 
                </ab>
             </div>
@@ -134,7 +134,7 @@
                <ab>
                   <lb n="1"/><persName type="attested"><name nymRef="Είρας">Είραϲ</name>
                   <lb n="2"/><persName type="attested"><name nymRef="Γάϊος">Γαίου</name></persName></persName>
-                  <date dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                  <date type="life-span" dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                      <num value="7">ζ</num> </date>
                </ab>
             </div>

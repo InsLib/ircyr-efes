@@ -128,7 +128,7 @@
                     <num value="15">ιε</num> <rs type="month" key="Παχών"><w>Παχὼ<unclear>ν</unclear></w></rs>
                     <lb n="2"/><space quantity="1" unit="character"/>
                     <num value="14">ιδ</num> <persName type="attested" key="lgpn:V1-60438"><name nymRef="Βάσσος">Βάσ<lb n="3" break="no"/>σος</name> <persName type="attested" key="lgpn:V1-60437"><name nymRef="Γάϊος">Γαί<lb n="4" break="no"/>ου</name></persName></persName> 
-            <date dur="P3Y"><expan><abbr><am><g type="L"/></am></abbr><w><ex>ἐτῶν</ex></w></expan> <num value="3"><gap reason="lost" quantity="1" unit="character"/>γ</num> </date>
+            <date type="life-span" dur="P3Y"><expan><abbr><am><g type="L"/></am></abbr><w><ex>ἐτῶν</ex></w></expan> <num value="3"><gap reason="lost" quantity="1" unit="character"/>γ</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

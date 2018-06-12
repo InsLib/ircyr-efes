@@ -131,13 +131,13 @@
                     <lb n="1"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="2"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60607"><name nymRef="Δωσίθεος">Δωσιθ<supplied reason="lost">έου</supplied></name></persName>
-                    <lb n="4"/><date dur="P6Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="4"/><date type="life-span" dur="P6Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="6">ς</num> </date>
                     <lb n="5"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="107">ρζ</num> <rs type="month" key="Θώθ"><w lemma="Θώθ">Θώθυ</w></rs> <num value="2">β</num> 
                     <lb n="6"/><persName type="attested" key="lgpn:V1-60607"><name nymRef="Ἁγεμόνα">Ἁγεμόνα</name> 
                     <lb n="7"/><persName type="attested" key="lgpn:V1-60608"><name nymRef="Νικάιος">Νικάω</name></persName></persName> 
-                    <lb n="8"/><date dur="P51Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="8"/><date type="life-span" dur="P51Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="51">να</num> </date>
                 </ab>
 </div>

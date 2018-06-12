@@ -130,14 +130,14 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name nymRef="Σίμων">Σ<supplied reason="lost">ί</supplied><unclear>μ</unclear>ων</name> 
                     <persName type="attested"><name nymRef="Ἀρτεμίδωρος">Ἀρτ<supplied reason="lost">ε</supplied>μιδώρου</name></persName></persName> 
-            <date dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="5">ε</num> </date>
+            <date type="life-span" dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="5">ε</num> </date>
                     <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name nymRef="Μυρτώ">Μυρτὼ</name> <persName type="attested"><name nymRef="Εὐκλείδας">Εὐκλείδα</name></persName></persName> 
-            <date dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num atLeast="60">ξ<gap reason="lost" quantity="1" unit="character"/></num> </date> 
                     <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="40"><unclear>μ</unclear></num> <persName type="attested"><name nymRef="Σίμων">Σίμων</name> <persName type="attested"><name nymRef="Σίμων">Σίμωνος</name></persName></persName> 
-            <date dur="P39Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P39Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="39"><unclear>λ</unclear>θ</num> </date>
                 </ab>
 </div>

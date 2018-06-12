@@ -134,7 +134,7 @@
                     <num value="8"><unclear>ι</unclear></num> <persName type="attested" key="lgpn:V1-60697"><name nymRef="Γναῖος">Ναῖος</name>
                     <lb n="3"/><name nymRef="Βάσσιος"><unclear>Β</unclear>άσσιος</name>
                     <lb n="4"/><name nymRef="Ἀρτεμᾶς">Ἀρτε<lb n="5" break="no"/><unclear>μᾶ</unclear><supplied reason="lost">ς</supplied></name></persName> 
-                    <date dur="P18Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P18Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="18">ηι</num> </date>
                 </ab>
 </div>

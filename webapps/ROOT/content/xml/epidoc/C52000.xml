@@ -120,7 +120,7 @@
                     <lb n="3a"/><space quantity="1" unit="line"/>
                     <lb n="4"/><persName type="attested"><name nymRef="Πρᾶξις">Πρᾶξις</name>
                     <lb n="5"/><persName type="attested"><name nymRef="Τίμαρχος">Τιμά<unclear>ρ</unclear>χ<unclear>ω</unclear></name></persName></persName> 
-                        <date dur="P24Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                        <date type="life-span" dur="P24Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="24">κδ</num> </date>
                 </ab>
          </div>

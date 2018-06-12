@@ -118,7 +118,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><ab><milestone unit="column" n="i"></milestone>
                                 <lb n="1"/><persName type="attested"><name nymRef="Γάϊος">Γάϊος</name> <name nymRef="Ἀπείσιος">Ἀπείσιος</name>
                                 <lb n="2"/><name nymRef="Νίγερ">Νίγερ</name> <w>πρεσβύτερος</w></persName>
-                                <lb n="3"/><date dur="P50Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                                <lb n="3"/><date type="life-span" dur="P50Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                                 <num value="50"><gap reason="lost" quantity="1" unit="character"><certainty match=".." locus="name"/></gap>ν</num> </date>
                              
                            <milestone unit="column" n="ii"></milestone>

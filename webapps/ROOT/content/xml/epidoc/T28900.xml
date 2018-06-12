@@ -125,7 +125,7 @@
                     <lb n="2"/><rs type="month" key="Φαρμουθί"><w lemma="Φαρμουθί">Φαρμο<supplied reason="omitted">υ</supplied>θὶ</w></rs> <num value="4">δ</num>
                     <lb n="3"/><persName type="attested"><name nymRef="Ὀφελλία">Ὀ<unclear>φ</unclear>ελλία</name>
                     <lb n="4"/><name nymRef="Πῶλλα"><unclear>Πω</unclear>λ<unclear>α</unclear></name></persName>
-                    <date dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="25">κε</num> </date>
                 </ab>
 </div>

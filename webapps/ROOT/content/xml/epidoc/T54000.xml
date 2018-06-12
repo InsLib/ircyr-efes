@@ -137,7 +137,7 @@
                     <num value="4"><unclear>δ</unclear></num> <rs type="month" key="Τυβί"><w lemma="Τυβί">Τυβὶ</w></rs> <num value="4">ιδ</num>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60699"><name nymRef="Βάσσος">Βάσος</name> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60700"><name nymRef="Ἀρτεμᾶς">Ἀρτεμᾶ</name></persName></persName> 
-                    <lb n="4"/><date dur="P46Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> 
+                    <lb n="4"/><date type="life-span" dur="P46Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> 
                     <num value="46">μς</num> </date>
                 </ab>
 </div>

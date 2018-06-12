@@ -127,12 +127,12 @@
             <ab>
             <lb n="1"/><g type="leaf"/> <persName type="attested"><name nymRef="Σεμπρώνιος">Σεμπρώνιος</name>
 	<lb n="2"/><name nymRef="Ἄπερ">Ἄπερ</name></persName>
-                <date dur="P64Y"><w><expan><abbr><am><g type="L"></g></am></abbr><ex>ἐτῶν</ex></expan></w>
+                <date type="life-span" dur="P64Y"><w><expan><abbr><am><g type="L"></g></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="64">ξδ</num> </date> <g type="leaf"/>
 	<lb n="3"/><persName type="attested"><name nymRef="Σεμπρωνία">Σεμπρωνία</name>
 	<lb n="4"/><name nymRef="Μαξίμα">Μαξίμα</name></persName>
 	<lb n="5"/><space extent="unknown" unit="character"/>
-                <date dur="P50Y"><w><expan><abbr><am><g type="L"></g></am></abbr><ex>ἐτῶν</ex></expan></w>
+                <date type="life-span" dur="P50Y"><w><expan><abbr><am><g type="L"></g></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="50">ν</num> </date> <g type="leaf"/>
 	<lb n="6"/><space extent="unknown" unit="character"/>
                 <persName type="attested"><name nymRef="Σεμπρώνιος">Σεμπρώνι<supplied reason="lost">ο</supplied>ς</name></persName>
@@ -145,7 +145,7 @@
 <lb n="1"/><persName type="attested"><name nymRef="Σεμπρωνία">Σεμπρωνία</name>
 <lb n="2"/><name nymRef="Μαρκέλλα">Μαρκέλλα</name></persName>	
 <lb n="3"/><space extent="unknown" unit="character"/>
-                   <date dur="P5Y"><w><expan><abbr><am><g type="L"></g></am></abbr><ex>ἐτῶν</ex></expan></w>
+                   <date type="life-span" dur="P5Y"><w><expan><abbr><am><g type="L"></g></am></abbr><ex>ἐτῶν</ex></expan></w>
                        <num value="5">ε</num> </date> <g type="leaf"/>
 
                 </ab>
@@ -154,7 +154,7 @@
                   <ab><lb n="1"/><persName type="attested"><name nymRef="Σεμπρώνιος">Σ<supplied reason="lost">εμπρώνιος</supplied></name>
 <lb n="2"/><space extent="unknown" unit="character"/> <name nymRef="Σταλάκκιος">Στα<supplied reason="lost">λακκι</supplied></name></persName>	
 <lb n="3"/><space extent="unknown" unit="character"/>
-                   <date dur="P21Y"><w><expan><abbr><am><g type="L"></g></am></abbr><ex>ἐτῶν</ex></expan></w>
+                   <date type="life-span" dur="P21Y"><w><expan><abbr><am><g type="L"></g></am></abbr><ex>ἐτῶν</ex></expan></w>
                        <g type="leaf"/> <num value="21">κα</num> </date> <g type="leaf"/>
 <lb n="4"/><space extent="unknown" unit="character"/></ab>
                </div>

@@ -122,7 +122,7 @@
                         <gap reason="lost" quantity="3" unit="character"/> 
                     <lb n="3"/><persName type="attested"><name nymRef="Βειβιάριος">Βειβιάριος</name> 
                     <lb n="4"/><name nymRef="Ἄνιος">Ἄνιος</name></persName> 
-                    <lb n="5"/><date dur="P82Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="5"/><date type="life-span" dur="P82Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="82" xml:lang="grc">πβ</num> </date>
                 </ab>
 </div>

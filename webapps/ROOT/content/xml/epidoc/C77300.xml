@@ -112,7 +112,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Μάτα"><unclear>Μ</unclear>άτα</name></persName> <w>ἐτέλ<lb n="2" break="no"/>ευσε</w> <note>sic</note> 
-            <date dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="25">κε</num> </date>
                 </ab>
 </div>

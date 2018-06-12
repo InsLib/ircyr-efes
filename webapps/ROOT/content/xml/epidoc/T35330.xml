@@ -131,7 +131,7 @@
                     <w>πε<lb n="2" break="no"/><unclear>ν</unclear>τεκαιδεκάτ<unclear>η</unclear></w> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60477"><name nymRef="Σπεύσανδρος"><supplied reason="lost">Σ</supplied><unclear>π</unclear>εύσ<unclear>αν</unclear><supplied reason="lost">δρος</supplied></name> <persName type="attested" key="lgpn:V1-60478"><name nymRef="Σπεύσανδρος"><supplied reason="lost">Σπευσάν</supplied><lb n="4" break="no"/><unclear>δ</unclear>ρου</name></persName></persName>
                     <space quantity="3" unit="character"/> 
-                    <lb n="5"/><date dur="P40Y"><w lemma="ἔτος">ἐτῶν</w> <num value="40">μ</num> </date>
+                    <lb n="5"/><date type="life-span" dur="P40Y"><w lemma="ἔτος">ἐτῶν</w> <num value="40">μ</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

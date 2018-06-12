@@ -129,7 +129,7 @@
                     <lb n="2"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="3"/><persName type="attested"><name nymRef="Ἀρίστιππος"><unclear>Ἀρ</unclear>ίσ<supplied reason="lost">τι</supplied><lb n="4" break="no"/><unclear>π</unclear>π<supplied reason="lost">ος</supplied></name></persName>
                     <lb n="5"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="6"/><date dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="6"/><date type="life-span" dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                         <num value="20" xml:lang="grc">κ</num> </date>
                 </ab>
 </div>

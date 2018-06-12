@@ -116,9 +116,9 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Θαϊανός">Θαιανῶ</name></persName> 
-            <date dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="25"><unclear>κ</unclear>ε</num> </date>
+            <date type="life-span" dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="25"><unclear>κ</unclear>ε</num> </date>
                     <lb n="2"/><persName type="attested"><name nymRef="Ἀριστώ">Ἀριστοῦς</name></persName> 
-            <date dur="P23Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="23">κγ</num> </date>
+            <date type="life-span" dur="P23Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="23">κγ</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

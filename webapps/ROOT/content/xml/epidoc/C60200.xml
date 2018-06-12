@@ -125,7 +125,7 @@
             <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Δαμώ">Δαμὸ</name>
                     <lb n="2"/><persName type="attested"><name nymRef="Ῥόδας">Ῥόδα</name></persName></persName>
-                    <lb n="3"/><date dur="P16Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="3"/><date type="life-span" dur="P16Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="16">ιϛ</num> </date>
             </ab>
          </div>

@@ -119,7 +119,7 @@
                         <num value="13" xml:lang="grc">ιγ</num> <rs type="month" key="Παχών"><w>Παχὼν</w></rs>
                     <lb n="2"/><gap reason="lost" quantity="1" unit="character"/> 
                         <persName type="attested" key="lgpn:V1-60113"><name nymRef="Ποπλία">Ποπλ<unclear>ί</unclear><lb n="3" break="no"/><unclear>α</unclear></name></persName> 
-                        <date dur="P17Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                        <date type="life-span" dur="P17Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="17" xml:lang="grc">ιζ</num> </date>
                 </ab>
 </div>

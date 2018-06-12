@@ -132,7 +132,7 @@
                     <lb n="4"/><persName type="attested" key="lgpn:V1-60713"><name nymRef="Δαμίων">Δαμί<unclear>ων</unclear></name>
                     <lb n="5"/><persName type="attested" key="lgpn:V1-60712"><name nymRef="Φιλοκράτης">Φιλοκρά<lb n="6" break="no"/>τευς</name></persName></persName> <space quantity="1" unit="character"/>
                     <lb n="7"/><space quantity="1" unit="character"/> 
-                    <date dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="30">λ</num> </date> <space quantity="1" unit="character"/>
                 </ab>
 </div>

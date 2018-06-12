@@ -116,7 +116,7 @@
                     <lb n="0"/> <gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><w><expan><abbr><am><unclear><g type="L"/></unclear></am></abbr><ex>ἔτους</ex></expan></w> <num value="152">ρβν</num>
                     <lb n="2"/><w>θΟΝΡΒ</w>
-                    <lb n="3"/><space extent="unknown" unit="character"/><date dur="P50Y"><w><expan><abbr><am><unclear><g type="L"/></unclear></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="55">εο</num> </date>
+                    <lb n="3"/><space extent="unknown" unit="character"/><date type="life-span" dur="P50Y"><w><expan><abbr><am><unclear><g type="L"/></unclear></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="55">εο</num> </date>
                 </ab>
 </div>
          

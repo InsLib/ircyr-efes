@@ -132,7 +132,7 @@
                         <persName type="attested" key="lgpn:V1-60662"><name nymRef="Μητροφάνης">Μητ<lb n="3" break="no"/>ροφάνη<lb n="4" break="no"/>ς</name> 
                         <persName type="attested" key="lgpn:V1-60661"><name nymRef="Ἀγαθοκλῆς">Ἀγαθο<lb n="5" break="no"/>κλέος</name></persName></persName> 
                     <lb n="6"/><space quantity="1" unit="character"/> 
-                        <date dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                        <date type="life-span" dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                         <num value="20" xml:lang="grc">κ</num> </date>
                 </ab>
 </div>

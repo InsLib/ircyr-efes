@@ -128,7 +128,7 @@
                     <num value="4">δ</num> <rs type="month" key="Ἐπαγόμεναι"><w>Ἐπα<lb n="2" break="no"/>γομέν<lb n="3" break="no"/>ων</w></rs> <num value="5">ε</num> 
                     <persName type="attested" key="lgpn:V1-60491"><name nymRef="Ἀρίμανθος">Ἀ<lb n="4" break="no"/>ρίμ<unclear>ανθ</unclear><lb n="5" break="no"/>ος</name> 
                     <persName type="attested" key="lgpn:V1-60492"><name nymRef="Καλλισθένης">Καλ<lb n="6" break="no"/>λισθέν<lb n="7" break="no"/>ους</name></persName></persName> 
-                    <date dur="P9Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P9Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="9">θ</num> </date>
                 </ab>
 </div>

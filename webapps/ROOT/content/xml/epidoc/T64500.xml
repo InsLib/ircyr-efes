@@ -144,7 +144,7 @@
                         <num value="28" xml:lang="grc">ηκ</num>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60072"><name nymRef="Ἰουλία">Ἰουλία</name> 
                         <persName type="attested" key="lgpn:V1-60073"><name nymRef="Λώπυος" cert="low">Λω<lb n="3" break="no"/>πύ<unclear>ο</unclear>υ</name></persName></persName> 
-                        <date dur="P17Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                        <date type="life-span" dur="P17Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="17" xml:lang="grc">ιζ</num> </date>
                 </ab>
 </div>

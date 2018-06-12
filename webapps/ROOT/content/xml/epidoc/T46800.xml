@@ -121,7 +121,7 @@
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><orig><unclear>νο</unclear></orig><gap reason="lost" quantity="2" unit="character"/> <persName type="attested"><name nymRef="Σέκονδος">Σέ<lb n="3" break="no"/>κ<supplied reason="lost">ονδο</supplied><unclear>ς</unclear></name>
                     <lb n="4"/><persName type="attested"><name nymRef="Σεκόνδα">Σε<unclear>κ</unclear><supplied reason="lost">ό</supplied><unclear>ν</unclear>δ<lb n="5" break="no"/><unclear>ας</unclear></name></persName></persName> 
-            <date dur="P16Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P16Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="16">ις</num> </date>
                 </ab>
 </div>

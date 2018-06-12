@@ -116,7 +116,7 @@
                     <persName type="attested"><name nymRef="Πτολεμαῖος">Πτο<lb n="3" break="no"/>λ<supplied reason="lost">ε</supplied>μαίου</name></persName> 
                     <rs type="month" key="Μεχίρ"><w lemma="Μεχίρ">Με<lb n="4" break="no"/>χίρ</w></rs> <num value="24">κδ</num> <w>καὶ</w> <orig>σελλι</orig> 
                     <lb n="5"/><orig>ος</orig> <persName type="attested"><name nymRef="Ἀκασιος">Ἀκασιος</name> </persName>
-                    <lb n="6"/><space quantity="1" unit="character" precision="low"/> <date dur="P66Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="66">ξς</num> </date>
+                    <lb n="6"/><space quantity="1" unit="character" precision="low"/> <date type="life-span" dur="P66Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="66">ξς</num> </date>
             
                 </ab>
 </div>

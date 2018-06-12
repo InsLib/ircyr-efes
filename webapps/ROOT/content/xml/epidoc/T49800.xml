@@ -144,7 +144,7 @@
                     <lb n="2"/><space quantity="1" unit="character"/> <num value="5">ε</num> <space quantity="1" unit="character"/>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60621"><name nymRef="Εὔπραξις">Εὔπραξις</name> 
                     <lb n="4"/><persName type="attested" key="lgpn:V1-60620"><name nymRef="Φίλων">Φίλωνος</name></persName></persName> 
-                    <lb n="5"/><date dur="P38Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="38">λη</num> </date>
+                    <lb n="5"/><date type="life-span" dur="P38Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="38">λη</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

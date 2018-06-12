@@ -139,11 +139,11 @@
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Πέλεια"><supplied reason="lost">Π</supplied><unclear>έλ</unclear>ε<unclear>ι</unclear>α</name> 
                     <lb n="3"/><persName type="attested"><name nymRef="Κρίτων"><supplied reason="lost">Κρίτ</supplied>ωνοϲ</name></persName></persName>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> 
-                       <date dur="P15Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="15">ιε</num> </date>
+                       <date type="life-span" dur="P15Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="15">ιε</num> </date>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> 
                    <persName type="attested"><name nymRef="Λυσανίας">Λυϲ <space quantity="1" unit="character"/><lb n="6" break="no"/><supplied reason="lost" cert="low">ανία</supplied>ϲ</name>
                     <lb n="7"/><persName type="attested"><name nymRef="Κρίτων"><supplied reason="lost">Κ</supplied>ρίτωνο<lb n="8" break="no"/><supplied reason="lost">ϲ</supplied></name></persName></persName> 
-                    <date dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="7">ζ</num> </date></ab>
+                    <date type="life-span" dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="7">ζ</num> </date></ab>
 </div>
 </div>
          <div type="apparatus">

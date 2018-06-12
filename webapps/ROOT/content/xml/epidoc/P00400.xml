@@ -128,7 +128,7 @@
                     <num value="3">γ</num>
                     <lb n="2"/><w>Κόϲμοϲ</w> 
                     <lb n="3"/><w>δημοϲιω<lb n="4" break="no"/>νικόϲ</w> 
-            <date dur="P22Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P22Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
             <num value="22">κ<lb n="5" break="no"/>β</num> </date>
          </ab>
 </div>

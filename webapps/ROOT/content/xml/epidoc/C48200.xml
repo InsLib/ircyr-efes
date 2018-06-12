@@ -125,7 +125,7 @@
       <lb n="4" break="no"/>θίνο</name></persName></persName></date> <persName type="attested" key="lgpn:V1-62637"><name nymRef="Αἰγλάνωρ">Αἰγλά
                           <lb n="5" break="no"/>νωρ</name> <persName type="attested" key="lgpn:V1-62976"><name nymRef="Ἀπολλόδωρος">Ἀπο
                              <lb n="6" break="no"/><supplied reason="lost">λλ</supplied><unclear>ο</unclear>δώρ<unclear>ο</unclear></name></persName></persName>
-                    <lb n="7"/><date dur="P40Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="40">μ</num> </date>
+                    <lb n="7"/><date type="life-span" dur="P40Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="40">μ</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

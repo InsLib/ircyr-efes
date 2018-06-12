@@ -121,7 +121,7 @@
                     <lb n="2"/><rs type="month" key="Τυβί"><w lemma="Τυβί">Τυβὶ</w></rs> <num value="19">θι</num>
                     <lb n="3"/><persName type="attested"><name nymRef="Ἰθάκη">Ἰθάκη</name>
                     <lb n="4"/><persName type="attested"><name nymRef="Νικάσιος">Νικασίω</name></persName></persName>
-                    <lb n="5"/><date dur="P73Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="5"/><date type="life-span" dur="P73Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="73">ο<unclear>γ</unclear></num> </date>
                 </ab>
 </div>

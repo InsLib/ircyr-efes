@@ -127,7 +127,7 @@
 <ab>
             <lb n="1"/><persName type="attested" key="lgpn:V1-61605"><name nymRef="Κλαύδιος">Κλαύ<supplied reason="lost">δι</supplied>οϲ</name> 
                        <lb n="2"/><g type="leaf"/><name nymRef="Σεραπίων">Ϲεραπίων</name></persName> 
-                    <lb n="3"/><date dur="P35Y"><w lemma="ἔτος">ἐτῶν</w> <g type="leaf"/> <num value="35">λε</num> </date>
+                    <lb n="3"/><date type="life-span" dur="P35Y"><w lemma="ἔτος">ἐτῶν</w> <g type="leaf"/> <num value="35">λε</num> </date>
                 </ab>
 </div>
          

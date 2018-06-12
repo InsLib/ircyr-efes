@@ -102,7 +102,7 @@
                <lb n="2"/><rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs> <num value="18">ιη</num>
                <lb n="3"/><persName type="attested"><name nymRef="Θεύδωρος">Θεύδωρ<lb n="4" break="no"/>ος</name>
                <persName type="attested"><name nymRef="Παραιβάτας">Παραι<lb n="5" break="no"/>βάτα</name></persName></persName> 
-               <date dur="P55Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+               <date type="life-span" dur="P55Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                   <num value="55">νε</num> </date>
             </ab>
          </div>

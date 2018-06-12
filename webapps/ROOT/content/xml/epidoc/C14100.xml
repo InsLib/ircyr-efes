@@ -118,7 +118,7 @@
                     <lb n="2"/><name nymRef="Ἀνθέστιος">Ἀνθέϲ<lb n="3" break="no"/>τιοϲ</name> 
                     <lb n="4"/><name nymRef="Φῆλιξ">Φῆλιξ</name> 
                     <lb n="5"/><w>βετρά<lb n="6" break="no"/>νοϲ</w></persName> 
-                    <lb n="7"/><date dur="P58Y"><w lemma="ἔτος">ἐτῶν</w> 
+                    <lb n="7"/><date type="life-span" dur="P58Y"><w lemma="ἔτος">ἐτῶν</w> 
                     <lb n="8"/><num value="58">νη</num> </date>
                 </ab>
 </div>

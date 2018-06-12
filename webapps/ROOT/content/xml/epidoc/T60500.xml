@@ -132,7 +132,7 @@
                     <lb n="2"/><num value="12" xml:lang="grc">βι</num>
                         <persName type="attested" key="lgpn:V1-60651"><name nymRef="Πρῖμος">Πρῖμος</name> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60650"><name nymRef="Κάσσιος">Κασσί<lb n="4" break="no"/>ου</name></persName></persName>
-                        <date dur="P33Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                        <date type="life-span" dur="P33Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="33" xml:lang="grc"><unclear>λ</unclear>γ</num> </date>
          </ab>
 </div>

@@ -131,7 +131,7 @@
                     <lb n="5"/><num value="22" xml:lang="grc">κβ</num> 
                         <gap reason="lost" extent="3" unit="character"/><orig>ιαοη</orig> 
                     <lb n="6"/><orig>αν</orig><gap reason="lost" extent="2" unit="character"/> 
-                        <date dur="P42Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                        <date type="life-span" dur="P42Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="42" xml:lang="grc">μβ</num> </date>
                 </ab>
 </div>

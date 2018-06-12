@@ -121,10 +121,10 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
                <num value="4"><unclear>δ</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><persName type="attested"><name nymRef="Θευδᾶς">Θευδὰς</name> <persName type="attested"><name nymRef="Θευδᾶς">Θευ<lb n="3" break="no"/>δᾶ</name></persName></persName>
-               <date dur="P4Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+               <date type="life-span" dur="P4Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                <num value="4">δ</num> </date> <w>καὶ</w>
                     <persName type="attested"><name nymRef="Ἰάσων">Ἰ<supplied reason="lost">ά</supplied><unclear>σ</unclear><lb n="4" break="no"/>ων</name> <persName type="attested"><name nymRef="Θευδᾶς">Θευ<supplied reason="lost">δ</supplied><lb n="5" break="no"/>ᾶ</name></persName></persName> 
-                <date dur="P3Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                <date type="life-span" dur="P3Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
               <num value="3">γ</num> </date>
             </ab>
          </div>

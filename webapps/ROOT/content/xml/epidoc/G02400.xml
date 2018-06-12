@@ -120,7 +120,7 @@
               <persName type="attested" key="lgpn:V1-60740"><name nymRef="Πρόκλα" cert="low"><supplied reason="lost" cert="low">Πρ</supplied><lb n="2" break="no"/>όκλα</name>
                <persName type="attested"><name nymRef="Πρ-"><seg part="I">Πρ</seg></name></persName></persName><gap reason="lost" quantity="5" unit="character" precision="low"/>
                <lb n="3"/><space quantity="4" unit="character"/> 
-               <date dur="P14Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+               <date type="life-span" dur="P14Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                   <num value="14">ιδ</num> </date>
                <space quantity="4" unit="character"><certainty cert="low" match=".." locus="name"/></space>
             </ab>

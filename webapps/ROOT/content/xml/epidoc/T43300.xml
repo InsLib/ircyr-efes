@@ -124,7 +124,7 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="1"><unclear>α</unclear></num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοι<lb n="2" break="no"/>ὰκ</w></rs> <num value="10">ι</num> 
                     <persName type="attested" key="lgpn:V1-60555"><name nymRef="Καλαμέρα">Κα<lb n="3" break="no"/>λαμέ<unclear>ρ</unclear><lb n="4" break="no"/>α</name> <persName type="attested" key="lgpn:V1-60556"><name nymRef="Νικίας">Νικία</name></persName></persName> 
-                    <lb n="5"/><date dur="P18Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="5"/><date type="life-span" dur="P18Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="18">ιη</num> </date>
                 </ab>
 </div>

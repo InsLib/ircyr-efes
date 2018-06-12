@@ -121,7 +121,7 @@
                     <lb n="1"/><persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>ucius</ex></expan></name> 
                         <g type="leaf"/> <name nymRef="Octauius">Octauius</name> 
                     <lb n="2"/><name nymRef="Vestalis">Vestalis</name></persName> 
-                    <lb n="3"/><date dur="P60Y"><w lemma="annus"><expan><abbr>ann</abbr><ex>orum</ex></expan></w> <g type="leaf"/>
+                    <lb n="3"/><date type="life-span" dur="P60Y"><w lemma="annus"><expan><abbr>ann</abbr><ex>orum</ex></expan></w> <g type="leaf"/>
                     <num value="60">L X</num> </date>
                 </ab>
 </div>

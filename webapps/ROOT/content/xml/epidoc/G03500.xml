@@ -114,7 +114,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/> <persName type="attested"><name nymRef="Θευτέλης">Θευτέληϲ</name></persName> <w>ἑτελεύ<lb n="2" break="no"/>τηϲε</w> 
-            <date dur="P75Y"><w lemma="ἔτος">ἐτῶν</w> <num value="75">οε</num> </date>
+            <date type="life-span" dur="P75Y"><w lemma="ἔτος">ἐτῶν</w> <num value="75">οε</num> </date>
                 </ab>
 </div>
          

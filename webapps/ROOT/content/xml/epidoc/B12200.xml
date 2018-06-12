@@ -112,7 +112,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab><lb n="1"/><persName type="attested" key="lgpn:V1-61926"><name nymRef="Ἀπολλωνία">Ἀπο<lb n="2" break="no"/>λωνί<lb n="3" break="no"/>α</name> 
              <persName type="attested" key="lgpn:V1-61927"><name nymRef="Κοιθᾶς">Κοιθᾶ</name></persName></persName> 
-            <lb n="4"/><date dur="P25Y"><expan><abbr><am><g type="L"/></am></abbr><w lemma="ἔτος"><ex>ἐτῶν</ex></w></expan> <space/> 
+            <lb n="4"/><date type="life-span" dur="P25Y"><expan><abbr><am><g type="L"/></am></abbr><w lemma="ἔτος"><ex>ἐτῶν</ex></w></expan> <space/> 
                <num value="25">κε</num> </date></ab>
 </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>

@@ -117,10 +117,10 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Σίμων"><supplied reason="undefined">Σίμω</supplied>
-                       <lb n="2" break="no"/><supplied reason="undefined">νος</supplied></name></persName> <date dur="P16Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="16">ις</num> </date>
+                       <lb n="2" break="no"/><supplied reason="undefined">νος</supplied></name></persName> <date type="life-span" dur="P16Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="16">ις</num> </date>
                     <lb n="3"/><persName type="attested"><name nymRef="Δωσίθεος"><supplied reason="undefined">Δωσί</supplied>θεος</name>
                     <lb n="4"/><persName type="attested"><name nymRef="Σίμων"><supplied reason="undefined">Σίμ</supplied>ωνος</name></persName></persName>
-                    <lb n="5"/><supplied reason="undefined"><date dur="P13Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="5"/><supplied reason="undefined"><date type="life-span" dur="P13Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                         <num value="13"><unclear>ι</unclear>γ</num> </date></supplied>
                 </ab>
 </div>

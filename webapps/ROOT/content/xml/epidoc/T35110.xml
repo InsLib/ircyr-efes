@@ -129,7 +129,7 @@
                     <lb n="3"/><space quantity="1" unit="character"/>
                     <persName type="attested" key="lgpn:V1-60468"><name nymRef="Λυσανίας">Λυσα<lb n="4" break="no"/>νίας</name>
                         <persName type="attested" key="lgpn:V1-60467"><name nymRef="Ὕρατθις">Ὑρά<lb n="5" break="no"/>θιος</name></persName></persName> 
-                    <date dur="P50Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P50Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="50">ν</num> </date>
                 </ab>
 </div>

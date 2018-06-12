@@ -130,7 +130,7 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="122">ρκβ</num> <persName type="attested" key="lgpn:V1-65557"><name nymRef="Σάρα">Σάρα</name>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-65602"><name nymRef="Σίμων"><unclear>Σ</unclear>ίμωνος</name></persName></persName>
-                    <lb n="3"/><date dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="25">κε</num> </date>
+                    <lb n="3"/><date type="life-span" dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="25">κε</num> </date>
                     <lb n="4"/><gap reason="lost" quantity="4" unit="character"/><persName type="attested" key="lgpn:V1-65602"><name nymRef="Σίμων"><supplied reason="lost">Σί</supplied><unclear>μω</unclear><lb n="5" break="no"/><unclear>ν</unclear>ος</name></persName> <gap reason="lost" quantity="5" unit="character" precision="low"/>
                     <lb n="6"/><persName type="attested" key="lgpn:V1-62544"><name nymRef="Ἁγεμόνα"><supplied reason="lost">Ἀ</supplied><unclear>γ</unclear>εμόνα</name></persName>
                     <gap reason="lost" quantity="4" unit="character"/> 

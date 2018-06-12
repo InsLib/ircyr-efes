@@ -126,7 +126,7 @@
                     <num value="11">αι</num> <w>ἉΘὺ<supplied reason="lost">ρ</supplied></w>              
                     <lb n="2"/><num value="26">κς</num> <persName type="attested" key="lgpn:V1-60532"><name nymRef="Ἀντίγονος">Ἀντίγονο<supplied reason="lost">ς</supplied></name>                
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60533"><name nymRef="Ἀρίσταρχος">Ἀριστάρχ<unclear>ου</unclear></name></persName></persName>                  
-                    <lb n="4"/> <date dur="P83Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="4"/> <date type="life-span" dur="P83Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="83">πγ</num> </date>
                 </ab>
 </div>

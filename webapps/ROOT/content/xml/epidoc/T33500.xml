@@ -122,7 +122,7 @@
                         <name nymRef="Φλάβιος">Φλαβί<supplied reason="lost">ος</supplied></name> <space quantity="3" unit="character"/>
                         <lb n="4"/><name nymRef="Ἀσκλαπᾶς"><unclear>Ἀσκλαπ</unclear>ᾶς</name></persName>
                     <lb n="5"/><w lemma="ἔτος">ἐτῶ<space quantity="1" unit="character"/>ν</w>
-                    <date dur="P43Y"><num value="43"><unclear>μ</unclear>γ</num> </date>
+                    <date type="life-span" dur="P43Y"><num value="43"><unclear>μ</unclear>γ</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

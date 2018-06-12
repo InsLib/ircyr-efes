@@ -132,7 +132,7 @@
                     <num value="3">γ</num> <rs type="month" key="Μεσορή"><w>Με<lb n="2" break="no"/>σορὴ</w></rs> <num value="26">κς</num>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60603"><name nymRef="Ξένων">Ξένων</name> 
                     <lb n="4"/><persName type="attested" key="lgpn:V1-60602"><name nymRef="Μενέλαος">Μενε<lb n="5" break="no"/>λάω</name></persName></persName>
-                    <date dur="P11Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P11Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="11">ια</num> </date>
                 </ab>
 </div>

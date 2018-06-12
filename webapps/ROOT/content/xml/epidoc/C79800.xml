@@ -113,7 +113,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Μουσαῖος">Μουσαῖος</name></persName> 
-            <date dur="P55Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+            <date type="life-span" dur="P55Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="55">νε</num> </date>
                     <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><persName type="attested"><name><seg part="F">ισεριος</seg></name> <name nymRef="Μ-"><seg part="I">Μ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

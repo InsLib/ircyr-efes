@@ -121,7 +121,7 @@
                <num value="28">κη</num>
             <lb n="2"/><persName type="attested" key="lgpn:V1-60898, lgpn:V1-61733"><name nymRef="Κλευπάτρα">Κλευπάτρα</name> 
             <lb n="3"/><persName type="attested" key="lgpn:V1-60885, lgpn:V1-61728"><name nymRef="Θεύδοτος">Θευδότου</name></persName></persName>
-            <lb n="4"/> <date dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+            <lb n="4"/> <date type="life-span" dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                <num value="30">λ</num> </date>
             </ab>
          </div>

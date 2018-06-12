@@ -121,20 +121,20 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Αἰάλαν">Αἰάλαν</name> 
                     <lb n="2"/><persName type="attested"><name nymRef="Αἰάλαν">Αἰαλάντος</name></persName></persName>
-                    <lb n="3"/><space quantity="3" unit="character"/> <date dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="3"/><space quantity="3" unit="character"/> <date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <space quantity="1" unit="character"/> <num value="60">ξ</num> </date> <space quantity="3" unit="character"/>
                     <lb n="4"/><persName type="attested"><name nymRef="Πελήα">Πελήα</name> <persName type="attested"><name nymRef="Σώσις">Σώσις</name></persName></persName>  
-                    <lb n="5"/><date dur="P1Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex cert="low">ἐτῶν</ex></expan></w>
+                    <lb n="5"/><date type="life-span" dur="P1Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex cert="low">ἐτῶν</ex></expan></w>
                     <num value="1"><unclear>α</unclear></num> </date>
                     <persName type="attested"><name nymRef="Παναρίστα">Παν<unclear>αρ</unclear>ίστα</name> <persName type="attested"><name nymRef="Σώσις">Σ<lb n="6" break="no"/>ώσις</name></persName></persName>  
-            <date dur="P75Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P75Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="75">οε</num> </date>
                     <lb n="7"/><persName type="attested"><name nymRef="Ἀρίστιππος"><unclear>Ἀρίστ</unclear>ιππος</name> <persName type="attested"><name nymRef="Αἰάλαν">Αἰα<lb n="8" break="no"/>λάντος</name></persName></persName> <space quantity="3" unit="character"/> 
-                    <date dur="P52Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P52Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="52">νβ</num> </date> 
                     <lb n="9"/><persName type="attested"><name nymRef="Αἰάλαν">Αἰάλαν</name> <persName type="attested"><name nymRef="Ἀρίστιππος">Ἀριστίππω</name></persName></persName>
                     <lb n="10"/><space quantity="3" unit="character"/>
-                    <date dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="25">κε</num> <space quantity="3" unit="character"/></date>
                 </ab>
 </div>

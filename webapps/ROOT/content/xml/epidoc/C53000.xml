@@ -117,7 +117,7 @@
 <ab>
                     <lb n="0"/><gap reason="lost" quantity="2" unit="line"><certainty match=".." locus="name"/></gap>
                     <lb n="1"/><persName type="attested"><name nymRef="Κάλλιππος">Κάλλιππος</name></persName> 
-                    <date dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="35">λε</num> </date>
+                    <date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="35">λε</num> </date>
                 </ab>
 </div>
          

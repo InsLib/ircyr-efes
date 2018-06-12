@@ -114,7 +114,7 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Εὐθυκλῆς">Εὐθυκλῆς</name>
                     <lb n="2"/><persName type="attested"><name nymRef="Κλεάρετος">Κλεαρέτου</name></persName></persName>
-                    <lb n="3"/><date dur="P55Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="55">νε</num> </date>
+                    <lb n="3"/><date type="life-span" dur="P55Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="55">νε</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

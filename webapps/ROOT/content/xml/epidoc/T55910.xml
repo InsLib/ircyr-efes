@@ -132,13 +132,13 @@
 </num>
  <lb n="2"/><gap reason="lost" quantity="5" unit="character" precision="low"/><persName type="attested"><name><seg part="F">ας</seg></name> <persName type="attested" key="lgpn:V1-60827"><name nymRef="Σίλιος">Σι
  <lb n="3" break="no"/>λίω</name></persName></persName> 
-            <date dur="P11Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P11Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
  <num value="11">ια</num> </date>
 
  <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="110"><unclear>ρ</unclear>ι</num> <persName type="attested" key="lgpn:V1-60797"><name nymRef="Εὐφροσύνα">Εὐφρο
  <lb n="5" break="no"/><supplied reason="lost">σύ</supplied>να</name> <persName type="attested" key="lgpn:V1-60827"><name nymRef="Σίλιος">Σιλί
             <lb n="6" break="no"/><unclear>ου</unclear></name></persName></persName> 
-            <date dur="P17Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P17Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
  <num value="17">ιζ</num> </date> <rs type="month" key="Παϋνί"><w>Πα<lb n="7" break="no"/>ῦ<supplied reason="lost">ν</supplied></w></rs> <num value="19">θι</num>.
                     
                 </ab>

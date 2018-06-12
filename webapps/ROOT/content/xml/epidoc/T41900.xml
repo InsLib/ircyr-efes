@@ -128,7 +128,7 @@
                     <gap reason="lost" quantity="1" unit="character"/> 
                     <persName type="attested"><name nymRef="Νόννα"><supplied reason="lost">Ν</supplied>όννα</name>                      
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60547"><name nymRef="Δωσίθεος">Δωϲιθέ<lb n="3" break="no"/>ου</name></persName></persName> 
-            <date dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="20">κ</num> </date>
                 </ab>
 </div>

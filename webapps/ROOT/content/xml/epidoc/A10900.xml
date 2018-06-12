@@ -141,7 +141,7 @@
                     <num value="23">κγ</num> <!-- check -->
                     <lb n="2"/><persName type="attested"><name nymRef="Βερενείκα">Βερενείκα</name></persName>
                     <lb n="3"/><w lemma="δημοσιώνης">δημοϲιωνῶν</w>
-                    <lb n="4"/><date dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="4"/><date type="life-span" dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="5">ε</num> </date>
                 </ab>
          </div>

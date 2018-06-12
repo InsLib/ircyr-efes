@@ -129,7 +129,7 @@
                     <num value="4">δ</num> <rs type="month" key="Θώθ"><w>Θώθυ</w></rs> 
                     <lb n="2"/><gap reason="lost" extent="5" unit="character"/> <persName type="attested"><name nymRef="Ἀνδροσθένης"><supplied reason="lost">Ἀν</supplied><lb n="3" break="no"/><supplied reason="lost">δρ</supplied>οσθ<supplied reason="lost">έ</supplied><lb n="4" break="no"/>νης</name></persName> <gap reason="lost" extent="5" unit="character"/>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <date dur="P26Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P26Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="26">κς</num> </date>
                 </ab>
 </div>

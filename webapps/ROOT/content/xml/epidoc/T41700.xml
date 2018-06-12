@@ -127,7 +127,7 @@
                     <lb n="2"/><num value="13">ιγ</num> <persName type="attested" key="lgpn:V1-60545"><name nymRef="Διόδοτος">Διόδοτος</name>                     
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60544"><name nymRef="Διόδοτος">Διοδότ<unclear>ω</unclear></name></persName></persName>                        
                     <lb n="4"/><space quantity="1" unit="character"/> 
-                    <date dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="35">λε</num> </date> <space quantity="1" unit="character"/>
                 </ab>
 </div>

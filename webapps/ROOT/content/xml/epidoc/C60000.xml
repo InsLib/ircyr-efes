@@ -119,7 +119,7 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Μεγώ">Μεγὼ</name>
                     <lb n="2"/><persName type="attested"><name nymRef="Καλλίμαχος">Καλλιμά<lb n="3" break="no"/>χω</name></persName></persName>
-                    <date dur="P40Y"><w lemma="ἔτος">ἐτῶν</w>                    
+                    <date type="life-span" dur="P40Y"><w lemma="ἔτος">ἐτῶν</w>                    
                        <lb n="4"/><space quantity="4" unit="character"/><num value="40">μ</num> </date>
                 </ab>
 </div>

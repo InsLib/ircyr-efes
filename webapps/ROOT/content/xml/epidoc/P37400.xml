@@ -140,7 +140,7 @@
    <lb n="3a"/><space quantity="2" unit="line"/>
                     <lb n="4"/><space quantity="1" unit="character"/> 
                     <persName type="attested" key="lgpn:V1-61319"><name nymRef="Βαλέρις">Βαλ<space quantity="1" unit="character"/><lb n="5"/>έριϲ</name> <name nymRef="Θεύφιλος">Θεύφιλοϲ</name></persName> 
-                    <lb n="6"/><w>ἐτελ<unclear>ε</unclear><supplied reason="lost">ύ</supplied><unclear>τ</unclear>η<lb n="7" break="no"/>σε</w> <date dur="P39Y"><w lemma="ἔτος">ἐτῶν</w> 
+                    <lb n="6"/><w>ἐτελ<unclear>ε</unclear><supplied reason="lost">ύ</supplied><unclear>τ</unclear>η<lb n="7" break="no"/>σε</w> <date type="life-span" dur="P39Y"><w lemma="ἔτος">ἐτῶν</w> 
                     <lb n="8"/><num value="39">λθ</num> </date>
                 </ab>
 </div>

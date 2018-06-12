@@ -119,7 +119,7 @@
                     <!-- the line numbers don't match the commentary notes -->
                     <lb n="6"/><persName type="attested"><name nymRef="Κλευπάτρα">Κλευπά<lb n="7" break="no"/>τρα </name>
                     <persName type="attested"><name nymRef="Θεύχρηστος">Θευ<lb n="8" break="no"/><supplied reason="lost">χ</supplied>ρήτου</name></persName> </persName>
-   <lb n="9"/><date dur="P65Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="65">ξε</num> </date>
+   <lb n="9"/><date type="life-span" dur="P65Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="65">ξε</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

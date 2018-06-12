@@ -134,7 +134,7 @@
                     <num value="13">ιγ</num> <rs type="month" key="Ἐπιφί"><w>Ἐπει<lb n="1" break="no"/>φὶ</w></rs> <num value="15">ι<unclear>ε</unclear></num>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-60558"><name nymRef="Κρίτολα">Κρίτολα</name> 
                     <lb n="1"/><persName type="attested" key="lgpn:V1-60115"><name nymRef="Λυσίας">Λυσία</name></persName></persName> 
-                    <lb n="1"/><date dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="1"/><date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="35">λε</num> </date>
                 </ab>
 </div>

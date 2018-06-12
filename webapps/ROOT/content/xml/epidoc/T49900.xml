@@ -140,7 +140,7 @@
                     <rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs> <num value="16"><unclear>ς</unclear>ι</num>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">ης</seg></name> 
                     <lb n="3"/><persName type="attested"><name nymRef="Φίλων" cert="low"><supplied reason="lost" cert="low">Φίλ</supplied><unclear>ω</unclear>νος</name></persName></persName>
-                    <lb n="4"/><date dur="P1Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="1">α</num> </date>
+                    <lb n="4"/><date type="life-span" dur="P1Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="1">α</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

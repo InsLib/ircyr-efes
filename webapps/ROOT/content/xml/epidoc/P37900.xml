@@ -118,7 +118,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="a" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Ἀλέξανδρος">Ἀλέξαν<lb n="2" break="no"/>δρος</name></persName> 
-                        <lb n="3"/><space quantity="1" unit="character"/> <date dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="60">ξ</num> </date>
+                        <lb n="3"/><space quantity="1" unit="character"/> <date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="60">ξ</num> </date>
                     </ab></div><div subtype="fragment" n="b" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Διόδωρος">Δ<supplied reason="lost">ιο</supplied><lb n="2" break="no"/><unclear>δώρω</unclear></name></persName>
                     </ab>

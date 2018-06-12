@@ -125,7 +125,7 @@
                     <lb n="2"/><rs type="month" key="Μεσορή"><w>Μεσορὴ</w></rs>
                     <lb n="3"/><space quantity="3" unit="character"/> <num value="2">β</num> <space quantity="3" unit="character"/>
                     <lb n="4"/><persName type="attested"><name nymRef="Εὐφράνωρ">Εὐφράν<lb n="5" break="no"/>ωρ</name> <persName type="attested"><name nymRef="Εὔμαχος"><unclear>Ε</unclear>ὐμ<lb n="6" break="no"/>μάχου</name></persName></persName> 
-            <date dur="P26Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+            <date type="life-span" dur="P26Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="26">κς</num> </date>
                
                 </ab>

@@ -131,7 +131,7 @@
                     <num value="4">δ</num> <rs type="month" key="Μεσορή"><w>Μεσορὴ</w></rs>
                     <lb n="2"/><num value="14">δι</num> <persName type="attested"><name nymRef="Ἀρσινόα">Ἀρ<supplied reason="lost">σι</supplied>νόα</name>
                     <lb n="3"/><persName type="attested"><name nymRef="Παυσανίας"><unclear>Παυ</unclear><supplied reason="lost">σ</supplied><unclear>α</unclear>νί<lb n="4" break="no"/>α</name></persName></persName>  
-            <date dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="40"><unclear>μ</unclear></num> </date>
                 </ab>
 </div>

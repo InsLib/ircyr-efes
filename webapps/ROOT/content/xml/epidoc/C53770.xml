@@ -119,11 +119,11 @@
                  <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
                  <lb n="2"/><gap reason="lost" extent="unknown" unit="line"/>
                  <lb n="3"/><gap reason="lost" quantity="2" unit="character"/><persName type="attested"><name nymRef="Κάρνις"><unclear>Κά</unclear>ρνι<lb n="4" break="no"/>ος</name></persName>
-                 <date dur="P18Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                 <date type="life-span" dur="P18Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
             <num value="18">ιη</num> </date>
                  <lb n="5"/><persName type="attested"><name nymRef="Τιμάσα">Τιμάσα</name>  
                  <lb n="6"/><persName type="attested"><name nymRef="Μέμεος">Μεμέω</name></persName></persName> 
-                 <lb n="7"/><date dur="P8Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                 <lb n="7"/><date type="life-span" dur="P8Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
             <num value="8">η</num> </date>           
      </ab>
 </div>

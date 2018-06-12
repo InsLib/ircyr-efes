@@ -123,7 +123,7 @@
                  <lb n="2"/><rs type="month" key="Ἐπιφί"><w>Ἐπιφὶ</w></rs> <num value="23">γκ</num> 
                  <lb n="4"/><persName type="attested"><name nymRef="Ἰάσων">Ἰάσων</name>
                  <lb n="5"/><persName type="attested"><name nymRef="Διονύσιος">Διονυσί<lb n="7" break="no"/>ω</name></persName></persName>
-                   <date dur="P36Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ετῶν</ex></expan></w>
+                   <date type="life-span" dur="P36Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ετῶν</ex></expan></w>
                    <num value="36">λς</num> </date>
                      </ab>
          </div>

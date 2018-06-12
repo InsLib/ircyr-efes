@@ -120,7 +120,7 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Εὐκλῆς">Εὐκλῆς</name> <persName type="attested"><name nymRef="Χαιρεσίλαος" cert="low">Χαι<lb n="2" break="no"/><unclear>τε</unclear><gap reason="lost" quantity="4" unit="character"/>αου</name></persName></persName> 
                     <lb n="3"/><w>ἀπ<supplied reason="lost">έ</supplied>θανε</w> 
-                    <lb n="4"/><date dur="P30Y"><w lemma="ἔτος">ἐτῶν</w> <num value="30">λ</num> </date>
+                    <lb n="4"/><date type="life-span" dur="P30Y"><w lemma="ἔτος">ἐτῶν</w> <num value="30">λ</num> </date>
                 </ab>
 </div>
          

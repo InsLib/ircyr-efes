@@ -128,7 +128,7 @@
                         <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><persName type="attested"><name nymRef="Πετρώνιος">Πετρώνιος</name> 
                     <lb n="4"/><name nymRef="Φαῦστος">Φαῦστος</name></persName> 
-                    <lb n="5"/><date dur="P44Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="5"/><date type="life-span" dur="P44Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="44" xml:lang="grc">μδ</num> </date>
                 </ab>
 </div>

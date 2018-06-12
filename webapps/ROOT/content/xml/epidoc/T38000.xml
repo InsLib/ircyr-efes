@@ -127,7 +127,7 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="6">ς</num> <persName type="attested" key="lgpn:V1-60501"><name nymRef="Ἀρτάφαν">Ἀρταφὰ<supplied reason="lost">ν</supplied></name>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60053"><name nymRef="Ἀρτάφαν">Ἀρτάφᾶντ<lb n="3" break="no"/>οϲ</name></persName></persName> 
-            <date dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="35">λε</num> </date>
                 </ab>
 </div>

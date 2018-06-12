@@ -128,7 +128,7 @@
                     <num value="20"><unclear>κ</unclear></num> 
                     <persName type="attested" key="lgpn:V1-60526"><name nymRef="Βασίλλη">Βασί<lb n="3" break="no"/><unclear>λλ</unclear>η</name> 
                     <persName type="attested" key="lgpn:V1-60527"><name nymRef="Λαίλιος"><unclear>Λ</unclear>αι<lb n="4" break="no"/>λίου</name></persName></persName> 
-            <date dur="P10Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P10Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="10">ι</num> </date>                     
                     <lb n="5"/><space quantity="1" unit="character"/> <w>Μ<unclear>εχ</unclear>ίρ</w> <num value="7"><unclear>ζ</unclear></num>
                 </ab>

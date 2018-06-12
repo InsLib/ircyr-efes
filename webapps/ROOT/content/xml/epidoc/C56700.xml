@@ -125,16 +125,16 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Κόϊντος"><expan><abbr>Κ</abbr><ex>όϊντος</ex></expan></name> <name nymRef="Πλωτῆνος">Πλωτῆνος</name> <name nymRef="Μάκερ">Μάκερ</name></persName> 
-                    <lb n="2"/><space extent="4" unit="character"/><date dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="2"/><space extent="4" unit="character"/><date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="60">ξ</num> </date>
                     <lb n="3"/><persName type="attested" key="lgpn:VI-63286"><name nymRef="Ἄστεια"><supplied reason="lost">Ἄ</supplied>στεια</name> <name nymRef="Ἀσία">Ἀσία</name></persName> 
-            <date dur="P50Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="50">ν</num> </date>
+            <date type="life-span" dur="P50Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="50">ν</num> </date>
                     <lb n="4"/><persName type="attested" key="lgpn:VI-63287"><name nymRef="Πλωτῆνα">Πλωτῆνα</name> <name nymRef="Ἀσία">Ἀσία</name></persName>
-                    <lb n="5"/><space extent="4" unit="character"/><date dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="5"/><space extent="4" unit="character"/><date type="life-span" dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="20">κ</num> </date> 
             <lb n="6"/><persName type="attested"><name nymRef="Πακωνία">Πακωνία</name>
                     <lb n="7"/><name nymRef="Παῦλλα">Παῦλλα</name></persName>
-                    <lb n="8"/><space extent="2" unit="character"/><date dur="P22Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="8"/><space extent="2" unit="character"/><date type="life-span" dur="P22Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="22">κβ</num> </date>
                 </ab>
 </div>

@@ -120,7 +120,7 @@
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>μγ</unclear></orig> 
                     <persName type="attested"><name nymRef="Νικίας">Νικία</name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig>ητ<unclear>α</unclear></orig><space quantity="1" unit="character"/>
-            <date dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+            <date type="life-span" dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="7"><unclear>ζ</unclear></num> </date> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>

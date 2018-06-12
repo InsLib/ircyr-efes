@@ -133,7 +133,7 @@
                     <num value="2">β</num> <rs type="month" key="Παχών"><w>Παχὼν</w></rs>
                     <lb n="2"/><num value="20">κ</num> <persName type="attested" key="lgpn:V1-60696"><name nymRef="Μάριν">Μάριν</name> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60697"><name nymRef="Βάσσιος">Βασσίω</name></persName></persName> 
-                    <lb n="4"/><date dur="P70Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="4"/><date type="life-span" dur="P70Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="70">ο</num> </date>
                 </ab>
 </div>

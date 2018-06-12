@@ -124,11 +124,11 @@
                     <lb n="2"/><num value="4" xml:lang="grc">δ</num> 
                         <persName type="attested"><name nymRef="Τιμαίνετος">Τιμαίνετ<lb n="3" break="no"/><unclear>ος</unclear></name> 
                         <persName type="attested"><name nymRef="Ἀγάθαρχος">Ἀγαθάρχ<lb n="4" break="no"/><unclear>ω</unclear></name></persName></persName> 
-                        <date dur="P70Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                        <date type="life-span" dur="P70Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                         <num value="70" xml:lang="grc"><unclear>ο</unclear></num> </date> <persName type="attested"><name nymRef="Καλλώ">Καλλὼ</name>
                     <lb n="5"/><persName type="attested"><name nymRef="Νίκων">Νίκωνος</name></persName></persName> 
                     <lb n="6"/><space quantity="1" unit="character"/> 
-                        <date dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                        <date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                         <num value="60" xml:lang="grc">ξ</num> </date>
                 </ab>
 </div>

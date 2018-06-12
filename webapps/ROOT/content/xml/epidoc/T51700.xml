@@ -138,7 +138,7 @@
                     <w>τρι<lb n="4" break="no"/>τη</w> 
                     <persName type="attested" key="lgpn:V1-60745"><name nymRef="Σωγένης">Ϲω<lb n="5" break="no"/>γένη<lb n="6" break="no"/>ϲ</name>
                     <persName type="attested"><name nymRef="Ἰώσηπος">Ἰ<unclear>ω</unclear>ϲή<lb n="7" break="no"/><unclear>π</unclear>ω</name></persName></persName> 
-   <date dur="P24Y"><w>εἰ
+   <date type="life-span" dur="P24Y"><w>εἰ
                     <lb n="8" break="no"/><unclear>κοϲιτ</unclear>
                     <lb n="9" break="no"/>έϲερ<unclear>α</unclear></w>
                     <lb n="10"/> <supplied reason="lost"><w lemma="ἔτος">ἐτῶν</w></supplied></date>

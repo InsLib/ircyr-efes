@@ -127,7 +127,7 @@
                     <ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="2"/><orig><unclear>ΚΕΥΕΡ</unclear></orig>
-                        <lb n="3"/><orig><unclear>Α</unclear></orig> <date dur="P21Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="21">κα</num> </date>
+                        <lb n="3"/><orig><unclear>Α</unclear></orig> <date type="life-span" dur="P21Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="21">κα</num> </date>
                     </ab>
             </div>
             

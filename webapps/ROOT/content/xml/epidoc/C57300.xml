@@ -123,7 +123,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ον</orig> 
-            <date dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="40">μ</num> </date>
+            <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="40">μ</num> </date>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ιικα</orig>
                 </ab>
 </div>

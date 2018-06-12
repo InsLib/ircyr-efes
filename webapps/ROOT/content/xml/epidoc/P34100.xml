@@ -126,17 +126,17 @@
                     <lb n="1"/><date><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> <num value="8">η</num> <rs type="month" key="Φαωφί"><w lemma="Φαωφί">Φαωφὶ</w></rs> <num value="20">κ</num> </date> 
                     <lb n="2"/><persName type="attested" key="lgpn:V1-61620"><name nymRef="Σουφήνας">Ϲουφήναϲ</name> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-61029"><name nymRef="Ἀλέξανδρος">Ἀ<supplied reason="lost">λ</supplied>εξάν<unclear>δρω</unclear></name></persName></persName>
-                    <date dur="P50Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="50">ν</num> </date> 
+                    <date type="life-span" dur="P50Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="50">ν</num> </date> 
                     <lb n="4"/><date><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="8">η</num> <rs type="month" key="Τυβί"><w lemma="Τυβί">Τυβὶ</w></rs> <num value="12">ιβ</num> </date> <persName type="attested" key="lgpn:V1-61238"><name nymRef="Ἐλένη">Ἐλένη</name> 
-                    <lb n="5"/><persName type="attested" key="lgpn:V1-61013"><name nymRef="Ἀθηναῖος">Ἀθηναίου</name></persName></persName> <date dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="5"/><persName type="attested" key="lgpn:V1-61013"><name nymRef="Ἀθηναῖος">Ἀθηναίου</name></persName></persName> <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="40">μ</num> </date>
                     <lb n="6"/><date><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10">ι</num> </date> <persName type="attested" key="lgpn:V1-61621"><name nymRef="Σουφήνας">Ϲουφήναϲ</name> 
-                    <lb n="7"/><persName type="attested" key="lgpn:V1-61015"><name nymRef="Ἀθήνας">Ἀθήνα</name></persName></persName> <date dur="P1Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="1">α</num> </date>
+                    <lb n="7"/><persName type="attested" key="lgpn:V1-61015"><name nymRef="Ἀθήνας">Ἀθήνα</name></persName></persName> <date type="life-span" dur="P1Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="1">α</num> </date>
                     <lb n="8"/><date><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num>
                     <rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs> <num value="23">γκ</num> </date> 
                     <lb n="9"/><persName type="attested" key="lgpn:V1-61399"><name nymRef="Κλευπὶν">Κλευπὶν</name> 
                     <lb n="10"/><persName type="attested" key="lgpn:V1-61620"><name nymRef="Σουφήνας">Ϲουφήνα</name></persName></persName> 
-                    <lb n="11"/><space quantity="1" unit="character"/> <date dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="35">λε</num> </date>
+                    <lb n="11"/><space quantity="1" unit="character"/> <date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="35">λε</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

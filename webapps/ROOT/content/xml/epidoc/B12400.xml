@@ -114,7 +114,7 @@
             <div n="a" type="textpart">
                <ab>
               <lb n="1"/> <persName type="attested" key="lgpn:V1-61888"><name nymRef="Ἴων">Ἴων</name> <persName type="attested" key="lgpn:V1-61887"><name nymRef="Ἀριστίων"><unclear>Ἀρ</unclear>ι<unclear>σ</unclear><supplied reason="lost">τίω</supplied><unclear>ν</unclear><supplied reason="lost">ος</supplied></name></persName></persName>
-            <gap reason="lost" extent="unknown" unit="character"/> <date dur="P30Y"><expan><abbr><am><g type="L"/></am></abbr><w lemma="ἔτος"><ex>ἐτῶν</ex></w></expan> <num value="30">
+            <gap reason="lost" extent="unknown" unit="character"/> <date type="life-span" dur="P30Y"><expan><abbr><am><g type="L"/></am></abbr><w lemma="ἔτος"><ex>ἐτῶν</ex></w></expan> <num value="30">
              <unclear>λ</unclear></num> </date>
                </ab>
 </div>

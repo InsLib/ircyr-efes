@@ -129,7 +129,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Πρατίας">Πρατίας</name></persName>
-                    <lb n="1"/><date dur="P90Y"><w lemma="ἔτος">ἐτῶν</w> <num value="90"><w>ἐ<unclear>ν</unclear>
+                    <lb n="1"/><date type="life-span" dur="P90Y"><w lemma="ἔτος">ἐτῶν</w> <num value="90"><w>ἐ<unclear>ν</unclear>
                        <lb n="1" break="no"/>ενήκο<lb n="1" break="no"/>νττα</w></num> </date>
                 </ab>
 </div>

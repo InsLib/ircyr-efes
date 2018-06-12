@@ -116,7 +116,7 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Caius"><expan><abbr>C</abbr><ex>aius</ex></expan></name> 
                         <name nymRef="Iulius">Iulius</name> <name nymRef="Epafroditus">Epa<lb n="2" break="no"/>froditus</name></persName>
-                    <lb n="3"/><w lemma="uiuo">uixit</w> <date dur="P70Y"><w lemma="annus">annos</w> <num value="70">LXX</num> </date>
+                    <lb n="3"/><w lemma="uiuo">uixit</w> <date type="life-span" dur="P70Y"><w lemma="annus">annos</w> <num value="70">LXX</num> </date>
                 </ab>
 </div>
          

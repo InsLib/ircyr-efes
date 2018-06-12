@@ -142,7 +142,7 @@
                     <lb n="4"/><space quantity="1" unit="character"/> 
                        <orig>λ</orig><gap reason="lost" quantity="2" unit="character"/><orig><unclear>ου</unclear></orig></persName>
                     <lb n="5"/><space quantity="1" unit="character"/> 
-                    <date dur="P14Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <date type="life-span" dur="P14Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="14" xml:lang="grc"><unclear>ι</unclear>δ</num> </date>
                 </ab>
 </div>

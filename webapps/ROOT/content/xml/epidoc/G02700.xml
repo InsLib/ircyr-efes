@@ -127,7 +127,7 @@
             <p>Unpublished.</p>
          </div>
 
-         <div type="edition" xml:lang="grc" xml:space="preserve"><ab><lb n="0"/><gap reason="lost" extent="unknown" unit="character"/><lb n="1"/>     <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>λ</unclear>οκ<unclear>ι</unclear></orig> <space/><gap reason="lost" extent="unknown" unit="character"/><lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <date dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="40">μ</num> </date> <space/><gap reason="lost" extent="unknown" unit="character"/></ab>
+         <div type="edition" xml:lang="grc" xml:space="preserve"><ab><lb n="0"/><gap reason="lost" extent="unknown" unit="character"/><lb n="1"/>     <gap reason="lost" extent="unknown" unit="character"/><orig><unclear>λ</unclear>οκ<unclear>ι</unclear></orig> <space/><gap reason="lost" extent="unknown" unit="character"/><lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="40">μ</num> </date> <space/><gap reason="lost" extent="unknown" unit="character"/></ab>
 </div>
          <div type="apparatus">
             <listApp>

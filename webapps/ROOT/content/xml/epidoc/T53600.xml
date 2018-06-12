@@ -139,7 +139,7 @@
                     <lb n="4"/><persName type="attested" key="lgpn:V1-60709"><name nymRef="Φιλοκράτης">Φιλοκράτηϲ</name>
                     <lb n="5"/><persName type="attested" key="lgpn:V1-60708"><name nymRef="Ἕρμων">Ἕρμωνοϲ</name></persName></persName> 
                     <lb n="6"/><space quantity="1" unit="character"/> 
-                    <date dur="P38Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P38Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="38">λη</num> </date> <space quantity="1" unit="character"/>
                 </ab>
 </div>

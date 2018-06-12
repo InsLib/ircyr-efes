@@ -127,7 +127,7 @@
                     <num value="18">ιη</num> <rs type="month" key="Ἁθύρ"><w>Ἁθὺ<supplied reason="lost">ρ</supplied></w></rs> 
                     <num value="10"><unclear>ι</unclear></num>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60431"><name nymRef="Λεωνίδης">Λεωνίδη<lb n="3" break="no"/>ϲ</name> <persName type="attested" key="lgpn:V1-60430"><name nymRef="Θέων">Θέων<lb n="4" break="no"/>ος</name></persName></persName> 
-            <date dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                      <num value="5">ε</num> </date>
                 </ab>
 </div>

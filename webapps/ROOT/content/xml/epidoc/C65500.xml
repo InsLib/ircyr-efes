@@ -144,7 +144,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Ἱστιεαῖς">Ἱστιεαῖ<lb n="2" break="no"/>ς</name></persName> <foreign xml:lang="la"><w lemma="obeo"><expan><abbr><am>Θ</am></abbr><ex>obiit</ex></expan></w></foreign>
-                    <date dur="P20Y"><w>ἐτῶ<lb n="3" break="no"/>ν</w> <space quantity="2" unit="character"/>
+                    <date type="life-span" dur="P20Y"><w>ἐτῶ<lb n="3" break="no"/>ν</w> <space quantity="2" unit="character"/>
                     <lb n="4"/><num value="20">κ</num> </date> <space quantity="3" unit="character"/>
                 </ab>
 </div>

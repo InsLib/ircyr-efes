@@ -122,7 +122,7 @@
                     /><orig><unclear>λ</unclear>α<unclear>γ</unclear></orig><gap
                         reason="lost" quantity="3" unit="character"/><orig>γα</orig><space
                             quantity="1" unit="character"/><orig>ι</orig>
-                    <lb n="3"/><date dur="P25Y"><w lemma="ἔτος">ἐτῶν</w> <w>εἰκοσιπ<lb
+                    <lb n="3"/><date type="life-span" dur="P25Y"><w lemma="ἔτος">ἐτῶν</w> <w>εἰκοσιπ<lb
                         n="4" break="no"/><space extent="1"/><unclear>έν</unclear>τε</w></date>
                         <space extent="1"/>
                 </ab>

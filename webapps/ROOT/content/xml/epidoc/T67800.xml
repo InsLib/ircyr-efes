@@ -129,7 +129,7 @@
                         <num value="10" xml:lang="grc">ι</num> <persName type="attested" key="lgpn:V1-60015"><name nymRef="Πόπλιος"><expan><abbr>Π</abbr><ex>όπλιος</ex></expan></name>
                     <lb n="5"/><name nymRef="Ἀντώνιος">Ἀντ<unclear>ώ</unclear>νιος</name>
                     <lb n="6"/><name nymRef="Πτολεμαΐς">Πτολεμαΐϲ</name></persName>
-                    <lb n="7"/><date dur="P48Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="7"/><date type="life-span" dur="P48Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="48" xml:lang="grc">μ<unclear>η</unclear></num> </date>
                 </ab>
 </div>

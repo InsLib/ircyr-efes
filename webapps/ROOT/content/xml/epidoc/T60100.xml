@@ -120,7 +120,7 @@
                         <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><persName type="attested"><name nymRef="Ἐπαγώ"><unclear>Ἐ</unclear>παγ<unclear>ὼ</unclear></name> 
                     <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><name><seg part="F"><unclear>η</unclear>βί<unclear>ο</unclear><supplied reason="lost">υ</supplied></seg></name></persName>
-                    <lb n="4"/><date dur="P9Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="4"/><date type="life-span" dur="P9Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="9">θ</num> </date>
                 </ab>
 </div>

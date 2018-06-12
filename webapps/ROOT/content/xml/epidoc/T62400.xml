@@ -135,7 +135,7 @@
                         <persName type="attested" key="lgpn:V1-60631"><name nymRef="Ἀλεξᾶς">Ἀλ<lb n="3" break="no"/>εξᾶϲ</name> 
                         <persName type="attested" key="lgpn:V1-60630"><name nymRef="Γάϊος">Γ
                     <lb n="4" break="no"/>αίω</name></persName></persName><!-- check -->
-                    <lb n="5"/><date dur="P46Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="5"/><date type="life-span" dur="P46Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="46" xml:lang="grc">μϛ</num> </date>
                 </ab>
 </div>

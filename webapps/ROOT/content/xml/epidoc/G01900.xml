@@ -111,7 +111,7 @@
             <lb n="3"/><persName type="attested" key="lgpn:V1-61721"><name nymRef="Ἅβρολα">Ἅβρολ
                   <lb n="4" break="no"/>α</name> <persName type="attested" key="lgpn:V1-61735"><name nymRef="Λούκιος">Λουκ
                      <lb n="5" break="no"/>ίω</name></persName></persName>
-            <date dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                         <num value="60"><unclear>ξ</unclear></num> </date>
             </ab>
          </div>

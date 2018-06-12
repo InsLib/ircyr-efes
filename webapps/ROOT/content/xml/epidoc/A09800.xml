@@ -139,15 +139,15 @@
 <ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-62130"><name nymRef="Ϲαλώ">Σαλὼ</name>
                         <persName type="attested" key="lgpn:V1-62021"><name nymRef="Ἀλέξανδρος">Ἀλεξάν<lb n="2" break="no"/>δρου</name></persName></persName>
-             <date dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+             <date type="life-span" dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="45">με</num> </date>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-62090"><name nymRef="Ἰησοῦς">Ἰηϲοῦϲ</name> 
                         <persName type="attested" key="lgpn:V1-62021"><name nymRef="Ἀλέξανδρος">Ἀλε<lb n="4" break="no"/>ξάνδρου</name></persName></persName>
-             <date dur="P8Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+             <date type="life-span" dur="P8Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="8">η</num> </date>
                     <lb n="5"/><persName type="attested" key="lgpn:V1-62114"><name nymRef="Μάριν">Μάριν</name>
                         <persName type="attested" key="lgpn:V1-62138"><name nymRef="Τρύφων">Τρύφω<lb n="6" break="no"/>νοϲ</name></persName></persName>
-             <date dur="P87Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+             <date type="life-span" dur="P87Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="87">πζ</num> </date>
                 </ab>
 </div>

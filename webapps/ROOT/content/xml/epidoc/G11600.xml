@@ -127,7 +127,7 @@
                         <lb n="1"/><persName type="attested"><gap reason="lost" quantity="3" unit="character"/><name><seg part="F"><supplied reason="lost">αν</supplied>
                         <lb n="2" break="no"/>δ<unclear>ρος</unclear></seg></name> <persName type="attested"><name nymRef="Λούκιος"><unclear>Λουκίου</unclear></name></persName></persName>
                         <lb n="3"/><w lemma="ἔτος">ἐτῶν</w> <w>ἐτελευ
-                        <lb n="4" break="no"/>τησε</w> <date dur="P18Y"><w>δέκα</w> <w><unclear>ὀκτ</unclear>
+                        <lb n="4" break="no"/>τησε</w> <date type="life-span" dur="P18Y"><w>δέκα</w> <w><unclear>ὀκτ</unclear>
                         <lb n="5" break="no"/><space extent="unknown" unit="character"/> ώ</w></date>
                     </ab>
             </div>

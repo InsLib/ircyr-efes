@@ -125,7 +125,7 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num> <rs type="month" key="Φαρμουθί"><w lemma="Φαρμουθί">Φαρμουθὶ</w></rs> <num value="4">δ</num> 
                     <lb n="2"/><persName type="attested" key="lgpn:V1-61570"><name nymRef="Πραξαγόρα">Πραξαγόρα</name> <persName type="attested" key="lgpn:V1-61368"><name nymRef="Ἰωάννης"><supplied reason="lost">Ἰ</supplied><unclear>ω</unclear>άνουϲ</name></persName></persName> 
-                    <lb n="3"/><date dur="P13Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="13">ιγ</num> </date>
+                    <lb n="3"/><date type="life-span" dur="P13Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="13">ιγ</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

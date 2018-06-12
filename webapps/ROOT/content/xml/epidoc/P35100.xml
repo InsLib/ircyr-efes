@@ -122,7 +122,7 @@
 <ab>
                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ρ</unclear></orig> 
                     <persName type="attested" key="lgpn:V1-61228"><name nymRef="Δράκων">Δ<unclear>ρ</unclear>άκοντοϲ</name></persName> 
-                    <date dur="P1Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="1">α</num> </date>
+                    <date type="life-span" dur="P1Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="1">α</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

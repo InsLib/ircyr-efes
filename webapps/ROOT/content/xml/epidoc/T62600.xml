@@ -134,7 +134,7 @@
                         <rs type="month" key="Μεσορή"><w>Μεσορὴ</w></rs> <num value="20" xml:lang="grc"><unclear>κ</unclear></num>
                     <lb n="6"/><persName type="attested" key="lgpn:V1-60632"><name nymRef="Μυρώ">Μυρὼ</name>  
                         <persName type="attested" key="lgpn:V1-60629"><name nymRef="Λούκιος">Λουκ<lb n="7" break="no"/>ίου</name></persName> </persName>
-                        <date dur="P22Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                        <date type="life-span" dur="P22Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="22" xml:lang="grc"><unclear>β</unclear>κ</num> </date>
                 </ab>
 </div>

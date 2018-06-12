@@ -117,12 +117,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Ἰάσων">Ἰάσων</name></persName> <foreign xml:lang="la"><w lemma="obeo"><expan><abbr><am>Θ</am></abbr><ex>obiit</ex></expan></w></foreign> <date dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="40">μ</num> </date>
+                    <lb n="1"/><persName type="attested"><name nymRef="Ἰάσων">Ἰάσων</name></persName> <foreign xml:lang="la"><w lemma="obeo"><expan><abbr><am>Θ</am></abbr><ex>obiit</ex></expan></w></foreign> <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="40">μ</num> </date>
                     <lb n="2"/><persName type="attested"><name nymRef="Λόγγος">Λόγγος</name></persName>                    
                    <lb n="3"/><space quantity="1" unit="character"/> 
-            <date dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="5">ε</num> </date>
+            <date type="life-span" dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="5">ε</num> </date>
                     <lb n="1"/><persName type="attested"><name nymRef="Πόλλις">Πόλλις</name></persName> 
-            <date dur="P4Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="4">δ</num> </date>
+            <date type="life-span" dur="P4Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="4">δ</num> </date>
                 </ab>
 </div>
          <div type="apparatus" xml:space="preserve"><head>Apparatus</head>

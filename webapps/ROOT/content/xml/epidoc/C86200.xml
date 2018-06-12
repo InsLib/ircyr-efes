@@ -121,7 +121,7 @@
    <lb n="1"/><persName type="attested"><name><seg part="F">ευς</seg></name> <persName type="attested"><name nymRef="Ἀσκληπιάδης">Ἀ<unclear>σκλ</unclear><lb n="2" break="no"/>ηπιάδου</name></persName></persName>
                     <lb n="3"/><persName type="attested"><name nymRef="Μυρώ">Μυ <space quantity="1" unit="character"/> ρὼ</name> <persName type="attested"><name nymRef="Αἰάλαν">Αἰ<lb n="4" break="no"/>αλάντος</name></persName></persName>
                     <lb n="5"/><space quantity="3" unit="character"/> 
-                    <date dur="P54Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P54Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="54">νδ</num> </date>
                 </ab>
 </div>

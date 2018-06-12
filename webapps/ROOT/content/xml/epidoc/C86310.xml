@@ -120,7 +120,7 @@
                     <lb n="1"/><w>ἀπ
                     <lb n="2" break="no"/>έθανε</w>
                     <lb n="3"/><persName type="attested"><name nymRef="Ζηνοῦ">Ζηνοῦ</name></persName>
-                    <lb n="4"/><date dur="P20Y"><w lemma="ἔτος">ἔτους</w>
+                    <lb n="4"/><date type="life-span" dur="P20Y"><w lemma="ἔτος">ἔτους</w>
             <lb n="5"/><num value="20">κ</num> </date>
                 </ab>
 </div>

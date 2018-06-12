@@ -116,7 +116,7 @@
                         <lb n="1"/><persName type="attested" key="lgpn:V1-66178"><name nymRef="Χωρόφιλος">Χωροφίλω</name></persName>
                     </ab></div><div subtype="section" n="a" type="textpart"><ab>
                         <lb n="1"/><persName type="attested" key="lgpn:V1-63742"><name nymRef="Ἑρμιόνη">Ἑρμιόνη</name></persName> 
-                       <date dur="P13Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="13">ιγ</num> </date>
+                       <date type="life-span" dur="P13Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="13">ιγ</num> </date>
                     </ab>
 </div>
 </div>

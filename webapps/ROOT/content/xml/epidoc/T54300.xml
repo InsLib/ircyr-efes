@@ -131,7 +131,7 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
             <num value="6">ς</num> <persName type="attested" key="lgpn:V1-60706"><name nymRef="Τύφων">Τύφω<supplied reason="lost" cert="low">ν</supplied></name></persName> 
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><date dur="P34Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="2"/><date type="life-span" dur="P34Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="34">λδ</num> </date>
                 </ab>
 </div>

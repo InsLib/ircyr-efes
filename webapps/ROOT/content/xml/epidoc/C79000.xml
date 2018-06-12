@@ -117,7 +117,7 @@
                     <lb n="2"/><persName type="attested"><name nymRef="Κλευπάτρα">Κλευπάτρα</name>
                     <lb n="3"/><persName type="attested"><name nymRef="Ἀλεξικράτης"><unclear>Ἀλ</unclear>εξικράτου</name></persName></persName>
                     <lb n="4"/><space quantity="1" unit="character"/>
-                    <date dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="45">με</num> </date>
                 </ab>
 </div>

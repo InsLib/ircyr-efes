@@ -127,7 +127,7 @@
                    <rs type="month" key="Φαρμουθί"><w lemma="Φαρμουθί">Φαρ<supplied reason="lost">μ</supplied><lb n="2" break="no"/><supplied reason="lost">οῦ</supplied><unclear>θ</unclear>ι </w></rs>
                     <num value="6">ς<gap reason="lost" quantity="1" unit="character"/></num>
                     <lb n="3"/><persName type="attested"><name nymRef="Α-">Α<gap reason="lost" quantity="3" unit="character"/>ου</name></persName>
-                    <lb n="4"/><date dur="P8Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="4"/><date type="life-span" dur="P8Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="8"><unclear>η</unclear></num> </date>
                 </ab>
 </div>

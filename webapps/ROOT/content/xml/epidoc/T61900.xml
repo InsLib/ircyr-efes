@@ -135,7 +135,7 @@
                         <rs type="month" key="Θώθ"><w>Θῶ<lb n="2" break="no"/>θυ</w></rs> <num value="22" xml:lang="grc">βκ</num>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60570"><name nymRef="Εὐδαίμων">Εὐδαίμ<lb n="4" break="no"/>ων</name>  
                         <persName type="attested" key="lgpn:V1-60567"><name nymRef="Βάσσος">Βάσ<lb n="5" break="no"/><unclear>σ</unclear>ω</name></persName></persName>  
-                        <date dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                        <date type="life-span" dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                         <num value="20">κ</num> </date>
                 </ab>
 </div>

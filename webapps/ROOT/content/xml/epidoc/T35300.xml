@@ -130,9 +130,9 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-60479"><name nymRef="Καλλίνικος"><unclear>Κ</unclear>αλλίνικοϲ</name></persName> 
-                        <date dur="P15Y"><w>ἔ<unclear>τη</unclear></w> <num value="15">ιε</num> </date> 
+                        <date type="life-span" dur="P15Y"><w>ἔ<unclear>τη</unclear></w> <num value="15">ιε</num> </date> 
                     <lb n="2"/> <persName type="attested" key="lgpn:V1-60480"><name nymRef="Τιμῶχος"><unclear>Τ</unclear>ιμ<supplied reason="lost">ῶ</supplied><unclear>χ</unclear>ο<unclear>ϲ</unclear></name></persName>
-                    <date dur="P10Y"><w lemma="ἔτος">ἐτῶν</w> <num value="10">ι</num> </date>
+                    <date type="life-span" dur="P10Y"><w lemma="ἔτος">ἐτῶν</w> <num value="10">ι</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

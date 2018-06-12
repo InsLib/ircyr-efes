@@ -129,7 +129,7 @@
                     <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παῦνε</w></rs> <num value="8">η</num>
                     <lb n="2"/><persName type="attested"><name nymRef="Φίλων">Φίλων</name>
                     <lb n="3"/><persName type="attested"><name nymRef="Διονύσιος">Διονυσίω</name></persName></persName>
-                    <lb n="4"/><orig>η</orig> <date dur="P65Y"><num value="65">ξε</num> </date><gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="4"/><orig>η</orig> <date type="life-span" dur="P65Y"><num value="65">ξε</num> </date><gap reason="lost" quantity="3" unit="character"/>
                 </ab>
 </div>
          

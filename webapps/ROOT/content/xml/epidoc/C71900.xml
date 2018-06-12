@@ -123,10 +123,10 @@
                     <lb n="3"/><persName type="attested"><name nymRef="Θεύδωρος">Θεύδωρ<supplied reason="lost">ος</supplied></name>
                     <lb n="4"/><persName type="attested"><name nymRef="Ἁγησίστρατος">Ἁγησιστράτ<supplied reason="lost">ω</supplied></name></persName></persName>
    <lb n="4a"/><space quantity="1" unit="line"/>
-                    <lb n="5"/><date dur="P13Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="13">ιγ</num> </date>
+                    <lb n="5"/><date type="life-span" dur="P13Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="13">ιγ</num> </date>
    <lb n="5a"/><space quantity="1" unit="line"/>
                     <lb n="6"/><persName type="attested"><name nymRef="Ἀριστόδαμος">Ἀριστόδα<supplied reason="lost">μ</supplied><lb n="7" break="no"/>ος</name> 
-                    <persName type="attested"><name nymRef="Ἁγησίστρατος">Ἁγησιστ<supplied reason="lost">ρά</supplied><lb n="8" break="no"/>τω</name></persName></persName> <date dur="P50Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="50">ν</num> </date> 
+                    <persName type="attested"><name nymRef="Ἁγησίστρατος">Ἁγησιστ<supplied reason="lost">ρά</supplied><lb n="8" break="no"/>τω</name></persName></persName> <date type="life-span" dur="P50Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="50">ν</num> </date> 
                     <lb n="9"/><persName type="attested"><name nymRef="Φιλοῦς">Φιλοῦς</name> 
                     <lb n="10"/><persName type="attested"><name nymRef="Εὐφράνωρ"><supplied reason="lost">Ε</supplied>ὐφράνο<supplied reason="lost">ρος</supplied></name></persName></persName>
                 </ab>

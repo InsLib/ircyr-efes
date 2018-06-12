@@ -138,7 +138,7 @@
                     <lb n="7"/><num value="30">λ</num> 
                    <persName type="attested" key="lgpn:V1-60142"><name nymRef="Γάϊος">ΓάΪ<lb n="8" break="no"/><supplied reason="lost">ος</supplied></name> 
                     <lb n="9"/><persName type="attested" key="lgpn:V1-60145"><name nymRef="Γάϊος"><supplied reason="lost">Γα</supplied>ΐου</name></persName></persName>
-                    <lb n="10"/><date dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="20">κ</num> </date>
+                    <lb n="10"/><date type="life-span" dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="20">κ</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

@@ -126,7 +126,7 @@
                         <name nymRef="Ἀριπαχθίς">Ἀρι<unclear>π</unclear><supplied reason="lost">α</supplied><lb n="4" break="no"/>χθὶς</name></persName> <space quantity="3" unit="character"/> 
                         <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><space quantity="3" unit="character"/> 
-                        <date dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                        <date type="life-span" dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="45">με</num> </date> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>

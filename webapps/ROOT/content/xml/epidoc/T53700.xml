@@ -132,7 +132,7 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="101">ρα</num> <rs type="month" key="Φαρμουθί"><w lemma="Φαρμουθί">Φαρμ<lb n="2" break="no"/>ο<supplied reason="omitted">υ</supplied>θὶ</w></rs> <num value="18">ιη</num>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60710"><name nymRef="Μεγώι">Μεγόι</name> <persName type="attested" key="lgpn:V1-60711"><name nymRef="Ἴαλμις">Ἰ<unclear>ά</unclear>λ<lb n="4" break="no"/>μιος</name></persName></persName> 
-                    <date dur="P11Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P11Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="11">αι</num> </date>
                 </ab>
 </div>

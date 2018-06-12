@@ -118,7 +118,7 @@
                     <lb n="1"/><gap reason="lost" quantity="1" unit="character"/>
                     <persName type="attested"><name nymRef="Σήστιος">Σ<supplied reason="lost">η</supplied><unclear>σ</unclear>τίου</name>
                     <name nymRef="Υ-"><seg part="I"><unclear>Υ</unclear></seg></name><lb n="2" break="no"/><gap reason="lost" quantity="4" unit="character"/><name><seg part="F">θηρος</seg></name></persName>
-                    <lb n="3"/><date dur="P3Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied>
+                    <lb n="3"/><date type="life-span" dur="P3Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied>
                     <num value="3">γ</num> </date>
                 </ab>
 </div>

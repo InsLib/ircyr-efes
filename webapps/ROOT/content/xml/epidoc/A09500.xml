@@ -129,7 +129,7 @@
                     
                     <lb n="1"/><persName type="attested" key="lgpn:V1-62070"><name nymRef="Εὐβούλα">Εὐβούλα</name>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-62102"><name nymRef="Καρνεάδης"><unclear>Κ</unclear>αρνεάδου</name></persName></persName>
-                    <lb n="3"/><date dur="P61Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="3"/><date type="life-span" dur="P61Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="61">ξα</num> </date>
                 </ab>
 </div>

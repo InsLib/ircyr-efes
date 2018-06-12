@@ -135,7 +135,7 @@
                     <lb n="2"/><num value="6"><unclear>ς</unclear></num> 
                     <persName type="attested" key="lgpn:V1-60027"><name nymRef="Ἀνδροσθένης">Ἀνδροσ<lb n="3" break="no"/>θένης</name> 
                     <lb n="4"/><persName type="attested" key="lgpn:V1-60026"><name nymRef="Ἀνδροσθένης">Ἀνδροσ<lb n="5" break="no"/>θένους</name></persName></persName>  
-                    <lb n="6"/><date dur="P67Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="6"/><date type="life-span" dur="P67Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="67"><unclear>ξ</unclear>ζ</num> </date>
                 </ab>
 </div>

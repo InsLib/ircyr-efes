@@ -126,7 +126,7 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="4">δ</num> <persName type="attested" key="lgpn:V1-60469"><name nymRef="Λονγῖνος">Λονγ<unclear>ε</unclear><supplied reason="lost">ῖ</supplied><lb n="2" break="no"/> νος</name> 
                        <persName type="attested" key="lgpn:V1-60470"><name nymRef="Πτολεμαῖος">Πτυ<lb n="3" break="no"/> λεμαίο<unclear>υ</unclear></name></persName></persName> 
-                    <lb n="4"/> <space quantity="1" unit="character"/> <date dur="P46Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="4"/> <space quantity="1" unit="character"/> <date type="life-span" dur="P46Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="46">μς</num> </date> 
                     <lb n="5"/> <rs type="month" key="Φαωφί"><w lemma="Φαωφί">Φαωφί</w></rs> <num value="2">β</num>
                 </ab>

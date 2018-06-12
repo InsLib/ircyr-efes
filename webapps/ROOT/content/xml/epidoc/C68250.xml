@@ -130,7 +130,7 @@
  <lb n="2"/><w>ὀέτρανος</w> <g type="stop"/> <w><expan><abbr>λεγ</abbr><ex>ιῶνος</ex></expan></w> 
  <lb n="3"/><num value="1">α</num> <placeName type="ethnic"><w>Εἰταλικῆς</w></placeName>
  <lb n="4"/><space unit="character" extent="unknown"/> 
-                <date dur="P60Y"><w lemma="ἔτος">ἐτῶν</w>
+                <date type="life-span" dur="P60Y"><w lemma="ἔτος">ἐτῶν</w>
                        <g type="stop"/> <num value="60">ξ</num> </date>
             </ab>
             </div>

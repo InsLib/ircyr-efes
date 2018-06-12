@@ -119,7 +119,7 @@
               <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name>
                   <name nymRef="Βειβάριος">Βειβάριος</name>
                <lb n="2"/><name nymRef="Ῥουστικός">Ῥουστικὸς</name></persName>
-               <lb n="3"/><date dur="P40Y"><w><expan><abbr><am></am></abbr><ex>ἐτῶν</ex></expan></w>
+               <lb n="3"/><date type="life-span" dur="P40Y"><w><expan><abbr><am></am></abbr><ex>ἐτῶν</ex></expan></w>
                    <num value="40">μ</num> </date>
             </ab>
          </div>

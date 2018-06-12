@@ -129,7 +129,7 @@
                    <lb n="2"/><gap reason="lost" quantity="1" unit="line"/>
                    <lb n="3"/><persName type="attested"><name><seg part="F"><unclear>ν</unclear>α<unclear>νος</unclear></seg></name> 
                     <persName type="attested" key="lgpn:V1-60811"><name nymRef="Λεύκιππος">Λευ<lb n="4" break="no"/>κίππου</name></persName></persName> 
-                   <lb n="5"/><date dur="P65Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                   <lb n="5"/><date type="life-span" dur="P65Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                <num value="65">ξε</num> </date>
          </ab>
          </div>

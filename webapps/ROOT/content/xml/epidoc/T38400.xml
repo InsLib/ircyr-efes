@@ -122,7 +122,7 @@
                     <w>Μ<unclear>ε</unclear><supplied reason="lost">χὶ</supplied>ρ</w> <num value="10">ι</num> 
                     <orig>λ</orig><gap reason="lost" quantity="1" unit="character"/><persName type="attested"><name nymRef="Βιλλιῆνος"><supplied reason="lost">Βι</supplied>
                     <lb n="2" break="no"/>λλι<unclear>ην</unclear>ω</name> </persName>
-            <date dur="P2Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num atLeast="2"><num value="2"><unclear>β</unclear></num> <gap reason="lost" quantity="2" unit="character"/></num> </date>
+            <date type="life-span" dur="P2Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num atLeast="2"><num value="2"><unclear>β</unclear></num> <gap reason="lost" quantity="2" unit="character"/></num> </date>
                 </ab>
 </div>
          

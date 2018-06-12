@@ -124,7 +124,7 @@
 <ab>
                    <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" key="lgpn:V1-60446"><name nymRef="Λογγῖνος"><supplied reason="lost">Λο</supplied><unclear>νγ</unclear>ῖ<unclear>ν</unclear>ος</name></persName>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><space quantity="1" unit="character"/> <date dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><space quantity="1" unit="character"/> <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="40">μ</num> </date>
                 </ab>
 </div>
