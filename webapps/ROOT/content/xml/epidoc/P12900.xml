@@ -51,8 +51,8 @@
                <history>
                   <origin>
                      <origPlace>Unknown</origPlace>
-                     <origDate notBefore="0001" notAfter="0200" precision="low" evidence="lettering, titulature">i: mid-first - early second century C.E.</origDate>
-                     <origDate notBefore="0001" notAfter="0200" precision="low" evidence="lettering, context">ii: second century C.E.</origDate>
+                     <origDate notBefore="0001" notAfter="0200" precision="low" evidence="lettering titulature">i: mid-first - early second century C.E.</origDate>
+                     <origDate notBefore="0001" notAfter="0200" precision="low" evidence="lettering context">ii: second century C.E.</origDate>
                   </origin>
                         <provenance type="found">
                            <p>

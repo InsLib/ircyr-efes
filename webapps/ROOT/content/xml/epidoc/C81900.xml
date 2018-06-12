@@ -50,7 +50,7 @@
                <history>
                   <origin>
                      <origPlace>Unknown</origPlace>
-                     <origDate notBefore="0074" notAfter="0074" evidence="reign, titulature">74 C.E., first half</origDate><!-- check -->
+                     <origDate notBefore="0074" notAfter="0074" evidence="reign titulature">74 C.E., first half</origDate><!-- check -->
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>:
