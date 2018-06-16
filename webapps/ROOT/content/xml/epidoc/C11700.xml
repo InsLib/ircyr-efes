@@ -44,7 +44,7 @@
                <history>
                   <origin>
                      <origPlace>Unknown.</origPlace>
-                     <origDate notBefore="0201" evidence="lettering" precision="low">Not earlier than third century</origDate>
+                     <origDate notBefore="0201" notAfter="0700" evidence="lettering" precision="low">Not earlier than third century</origDate>
                   </origin>
                   
                      
