@@ -157,8 +157,7 @@
                   <rdg resp="#oliverio1929">?? <gap reason="lost" quantity="2" unit="characters"/>
                      <orig>ΕΚΙ</orig>
                     <space quantity="1" unit="character"/> 
-                     <g type="stop"/> 
-                     <orig>AHTH</orig>
+                     <g ref="symbols.xml#stop"/> <orig>AHTH</orig>
                   </rdg>
                </app>
             </listApp>

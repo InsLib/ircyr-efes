@@ -116,22 +116,22 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div n="1" type="textpart">
                <ab>
-                     <lb n="1"/><g type="crux"/> <persName type="divine" key="ktisis"><w lemma="κτίσις">Κτίσις</w></persName>
+                     <lb n="1"/><g ref="symbols.xml#crux"/> <persName type="divine" key="ktisis"><w lemma="κτίσις">Κτίσις</w></persName>
                </ab>
             </div>
             <div n="2" type="textpart">
                 <ab>
-                     <lb n="1"/><g type="crux"/> <persName type="divine" key="kosmesis"><w lemma="κόσμησις">Κόσμησις</w></persName>
+                     <lb n="1"/><g ref="symbols.xml#crux"/> <persName type="divine" key="kosmesis"><w lemma="κόσμησις">Κόσμησις</w></persName>
                   </ab>
             </div>
             <div n="3" type="textpart">
                 <ab>
-                     <lb n="1"/><g type="crux"/> <persName type="divine" key="ananeosis"><w lemma="ἀνανέωσις">Ἀνανέω<supplied reason="undefined">σις</supplied></w></persName>
+                     <lb n="1"/><g ref="symbols.xml#crux"/> <persName type="divine" key="ananeosis"><w lemma="ἀνανέωσις">Ἀνανέω<supplied reason="undefined">σις</supplied></w></persName>
                   </ab>
             </div>
             <div n="4" type="textpart">
                      <ab>
-                     <lb n="1"/><g type="crux"/> <persName type="divine" key="phison"><geogName nymRef="Φίσων">Φί<g type="palm"/>σων</geogName></persName>
+                     <lb n="1"/><g ref="symbols.xml#crux"/> <persName type="divine" key="phison"><geogName nymRef="Φίσων">Φί<g ref="symbols.xml#palm"/>σων</geogName></persName>
                   </ab>
              </div>
             <div n="2" type="textpart">

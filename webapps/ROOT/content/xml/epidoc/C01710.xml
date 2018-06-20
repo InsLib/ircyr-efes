@@ -219,7 +219,7 @@
                <lb n="16"/><w>ἀνάμνηϲιν</w> <w>τῆϲ</w> <w>παλαιᾶϲ</w> 
                <w>ὑμῶν</w> <w>εὐγενείαϲ</w> <w part="I">διε<unclear>ϲ</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
                <lb n="17"/><w part="F">θωθ<unclear>ή</unclear>ϲεϲθαι</w> <w>δοκεῖ</w> <w>ἐπέδωκέ</w> 
-               <w>μοι</w> <space quantity="1" unit="character"/> <g type="leaf"/> <space quantity="1" unit="character"/> <w lemma="νῦν">νῦν</w><gap reason="lost" extent="unknown" unit="character"/>
+               <w>μοι</w> <space quantity="1" unit="character"/> <g ref="symbols.xml#leaf"/> <space quantity="1" unit="character"/> <w lemma="νῦν">νῦν</w><gap reason="lost" extent="unknown" unit="character"/>
                <lb n="18"/><w>πολυανθρωποτάτην</w> <w>καὶ</w> <w>καλλίϲτην</w> <w>πόλιν</w>
                <w>γένοϲ</w> <gap reason="lost" extent="unknown" unit="character"/>
                <lb n="19"/><w>μητρόπολιϲ</w> <w>καὶ</w> <w>τὰ</w> <w>εἰϲ</w> <w>τοὺϲ</w>

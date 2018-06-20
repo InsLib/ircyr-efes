@@ -127,11 +127,10 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><div subtype="section" n="a" type="textpart"><ab>
                         <lb n="1"/><orig>cae</orig> 
                </ab></div><div subtype="section" n="b" type="textpart"><ab>
-                        <lb n="1"/><orig>l</orig><g type="stop"/><orig>f</orig><g type="stop"/><orig>sc</orig> 
+                        <lb n="1"/><orig>l</orig><g ref="symbols.xml#stop"/><orig>f</orig><g ref="symbols.xml#stop"/><orig>sc</orig> 
             </ab></div><div subtype="section" n="c" type="textpart"><ab>
-                        <lb n="1"/><orig>q</orig><g type="stop"/><orig>f</orig><g type="stop"/> 
-               </ab></div><div subtype="section" n="d-e" type="textpart"><ab>
-                        <lb n="1"/><orig>a</orig><g type="stop"/><orig>longu</orig> 
+                        <lb n="1"/><orig>q</orig><g ref="symbols.xml#stop"/><orig>f</orig><g ref="symbols.xml#stop"/> </ab></div><div subtype="section" n="d-e" type="textpart"><ab>
+                        <lb n="1"/><orig>a</orig><g ref="symbols.xml#stop"/><orig>longu</orig> 
                        </ab></div><div subtype="section" n="f" type="textpart"><ab>
                         <lb n="1"/><orig>ae</orig> 
                        </ab></div><div subtype="section" n="g" type="textpart"><ab>

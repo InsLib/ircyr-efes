@@ -118,10 +118,9 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Urbasia">Urbasia</name> <g type="leaf"/> <persName type="attested"><name nymRef="Titus"><expan><abbr>T</abbr><ex>iti</ex></expan></name></persName> 
-                    <g type="leaf"/> <w lemma="liberta"><expan><abbr>l</abbr><ex>iberta</ex></expan></w></persName> <g type="leaf"/> 
-                    <persName type="attested"><name nymRef="Diodora">Dio<unclear>d</unclear><supplied reason="lost">o</supplied><unclear>r</unclear>a</name></persName> 
-                    <space quantity="1" unit="character"/> <w lemma="se">sibi</w> <g type="leaf"/> <w lemma="et">et</w> <g type="leaf"/> <w lemma="se">suis</w>
+                    <lb n="1"/><persName type="attested"><name nymRef="Urbasia">Urbasia</name> <g ref="symbols.xml#leaf"/> <persName type="attested"><name nymRef="Titus"><expan><abbr>T</abbr><ex>iti</ex></expan></name></persName> 
+                    <g ref="symbols.xml#leaf"/> <w lemma="liberta"><expan><abbr>l</abbr><ex>iberta</ex></expan></w></persName> <g ref="symbols.xml#leaf"/> <persName type="attested"><name nymRef="Diodora">Dio<unclear>d</unclear><supplied reason="lost">o</supplied><unclear>r</unclear>a</name></persName> 
+                    <space quantity="1" unit="character"/> <w lemma="se">sibi</w> <g ref="symbols.xml#leaf"/> <w lemma="et">et</w> <g ref="symbols.xml#leaf"/> <w lemma="se">suis</w>
                 </ab>
 </div>
          <div type="apparatus">

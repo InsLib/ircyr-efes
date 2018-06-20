@@ -148,7 +148,7 @@
             <div subtype="part" n="v" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" quantity="2" unit="character"/>
                         <persName type="attested" key="lgpn:V1-60777"><name nymRef="Ἀρίββας"><supplied reason="lost">Ἀ</supplied><unclear>ρ</unclear>ιββας</name></persName>
-                        <w><expan><abbr><expan><abbr><g type="monogram"/></abbr><ex>φιλ</ex></expan></abbr><ex>ος</ex></expan></w><!-- check -->
+                        <w><expan><abbr><expan><abbr><g ref="symbols.xml#monogram"/></abbr><ex>φιλ</ex></expan></abbr><ex>ος</ex></expan></w><!-- check -->
                         <persName type="attested"><name nymRef="Βοσύλιος">Βο<unclear>σ</unclear>υ<unclear>λ</unclear>ίω</name></persName>
                     </ab></div>
             <div subtype="part" n="vi" type="textpart"><ab>

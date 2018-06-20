@@ -129,8 +129,7 @@
                   <note>Or <expan>
                         <abbr>
                            <am>
-                              <g type="years"/>
-                           </am>
+                              <g ref="symbols.xml#years"/> </am>
                         </abbr>
                         <ex>ἐτῶν</ex>
                      </expan>, so 'aged 24'

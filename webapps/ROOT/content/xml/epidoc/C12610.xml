@@ -160,7 +160,7 @@
 	    <name nymRef="Ἀνθέστιος">Ἀνθεστίω</name> <name nymRef="Πολύβιος">Πολυβίω</name> 
         <w>νέω</w></persName> <w>καὶ</w> <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ουκίω</ex></expan></name> 
         <name nymRef="Ἀνθέστιος">Ἀνθεστίω</name>	
-        <lb n="14"/><name nymRef="Ἀρχίβιος">Ἀρχιβίω</name></persName> <g type="leaf"/> <space extent="unknown" unit="character"/>, 
+        <lb n="14"/><name nymRef="Ἀρχίβιος">Ἀρχιβίω</name></persName> <g ref="symbols.xml#leaf"/> <space extent="unknown" unit="character"/>, 
         <w>στραταγέντων</w> <space quantity="1" unit="character"/>
         <persName type="attested"><name nymRef="Σέξτος"><expan><abbr>Σέξ</abbr><ex>τω</ex></expan></name>
 	<lb n="15"/><name nymRef="Βαλέριος">Βαλερίω</name> <name nymRef="Βίκτωρ">Βίκτορος</name></persName> <w>καὶ</w> 

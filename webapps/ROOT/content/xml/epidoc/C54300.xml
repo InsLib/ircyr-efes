@@ -150,13 +150,12 @@
                     <num value="109">ρθ</num> <w>τοῦ</w> <w>καὶ</w> <num value="8">η</num>
                     <lb n="6"/> <persName type="attested" key="lgpn:V1-60937"><name nymRef="Ῥοδόκλεια">Ῥοδόκλεια</name> <persName type="attested"><name nymRef="Θρασύμαχος">Θρα<lb n="7" break="no"/>ϲυμάχω</name></persName></persName> 
             <date type="life-span" dur="P55Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="55">νε</num> </date>
-                    <lb n="8"/><g type="leaf"/> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="8"/><g ref="symbols.xml#leaf"/> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <gap reason="lost" quantity="1" unit="character"/><num value="109">ρθ</num> <w>τοῦ</w> <w>κ<supplied reason="lost">αὶ</supplied></w> 
                         <supplied reason="lost"><num value="8">η</num> </supplied> <persName type="attested"><name nymRef="Κλευπάτρα">Κλευπάτρα</name>
                     <lb n="9"/><persName type="attested"><name nymRef="Λῦσις">Λύσιδ<unclear>ο</unclear>ς</name></persName></persName> 
             <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
-                    <num atLeast="40">μ</num> </date> <g type="leaf"/>
-                    <lb n="10"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
+                    <num atLeast="40">μ</num> </date> <g ref="symbols.xml#leaf"/> <lb n="10"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
                      <num atLeast="100">ρ<gap reason="lost" atLeast="1" atMost="2" unit="character"/></num> 
                     <orig>ευη</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

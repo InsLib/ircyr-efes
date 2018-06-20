@@ -120,7 +120,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">ων</seg></name></persName> 
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><space quantity="1" unit="character"/> <orig><unclear>Ο</unclear></orig> <w><expan><abbr><expan><abbr><g type="monogram"/></abbr><ex>σύγκ</ex></expan></abbr><ex>οιτος</ex></expan></w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><space quantity="1" unit="character"/> <orig><unclear>Ο</unclear></orig> <w><expan><abbr><expan><abbr><g ref="symbols.xml#monogram"/></abbr><ex>σύγκ</ex></expan></abbr><ex>οιτος</ex></expan></w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">ς</seg></name></persName> 
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">ο<unclear>υ</unclear>ς</seg></name></persName>
                 </ab>

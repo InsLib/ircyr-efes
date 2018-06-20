@@ -119,7 +119,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="face" n="a" type="textpart"><div subtype="fragment" n="i" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>φι</orig> 
                         <space quantity="1" unit="character"/><persName type="attested"><name nymRef="Νοβίος">Νοβίος</name></persName>
-                        <w><expan><abbr><expan><abbr><am><g type="monogram"/></am></abbr><ex>φίλ</ex></expan></abbr><ex>οι</ex></expan></w> 
+                        <w><expan><abbr><expan><abbr><am><g ref="symbols.xml#monogram"/></am></abbr><ex>φίλ</ex></expan></abbr><ex>οι</ex></expan></w> 
                         <orig>Σ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">οϲ</w> 

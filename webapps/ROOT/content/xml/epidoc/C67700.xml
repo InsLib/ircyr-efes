@@ -118,8 +118,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="column" n="1" type="textpart"><ab>     
                         <lb n="1"/><persName type="attested" key="lgpn:V1-62723"><name nymRef="Ἀλέξανδρος">Ἀλέξανδρος</name></persName> 
-                        <lb n="2"/><persName type="attested"><name nymRef="Ἑλβία"><unclear>Ἑ</unclear>λ<unclear>β</unclear>ίας</name> <name nymRef="Εἰρήνη">Ἰρηνης</name></persName> <g type="leaf"/>
-                        <lb n="3"/><w>ἦλθε</w> 
+                        <lb n="2"/><persName type="attested"><name nymRef="Ἑλβία"><unclear>Ἑ</unclear>λ<unclear>β</unclear>ίας</name> <name nymRef="Εἰρήνη">Ἰρηνης</name></persName> <g ref="symbols.xml#leaf"/> <lb n="3"/><w>ἦλθε</w> 
                         <lb n="3a"/> <space quantity="1" unit="line"/>
                         <lb n="4"/><persName type="attested"><name nymRef="Ἀρτεμισία">Ἀρτεμισ<unclear>α</unclear></name></persName> 
                     </ab></div><div subtype="column" n="2" type="textpart"><ab>        

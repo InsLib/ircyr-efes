@@ -115,7 +115,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><g type="crux"/> <orig>ι<unclear>σ</unclear>τ<unclear>η</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig>μ<unclear>ιοι</unclear></orig>
+                    <lb n="1"/><g ref="symbols.xml#crux"/> <orig>ι<unclear>σ</unclear>τ<unclear>η</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig>μ<unclear>ιοι</unclear></orig>
                     <lb n="2"/><orig>πι<unclear>δ</unclear>οσ</orig> <space extent="unknown" unit="character"/>
                     <orig>κωμ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

@@ -156,8 +156,7 @@
                         <name nymRef="Νόβιος">Νόβιος</name> <name nymRef="Ἰατρόδωρος">Ἰα 
                     <lb n="12" break="no"/><supplied reason="lost">τρό</supplied>δωρος</name></persName> <w>ἀκαδήμαρχος</w>
                     <persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>άιος</ex></expan></name> 
-                    <lb n="13"/><name nymRef="Φλάβιος"><supplied reason="lost">Φλ</supplied>άβιος</name> <name nymRef="Φλαβιανός">Φλαβιανός</name></persName> <g type="leaf"/>
-                    <lb n="13"/><space quantity="7" unit="character"/><w>Ἔφηβοι</w><space quantity="7" unit="character"/> 
+                    <lb n="13"/><name nymRef="Φλάβιος"><supplied reason="lost">Φλ</supplied>άβιος</name> <name nymRef="Φλαβιανός">Φλαβιανός</name></persName> <g ref="symbols.xml#leaf"/> <lb n="13"/><space quantity="7" unit="character"/><w>Ἔφηβοι</w><space quantity="7" unit="character"/> 
                     <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/><!-- check allignment -->
                  <persName type="attested"><name nymRef="Φιλήμων">Φιλήμων</name></persName> 
                     <space quantity="5" unit="character"/> <persName type="attested" key="lgpn:V1-62967"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> 

@@ -118,13 +118,13 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
                <ab>   
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="139">ρ <g type="stop"/> λθ</num> <g type="stop"/> <w>του</w> <w>καὶ</w> <g type="stop"/> <num value="12">ιβ</num> 
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="139">ρ <g ref="symbols.xml#stop"/> λθ</num> <g ref="symbols.xml#stop"/> <w>του</w> <w>καὶ</w> <g ref="symbols.xml#stop"/> <num value="12">ιβ</num> 
                   <persName type="attested" key="lgpn:V1-64603"><name nymRef="Τιβέριος"><expan><abbr><unclear>Τι</unclear></abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύ
                     <lb n="2" break="no"/><space quantity="1" unit="character"/>διος</name> <name nymRef="Καρτισθένης"><unclear>Κ</unclear>αρτισθένη<unclear>ς</unclear></name><space unit="character" quantity="3"/> 
                 
                     <lb n="3"/><name nymRef="Μελίωρ"><supplied reason="lost">Μελίω</supplied><unclear>ρ</unclear></name> 
-                  <g type="stop"/> <persName type="attested" key="lgpn:V1-64604"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></name> <g type="stop"/> <name nymRef="Κλαύδιος">Κλαυ<unclear>δ</unclear><supplied reason="lost">ίου</supplied></name>                    
-                     <lb n="4"/><name nymRef="Καρτισθένης"><supplied reason="lost">Καρτισθέ</supplied><unclear>ν</unclear>ους</name> <g type="stop"/></persName> <w>υἱ<supplied reason="lost">ός</supplied></w></persName>                    
+                  <g ref="symbols.xml#stop"/> <persName type="attested" key="lgpn:V1-64604"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></name> <g ref="symbols.xml#stop"/> <name nymRef="Κλαύδιος">Κλαυ<unclear>δ</unclear><supplied reason="lost">ίου</supplied></name>                    
+                     <lb n="4"/><name nymRef="Καρτισθένης"><supplied reason="lost">Καρτισθέ</supplied><unclear>ν</unclear>ους</name> <g ref="symbols.xml#stop"/></persName> <w>υἱ<supplied reason="lost">ός</supplied></w></persName>                    
             </ab>
              </div>
 

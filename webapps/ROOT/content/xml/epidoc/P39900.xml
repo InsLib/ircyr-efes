@@ -129,7 +129,7 @@
                     <lb n="3"/><space quantity="3" unit="character"/> 
                     <supplied reason="undefined" evidence="previous-editor">ϲει</supplied></w> <supplied reason="undefined" evidence="previous-editor"><w lemma="ὁ">τῷ</w></supplied> 
                     <w><supplied reason="undefined" evidence="previous-editor">ταμει</supplied>ῳ</w> 
-                    <w><expan><abbr><am><g type="denarius"/></am></abbr><ex>δεναριοι</ex></expan></w> <num value="1500">αφ</num>
+                    <w><expan><abbr><am><g ref="symbols.xml#denarius"/></am></abbr><ex>δεναριοι</ex></expan></w> <num value="1500">αφ</num>
                 </ab>
          </div>
          

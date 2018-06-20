@@ -146,8 +146,7 @@
                     <lb n="4"/><w>θεοῖς</w> <w>ἐπηκόοις</w>,
                     <lb n="5"/><persName type="attested"><name nymRef="Κλαῦδιος"><expan><abbr>Κλ</abbr><ex>αύδιος</ex></expan></name> <name nymRef="Λῦκος">Λῦκος</name></persName> <w>εὐχὴν</w>
                     <lb n="6"/><w>ἀνέθηκα</w>
-                    <lb n="7"/><g type="leaf"/>
-	 </ab>
+                    <lb n="7"/><g ref="symbols.xml#leaf"/> </ab>
             </div>
           
             <div type="apparatus" xml:space="preserve">

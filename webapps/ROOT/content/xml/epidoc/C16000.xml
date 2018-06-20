@@ -129,8 +129,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>κη</orig><g type="leaf"/>
-                    <lb n="2"/><w lemma="ὑπέρ"><supplied reason="lost">ὑπὲρ</supplied></w> <w lemma="σωτηρία"><supplied reason="lost">σωτηρί</supplied><unclear>α</unclear>ς</w> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>κη</orig><g ref="symbols.xml#leaf"/> <lb n="2"/><w lemma="ὑπέρ"><supplied reason="lost">ὑπὲρ</supplied></w> <w lemma="σωτηρία"><supplied reason="lost">σωτηρί</supplied><unclear>α</unclear>ς</w> 
                     <w lemma="καί">καὶ</w> <w>ν<supplied reason="lost">είκας</supplied></w> <w lemma="καί"><supplied reason="lost">καὶ</supplied></w> <w><supplied reason="lost">αἰωνίας</supplied></w> 
                     <lb n="3"/><w><supplied reason="lost">διαμονας</supplied></w> <w lemma="ὁ"><supplied reason="lost">τῶν</supplied></w> <w><orig><unclear>θε</unclear>ιων</orig></w> 
                     <persName type="emperor" key="diocletianus"><persName type="emperor" key="maximianus"><w><unclear>Κυ</unclear><supplied reason="lost">ριων</supplied></w> <w><supplied reason="lost">Αὐτοκρατορων</supplied></w> <name nymRef="Καῖσαρ"><supplied reason="lost">Καισάρων</supplied></name> <gap reason="lost" quantity="8" unit="character" precision="low"/>

@@ -125,7 +125,7 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num> <persName type="attested" key="lgpn:V1-61700"><name nymRef="Φλάβιος">Φλάβιος</name> 
                     <lb n="2"/><persName type="attested" key="lgpn:V1-61622"><name nymRef="Σταλάκκιος">Σταλακκίου</name></persName></persName> 
-                    <lb n="3"/><date type="life-span" dur="P40Y"><w lemma="ἔτος">ἐτῶν</w> <g type="stop"/> <num value="40">μ</num> </date>
+                    <lb n="3"/><date type="life-span" dur="P40Y"><w lemma="ἔτος">ἐτῶν</w> <g ref="symbols.xml#stop"/> <num value="40">μ</num> </date>
                 </ab>
 </div>
          

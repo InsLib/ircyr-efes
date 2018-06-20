@@ -153,7 +153,7 @@
                     </ab></div><div subtype="fragment" n="vi" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ν</unclear>ο</orig><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="fragment" n="vii" type="textpart"><ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>γ</orig><g type="stop"/><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>γ</orig><g ref="symbols.xml#stop"/><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div></div><div subtype="section" n="b" type="textpart"><div subtype="fragment" n="i" type="textpart"><ab>
                         <lb n="1"/><milestone unit="block"/><orig>Μ</orig><!-\- or is it abbr and name? -\->
                         <persName type="attested"><name>Δομίτ<supplied reason="lost">ι</supplied>ο<supplied reason="lost">ς</supplied></name></persName><milestone unit="block"/>

@@ -123,12 +123,11 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="block" n="a" type="textpart"><ab>
 
                   
-                        <lb n="1"/><g type="crux"/> <w>Εὐλογία</w> <w><expan><abbr><unclear>κ</unclear></abbr><ex>υρίου</ex></expan></w> 
+                        <lb n="1"/><g ref="symbols.xml#crux"/> <w>Εὐλογία</w> <w><expan><abbr><unclear>κ</unclear></abbr><ex>υρίου</ex></expan></w> 
                         <persName type="divine" key="iesous"><name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστοῦ</ex></expan></name></persName>
                         <w lemma="ἐπί">ἐφ’</w>  <orig>η<unclear>π</unclear>α</orig>
                     </ab></div><div subtype="block" n="b" type="textpart"><ab>
-                        <lb n="1"/><g type="monogram"/>
-                    </ab>
+                        <lb n="1"/><g ref="symbols.xml#monogram"/> </ab>
 </div>
 </div>
          

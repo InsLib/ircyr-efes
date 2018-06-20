@@ -125,8 +125,7 @@
                     <space quantity="1" unit="character"/>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><orig><unclear>σ</unclear>ιλα</orig> 
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ιοσ</unclear></orig> <orig><unclear>ο</unclear></orig>
-                    <gap reason="lost" quantity="1" unit="character"/> <g type="crux"/>
-                    <orig><unclear>ν</unclear></orig> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <gap reason="lost" quantity="1" unit="character"/> <g ref="symbols.xml#crux"/> <orig><unclear>ν</unclear></orig> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="40">μ</num>  <space quantity="1" unit="character"/>
                     <gap reason="lost" extent="unknown" unit="character"/><orig>ιοσ</orig> <space quantity="1" unit="character"/>
                 </ab>

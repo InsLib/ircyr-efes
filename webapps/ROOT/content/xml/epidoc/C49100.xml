@@ -121,7 +121,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="ὑπέρ"><supplied reason="lost">ὑπὲρ</supplied></w> <w lemma="εὐχή"><supplied reason="lost">εὐ</supplied>χῆς</w> <w lemma="καί">καὶ</w> <w>σοτηρίας</w>  <w lemma="ὁ">τῶν</w> <gap reason="lost" extent="unknown" unit="character"/>    <note>sic</note>
-                    <lb n="2"/><g type="crux"/> <persName type="attested"><name nymRef="Θέκλα">Θ<unclear>έ</unclear>κλας</name></persName> <w lemma="καί">καὶ</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><g ref="symbols.xml#crux"/> <persName type="attested"><name nymRef="Θέκλα">Θ<unclear>έ</unclear>κλας</name></persName> <w lemma="καί">καὶ</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

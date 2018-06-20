@@ -115,7 +115,7 @@
             <div subtype="section" n="i" type="textpart">
                <ab>
                         <lb n="1"/><orig>α</orig> <space quantity="3" unit="character"/> 
-                        <orig><hi rend="superscript"><g type="crux"/></hi>ϲϲαδ<unclear>σ</unclear></orig>
+                        <orig><hi rend="superscript"><g ref="symbols.xml#crux"/></hi>ϲϲαδ<unclear>σ</unclear></orig>
                         <lb n="2"/><orig>λδϲρ</orig> <space quantity="3" unit="character"/> <orig>α</orig>
                </ab>
             </div>

@@ -124,7 +124,7 @@
                     </ab></div><div subtype="fragment" n="c" type="textpart"><ab>
                         <lb n="1"/> <milestone unit="block"/> <orig>μ<unclear>π</unclear></orig> 
                     </ab></div><div subtype="fragment" n="d" type="textpart"><ab>
-                        <lb n="1"/><milestone unit="block"/> <g type="stop"/> <orig>κα</orig> <milestone unit="block"/> 
+                        <lb n="1"/><milestone unit="block"/> <g ref="symbols.xml#stop"/> <orig>κα</orig> <milestone unit="block"/> 
                     </ab></div><div subtype="fragment" n="e" type="textpart"><ab>
                         <lb n="1"/><milestone unit="block"/> <orig>κρα</orig> <milestone unit="block"/>
                     </ab></div><div subtype="fragment" n="f" type="textpart"><ab>

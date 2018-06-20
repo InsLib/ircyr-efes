@@ -123,13 +123,12 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="a" type="textpart"><div subtype="fragment" n="i" type="textpart"><ab>
-                            <lb n="1"/><g type="crux"/> <w><expan><abbr>βοή</abbr><ex>θ</ex><abbr>ει</abbr></expan></w> <orig>ιν</orig> <g type="crux"/>
-                            <gap reason="lost" extent="unknown" unit="character"/><orig>ιν</orig>
+                            <lb n="1"/><g ref="symbols.xml#crux"/> <w><expan><abbr>βοή</abbr><ex>θ</ex><abbr>ει</abbr></expan></w> <orig>ιν</orig> <g ref="symbols.xml#crux"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ιν</orig>
                         </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
-                            <lb n="1"/><g type="crux"/> <orig>ΒΕΝΟΝΙBΕΚΑΥΤΙΟΣΜΙΝΙΣΟΝ</orig><orig>δ</orig>
+                            <lb n="1"/><g ref="symbols.xml#crux"/> <orig>ΒΕΝΟΝΙBΕΚΑΥΤΙΟΣΜΙΝΙΣΟΝ</orig><orig>δ</orig>
                            <persName type="divine" key="abras"><name nymRef="Ἀβρας">Ἀβ<unclear>ρ</unclear>ας</name></persName> <orig><unclear>β</unclear>αο</orig>
                         </ab></div><div subtype="fragment" n="iii" type="textpart"><ab>
-                            <lb n="1"/><orig>δρεανεοsνειοςα</orig> <g type="stop"/> <orig>νο</orig>
+                            <lb n="1"/><orig>δρεανεοsνειοςα</orig> <g ref="symbols.xml#stop"/> <orig>νο</orig>
                         </ab></div><div subtype="fragment" n="iv" type="textpart"><ab>
                             <lb n="1"/><orig>ανδαρε</orig>
                         </ab></div><div subtype="fragment" n="v" type="textpart"><ab>

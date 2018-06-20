@@ -124,8 +124,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div subtype="section" n="a" type="textpart">
                <ab>
-                        <lb n="1"/><persName type="divine" key="ares"><name nymRef="Ἄρης">Ἄρει</name></persName> <g type="leaf"/>
-                    </ab>
+                        <lb n="1"/><persName type="divine" key="ares"><name nymRef="Ἄρης">Ἄρει</name></persName> <g ref="symbols.xml#leaf"/> </ab>
             </div>
             <div subtype="section" n="b" type="textpart">
                <ab>

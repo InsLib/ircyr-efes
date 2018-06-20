@@ -105,8 +105,7 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div n="i" type="textpart"><ab>
-             <lb n="1"/><w>Α</w> <g type="crux"/> <w>Ω</w> <g type="crux"/>
-               </ab>
+             <lb n="1"/><w>Α</w> <g ref="symbols.xml#crux"/> <w>Ω</w> <g ref="symbols.xml#crux"/> </ab>
 </div>
 </div>
          

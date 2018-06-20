@@ -124,27 +124,23 @@
 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/> 
                     <lb n="1"/><persName type="attested"><name nymRef="Ἀσκλαπος">Ἀσκλαπος</name> <persName type="attested"><name nymRef="	Ἰσοκράτης">Ἰσοκρ<supplied reason="lost" evidence="previouseditor">άτους</supplied></name></persName>
-                    <lb n="2"/><w>τοῦ</w> <persName type="attested"><persName type="attested" key="lgpn:V1-62610"><name nymRef="Ἀγχίστρατος">Ἀγχιστράτου</name></persName></persName></persName> <g type="leaf"/>
-                    <lb n="2a"/><space quantity="1" unit="line"/> 
+                    <lb n="2"/><w>τοῦ</w> <persName type="attested"><persName type="attested" key="lgpn:V1-62610"><name nymRef="Ἀγχίστρατος">Ἀγχιστράτου</name></persName></persName></persName> <g ref="symbols.xml#leaf"/> <lb n="2a"/><space quantity="1" unit="line"/> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-63061"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> 
                     <name nymRef="Κλαύδιος">Κλαύδιος</name> <name nymRef="Ἀρίστανδρος">Ἀρίστα<unclear>ν</unclear><supplied reason="lost"  evidence="previouseditor">δρος</supplied></name></persName>
                     <lb n="3a"/><space quantity="1" unit="line"/>
                     <lb n="4"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἀσίνιος">Ἀσίνιος</name> 
                         <persName type="attested"><name nymRef="Φίλων">Φίλων<unclear>ο</unclear><supplied reason="lost"  evidence="previouseditor">ς</supplied></name></persName>
-                    <lb n="5"/><w>υἱὸς</w> <name nymRef="Εὐφράνωρ">Εὐφράνωρ</name></persName> <g type="leaf"/>
-                    <lb n="6"/><persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name>
+                    <lb n="5"/><w>υἱὸς</w> <name nymRef="Εὐφράνωρ">Εὐφράνωρ</name></persName> <g ref="symbols.xml#leaf"/> <lb n="6"/><persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name>
                         <persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίω</ex></expan></name> <name nymRef="Κλαύδιος">Κλ<supplied reason="lost">αυδίω</supplied></name>
                     <lb n="7"/><name nymRef="Κλέαρχος">Κλεάρχω</name> <w>ἀρχιερέο<supplied reason="lost"  evidence="previouseditor">ς</supplied></w></persName>
-                    <lb n="8"/><space quantity="1" unit="character"/> <w>υἱὸς</w> <name nymRef="Καρνήδας">Καρνήδα<unclear>ς</unclear></name></persName> <g type="leaf"/>
-                    <lb n="8a"/><space quantity="1" unit="line"/>
+                    <lb n="8"/><space quantity="1" unit="character"/> <w>υἱὸς</w> <name nymRef="Καρνήδας">Καρνήδα<unclear>ς</unclear></name></persName> <g ref="symbols.xml#leaf"/> <lb n="8a"/><space quantity="1" unit="line"/>
                     <lb n="9"/><w><supplied reason="lost"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></supplied></w> 
                         <num value="99"><supplied reason="lost"  evidence="previouseditor">ϙ</supplied>θ</num>
                     <persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἀντώνιος">Ἀντώνιος</name> 
                         <persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> <name nymRef="Ἀντώνιος"><supplied reason="lost"  evidence="previouseditor">Ἀντωνίου</supplied></name>
                     <lb n="10"/><name nymRef="Φλάμμα"><supplied reason="lost"  evidence="previouseditor">Φλάμ</supplied>μα</name></persName> <w>υἱὸς</w> <name nymRef="Κασκέλλιος">Κ<supplied reason="lost"  evidence="previouseditor">ασκέλλιος</supplied></name></persName>
                     <lb n="11"/><persName type="attested"><name nymRef="Σώτας"><supplied reason="lost">Σώτας</supplied></name>
-                        <persName type="attested"><name nymRef="Διονύσιος">Διο<supplied reason="lost"  evidence="previouseditor">νυσίου</supplied></name></persName></persName> <g type="leaf"/>
-                    <lb n="12"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="104">ρδ</num> </supplied> 
+                        <persName type="attested"><name nymRef="Διονύσιος">Διο<supplied reason="lost"  evidence="previouseditor">νυσίου</supplied></name></persName></persName> <g ref="symbols.xml#leaf"/> <lb n="12"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="104">ρδ</num> </supplied> 
                     <persName type="attested"><supplied reason="lost"  evidence="previouseditor"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name>
                         <name nymRef="Ἀντώνιος">Ἀντώνιος</name></supplied> 
                         <persName type="attested"><supplied reason="lost"  evidence="previouseditor"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name>

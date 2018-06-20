@@ -135,8 +135,7 @@
                     <lb n="7" break="no"/><supplied reason="lost"><w lemma="τις">του</w></supplied> <persName type="divine" key="virginmary"><w><supplied reason="lost">Παρθέ</supplied>νε</w>
                     <w>θεοτόκε</w></persName> <w lemma="μή">μὴ</w> <w>ἐκλείπη</w> <w lemma="ὁ">τὸ</w> <w lemma="γένος">γένος</w> <w lemma="ἕως">ἕ<lb n="8" break="no"/><supplied reason="lost">ως</supplied></w> 
    <supplied reason="lost"><w lemma="ὁ">τῆς</w></supplied> <w lemma="συντελεία"><supplied reason="lost">συν</supplied>τελίας</w>
-                    <w lemma="ὁ">τοῦ</w> <w>αἰωνος</w> <w lemma="ἀμήν">ἀμήν</w> <lb n="6"/> <g type="crux"/> <g type="leaf"/>
-                </ab>
+                    <w lemma="ὁ">τοῦ</w> <w>αἰωνος</w> <w lemma="ἀμήν">ἀμήν</w> <lb n="6"/> <g ref="symbols.xml#crux"/> <g ref="symbols.xml#leaf"/> </ab>
 </div>
          <div type="apparatus">
             <listApp>

@@ -151,12 +151,12 @@
                    <supplied reason="lost"><w>μέγιστος</w></supplied> 
                    <w><supplied reason="lost">δημα</supplied>ρχικῆς</w> 
                   <w> <unclear>ἐ</unclear><supplied reason="lost">ξ</supplied>ουσί<unclear>α</unclear>ς</w>  
-                   <g type="leaf"/><g type="leaf"/> <w>τὸ</w> <num value="7">ζ</num> 
+                   <g ref="symbols.xml#leaf"/><g ref="symbols.xml#leaf"/> <w>τὸ</w> <num value="7">ζ</num> 
                    <space quantity="1" unit="character"/>
                     <lb n="6"/><supplied reason="lost"><space quantity="1" unit="character"/></supplied>
                    <w><supplied reason="lost">ὕ</supplied>πατ<supplied reason="lost">ος</supplied> </w>
                    <supplied reason="lost"><w>τὸ</w> <num value="3">γ</num> </supplied></persName><supplied reason="lost" cert="low"><w>τῇ</w> <w>πόλει</w></supplied>  
-                    <g type="leaf"/> <w>ἔδωκεν</w><space quantity="1" unit="character"/>
+                    <g ref="symbols.xml#leaf"/> <w>ἔδωκεν</w><space quantity="1" unit="character"/>
                 </ab>
                 </div>
           <!--   <lb n="1"/><foreign xml:lang="la"><orig>ribu</orig></foreign>
@@ -175,10 +175,9 @@
                     </ab></div><div subtype="part" n="5" xml:lang="grc" type="textpart"><ab>
                         <lb n="1"/><orig>αδρ</orig>
                         <lb n="2"/><orig>ουσι<unclear>α</unclear></orig> 
-                        <lb n="3"/><g type="leaf"/>
-                    </ab></div><div subtype="part" n="6" xml:lang="grc" type="textpart"><ab>
+                        <lb n="3"/><g ref="symbols.xml#leaf"/> </ab></div><div subtype="part" n="6" xml:lang="grc" type="textpart"><ab>
                         <lb n="1"/><orig>ι<unclear>αν</unclear>ος σεβαστος</orig> <space quantity="1" unit="character"/>
-                        <lb n="2"/><orig><unclear>α</unclear>ς</orig> <g type="leaf"/><g type="leaf"/> <orig>το<hi rend="supraline">ζ</hi></orig> <space quantity="1" unit="character"/>
+                        <lb n="2"/><orig><unclear>α</unclear>ς</orig> <g ref="symbols.xml#leaf"/><g ref="symbols.xml#leaf"/> <orig>το<hi rend="supraline">ζ</hi></orig> <space quantity="1" unit="character"/>
                         <lb n="3"/><orig>εδωκεν</orig> <space quantity="1" unit="character"/>
                     </ab>
 </div>

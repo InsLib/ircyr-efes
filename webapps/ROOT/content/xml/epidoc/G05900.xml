@@ -102,16 +102,12 @@
                   
                     <lb n="1"/>
                     <persName type="divine" key="asklepios"><name nymRef="Ἀσκληπιός"><supplied reason="lost">Ἀϲκληπ</supplied>ιῶι</name>
-                       <g type="stop"/> <placeName type="ethnic">Βαλαγρείτηι</placeName> <g type="stop"/> <w>Ἰητρῶι</w></persName> <g type="stop"/>
-                    <lb n="2"/><gap reason="lost" extent="3" unit="character"/>
+                       <g ref="symbols.xml#stop"/> <placeName type="ethnic">Βαλαγρείτηι</placeName> <g ref="symbols.xml#stop"/> <w>Ἰητρῶι</w></persName> <g ref="symbols.xml#stop"/> <lb n="2"/><gap reason="lost" extent="3" unit="character"/>
             <persName type="attested"><name nymRef="Λούκουλλος"><supplied reason="lost">Λο</supplied>ύκουλλοϲ</name>
-            <g type="stop"/> <w>ἐπίτροποϲ</w> <g type="stop"/> <w>τοῦ</w>
+            <g ref="symbols.xml#stop"/> <w>ἐπίτροποϲ</w> <g ref="symbols.xml#stop"/> <w>τοῦ</w>
             <persName type="emperor"><name nymRef="Σεβαστός">Ϲεβαϲτοῦ</name></persName></persName>
-            <lb n="3"/><gap reason="lost" extent="3" unit="character"/><orig>ν</orig> <w>ὑγείαϲ</w> <g type="stop"/>
-            <w>καὶ</w> <w>εἰϲ</w> <w>ὑπόμνηϲιν</w> <g type="stop"/> <w>τῆϲ</w> <w>πρὸϲ</w>
-            <lb n="4"/><w><supplied reason="lost" cert="low">ἑαυτὸν</supplied></w> <w>φιλίαϲ</w> <g type="stop"/>
-            <w>δράκοντα</w> <g type="stop"/> <w>ἀργύρεον</w> <g type="leaf"/>
-         </ab>
+            <lb n="3"/><gap reason="lost" extent="3" unit="character"/><orig>ν</orig> <w>ὑγείαϲ</w> <g ref="symbols.xml#stop"/> <w>καὶ</w> <w>εἰϲ</w> <w>ὑπόμνηϲιν</w> <g ref="symbols.xml#stop"/> <w>τῆϲ</w> <w>πρὸϲ</w>
+            <lb n="4"/><w><supplied reason="lost" cert="low">ἑαυτὸν</supplied></w> <w>φιλίαϲ</w> <g ref="symbols.xml#stop"/> <w>δράκοντα</w> <g ref="symbols.xml#stop"/> <w>ἀργύρεον</w> <g ref="symbols.xml#leaf"/> </ab>
 </div>
          
          <div type="translation" xml:space="preserve">

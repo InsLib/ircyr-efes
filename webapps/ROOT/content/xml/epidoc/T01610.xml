@@ -118,13 +118,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-            <lb n="1"/><g type="crux"/> 
-               <w>εἰρήν<supplied reason="omitted">η</supplied></w> 
+            <lb n="1"/><g ref="symbols.xml#crux"/> <w>εἰρήν<supplied reason="omitted">η</supplied></w> 
                <w>ἡ</w> <w>εἴσοδός</w> <w>σου</w> <w>ἀρχιιερεῦ</w> 
                <w>ὁ</w> <w>βλὲπων</w> 
-               <g type="crux"/>
-               <g type="branch"/>
-         </ab>
+               <g ref="symbols.xml#crux"/> <g ref="symbols.xml#branch"/> </ab>
 </div>
          <div type="apparatus">
          </div>

@@ -419,8 +419,7 @@
                   <note>Oliverio, reading the text from Ptolemais.</note>
                </app>
                 <app loc="62">
-                        <rdg resp="SEG IX">ἰδία κομίζ<supplied reason="lost">ει</supplied>ν κάϲτρα <g type="leaf"/>
-                  </rdg>
+                        <rdg resp="SEG IX">ἰδία κομίζ<supplied reason="lost">ει</supplied>ν κάϲτρα <g ref="symbols.xml#leaf"/> </rdg>
                </app>
                 <app>
                   <note>Oliverio, reading the text from Ptolemais.</note>

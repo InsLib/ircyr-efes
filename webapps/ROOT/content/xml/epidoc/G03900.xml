@@ -186,12 +186,12 @@
             </div>
             <div type="textpart" n="vi">
                <ab>
-                  <lb n="1"/><persName type="divine" key="geon"><geogName ana="Γήων">Γή<g type="head"/>ων</geogName></persName>
+                  <lb n="1"/><persName type="divine" key="geon"><geogName ana="Γήων">Γή<g ref="symbols.xml#head"/>ων</geogName></persName>
                </ab>
             </div>
             <div type="textpart" n="vii">
                <ab>
-                  <lb n="1"/><persName type="divine" key="ananeosis"><w lemma="ἀνανέωσις">Ἀνα<g type="conch"/>νέω<lb break="no" n="2"/><g type="conch"/>σις</w></persName>
+                  <lb n="1"/><persName type="divine" key="ananeosis"><w lemma="ἀνανέωσις">Ἀνα<g ref="symbols.xml#conch"/>νέω<lb break="no" n="2"/><g ref="symbols.xml#conch"/>σις</w></persName>
                </ab>
             </div>
             <div type="textpart" n="viii">

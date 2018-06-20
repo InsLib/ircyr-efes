@@ -161,8 +161,7 @@
                     <lb n="4"/>
                     <w lemma="nepos">nepoti</w>
                     <name nymRef="Traianus">Traiano</name>
-                    <g type="leaf"/>
-                    <lb n="5"/>
+                    <g ref="symbols.xml#leaf"/> <lb n="5"/>
                     <name nymRef="Hadrianus">Hadriano</name>
                     <name nymRef="Augustus">
                         <expan><abbr>Aug</abbr><ex>usto</ex></expan>
@@ -196,16 +195,13 @@
                         <name nymRef="Παρθικός">Παρ<space/><lb n="10" break="no"/>θικῶι</name></persName>
                         <w>υἱῶι</w>
                        <persName type="emperor" key="nerva"><name nymRef="Νέρβα">Νέρουα</name></persName>
-                        <g type="leaf"/>
-                        <lb n="11"/>
+                        <g ref="symbols.xml#leaf"/> <lb n="11"/>
                         <w>υἱωνῶ</w>
                         <name nymRef="Τραιανός">Τραιανῶ</name>
-                        <g type="leaf"/>
-                        <lb n="12"/>
+                        <g ref="symbols.xml#leaf"/> <lb n="12"/>
                         <space/>
                         <name nymRef="Ἁδριανός">Ἁδριανῶι</name></persName>
-                        <g type="leaf"/>
-                </ab>
+                        <g ref="symbols.xml#leaf"/> </ab>
          </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>

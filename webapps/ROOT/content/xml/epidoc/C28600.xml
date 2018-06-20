@@ -150,7 +150,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ιπ</unclear><hi rend="ligature">ισ</hi>ρα</orig>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><g type="stop"/><persName type="attested"><name nymRef="Ἰουλ-"><seg part="I">Ἰουλ</seg></name></persName>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="2" unit="character"/><g ref="symbols.xml#stop"/><persName type="attested"><name nymRef="Ἰουλ-"><seg part="I">Ἰουλ</seg></name></persName>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><orig>σω</orig>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="4" unit="character"/><orig>ασ</orig>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="3" unit="character"/><orig>σα</orig>

@@ -129,7 +129,7 @@
             <head>Commentary</head>
             <p>An ephebic graffito; see ?  ; since the accusative case is unusual in these texts the names 
                     is probably to be completed. The omicron has perhaps been converted to a badly written 
-                    <g type="monogram"/> = <foreign xml:lang="grc">
+                    <g ref="symbols.xml#monogram"/> = <foreign xml:lang="grc">
                   <expan>
                      <abbr>φίλ</abbr>
                      <ex>ος</ex>

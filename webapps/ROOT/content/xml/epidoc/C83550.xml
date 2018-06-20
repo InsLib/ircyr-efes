@@ -131,9 +131,7 @@
                     <name nymRef="Καῖσαρ">Καίσαρος</name> <name nymRef="Σεβαστός">Σεβασ<supplied reason="lost">τοῦ</supplied></name></persName>
                     <lb n="6"/><w>καὶ</w> <persName type="emperor" key="augustus"><w>θεοῦ</w> <name nymRef="Σεβαστός">Σεβαστοῦ</name></persName>
                     <lb n="7"/><w>ἔγγο<unclear>ν</unclear>ο<unclear>ς</unclear></w></persName> <space quantity="3" unit="character"/>
-    <lb n="8"/><g type="palm"/>
-   
-                </ab>
+    <lb n="8"/><g ref="symbols.xml#palm"/> </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>

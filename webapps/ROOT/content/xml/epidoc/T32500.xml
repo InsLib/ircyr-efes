@@ -145,7 +145,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-            <lb n="1"/><g type="crux"/> <w lemma="ἀνάθεμα">ἀνάθεμα</w> 
+            <lb n="1"/><g ref="symbols.xml#crux"/> <w lemma="ἀνάθεμα">ἀνάθεμα</w> 
                <w lemma="εἰμί">ἔϲτ<supplied reason="lost">αι</supplied></w>
             <lb n="2"/><w lemma="ἀπό">ἀπὸ</w> 
                <persName type="divine" key="kyrios"><w lemma="πατήρ"><expan><abbr>Π</abbr><ex>ατ</ex><abbr>ρ</abbr><ex>ὸ</ex><abbr>ϲ</abbr></expan></w> 

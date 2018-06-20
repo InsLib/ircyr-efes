@@ -125,8 +125,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
             <lb n="1"/><w lemma="ἤ">ἢ</w> <w lemma="φίλος">φίλος</w> <w lemma="εἰμί">ἶ</w>
-            <lb n="2"/><w>ἤδε</w> <w lemma="ἐχθρός">ἐχθρός</w> <g type="crux"/>
-                </ab>
+            <lb n="2"/><w>ἤδε</w> <w lemma="ἐχθρός">ἐχθρός</w> <g ref="symbols.xml#crux"/> </ab>
 </div>
          <div type="apparatus">
             <head>Apparatus</head>

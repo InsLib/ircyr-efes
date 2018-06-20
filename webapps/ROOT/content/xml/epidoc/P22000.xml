@@ -127,8 +127,7 @@
          </ab></div>
             <div subtype="part" n="ii" type="textpart"><ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-61600"><name nymRef="Σέκονδος">Σ<space quantity="1" unit="character"/>έκο<unclear>ν</unclear><supplied reason="lost">δ</supplied><lb n="2" break="no"/>ος</name> 
-                        <persName type="attested" key="lgpn:V1-61701"><name nymRef="Φλάβιος">Φλα<unclear>β</unclear><supplied reason="lost">ί</supplied><lb n="3" break="no"/>ου</name></persName></persName><g type="leaf"/>
-                </ab>
+                        <persName type="attested" key="lgpn:V1-61701"><name nymRef="Φλάβιος">Φλα<unclear>β</unclear><supplied reason="lost">ί</supplied><lb n="3" break="no"/>ου</name></persName></persName><g ref="symbols.xml#leaf"/> </ab>
 </div>
 </div>
          <div type="apparatus">

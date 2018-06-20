@@ -128,8 +128,7 @@
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w>τέλος</w>
                     <w part="I">τεσ</w><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><w>η</w> 
-                    <space quantity="1" unit="character"/> <g type="leaf"/>
-                </ab>
+                    <space quantity="1" unit="character"/> <g ref="symbols.xml#leaf"/> </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>

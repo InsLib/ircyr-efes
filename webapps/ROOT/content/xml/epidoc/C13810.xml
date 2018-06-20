@@ -109,7 +109,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-            <lb n="1"/><orig>Γ</orig> <g type="crux"/> <orig>Β</orig>
+            <lb n="1"/><orig>Γ</orig> <g ref="symbols.xml#crux"/> <orig>Β</orig>
                 </ab>
 </div>
          

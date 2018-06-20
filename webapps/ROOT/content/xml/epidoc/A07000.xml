@@ -189,7 +189,7 @@
             </div>
             <div subtype="series" n="b" type="textpart"><div subtype="block" n="i" type="textpart">
                <ab>
-                            <lb n="1"/><orig>atarum</orig> <g type="leaf"/> <space quantity="3" unit="character"/>
+                            <lb n="1"/><orig>atarum</orig> <g ref="symbols.xml#leaf"/> <space quantity="3" unit="character"/>
                             <gap reason="lost" extent="unknown" unit="character"/>
             </ab>
             </div>
@@ -235,7 +235,7 @@
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
                         <supplied reason="lost"><w lemma="ciuitas">ciuitati</w></supplied> 
                             <placeName type="ethnic"><w lemma="Apolloniata"><supplied reason="lost">Apolloni</supplied>atarum</w></placeName>
-                        <g type="leaf"/> <space quantity="4" unit="character"/>
+                        <g ref="symbols.xml#leaf"/> <space quantity="4" unit="character"/>
                         <milestone unit="block"/><gap reason="lost" extent="unknown" unit="character"/>
                         <w lemma="do"><supplied reason="lost">d</supplied>edit</w>
                   <gap reason="lost" extent="unknown" unit="character"/>

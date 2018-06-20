@@ -119,8 +119,7 @@
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>οσ</orig>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>τ</unclear>ου</orig>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ν</unclear></orig> 
-                        <num value="10"><hi rend="supraline">ι</hi></num> <g type="leaf"/>
-                    <lb n="4a"/><gap reason="lost" extent="unknown" unit="line"/>
+                        <num value="10"><hi rend="supraline">ι</hi></num> <g ref="symbols.xml#leaf"/> <lb n="4a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
 </div>
          <div type="apparatus">

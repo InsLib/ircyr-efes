@@ -171,8 +171,7 @@
                     <lb n="12"/><w>στρατηγικὸς</w> <w><unclear>πρ</unclear><supplied reason="lost">εσβε</supplied>υτὴς</w> <w>καὶ</w> 
                     <w>ἀντιστρά<lb n="13" break="no"/>τηγος</w>
             <placeName nymRef="Κρήτη"><w>Κρήτ<supplied reason="lost">ης</supplied></w></placeName>
-            <w><supplied reason="lost">κ</supplied><unclear>α</unclear>ὶ</w> <placeName nymRef="Κυρήνη">Κυρήνης</placeName> <g type="leaf"/>
-                    <lb n="14"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>  
+            <w><supplied reason="lost">κ</supplied><unclear>α</unclear>ὶ</w> <placeName nymRef="Κυρήνη">Κυρήνης</placeName> <g ref="symbols.xml#leaf"/> <lb n="14"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>  
                     <num value="137">ρλζ</num> <w>τοῦ</w> <w>κ<supplied reason="lost">αὶ</supplied></w>
             <supplied reason="lost"><num value="10">ι</num> </supplied> 
                     <persName type="attested"><name nymRef="Γάϊος"><expan><abbr><unclear>Γ</unclear></abbr><ex>άϊος</ex></expan></name> <name nymRef="Ποστόμιος">Ποστόμιος</name>

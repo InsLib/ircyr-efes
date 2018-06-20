@@ -120,8 +120,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Κασσία">Καϲϲία</name> 
-                    <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><name><seg part="F">νοῦ</seg></name> <name nymRef="Κλισία">Κλιϲία</name></persName> <g type="leaf"/>
-                </ab>
+                    <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><name><seg part="F">νοῦ</seg></name> <name nymRef="Κλισία">Κλιϲία</name></persName> <g ref="symbols.xml#leaf"/> </ab>
 </div>
          <div type="apparatus">
             <listApp>

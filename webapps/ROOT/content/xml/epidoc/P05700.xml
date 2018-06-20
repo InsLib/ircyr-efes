@@ -125,8 +125,7 @@
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="emperor" key="commodus" cert="low"><del rend="erasure"><orig><unclear>ι</unclear>ο</orig></del></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><unclear>ς</unclear></w>
-                   <persName type="attested"><name nymRef="Μᾶρκος"><seg part="I"><expan><abbr>Μ</abbr><ex>αρκ</ex></expan></seg></name></persName> <g type="stop"/>
-                    <orig>Ο</orig><gap reason="lost" extent="unknown" unit="character"/>
+                   <persName type="attested"><name nymRef="Μᾶρκος"><seg part="I"><expan><abbr>Μ</abbr><ex>αρκ</ex></expan></seg></name></persName> <g ref="symbols.xml#stop"/> <orig>Ο</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="καί"><supplied reason="lost">κα</supplied>ὶ</w> <persName type="attested"><name nymRef="Τιβέριος"><seg part="I"><expan><abbr>Τι</abbr><ex>βερι</ex></expan></seg></name>
                     <name nymRef="Κο-"><seg part="I">Κ<unclear>ο</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><unclear>ς</unclear></w>
