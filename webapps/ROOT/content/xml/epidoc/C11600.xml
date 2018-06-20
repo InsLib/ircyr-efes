@@ -62,11 +62,11 @@
                      <p>
                         <placeName type="ancientFindspot"
                            ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909"
-                           >Cyrene</placeName>: <rs type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</rs>: found
+                           >Cyrene</placeName>: <placeName type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</placeName>: found
                         before <date type="found">1928</date>.</p>
                   </provenance>
                   <provenance type="observed">
-                     <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs></p>
+                     <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName></p>
                   </provenance>
 
 

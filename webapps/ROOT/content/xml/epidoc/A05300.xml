@@ -58,7 +58,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/911">Apollonia</placeName>:
-                        Near the <rs type="monuList" ref="http://www.slsgazetteer.org/919">Byzantine Baths</rs>, in <date type="found">1966</date>.</p>
+                        Near the <placeName type="monuList" ref="http://www.slsgazetteer.org/919">Byzantine Baths</placeName>, in <date type="found">1966</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>

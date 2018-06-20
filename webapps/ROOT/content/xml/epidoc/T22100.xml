@@ -50,7 +50,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Teuchira</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1111">South Wall</rs>: Curtain wall between Southeast
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1111">South Wall</placeName>: Curtain wall between Southeast
                                and the second Tower.</p>
                         </provenance>
                         <provenance type="observed">

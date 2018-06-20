@@ -54,11 +54,11 @@
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
                               First recorded in <date type="found">1847</date>, without findspot, and again in 1850 in the
-                               <rs type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</rs></p>
+                               <placeName type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</placeName></p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

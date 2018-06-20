@@ -48,7 +48,7 @@
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
                      <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1618">Theodorias/Gasr Leibia</placeName>, in the  
-                     <rs type="monuList" ref="http://www.slsgazetteer.org/1182">East Church</rs>, nave floor, on the the north side; found in <date type="found">1957</date></p>
+                     <placeName type="monuList" ref="http://www.slsgazetteer.org/1182">East Church</placeName>, nave floor, on the the north side; found in <date type="found">1957</date></p>
                         </provenance> 
                         <provenance type="observed">
                            Findspot<p/>

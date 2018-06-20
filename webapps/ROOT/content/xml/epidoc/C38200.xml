@@ -51,7 +51,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              on the hill of <rs type="monuList" ref="http://www.slsgazetteer.org/1068">Eluet Gassam</rs>; found before <date type="found" notAfter="1933">1933</date>.</p>
+                              on the hill of <placeName type="monuList" ref="http://www.slsgazetteer.org/1068">Eluet Gassam</placeName>; found before <date type="found" notAfter="1933">1933</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot (1933).</p>

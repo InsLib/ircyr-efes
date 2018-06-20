@@ -48,7 +48,7 @@
                      <origDate notBefore="-0100" notAfter="0300" precision="low" evidence="lettering context">First century B.C. - third century C.E.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
-                     <rs type="monuList" ref="http://www.slsgazetteer.org/1238">Bu Darag</rs>, in Wadi Bu Nabeh; 
+                     <placeName type="monuList" ref="http://www.slsgazetteer.org/1238">Bu Darag</placeName>, in Wadi Bu Nabeh; 
                               Recorded by Ferri, we could not find them. He noted also "graffiti arabi" which again we did not find.</p>
                         </provenance>
                         <provenance type="observed">

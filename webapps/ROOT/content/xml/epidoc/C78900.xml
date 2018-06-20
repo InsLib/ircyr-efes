@@ -54,7 +54,7 @@
                               Found before <date type="found" atMost="1935">1935</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene museum</rs> <idno type="invNo">11</idno>.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene museum</placeName> <idno type="invNo">11</idno>.</p>
                         </provenance>
                      
                   

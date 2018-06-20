@@ -48,7 +48,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace><rs type="monuList" ref="http://www.slsgazetteer.org/1124">Gymnasium (later Byzantine Baths)</rs>.</origPlace>
+                     <origPlace><placeName type="monuList" ref="http://www.slsgazetteer.org/1124">Gymnasium (later Byzantine Baths)</placeName>.</origPlace>
                      <origDate notBefore="0101" notAfter="0200" evidence="lettering" precision="low">Possibly 2nd century A.D</origDate>
                   </origin>
                   
@@ -56,7 +56,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1124">Gymnasium (later Byzantine Baths)</rs>, reused in the furnace; 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1124">Gymnasium (later Byzantine Baths)</placeName>, reused in the furnace; 
                               found in <date type="found">1962</date>.</p>
                         </provenance>
                         <provenance type="observed">

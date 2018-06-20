@@ -49,7 +49,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1065">West Necropolis</rs>, on the north side of a tributary entering the Wadi Bel Ghadir from the West; 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1065">West Necropolis</placeName>, on the north side of a tributary entering the Wadi Bel Ghadir from the West; 
                               
                               first recorded in <date type="found">1970</date>.</p>
                         </provenance>

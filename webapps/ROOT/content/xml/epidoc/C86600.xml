@@ -49,11 +49,11 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>:
-                       Beside the <rs type="monuList" ref="http://www.slsgazetteer.org/1269">Cyrene to Apollonia road</rs>, between 10 and 11 km from Apollonia, 
+                       Beside the <placeName type="monuList" ref="http://www.slsgazetteer.org/1269">Cyrene to Apollonia road</placeName>, between 10 and 11 km from Apollonia, 
                         with <ref type="inscription">C79650</ref>; found in <date type="found">1915</date>.</p>
                   </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

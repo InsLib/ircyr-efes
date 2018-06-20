@@ -64,11 +64,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1024">Valley Street</rs>, north side: re-used in late buildings, near the modern Post Office. Found in <date type="found">1956</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1024">Valley Street</placeName>, north side: re-used in late buildings, near the modern Post Office. Found in <date type="found">1956</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

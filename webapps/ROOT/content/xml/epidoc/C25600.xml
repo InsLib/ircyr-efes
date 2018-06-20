@@ -43,7 +43,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace><rs type="monuList" ref="http://www.slsgazetteer.org/1235">Temple of Isis</rs>, north portico</origPlace>
+                     <origPlace><placeName type="monuList" ref="http://www.slsgazetteer.org/1235">Temple of Isis</placeName>, north portico</origPlace>
                      <origDate notAfter="0217" notBefore="0161" evidence="reign" precision="low">C.E. 161-180 or 211-217</origDate>
                   </origin>
                   
@@ -51,7 +51,7 @@
                         <provenance type="found">
                            <p>
                                <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1235">Temple of Isis</rs>; photographed before 1925</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1235">Temple of Isis</placeName>; photographed before 1925</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Temple of Isis, replaced in the North Portico. Not accessible to close examination.</p>

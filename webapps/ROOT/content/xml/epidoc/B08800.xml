@@ -55,11 +55,11 @@
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/910">Berenike</placeName>: 
                               <rs type="monulist" ref="http://www.slsgazetteer.org/1077">Sidi Khrebish</rs>, 
-                              in the <rs type="monuList" ref="http://www.slsgazetteer.org/1087">Church</rs>, re-used as a paving stone with the inscribed face upwards</p>
+                              in the <placeName type="monuList" ref="http://www.slsgazetteer.org/1087">Church</placeName>, re-used as a paving stone with the inscribed face upwards</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1094">Benghazi Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1094">Benghazi Museum</placeName>.</p>
                         </provenance>
                      
                   

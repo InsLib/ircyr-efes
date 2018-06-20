@@ -47,7 +47,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1110">West Gate</rs>, lying loose on the north side of the north bastion;
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1110">West Gate</placeName>, lying loose on the north side of the north bastion;
                                found in <date type="found">1966</date>.</p>
                         </provenance>
                         <provenance type="observed">

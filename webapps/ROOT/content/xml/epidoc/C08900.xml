@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1483">Augusteum</rs>; found probably in <date type="found">1916</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1483">Augusteum</placeName>; found probably in <date type="found">1916</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Used in the reconstruction of one of the columns in the façade of the Augusteum (which may not be its original position).</p>

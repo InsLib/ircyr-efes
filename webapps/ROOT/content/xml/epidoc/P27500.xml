@@ -57,7 +57,7 @@
                               original findspot unrecorded.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</rs></p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</placeName></p>
                         </provenance>
                </history>
             </msDesc>

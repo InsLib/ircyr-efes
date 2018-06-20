@@ -50,7 +50,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Teuchira</placeName>: 
-                              probably <rs type="monuList" ref="http://www.slsgazetteer.org/1111">South Wall</rs>, Third Tower, recorded by Oliverio with <ref type="inscription">T22800</ref>, 
+                              probably <placeName type="monuList" ref="http://www.slsgazetteer.org/1111">South Wall</placeName>, Third Tower, recorded by Oliverio with <ref type="inscription">T22800</ref>, 
                               <ref type="inscription">T22900</ref></p>
                         </provenance>
                         <provenance type="observed">

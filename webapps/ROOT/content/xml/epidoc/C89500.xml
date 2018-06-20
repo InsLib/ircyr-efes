@@ -56,7 +56,7 @@
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">
                               Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1381">Sanctuary of Demeter and Kore</rs>, excavated in <date type="found">1971</date> 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1381">Sanctuary of Demeter and Kore</placeName>, excavated in <date type="found">1971</date> 
                               during excavations: area D12/D13,A,2; 71-800.                             . 
                            </p>
                         </provenance>

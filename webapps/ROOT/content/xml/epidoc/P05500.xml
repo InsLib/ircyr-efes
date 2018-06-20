@@ -59,7 +59,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/942">West Church</rs>; found in <date type="found">1935</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/942">West Church</placeName>; found in <date type="found">1935</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Subsequently seen lying among debris beside Church; no longer visible in 1971.</p>

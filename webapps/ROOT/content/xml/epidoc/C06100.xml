@@ -54,12 +54,12 @@
                   <provenance type="found">
                      <p>
                         <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/994">Theatre 3</rs>; 
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/994">Theatre 3</placeName>; 
                         found in <date type="found">1962</date>.</p>
                   </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>
                            </p>
                         </provenance>
                      

@@ -54,7 +54,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              in front of the <rs type="monuList" ref="http://www.slsgazetteer.org/1012">North Stoa</rs>; probably found in <date type="found">1919</date>.
+                              in front of the <placeName type="monuList" ref="http://www.slsgazetteer.org/1012">North Stoa</placeName>; probably found in <date type="found">1919</date>.
                     Unknown.</p>
                         </provenance>
                         <provenance type="observed">

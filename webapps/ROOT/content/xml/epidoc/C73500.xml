@@ -52,11 +52,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              Described, a as from the Sanctuary, c more precisely as from the area north west of the <rs type="monuList" ref="http://www.slsgazetteer.org/1043">Roman Propylaeum</rs>. 
+                              Described, a as from the Sanctuary, c more precisely as from the area north west of the <placeName type="monuList" ref="http://www.slsgazetteer.org/1043">Roman Propylaeum</placeName>. 
                               Photographed in <date type="found">1928</date> <!-- check? all 3 -->.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

@@ -51,7 +51,7 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>: 
-                        <rs type="monuList" ref="http://www.geonames.org/87381, http://www.slsgazetteer.org/1208">Bu Traba</rs> (Chef el Chamis); 
+                        <placeName type="monuList" ref="http://www.geonames.org/87381, http://www.slsgazetteer.org/1208">Bu Traba</placeName> (Chef el Chamis); 
                         first recorded in <date type="found">1924</date>.</p>
                         </provenance>
                         <provenance type="observed">

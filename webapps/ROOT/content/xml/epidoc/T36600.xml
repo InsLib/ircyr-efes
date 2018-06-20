@@ -53,7 +53,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>: 
-                               <rs type="monuList" ref="http://www.slsgazetteer.org/1149">Quarry East IX</rs>, North wall near the angle with the West wall.</p>
+                               <placeName type="monuList" ref="http://www.slsgazetteer.org/1149">Quarry East IX</placeName>, North wall near the angle with the West wall.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

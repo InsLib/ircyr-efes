@@ -52,11 +52,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
-                              in the fill over the <rs type="monuList" ref="http://www.slsgazetteer.org/944">Villa of the Four Seasons</rs>; found in <date type="found">1957</date>.</p>
+                              in the fill over the <placeName type="monuList" ref="http://www.slsgazetteer.org/944">Villa of the Four Seasons</placeName>; found in <date type="found">1957</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</placeName>.</p>
                         </provenance>
                      
                   

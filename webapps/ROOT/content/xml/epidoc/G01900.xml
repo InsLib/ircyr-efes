@@ -50,7 +50,7 @@
                      recorded in Barke Museum shortly after <date type="found">1946</date>,  with <ref type="inscription">G02100</ref>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p>Now in <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs></p>
+                           <p>Now in <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName></p>
                         </provenance>
                </history>
             </msDesc>

@@ -53,7 +53,7 @@
                   </origin><provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              Agora, <rs type="monuList" ref="http://www.slsgazetteer.org/1010">West Stoa</rs>: found probably in <date type="found">1921</date>.</p>
+                              Agora, <placeName type="monuList" ref="http://www.slsgazetteer.org/1010">West Stoa</placeName>: found probably in <date type="found">1921</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Standing in front of the Stoa, partially reconstructed.</p>

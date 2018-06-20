@@ -52,7 +52,7 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373732, http://www.slsgazetteer.org/911"
-                        >Apollonia</placeName>: Baptistery in  the <rs type="monuList" ref="http://www.slsgazetteer.org/914">East Church</rs>;
+                        >Apollonia</placeName>: Baptistery in  the <placeName type="monuList" ref="http://www.slsgazetteer.org/914">East Church</placeName>;
                         found in <date type="found">1920</date>.</p>
                   </provenance>
                   <provenance type="observed">

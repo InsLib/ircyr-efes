@@ -54,7 +54,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                               <rs type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo Nymphagetas</rs>;
+                               <placeName type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo Nymphagetas</placeName>;
                               found in <date type="found">1919</date> re-used in a later wall.</p>
                         </provenance>
                         <provenance type="observed">

@@ -51,10 +51,10 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1226">East Church</rs>; found in <date type="found">1916.</date></p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1226">East Church</placeName>; found in <date type="found">1916.</date></p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/1228">Sanctuary of Apollo</rs>: beside the guard's hut at the entrance.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/1228">Sanctuary of Apollo</placeName>: beside the guard's hut at the entrance.</p>
                         </provenance>
                      
                   

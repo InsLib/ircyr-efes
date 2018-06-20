@@ -53,11 +53,11 @@
                      
                         <provenance type="found">
                            <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              probably from the <rs type="monuList" ref="http://www.slsgazetteer.org/1006">Nomophylakeion</rs>; 
+                              probably from the <placeName type="monuList" ref="http://www.slsgazetteer.org/1006">Nomophylakeion</placeName>; 
                                photographed as from the Agora in <date type="found">1925</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p>The surviving pieces are now in the <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                           <p>The surviving pieces are now in the <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

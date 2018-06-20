@@ -52,13 +52,13 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              Findspot unrecorded, perhaps <rs type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</rs>, with <ref type="inscription">C54000</ref>; 
+                              Findspot unrecorded, perhaps <placeName type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</placeName>, with <ref type="inscription">C54000</ref>; 
                               there can be no doubt that the stone originally came from the same tomb, N.11.
                               Photographed in <date type="found">1929</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

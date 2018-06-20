@@ -51,7 +51,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>:
-                               <rs type="monuList" ref="http://www.slsgazetteer.org/1144">Quarry East III</rs>, East wall. Photographed in <date type="found">1959</date>.</p>
+                               <placeName type="monuList" ref="http://www.slsgazetteer.org/1144">Quarry East III</placeName>, East wall. Photographed in <date type="found">1959</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot; not now visible.

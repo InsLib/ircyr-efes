@@ -55,7 +55,7 @@
                         <p>
                            <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373736 http://www.slsgazetteer.org/913"
                               >Teuchira</placeName>:
-                           <rs type="monuList" ref="http://www.slsgazetteer.org/1126">East Wall</rs>: re-used upside down in the external extramural wall 
+                           <placeName type="monuList" ref="http://www.slsgazetteer.org/1126">East Wall</placeName>: re-used upside down in the external extramural wall 
                            of the second Tower to North of East gate.</p>
                      </provenance>
                      <provenance type="observed">

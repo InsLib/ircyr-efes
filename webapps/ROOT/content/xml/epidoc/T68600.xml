@@ -51,11 +51,11 @@
                      <origDate notBefore="0101" notAfter="0200" precision="low" evidence="lettering">Perhaps second century C.E.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" key="1174">Gebel Akhdar: West of Cyrene</placeName>:
-                     <rs type="monuList" ref="http://www.slsgazetteer.org/1157">Suani Umm el Hagel</rs>; found in <date type="found">1963</date>.</p>
+                     <placeName type="monuList" ref="http://www.slsgazetteer.org/1157">Suani Umm el Hagel</placeName>; found in <date type="found">1963</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum</placeName>.</p>
                         </provenance>
                      
                   

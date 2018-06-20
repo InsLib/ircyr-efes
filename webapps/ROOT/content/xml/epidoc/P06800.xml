@@ -56,11 +56,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
-                             Found in <date type="found">1935</date> in the <rs type="monuList" ref="http://www.slsgazetteer.org/942">West Church</rs>.</p>
+                             Found in <date type="found">1935</date> in the <placeName type="monuList" ref="http://www.slsgazetteer.org/942">West Church</placeName>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</rs>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</placeName>
                            </p>
                         </provenance>
                      

@@ -52,11 +52,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1058">Fountain Terrace</rs> at the foot of the retaining wall; first recorded in <date type="found">1825</date>, 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1058">Fountain Terrace</placeName> at the foot of the retaining wall; first recorded in <date type="found">1825</date>, 
                               again in <date type="found">1932</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

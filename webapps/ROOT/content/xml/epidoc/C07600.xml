@@ -51,12 +51,12 @@
                   <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373778 http://www.slsgazetteer.org/909"
-                                 >Cyrene</placeName>: <rs type="monuList" ref="http://www.slsgazetteer.org/1005">Temple of Zeus (Agora)</rs>, 
+                                 >Cyrene</placeName>: <placeName type="monuList" ref="http://www.slsgazetteer.org/1005">Temple of Zeus (Agora)</placeName>, 
                               in the building to the right (the Hall of the Benches?); found in <date type="found">1919</date>. 
                                </p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                  </history>
             </msDesc>

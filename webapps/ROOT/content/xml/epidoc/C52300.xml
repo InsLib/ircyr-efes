@@ -52,12 +52,12 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1070">South Necropolis</rs>, lying in front of a group of rock cut tombs (S.14),
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1070">South Necropolis</placeName>, lying in front of a group of rock cut tombs (S.14),
                               beside the old road from Cyrene to Beida, just beyond the first milestone, <ref type="inscription">C86700</ref>; found in <date type="found">1955</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

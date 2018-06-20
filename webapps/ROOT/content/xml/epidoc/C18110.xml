@@ -52,11 +52,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              Valley Street, <rs type="monuList" ref="http://www.slsgazetteer.org/1028">Temple F</rs>, reused in the late paving underlying the floor; found in <date type="observed">1957</date>.</p>
+                              Valley Street, <placeName type="monuList" ref="http://www.slsgazetteer.org/1028">Temple F</placeName>, reused in the late paving underlying the floor; found in <date type="observed">1957</date>.</p>
                         </provenance>
                   <provenance type="observed">
                      <p>
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                   </provenance>
                      
                   

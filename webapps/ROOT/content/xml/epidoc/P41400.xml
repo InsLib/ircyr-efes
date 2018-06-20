@@ -53,12 +53,12 @@
                   </origin>
                         <provenance type="found">
                            <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1439">Siret al Bab</rs>, c. 3km from 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1439">Siret al Bab</placeName>, c. 3km from 
                               Sidi Bu Breyek, in the ruins of a church;  
                               found in <date type="found">1976</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

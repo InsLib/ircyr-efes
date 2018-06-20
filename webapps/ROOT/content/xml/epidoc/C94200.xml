@@ -46,13 +46,13 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>Probably <rs type="monuList" ref="http://www.slsgazetteer.org/1381">Sanctuary of Demeter and Kore</rs>.</origPlace>
+                     <origPlace>Probably <placeName type="monuList" ref="http://www.slsgazetteer.org/1381">Sanctuary of Demeter and Kore</placeName>.</origPlace>
                      <origDate notAfter="0300" notBefore="0101" precision="low" evidence="lettering">Second to third century C.E.</origDate>
                   </origin>
                   <provenance type="found">
                      <p>
                         <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                        on the hill of <rs type="monuList" ref="http://www.slsgazetteer.org/1068">Eluet Gassam</rs>; found before <date type="found">1933</date>.</p>
+                        on the hill of <placeName type="monuList" ref="http://www.slsgazetteer.org/1068">Eluet Gassam</placeName>; found before <date type="found">1933</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot (1933). Read from the photographs.</p>

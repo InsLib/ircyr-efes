@@ -48,7 +48,7 @@
                         </origin>
                         <provenance type="found">
                                     <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>:
-                                        <rs type="monuList" ref="http://www.slsgazetteer.org/1269">Cyrene to Apollonia road</rs>, 350 m. east of the bridge (Ponte Latini) over the Wadi Bu Feri, 
+                                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1269">Cyrene to Apollonia road</placeName>, 350 m. east of the bridge (Ponte Latini) over the Wadi Bu Feri, 
                                         and 150 m. south of the modern road, with <ref type="inscription">G10700</ref>, <ref type="inscription">G10900</ref>;
                                         found in <date type="found">1959</date>.</p>
                                 </provenance>

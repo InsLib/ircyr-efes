@@ -46,7 +46,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>All probably came originally from the Temple underlying the <rs type="monuList" ref="http://www.slsgazetteer.org/914">East Church</rs> (so
+                     <origPlace>All probably came originally from the Temple underlying the <placeName type="monuList" ref="http://www.slsgazetteer.org/914">East Church</placeName> (so
                     Goodchild, <title level="m">Guide</title> 84).</origPlace>
                      <origDate notBefore="-0040" notAfter="0100" precision="low" evidence="lettering">
                         Probably Augustan to first century C.E.</origDate>
@@ -57,7 +57,7 @@
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/911">Apollonia</placeName>:
                         a and b in <date type="found">1953</date>,
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/916">Byzantine buildings West of the East Church</rs>;
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/916">Byzantine buildings West of the East Church</placeName>;
                         c in <date type="found">1958</date>, in the Atrium of the West Church;
                         d recorded in <date type="found">1904</date>.</p>
                         </provenance>

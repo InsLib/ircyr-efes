@@ -51,11 +51,11 @@
                         <provenance type="found">
                            <p> 
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene
-                              </placeName>: <rs type="monuList" ref="http://www.slsgazetteer.org/1066">Temple of Zeus</rs>: in the pronaos. Found in <date type="found">1926</date>.</p>
+                              </placeName>: <placeName type="monuList" ref="http://www.slsgazetteer.org/1066">Temple of Zeus</placeName>: in the pronaos. Found in <date type="found">1926</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

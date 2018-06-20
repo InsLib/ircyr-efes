@@ -51,7 +51,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/965">Amphitheatre</rs>, in the corridor of the podium; found in <date type="found">1935</date>.
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/965">Amphitheatre</placeName>, in the corridor of the podium; found in <date type="found">1935</date>.
                            </p>
                         </provenance>
                         <provenance type="observed">

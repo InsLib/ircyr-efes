@@ -53,11 +53,11 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>: Tart, near 
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/1198">Limnias</rs>; 
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1198">Limnias</placeName>; 
                               found in <date type="found">1961</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>; inventory no. 3009.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>; inventory no. 3009.</p>
                         </provenance>
                      
                   

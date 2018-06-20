@@ -56,10 +56,10 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1074">Necropolis</rs>, precise location unspecified; found in <date type="found">1957</date></p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1074">Necropolis</placeName>, precise location unspecified; found in <date type="found">1957</date></p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

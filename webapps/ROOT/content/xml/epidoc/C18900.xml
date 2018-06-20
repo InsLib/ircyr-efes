@@ -48,7 +48,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>In the pronaos of the <rs type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</rs> beside 
+                     <origPlace>In the pronaos of the <placeName type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</placeName> beside 
                         the entrance to the cella, on the left side.</origPlace>
                      <origDate notAfter="0112" notBefore="0102" evidence="internal-dates">C.E. 102-112</origDate>
                   </origin>
@@ -57,11 +57,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1227">Byzantine Baths</rs>: found in <date type="found">1922</date>,
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1227">Byzantine Baths</placeName>: found in <date type="found">1922</date>,
                               re-used as a paving stone.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</rs>: replaced in its original location.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</placeName>: replaced in its original location.</p>
                         </provenance>
                      
                   

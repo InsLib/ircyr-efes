@@ -58,7 +58,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/987">Caesareum</rs>: found before <date type="found">1941</date> 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/987">Caesareum</placeName>: found before <date type="found">1941</date> 
                               in the Doric entablatures of the East porch. Fallen from the external face
                         of the porch and lying near it in the street that runs alongside the building.</p><!-- check -->
                         </provenance>

@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/953">modern village</rs>, near the former Corpo di Guardia della Sussistenza.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/953">modern village</placeName>, near the former Corpo di Guardia della Sussistenza.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

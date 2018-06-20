@@ -43,7 +43,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>Perhaps <rs type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</rs>.</origPlace>
+                     <origPlace>Perhaps <placeName type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</placeName>.</origPlace>
                      <origDate notAfter="0057" notBefore="0056" cert="low" precision="low" evidence="priesthood">C.E. 56/57</origDate>
                   </origin>
                   
@@ -51,12 +51,12 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1051">Temple of Artemis</rs>; first recorded in <date type="found">1819</date> without findspot and again in <date type="found">1861</date>,
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1051">Temple of Artemis</placeName>; first recorded in <date type="found">1819</date> without findspot and again in <date type="found">1861</date>,
                               as in ruins north of the Temple of Apollo. Seen by Norton in <date type="found">1911</date> 'in a dismantled tomb which is used as a stable on the left side of the road leading to the Roman Theatre'.
                              </p>
                         </provenance>
                         <provenance type="observed">
-                           <p> <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                           <p> <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

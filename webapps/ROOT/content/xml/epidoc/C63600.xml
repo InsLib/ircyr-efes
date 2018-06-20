@@ -51,7 +51,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1065">West Necropolis</rs>, in one of the quarries just 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1065">West Necropolis</placeName>, in one of the quarries just 
                               west of the modern village; found in <date type="found">1974</date>.</p>
                         </provenance>
                         <provenance type="observed">

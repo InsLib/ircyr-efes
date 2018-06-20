@@ -46,7 +46,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>Perhaps <rs type="monuList" ref="http://www.slsgazetteer.org/1366">Agora of the Gods</rs>.</origPlace>
+                     <origPlace>Perhaps <placeName type="monuList" ref="http://www.slsgazetteer.org/1366">Agora of the Gods</placeName>.</origPlace>
                      <origDate notBefore="0103" notAfter="0116" evidence="titulature">103-116 C.E.</origDate>
                   </origin>
                   
@@ -54,7 +54,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1042">Strategeion</rs>; found probably in <date type="found">1931</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1042">Strategeion</placeName>; found probably in <date type="found">1931</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

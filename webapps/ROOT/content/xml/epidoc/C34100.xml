@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1058">Fountain Terrace</rs>, in the
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1058">Fountain Terrace</placeName>, in the
                                stair leading from the Terrace to the Acropolis hill; recorded <date type="found">before 1935</date> </p>
                         </provenance>
                         <provenance type="observed">

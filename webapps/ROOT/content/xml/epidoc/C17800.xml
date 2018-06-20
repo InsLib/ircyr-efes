@@ -52,11 +52,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              Valley Street, <rs type="monuList" ref="http://www.slsgazetteer.org/1335">House of the mosaic of Dionysos</rs>, in the floor.</p>
+                              Valley Street, <placeName type="monuList" ref="http://www.slsgazetteer.org/1335">House of the mosaic of Dionysos</placeName>, in the floor.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

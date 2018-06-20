@@ -48,11 +48,11 @@
                      <origDate notBefore="0001" notAfter="0200" precision="low" evidence="lettering">Probably first to second centuries C.E.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1259">Gernada</rs> (Battisti) on the Slonta road, a little south of the Cyrene cross-roads; 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1259">Gernada</placeName> (Battisti) on the Slonta road, a little south of the Cyrene cross-roads; 
                               found in <date type="found">1966</date> with <ref type="inscription">C65400</ref>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

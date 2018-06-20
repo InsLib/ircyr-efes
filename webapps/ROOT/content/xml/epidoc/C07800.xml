@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1006">Nomophylakeion</rs>: in the Hall in <date type="found">1919</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1006">Nomophylakeion</placeName>: in the Hall in <date type="found">1919</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

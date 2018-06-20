@@ -44,7 +44,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>Perhaps <rs type="monuList" ref="http://www.slsgazetteer.org/1047">Shrine of the Dioscuri</rs></origPlace>
+                     <origPlace>Perhaps <placeName type="monuList" ref="http://www.slsgazetteer.org/1047">Shrine of the Dioscuri</placeName></origPlace>
                      <origDate notAfter="0300" notBefore="0101" precision="low" evidence="lettering">Second to third century C.E.</origDate>
                   </origin>
                   
@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1227">Byzantine Baths</rs>; found in <date type="found">1928</date></p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1227">Byzantine Baths</placeName>; found in <date type="found">1928</date></p>
                         </provenance>
                         <provenance type="observed">
                            <p>Standing beside the Main (Valley) Street near the Baths of Trajan.</p>

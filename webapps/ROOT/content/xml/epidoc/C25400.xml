@@ -51,7 +51,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                               <rs type="monuList" ref="http://www.slsgazetteer.org/1054">Temple of Jason Magnus</rs>, to the south, near a head of Dionysos of Roman date; 
+                               <placeName type="monuList" ref="http://www.slsgazetteer.org/1054">Temple of Jason Magnus</placeName>, to the south, near a head of Dionysos of Roman date; 
                               first recorded in <date type="found">1927</date>.</p>
                         </provenance>
                         <provenance type="observed">

@@ -56,7 +56,7 @@
                   </origin><provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1483">Augusteum</rs>, standing on the North wall; photographed in <date type="found">1925</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1483">Augusteum</placeName>, standing on the North wall; photographed in <date type="found">1925</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Augusteum, lying fallen in the room behind the north wall.</p>

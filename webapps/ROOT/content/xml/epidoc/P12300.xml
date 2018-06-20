@@ -51,7 +51,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>: 
-                              presumably re-used in <rs type="monuList" ref="http://www.slsgazetteer.org/979">House of Paulus</rs>, in Room 25, the oecus of the attached dwelling; found in <date type="found">1957</date>.</p>
+                              presumably re-used in <placeName type="monuList" ref="http://www.slsgazetteer.org/979">House of Paulus</placeName>, in Room 25, the oecus of the attached dwelling; found in <date type="found">1957</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

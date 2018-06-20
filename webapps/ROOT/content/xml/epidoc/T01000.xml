@@ -49,12 +49,12 @@
                                 <provenance type="found">
                                     <p>
                                         <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>: 
-                                        <rs type="monuList" ref="http://www.slsgazetteer.org/1116">East Church</rs>, probably cut down and re-used as an anta in the main door; 
+                                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1116">East Church</placeName>, probably cut down and re-used as an anta in the main door; 
                                         found in <date type="found">1926</date>.</p>
                                 </provenance>
                                 <provenance type="observed">
                                     <p>
-                                        <rs type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum</rs>
+                                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum</placeName>
                                     </p>
                                 </provenance>
                             

@@ -51,7 +51,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</rs> area; recorded in <date type="found">1819</date> 'prope castellum in via ad magnum fontem ducente' 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</placeName> area; recorded in <date type="found">1819</date> 'prope castellum in via ad magnum fontem ducente' 
                             with <ref type="inscription">C71400</ref> and <ref type="inscription">C71500</ref>.</p>
                         </provenance>
                         <provenance type="observed">

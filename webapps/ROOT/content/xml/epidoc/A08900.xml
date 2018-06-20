@@ -58,10 +58,10 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/911">Apollonia</placeName>: 
-                              reused in a modern house near the <rs type="monuList" ref="http://www.slsgazetteer.org/927">Extra-Mural Church</rs>; found in <date type="found">1956</date>.</p>
+                              reused in a modern house near the <placeName type="monuList" ref="http://www.slsgazetteer.org/927">Extra-Mural Church</placeName>; found in <date type="found">1956</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/932">Apollonia Museum</rs>, <date type="observed">2008</date> (since 1968).</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/932">Apollonia Museum</placeName>, <date type="observed">2008</date> (since 1968).</p>
                         </provenance>
                      
                   

@@ -58,7 +58,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/911">Apollonia</placeName>: 
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/918">'Palace of the Dux'</rs>, re-used in the central courtyard
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/918">'Palace of the Dux'</placeName>, re-used in the central courtyard
                         with the inscription upside down; found in <date type="found">1960</date>, </p>
                         </provenance>
                         <provenance type="observed">

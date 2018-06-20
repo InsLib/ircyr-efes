@@ -55,13 +55,13 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>: 
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/1411">Bu Traba</rs>; found in <date type="found">1967</date>, half-buried on the east bank of 
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1411">Bu Traba</placeName>; found in <date type="found">1967</date>, half-buried on the east bank of 
                         Wadi a little west of the village centre, and just north of the Tolmeita/Tocra road. In 
                         line with <ref type="inscription">C83600</ref>, <ref type="inscription">C83700</ref>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</rs>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</placeName>
                            </p>
                         </provenance>
                      

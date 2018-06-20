@@ -56,7 +56,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/970">Quarry I.b.i</rs>, north wall; first recorded in <date type="found">1825</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/970">Quarry I.b.i</placeName>, north wall; first recorded in <date type="found">1825</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

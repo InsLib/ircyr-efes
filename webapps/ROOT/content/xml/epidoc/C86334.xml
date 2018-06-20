@@ -48,7 +48,7 @@
                         </origin>
                         <provenance type="found">
                             <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>: 
-                                <rs type="monuList" ref="http://www.slsgazetteer.org/1427">Martuba</rs>,
+                                <placeName type="monuList" ref="http://www.slsgazetteer.org/1427">Martuba</placeName>,
                                 ca. 20 km. east of Darnah, re-used in a dam. 
                                     </p>
                                 </provenance>

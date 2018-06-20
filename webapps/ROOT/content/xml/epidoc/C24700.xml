@@ -53,7 +53,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                               Found in <date type="found">1916</date> in the <rs type="monuList" ref="http://www.slsgazetteer.org/1051">Temple of Artemis</rs>.</p>
+                               Found in <date type="found">1916</date> in the <placeName type="monuList" ref="http://www.slsgazetteer.org/1051">Temple of Artemis</placeName>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Temple of Artemis: standing on the south wall of the cella.</p>

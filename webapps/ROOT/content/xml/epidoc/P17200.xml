@@ -50,7 +50,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1442">Late Baths</rs>, in the east wall of Room 14, over the entrance to the well shaft; found in <date type="found">1957</date>.
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1442">Late Baths</placeName>, in the east wall of Room 14, over the entrance to the well shaft; found in <date type="found">1957</date>.
                               </p>
                         </provenance>
                         <provenance type="observed">

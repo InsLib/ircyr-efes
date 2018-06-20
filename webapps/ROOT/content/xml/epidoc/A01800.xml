@@ -51,11 +51,11 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/911">Apollonia</placeName>: <rs type="monuList" ref="http://www.slsgazetteer.org/914">East Church</rs>:
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/911">Apollonia</placeName>: <placeName type="monuList" ref="http://www.slsgazetteer.org/914">East Church</placeName>:
                         found, probably in <date type="found">1920</date>, cut down and reused in the apse.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p>Outside the <rs type="monuList" ref="http://www.slsgazetteer.org/934">Sculpture Museum</rs> at Cyrene.</p>
+                           <p>Outside the <placeName type="monuList" ref="http://www.slsgazetteer.org/934">Sculpture Museum</placeName> at Cyrene.</p>
                         </provenance>
                      
                   

@@ -49,12 +49,12 @@
                   </origin><provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</rs>; photographed in <date type="found">1928</date> with <ref type="inscription">C11200</ref>.
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</placeName>; photographed in <date type="found">1928</date> with <ref type="inscription">C11200</ref>.
                            </p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

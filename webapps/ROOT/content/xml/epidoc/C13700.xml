@@ -51,11 +51,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              woods near the <rs type="monuList" ref="http://www.slsgazetteer.org/1226">East Church</rs>; found in <date type="found">1963</date>.</p>
+                              woods near the <placeName type="monuList" ref="http://www.slsgazetteer.org/1226">East Church</placeName>; found in <date type="found">1963</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

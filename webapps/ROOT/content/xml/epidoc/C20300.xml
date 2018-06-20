@@ -53,7 +53,7 @@
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
                               First recorded in <date type="found">1927</date> during the excavation of the Byzantine conduit, in the 
-                               <rs type="monuList" ref="http://www.slsgazetteer.org/1043">Roman Propylaeum</rs>:
+                               <placeName type="monuList" ref="http://www.slsgazetteer.org/1043">Roman Propylaeum</placeName>:
                        to the north-west.</p>
                         </provenance>
                         <provenance type="observed">

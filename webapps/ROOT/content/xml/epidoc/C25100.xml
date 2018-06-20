@@ -55,7 +55,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1051">Temple of Artemis</rs>; photographed in 1925.
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1051">Temple of Artemis</placeName>; photographed in 1925.
                               </p>
                         </provenance>
                         <provenance type="observed">

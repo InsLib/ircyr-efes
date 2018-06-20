@@ -55,7 +55,7 @@
                         <provenance type="found">
                            <p><date type="found"/>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1060">Cave of the Priests</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1060">Cave of the Priests</placeName>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p><rs type="monuList" ref="http://www.slsgazetteer.org/933"/>Cyrene Museum</p>

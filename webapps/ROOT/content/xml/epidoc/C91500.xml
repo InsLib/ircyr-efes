@@ -50,11 +50,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1381">Shrine of Demeter and Kore</rs>: area D14/E14, 2.
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1381">Shrine of Demeter and Kore</placeName>: area D14/E14, 2.
                              </p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs> ><idno type="invNo">78-226</idno></p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName> ><idno type="invNo">78-226</idno></p>
                         </provenance>
                      
                   

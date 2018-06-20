@@ -52,10 +52,10 @@
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/911">Apollonia</placeName>: 
                         photographed in <date type="found">1930</date>.
-                        Unrecorded but probably the <rs type="monuList" ref="http://www.slsgazetteer.org/914">East Church</rs>, the only area being excavated at the time of recording.</p>
+                        Unrecorded but probably the <placeName type="monuList" ref="http://www.slsgazetteer.org/914">East Church</placeName>, the only area being excavated at the time of recording.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p>Outside the <rs type="monuList" ref="http://www.slsgazetteer.org/934">Sculpture Museum</rs>, Cyrene.</p>
+                           <p>Outside the <placeName type="monuList" ref="http://www.slsgazetteer.org/934">Sculpture Museum</placeName>, Cyrene.</p>
                         </provenance>
                </history>
             </msDesc>

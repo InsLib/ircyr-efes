@@ -55,7 +55,7 @@
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                               Found probably in <date cert="low" type="found">1935</date> in the
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1062">Amphitheatre</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1062">Amphitheatre</placeName>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

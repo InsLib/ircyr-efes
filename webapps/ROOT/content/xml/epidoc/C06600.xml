@@ -59,12 +59,12 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              reused in the <rs type="monuList" ref="http://www.slsgazetteer.org/997">Byzantine Tower</rs> built against the wall of the Stoa of Hermes and Herakles; 
+                              reused in the <placeName type="monuList" ref="http://www.slsgazetteer.org/997">Byzantine Tower</placeName> built against the wall of the Stoa of Hermes and Herakles; 
                               found in <date type="found">1960</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>
                            </p>
                         </provenance>
                      

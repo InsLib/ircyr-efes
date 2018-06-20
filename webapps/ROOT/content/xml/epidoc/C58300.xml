@@ -55,7 +55,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" key="http://pleiades.stoa.org/places/373778">Cyrene</placeName>: Found 
-                               January 11 <date type="found">1911</date>,<rs type="monuList" ref="http://www.slsgazetteer.org/1071">in the Norton Expedition's Tomb 6.</rs></p>
+                               January 11 <date type="found">1911</date>,<placeName type="monuList" ref="http://www.slsgazetteer.org/1071">in the Norton Expedition's Tomb 6.</placeName></p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot (1911)</p>

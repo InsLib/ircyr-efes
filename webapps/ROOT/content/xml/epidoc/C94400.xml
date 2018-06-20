@@ -54,10 +54,10 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</rs>: near Tomb N.1; recorded in <date type="found">1974</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</placeName>: near Tomb N.1; recorded in <date type="found">1974</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>, inv. no. 3469</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>, inv. no. 3469</p>
                         </provenance>
                      
                   

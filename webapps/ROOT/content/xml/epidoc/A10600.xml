@@ -59,7 +59,7 @@
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/928">Marsa Susa</rs>. 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/928">Marsa Susa</placeName>. 
                               Bought at Marsa Susa in <date type="found">1911</date> by the Norton Expedition. Not found again.</p>
                         </provenance>
                      

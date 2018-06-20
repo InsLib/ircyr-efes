@@ -50,13 +50,13 @@
                         </origin>
                         <provenance type="found">
                             <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>: 
-                                <rs type="monuList" ref="http://www.slsgazetteer.org/1200">Chersis</rs>, cemetery, near a rock-cut tomb, 
+                                <placeName type="monuList" ref="http://www.slsgazetteer.org/1200">Chersis</placeName>, cemetery, near a rock-cut tomb, 
                                 a group with <ref type="inscription">G11500</ref>, <ref type="inscription">G11600</ref>, 
                                 <ref type="inscription">G11700</ref>, <ref type="inscription">G11800</ref>; found in <date type="found">1988</date> .
                             </p>
                         </provenance>
                                 <provenance type="observed">
-                                    <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                                    <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                                 </provenance>
                             
                         

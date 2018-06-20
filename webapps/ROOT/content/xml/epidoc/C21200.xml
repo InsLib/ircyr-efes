@@ -46,7 +46,7 @@
                <history>
                   <origin>
                      <origPlace>
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/1049">Altar of Apollo</rs>: the east balustrade.</origPlace>
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1049">Altar of Apollo</placeName>: the east balustrade.</origPlace>
                      <origDate notAfter="0200" notBefore="0101" precision="low" evidence="lettering">Second century C.E.</origDate>
                   </origin> 
                   
@@ -54,12 +54,12 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                                <rs type="monuList" ref="http://www.slsgazetteer.org/1049">Altar of Apollo</rs>;
+                                <placeName type="monuList" ref="http://www.slsgazetteer.org/1049">Altar of Apollo</placeName>;
                               found in <date type="found">1934</date> during excavation.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                               <rs type="monuList" ref="http://www.slsgazetteer.org/1049">Altar of Apollo</rs>: standing on the altar.</p>
+                               <placeName type="monuList" ref="http://www.slsgazetteer.org/1049">Altar of Apollo</placeName>: standing on the altar.</p>
                         </provenance>
                      
                   

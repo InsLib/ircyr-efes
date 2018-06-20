@@ -63,12 +63,12 @@
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>: 
                               The first block may be identical with that published by Oliverio,
-                              and if so was found re-used in the <rs type="monuList" ref="http://www.slsgazetteer.org/953">modern village</rs>, 
+                              and if so was found re-used in the <placeName type="monuList" ref="http://www.slsgazetteer.org/953">modern village</placeName>, 
                               in the surrounding wall of a house in front of the former Ufficio Politico-Militare.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</placeName>.</p>
                         </provenance>
                      
                   

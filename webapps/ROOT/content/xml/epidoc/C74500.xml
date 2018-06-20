@@ -53,7 +53,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              east pier flanking the entrance to the so-called <rs type="monuList" ref="http://www.slsgazetteer.org/1060">Cave of the Priests</rs>. 
+                              east pier flanking the entrance to the so-called <placeName type="monuList" ref="http://www.slsgazetteer.org/1060">Cave of the Priests</placeName>. 
                               Found in <date type="found">1934</date>.</p>
                         </provenance>
                         <provenance type="observed">

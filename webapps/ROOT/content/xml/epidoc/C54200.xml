@@ -50,12 +50,12 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</rs>, near the Apollonia road and not far from the Circular Tomb
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</placeName>, near the Apollonia road and not far from the Circular Tomb
                               (N.1); found before <date type="found">1915</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>
                            </p>
                         </provenance>
                      

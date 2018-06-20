@@ -51,10 +51,10 @@
                             <origDate notBefore="0001" notAfter="0200" precision="low" evidence="lettering" cert="low">First - second century C.E.</origDate>                        </origin>
                         <provenance type="found">
                             <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>: 
-                                <rs type="monuList" ref="http://www.slsgazetteer.org/1198">Limnias</rs>.</p>
+                                <placeName type="monuList" ref="http://www.slsgazetteer.org/1198">Limnias</placeName>.</p>
                                 </provenance>
                                 <provenance type="observed">
-                                    <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>, inv. no.1519.</p>
+                                    <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>, inv. no.1519.</p>
                                 </provenance>
                             
                         

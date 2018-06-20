@@ -53,11 +53,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/986">Street of the Monuments</rs>; found in <date type="found">1955</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/986">Street of the Monuments</placeName>; found in <date type="found">1955</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</rs>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</placeName>
                            </p>
                         </provenance>
                      

@@ -47,11 +47,11 @@
                      <origDate evidence="lettering" precision="low" notBefore="0001" notAfter="0100">First century A.D </origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
-                     <rs type="monuList" ref="http://www.slsgazetteer.org/1449">Gsar Shoumia</rs>, 10km north-west of Cyrene; 
+                     <placeName type="monuList" ref="http://www.slsgazetteer.org/1449">Gsar Shoumia</placeName>, 10km north-west of Cyrene; 
                               found in <date type="found">1953</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

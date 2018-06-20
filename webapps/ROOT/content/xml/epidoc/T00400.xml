@@ -45,10 +45,10 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1110">West Gate</rs>, re-used face-downward in the threshold; found in <date type="found">1940</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1110">West Gate</placeName>, re-used face-downward in the threshold; found in <date type="found">1940</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p>now in <rs type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum</rs>
+                           <p>now in <placeName type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum</placeName>
                            </p>
                         </provenance>
                      

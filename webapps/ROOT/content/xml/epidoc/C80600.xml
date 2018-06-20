@@ -65,11 +65,11 @@
                      
                         <provenance type="found">
                            <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1201">Beit Tamer</rs>:  
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1201">Beit Tamer</placeName>:  
                               found in <date type="found">1952</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs></p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName></p>
                         </provenance>
                      
                   

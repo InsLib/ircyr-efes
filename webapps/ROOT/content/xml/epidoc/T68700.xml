@@ -51,12 +51,12 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>: 
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/1209">Gariet Rdanu</rs> with <ref type="inscription">T68800</ref>, <ref type="inscription">T68900</ref>,
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1209">Gariet Rdanu</placeName> with <ref type="inscription">T68800</ref>, <ref type="inscription">T68900</ref>,
                         <ref type="inscription">T69000</ref>, <ref type="inscription">T69100</ref>; found in <date type="found">1966</date>.</p>
                   </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum</placeName>.</p>
                         </provenance>
                      
                   

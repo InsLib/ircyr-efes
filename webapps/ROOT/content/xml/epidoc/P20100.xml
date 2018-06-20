@@ -57,12 +57,12 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/984">Major Cardo</rs>, near its crossing with the Street of the Monuments; 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/984">Major Cardo</placeName>, near its crossing with the Street of the Monuments; 
                               found in <date type="found">1959</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</placeName>.</p>
                         </provenance>
                      
                   

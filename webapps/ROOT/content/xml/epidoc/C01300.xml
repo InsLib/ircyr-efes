@@ -43,7 +43,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace cert="low"><rs type="monuList" ref="http://www.slsgazetteer.org/987">Caesareum</rs></origPlace>
+                     <origPlace cert="low"><placeName type="monuList" ref="http://www.slsgazetteer.org/987">Caesareum</placeName></origPlace>
                      <origDate notAfter="0129" notBefore="0128"  evidence="titulature">10th Dec. C.E. 128 - 9th Dec. 129</origDate>
                   </origin>
                   
@@ -52,12 +52,12 @@
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                               Found between <date type="found">1935</date> and <date type="found">1960</date>, in the 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/987">Caesareum</rs> and the <rs type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</rs> (Oliverio). 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/987">Caesareum</rs> and the <rs type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</placeName> (Oliverio). 
                            </p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>
                            </p>
                         </provenance>
                      

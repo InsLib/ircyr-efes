@@ -48,7 +48,7 @@
                      
                         <provenance type="found">
                            <p> <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/910">Berenike</placeName>, 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1080">Sidi Khrebish: Basilica</rs> re-used in the apse; found in <date type="found">1973</date></p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1080">Sidi Khrebish: Basilica</placeName> re-used in the apse; found in <date type="found">1973</date></p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot</p>

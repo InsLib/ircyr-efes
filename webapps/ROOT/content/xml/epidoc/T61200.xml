@@ -58,7 +58,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>:  
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1154">Quarry East XV</rs>, north wall. 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1154">Quarry East XV</placeName>, north wall. 
                               First recorded in <date type="found">1936</date>.</p>
                         </provenance>
                         <provenance type="observed">

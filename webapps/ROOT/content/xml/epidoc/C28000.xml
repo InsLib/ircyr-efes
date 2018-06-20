@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1059">Spring of Kura/Cave of the Nymphs</rs>, in one of the entrances to a rock-cut chamber beside the cave; 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1059">Spring of Kura/Cave of the Nymphs</placeName>, in one of the entrances to a rock-cut chamber beside the cave; 
                               found probably in <date type="found" cert="low">1933</date>.</p>
                         </provenance>
                         <provenance type="observed">

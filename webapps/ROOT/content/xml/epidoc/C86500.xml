@@ -51,7 +51,7 @@
                         <provenance type="found">
                            <p>.
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              Outside the <rs type="monuList" ref="http://www.slsgazetteer.org/1041">Baths of Trajan</rs>; found in <date type="found">1933</date>.</p>
+                              Outside the <placeName type="monuList" ref="http://www.slsgazetteer.org/1041">Baths of Trajan</placeName>; found in <date type="found">1933</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

@@ -48,11 +48,11 @@
                      <origDate notBefore="0300" notAfter="0650" cert="low" evidence="lettering">Probably Byzantine.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" key="1174">Gebel Akhdar: West of Cyrene</placeName>: 
-                     <rs type="monuList" ref="http://www.slsgazetteer.org/1159">Bu Sfeia</rs>; found in <date type="found">1966</date>.</p>
+                     <placeName type="monuList" ref="http://www.slsgazetteer.org/1159">Bu Sfeia</placeName>; found in <date type="found">1966</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum</placeName>.</p>
                         </provenance>
                      
                   

@@ -46,13 +46,13 @@
                <history>
                   <origin>
                      <origPlace>
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</rs>: from the  architrave - a.from the east end, b. from the west end.</origPlace>
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</placeName>: from the  architrave - a.from the east end, b. from the west end.</origPlace>
                      <origDate notBefore="0101" notAfter="0200" precision="low" evidence="lettering">Second century C.E.</origDate>
                   </origin>
                    <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:<rs type="monuList"/>
-                               <rs type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</rs>:
+                               <placeName type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</placeName>:
                               a. Found between <date type="found">1925</date> and <date type="found">1934</date>. 
                               b.i, ii, iv, were found between <date type="found">1925</date> and 
                               <date type="found">1934</date>, b.iii in <date type="found">1957</date>. 
@@ -60,7 +60,7 @@
                        south-west angle. b.iii was found when the Temple was overthrown by an earthquake.</p>
                         </provenance>
                         <provenance type="observed">
-                            <p>A. now stands in front of the <rs type="monuList" ref="http://www.slsgazetteer.org/1052">Temple of Hekate</rs>. Of b.i only ΔΟΜΙΤ survives, the remainder is read from the photograph.
+                            <p>A. now stands in front of the <placeName type="monuList" ref="http://www.slsgazetteer.org/1052">Temple of Hekate</placeName>. Of b.i only ΔΟΜΙΤ survives, the remainder is read from the photograph.
                                It now stands just west of the Peristyle at the West end, ii.
                        on the steps of the peristyle, iii. among Byzantine houses to the west of the Temple, iv. on the terrace in front of the cave of the priests.</p>
                         </provenance>

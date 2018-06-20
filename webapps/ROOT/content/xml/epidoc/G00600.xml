@@ -55,7 +55,7 @@
                      <ref type="inscription">G00800</ref> and <ref type="inscription">G00900</ref>; found in <date type="found">1963</date>.</p>
                   </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum</rs>.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum</placeName>.</p>
                         </provenance>
                      
                   

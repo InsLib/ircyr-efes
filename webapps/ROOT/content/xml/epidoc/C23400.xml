@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                               Recorded in <date type="found">1861</date> in the  <rs type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</rs>.</p>
+                               Recorded in <date type="found">1861</date> in the  <placeName type="monuList" ref="http://www.slsgazetteer.org/1033">Temple of Apollo</placeName>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot (1861).</p>

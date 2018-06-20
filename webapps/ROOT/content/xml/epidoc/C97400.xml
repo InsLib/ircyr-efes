@@ -51,7 +51,7 @@
                   <provenance type="found">
                      <p>
                         <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</rs> Norton Expedition Tomb 6; found 
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</placeName> Norton Expedition Tomb 6; found 
                         23 January <date type="found">1911</date>, </p>
                   </provenance>
                         <provenance type="observed">

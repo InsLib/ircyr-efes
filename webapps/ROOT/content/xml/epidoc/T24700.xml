@@ -53,10 +53,10 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1133">Turkish castle</rs>; first found in <date type="found">1825</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1133">Turkish castle</placeName>; first found in <date type="found">1825</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p>i, ii Findspot (<date type="observed">1825</date>); iii: <rs type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum.</rs>
+                           <p>i, ii Findspot (<date type="observed">1825</date>); iii: <placeName type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum.</placeName>
                            </p>
                         </provenance>
                      

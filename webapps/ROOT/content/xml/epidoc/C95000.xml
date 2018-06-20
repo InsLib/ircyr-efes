@@ -51,7 +51,7 @@
                      <origDate notBefore="0077" notAfter="0078" precision="low" evidence="prosopography">77/78 C.E.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
-                     Bir Sebil, where the <rs type="monuList" ref="http://www.slsgazetteer.org/1264">old road from Cyrene to Beida</rs> joins the modern highway; photographed in <date type="found">1928</date>.</p>
+                     Bir Sebil, where the <placeName type="monuList" ref="http://www.slsgazetteer.org/1264">old road from Cyrene to Beida</placeName> joins the modern highway; photographed in <date type="found">1928</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p><rs type="monuList" ref="http://www.slsgazetteer.org/933"/>Cyrene Museum.</p>

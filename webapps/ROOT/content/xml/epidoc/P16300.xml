@@ -54,7 +54,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1442">Late Baths</rs>, Frigidarium (room 6), in the south wall; found in <date type="found">1957</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1442">Late Baths</placeName>, Frigidarium (room 6), in the south wall; found in <date type="found">1957</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p> Findspot</p>

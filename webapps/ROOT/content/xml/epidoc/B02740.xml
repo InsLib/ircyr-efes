@@ -53,7 +53,7 @@
                   
                      
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1172">South of Berenike</placeName>:
-                     <rs type="monuList" ref="http://pleiades.stoa.org/places/373776">Corniclanum/Ajdabia</rs>, re-used in a building..</p>
+                     <placeName type="monuList" ref="http://pleiades.stoa.org/places/373776">Corniclanum/Ajdabia</placeName>, re-used in a building..</p>
                   </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

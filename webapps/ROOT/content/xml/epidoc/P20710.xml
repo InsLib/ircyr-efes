@@ -51,12 +51,12 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1301">House of Leukaktios</rs>; found in <date type="found">2002</date>.
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1301">House of Leukaktios</placeName>; found in <date type="found">2002</date>.
                     </p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1096">Findspot</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1096">Findspot</placeName>.</p>
                         </provenance>
                      
                   

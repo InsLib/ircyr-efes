@@ -53,7 +53,7 @@
                <history>
                   <origin>
                      <origPlace>
-                         <rs type="monuList" ref="http://www.slsgazetteer.org/1215">Arch of Constantine</rs>
+                         <placeName type="monuList" ref="http://www.slsgazetteer.org/1215">Arch of Constantine</placeName>
                      </origPlace>
                      <origDate notAfter="0313" notBefore="0311" evidence="reign">C.E. 311-313 </origDate>
                   </origin>
@@ -62,11 +62,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:
-                               fallen from the <rs type="monuList" ref="http://www.slsgazetteer.org/1215">Arch of Constantine</rs>; found in <date type="found">1935</date>.</p>
+                               fallen from the <placeName type="monuList" ref="http://www.slsgazetteer.org/1215">Arch of Constantine</placeName>; found in <date type="found">1935</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</placeName>.</p>
                         </provenance>
                      
                   

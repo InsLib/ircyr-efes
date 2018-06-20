@@ -55,7 +55,7 @@
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">
                                  Cyrene</placeName>:  Found in <date type="found">1969</date> in the
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1381">Sanctuary of Demeter and Kore</rs>, in excavations: area 2,1,2., 69-41. 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1381">Sanctuary of Demeter and Kore</placeName>, in excavations: area 2,1,2., 69-41. 
                            </p>
                         </provenance>
                         <provenance type="observed">

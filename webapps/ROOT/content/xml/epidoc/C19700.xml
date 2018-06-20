@@ -51,7 +51,7 @@
                   <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1041">Baths of Trajan</rs>, built into the enclosure wall to the south; 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1041">Baths of Trajan</placeName>, built into the enclosure wall to the south; 
                               found in <date type="found">1928</date>.</p>
                         </provenance>
                         <provenance type="observed">

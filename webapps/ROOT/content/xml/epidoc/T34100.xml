@@ -53,7 +53,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>:
-                               <rs type="monuList" ref="http://www.slsgazetteer.org/1146">Quarry East VI</rs>, East wall. First recorded in <date type="found">1825</date>.</p>
+                               <placeName type="monuList" ref="http://www.slsgazetteer.org/1146">Quarry East VI</placeName>, East wall. First recorded in <date type="found">1825</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

@@ -52,11 +52,11 @@
                   <provenance type="found">
                        <p>
                           <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/911">Apollonia</placeName>: 
-                          <rs type="monuList" ref="http://www.slsgazetteer.org/914">East Church</rs>, a unrecorded, b, reused upside down in the wall of the north aisle; 
+                          <placeName type="monuList" ref="http://www.slsgazetteer.org/914">East Church</placeName>, a unrecorded, b, reused upside down in the wall of the north aisle; 
                           found in <date type="found">1941</date></p>
                     </provenance>
                     <provenance type="observed">
-                       <p>a: Outside the <rs type="monuList" ref="http://www.slsgazetteer.org/934">Sculpture Museum</rs> at Cyrene; b at findspot</p>
+                       <p>a: Outside the <placeName type="monuList" ref="http://www.slsgazetteer.org/934">Sculpture Museum</placeName> at Cyrene; b at findspot</p>
                     </provenance>
                  </history>
             </msDesc>

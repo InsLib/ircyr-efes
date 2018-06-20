@@ -52,7 +52,7 @@
                   </origin><provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1061">Stepped Portico</rs>; found during excavation in <date type="found">1934</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1061">Stepped Portico</placeName>; found during excavation in <date type="found">1934</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Standing in the late house beside the Stepped Portico.</p>

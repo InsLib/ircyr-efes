@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</rs>, in the Square, near the so-called Tomb of Onomastus; found in <date type="found">1916</date></p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1009">Agora</placeName>, in the Square, near the so-called Tomb of Onomastus; found in <date type="found">1916</date></p>
                         </provenance>
                         <provenance type="observed">
                            <p>Standing in the Agora Square near <ref type="inscription">C10500</ref>, <ref type="inscription">C10600</ref>.</p>

@@ -61,11 +61,11 @@
                   </origin><provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1226">East Church</rs>, re-used  for a third time as a threshold in 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1226">East Church</placeName>, re-used  for a third time as a threshold in 
                               the south west entrance; found in <date type="found">1956</date></p>
                         </provenance>
                         <provenance type="observed">
-                           <p>Standing in the nave of the <rs type="monuList" ref="http://www.slsgazetteer.org/1226">East Church</rs>.</p>
+                           <p>Standing in the nave of the <placeName type="monuList" ref="http://www.slsgazetteer.org/1226">East Church</placeName>.</p>
                         </provenance>
                      
                   

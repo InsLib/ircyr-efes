@@ -54,7 +54,7 @@
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                               
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1051">Temple of Artemis</rs>: found in <date type="found">1861</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1051">Temple of Artemis</placeName>: found in <date type="found">1861</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Temple of Artemis, standing in the basement of the pronaos.</p>

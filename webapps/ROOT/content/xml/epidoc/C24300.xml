@@ -52,12 +52,12 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                               Found in <date type="found">1927</date>, during the excavations of the <rs type="monuList" ref="http://www.slsgazetteer.org/1052">Temple of Hekate</rs> 
+                               Found in <date type="found">1927</date>, during the excavations of the <placeName type="monuList" ref="http://www.slsgazetteer.org/1052">Temple of Hekate</placeName> 
                               and the Portico in front of it.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                               <rs type="monuList" ref="http://www.slsgazetteer.org/1052">Temple of Hekate</rs>: standing on the north wall of the cella.</p>
+                               <placeName type="monuList" ref="http://www.slsgazetteer.org/1052">Temple of Hekate</placeName>: standing on the north wall of the cella.</p>
                         </provenance>
                      
                   

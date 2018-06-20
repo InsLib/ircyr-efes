@@ -53,7 +53,7 @@
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
                               Said in 1930 to have been to the right of the door, high up on the external wall, of the Mausoleum at en-Ugheirat, 
-                              which should be the Hellenistic Mausoleum in <rs type="monuList" ref="http://www.slsgazetteer.org/972">Quarry III.</rs>; 
+                              which should be the Hellenistic Mausoleum in <placeName type="monuList" ref="http://www.slsgazetteer.org/972">Quarry III.</placeName>; 
                               first recorded in <date type="found">1825</date>.</p>
                         </provenance>
                         <provenance type="observed">

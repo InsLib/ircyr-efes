@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1024">Valley Street</rs>, North side, near <ref type="inscription">C16900</ref>; found in <date type="found">1959</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1024">Valley Street</placeName>, North side, near <ref type="inscription">C16900</ref>; found in <date type="found">1959</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

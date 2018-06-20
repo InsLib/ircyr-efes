@@ -61,13 +61,13 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</rs>, in front of the tomb used by the Norton Expedition 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</placeName>, in front of the tomb used by the Norton Expedition 
                               as a dark room; found 
                               in January <date type="found">1911</date>  
                               </p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs></p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName></p>
                         </provenance>
                      
                   

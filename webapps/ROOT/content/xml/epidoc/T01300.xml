@@ -47,7 +47,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>: 
-                              re-used in the <rs type="monuList" ref="http://www.slsgazetteer.org/1116">East Church</rs>; found in <date type="found">1959</date>.</p>
+                              re-used in the <placeName type="monuList" ref="http://www.slsgazetteer.org/1116">East Church</placeName>; found in <date type="found">1959</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot</p>

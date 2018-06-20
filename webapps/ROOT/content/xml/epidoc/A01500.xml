@@ -53,7 +53,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/911">Apollonia</placeName>: found 
-                              during excavations in the <rs type="monuList" ref="http://www.slsgazetteer.org/914">East Church</rs>, in <date type="found">1920</date>.</p>
+                              during excavations in the <placeName type="monuList" ref="http://www.slsgazetteer.org/914">East Church</placeName>, in <date type="found">1920</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>

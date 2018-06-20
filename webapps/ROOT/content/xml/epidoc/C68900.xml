@@ -47,10 +47,10 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              fragment a: unknown; fragment b  recorded in the <rs type="monuList" ref="http://www.slsgazetteer.org/1483">Augusteum</rs> in <date type="found">1861</date>.</p>
+                              fragment a: unknown; fragment b  recorded in the <placeName type="monuList" ref="http://www.slsgazetteer.org/1483">Augusteum</placeName> in <date type="found">1861</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p>  <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs></p>
+                           <p>  <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName></p>
                         </provenance>
                      
                   

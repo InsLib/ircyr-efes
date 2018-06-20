@@ -45,7 +45,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1381">Shrine of Demeter and Kore</rs>: findspot not recorded.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1381">Shrine of Demeter and Kore</placeName>: findspot not recorded.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Unknown.</p>

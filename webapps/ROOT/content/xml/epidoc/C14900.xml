@@ -48,11 +48,11 @@
                   </origin><provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              Valley Street, near <rs type="monuList" ref="http://www.slsgazetteer.org/1340">Public Building E</rs>; found in <date type="found">1957</date>.</p>
+                              Valley Street, near <placeName type="monuList" ref="http://www.slsgazetteer.org/1340">Public Building E</placeName>; found in <date type="found">1957</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

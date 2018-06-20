@@ -49,7 +49,7 @@
                      <origDate notBefore="0001" notAfter="0100" evidence="lettering" precision="low">Perhaps first century C.E.</origDate>
                   </origin>    
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1172">South of Berenike</placeName>:
-                     <rs type="monuList" ref="http://pleiades.stoa.org/places/373776">Corniclanum/Ajdabia</rs>: found re-used in the 
+                     <placeName type="monuList" ref="http://pleiades.stoa.org/places/373776">Corniclanum/Ajdabia</placeName>: found re-used in the 
                      <rs type="monuList" key="1242">Fatimid Mosque</rs>.</p>
                   </provenance>
                         <provenance type="observed">

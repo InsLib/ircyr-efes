@@ -53,7 +53,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/986">Street of the Monuments</rs>, re-used in late buildings; 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/986">Street of the Monuments</placeName>, re-used in late buildings; 
                               found in <date type="found">1935/6</date>, and published by Oliverio with 
                               <ref type="inscription">P13100</ref>, <ref type="inscription">P12900</ref>.</p>
                         </provenance>

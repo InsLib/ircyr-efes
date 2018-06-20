@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              bought in <date>1910/11</date> from a dealer in <rs type="monuList" ref="http://www.slsgazetteer.org/910">Benghazi</rs></p>
+                              bought in <date>1910/11</date> from a dealer in <placeName type="monuList" ref="http://www.slsgazetteer.org/910">Benghazi</placeName></p>
                         </provenance>
                         <provenance type="observed">
                            <p>Walled into the courtyard of the American Academy at Rome.</p>

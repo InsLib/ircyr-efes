@@ -59,10 +59,10 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              apparently from the <rs type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</rs>; photographed in <date type="found">1925</date></p>
+                              apparently from the <placeName type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</placeName>; photographed in <date type="found">1925</date></p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

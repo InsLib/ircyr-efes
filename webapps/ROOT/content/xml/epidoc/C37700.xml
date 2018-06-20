@@ -52,13 +52,13 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene
-                              </placeName>: <rs type="monuList" ref="http://www.slsgazetteer.org/1066">Temple of Zeus</rs>: in the altar. 
+                              </placeName>: <placeName type="monuList" ref="http://www.slsgazetteer.org/1066">Temple of Zeus</placeName>: in the altar. 
                               Found between <date type="found" notBefore="1939" notAfter="1942">1939 and 1942</date>. 
                               Some pieces have been damaged since discovery.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs></p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName></p>
                         </provenance>
                      
                   

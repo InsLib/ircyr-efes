@@ -51,7 +51,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>Possibly <rs type="monuList" ref="http://www.slsgazetteer.org/914">East Church</rs>, first building phase.</origPlace>
+                     <origPlace>Possibly <placeName type="monuList" ref="http://www.slsgazetteer.org/914">East Church</placeName>, first building phase.</origPlace>
                      <origDate notBefore="0301" notAfter="0500" cert="low" precision="low" evidence="lettering">Probably fourth to fifth centuries C.E.</origDate>
                   </origin>
                   
@@ -59,7 +59,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/911">Apollonia</placeName>: 
-                              <rs  type="monuList" ref="http://www.slsgazetteer.org/914">East Church</rs>, lying to the south of the church,  in <date type="found">1920</date>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/914">East Church</placeName>, lying to the south of the church,  in <date type="found">1920</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot, <date type="observed">2008</date>.</p>

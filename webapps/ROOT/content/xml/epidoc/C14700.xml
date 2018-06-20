@@ -51,12 +51,12 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              Valley Street, re-used in the foundation of a late wall adjoining <rs type="monuList" ref="http://www.slsgazetteer.org/1339">Temple G</rs>; 
+                              Valley Street, re-used in the foundation of a late wall adjoining <placeName type="monuList" ref="http://www.slsgazetteer.org/1339">Temple G</placeName>; 
                               found in <date type="found">1958</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

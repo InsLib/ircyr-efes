@@ -71,10 +71,10 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>: 
-                              Façade of the <rs type="monuList" ref="http://www.slsgazetteer.org/983">Fortress of the Dux</rs>; first recorded in <date type="found">1825</date>.</p>
+                              Façade of the <placeName type="monuList" ref="http://www.slsgazetteer.org/983">Fortress of the Dux</placeName>; first recorded in <date type="found">1825</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p>Since 1852, <rs type="monuList" ref="http://www.slsgazetteer.org/1097">Louvre, Paris</rs>.</p>
+                           <p>Since 1852, <placeName type="monuList" ref="http://www.slsgazetteer.org/1097">Louvre, Paris</placeName>.</p>
                         </provenance>
                      
                   

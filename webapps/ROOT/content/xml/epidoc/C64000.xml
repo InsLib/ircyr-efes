@@ -53,12 +53,12 @@
                      <origDate notBefore="0001" notAfter="0100" precision="low" evidence="lettering">Probably first century C.E.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>: 
-                     <rs type="monuList" ref="http://pleiades.stoa.org/places/373733">Aptouchou Hieron/Haniya</rs>;  
+                     <placeName type="monuList" ref="http://pleiades.stoa.org/places/373733">Aptouchou Hieron/Haniya</placeName>;  
                                found 
                               <date type="found">between 1972 and 1974</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

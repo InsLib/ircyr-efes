@@ -49,7 +49,7 @@
                      area of <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1181">Barke</placeName>; photographed in <date>1926</date></p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/1288">Barke Museum</rs> (1926)</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/1288">Barke Museum</placeName> (1926)</p>
                         </provenance>
                </history>
             </msDesc>

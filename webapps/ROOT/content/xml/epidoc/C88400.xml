@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1381">Shrine of Demeter and Kore</rs>: area C12/13, 1, 2.
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1381">Shrine of Demeter and Kore</placeName>: area C12/13, 1, 2.
                               </p>
                         </provenance>
                         <provenance type="observed">

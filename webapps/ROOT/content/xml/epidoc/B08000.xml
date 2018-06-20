@@ -57,11 +57,11 @@
                            <p>Copied by Barth in <date type="foubd">1847</date> in 
                               <placeName type="ancientFindspot" key="http://pleiades.stoa.org/places/373757">Berenike</placeName>:
                               in a Necropolis that was probably
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1086">Sidi Khrebish Necropolis</rs>.
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1086">Sidi Khrebish Necropolis</placeName>.
                            </p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList" ref="http://www.slsgazetteer.org/1097">Louvre Paris</rs>, inventory no. MA4256; observed by Catherine Dobias-Lalou in <date type="observed">2014</date>.
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/1097">Louvre Paris</placeName>, inventory no. MA4256; observed by Catherine Dobias-Lalou in <date type="observed">2014</date>.
                            </p>
                         </provenance>
                      

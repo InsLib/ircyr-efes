@@ -67,7 +67,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
-                              fallen from the <rs type="monuList" ref="http://www.slsgazetteer.org/1215">Arch of Constantine</rs>; found in <date type="found">1935</date>.</p>
+                              fallen from the <placeName type="monuList" ref="http://www.slsgazetteer.org/1215">Arch of Constantine</placeName>; found in <date type="found">1935</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

@@ -52,11 +52,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                               Found in <date type="found">1927</date> in the <rs type="monuList" ref="http://www.slsgazetteer.org/1052">Temple of Hekate</rs>.</p>
+                               Found in <date type="found">1927</date> in the <placeName type="monuList" ref="http://www.slsgazetteer.org/1052">Temple of Hekate</placeName>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

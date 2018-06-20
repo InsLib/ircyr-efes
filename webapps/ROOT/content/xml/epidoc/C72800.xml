@@ -52,11 +52,11 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: In the <rs type="monuList" ref="http://www.slsgazetteer.org/1024">Valley street</rs>. 
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: In the <placeName type="monuList" ref="http://www.slsgazetteer.org/1024">Valley street</placeName>. 
                               Photographed in <date type="found">1937</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p>Now standing on the retaining wall, about half way between the Sanctuary and the <rs type="monuList" ref="http://www.slsgazetteer.org/1347">Antonine Arch</rs>, 
+                           <p>Now standing on the retaining wall, about half way between the Sanctuary and the <placeName type="monuList" ref="http://www.slsgazetteer.org/1347">Antonine Arch</placeName>, 
                               (for which see <ref type="inscription">C17500</ref>).</p>
                         </provenance>
                      

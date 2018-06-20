@@ -47,7 +47,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1121">West Wall</rs> "near the 20th tower" (Oliverio), which should mean near the sea in the south-west corner of the city.
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1121">West Wall</placeName> "near the 20th tower" (Oliverio), which should mean near the sea in the south-west corner of the city.
                            Recorded in <date type="found">1936</date>.</p>
                         </provenance>
                         <provenance type="observed">

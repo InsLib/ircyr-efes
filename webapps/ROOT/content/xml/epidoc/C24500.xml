@@ -54,7 +54,7 @@
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
                               First recorded in <date type="found">1935</date> when the surface must have been better preserved. 
-                               The penultimate block in the south wall of the <rs type="monuList" ref="http://www.slsgazetteer.org/1051">Temple of Artemis</rs>.</p>
+                               The penultimate block in the south wall of the <placeName type="monuList" ref="http://www.slsgazetteer.org/1051">Temple of Artemis</placeName>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

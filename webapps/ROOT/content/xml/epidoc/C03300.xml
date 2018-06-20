@@ -46,7 +46,7 @@
                   </origin><provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/991">House of Jason Magnus</rs>; 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/991">House of Jason Magnus</placeName>; 
                               found probably in <date type="found">1936</date>,
                            </p>
                         </provenance>

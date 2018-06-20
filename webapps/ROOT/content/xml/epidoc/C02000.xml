@@ -51,13 +51,13 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/989">Temple of Aphrodite</rs>.
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/989">Temple of Aphrodite</placeName>.
                                First recorded in <date type="found">1817</date> with <ref type="inscription">C02100</ref>; 
                                seen "about 10 yards to the eastwards of the Temple" by Smith and Porcher, in 1861.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>  
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>
                            </p>
                         </provenance>
                      

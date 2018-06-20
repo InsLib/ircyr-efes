@@ -54,7 +54,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                               <rs type="monuList" ref="http://www.slsgazetteer.org/1051">Temple of Artemis</rs>: Found in <date type="found">1925</date> in the Pronaos, 
+                               <placeName type="monuList" ref="http://www.slsgazetteer.org/1051">Temple of Artemis</placeName>: Found in <date type="found">1925</date> in the Pronaos, 
                               carrying a statue of Apollo.<!-- check --></p>
                         </provenance>
                         <provenance type="observed">

@@ -51,7 +51,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>Probably from the <rs type="monuList" ref="http://www.slsgazetteer.org/931">West Necropolis</rs></origPlace>
+                     <origPlace>Probably from the <placeName type="monuList" ref="http://www.slsgazetteer.org/931">West Necropolis</placeName></origPlace>
                      <origDate notBefore="0060" notAfter="0070" precision="low" evidence="internal-dates">C.E. 60-70 </origDate>
                   </origin>
                   
@@ -59,7 +59,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/911">Apollonia</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/921">Central Church</rs>,
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/921">Central Church</placeName>,
                         in <date type="found">1940</date>.</p>
                         </provenance>
                         <provenance type="observed">

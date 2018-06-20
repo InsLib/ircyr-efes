@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                        Valley Street, lying in front of <rs type="monuList" ref="http://www.slsgazetteer.org/1028">Temple F</rs>.</p>
+                        Valley Street, lying in front of <placeName type="monuList" ref="http://www.slsgazetteer.org/1028">Temple F</placeName>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>

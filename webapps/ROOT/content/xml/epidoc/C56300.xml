@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</rs>, near N.173, and <ref type="inscription">C56200</ref>;
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1071">North Necropolis</placeName>, near N.173, and <ref type="inscription">C56200</ref>;
                            recorded in <date type="found">1936</date>.</p>
                         </provenance>
                         <provenance type="observed">

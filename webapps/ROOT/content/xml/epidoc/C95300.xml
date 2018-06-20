@@ -59,7 +59,7 @@
                         <provenance type="found">
                            <p><date type="found"/>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              re-used in a wall closing to the North the so-called <rs type="monuList" ref="http://www.slsgazetteer.org/1319">Hall of the Orthostats</rs> 
+                              re-used in a wall closing to the North the so-called <placeName type="monuList" ref="http://www.slsgazetteer.org/1319">Hall of the Orthostats</placeName> 
                               when its former facade was incorporated in the fourth century into the tower that blocked the <rs type="monulist" ref="http://www.slsgazetteer.org/1309">Street of Battos</rs>; 
                               found by Adams in <date type="found">2003</date>.</p>
                         </provenance>

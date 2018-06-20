@@ -52,11 +52,11 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
-                              Found in <date type="found">1957</date>, in the fill over <rs type="monuList" ref="http://www.slsgazetteer.org/1442">Late Baths</rs>.</p>
+                              Found in <date type="found">1957</date>, in the fill over <placeName type="monuList" ref="http://www.slsgazetteer.org/1442">Late Baths</placeName>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</rs>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita Museum</placeName>
                            </p>
                         </provenance>
                </history>

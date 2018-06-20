@@ -54,11 +54,11 @@
                                 <provenance type="found" when="1962">
                                     <p>Found in 1962 at
                                         <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>,
-                                        in the <rs type="monuList" ref="http://www.slsgazetteer.org/1224">Theatre 2</rs> (also called Odeon).
+                                        in the <placeName type="monuList" ref="http://www.slsgazetteer.org/1224">Theatre 2</placeName> (also called Odeon).
                                    </p>
                                 </provenance>
                                 <provenance type="observed" when="1979" resp="CDL">
-                                    <p>Seen by Dobias-Lalou in 1979 in <placeName type="modernSpot">Shahat</placeName>: <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                                    <p>Seen by Dobias-Lalou in 1979 in <placeName type="modernSpot">Shahat</placeName>: <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                                 </provenance>
                             
                         

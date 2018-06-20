@@ -57,12 +57,12 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1327">Assembly Building</rs>: 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1327">Assembly Building</placeName>: 
                               re-used in the floor of a room to the East of that containing <ref type="inscription">C08700</ref>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
                         </provenance>
                      
                   

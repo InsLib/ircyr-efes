@@ -50,7 +50,7 @@
                   <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/1229">Temple of Hades</rs>; photographed in <date type="found">1928</date></p></provenance>
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1229">Temple of Hades</placeName>; photographed in <date type="found">1928</date></p></provenance>
                         <provenance type="observed">
                            <p>Findspot,in debris to the West.</p>
                         </provenance>

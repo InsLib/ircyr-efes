@@ -49,11 +49,11 @@
                   </origin><provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              'Quartiere centrale, all'esterno di <rs type="monuList" ref="http://www.slsgazetteer.org/1492">Casa Parisi</rs> (parete sud)' (Gasperini).</p>
+                              'Quartiere centrale, all'esterno di <placeName type="monuList" ref="http://www.slsgazetteer.org/1492">Casa Parisi</placeName> (parete sud)' (Gasperini).</p>
                         </provenance>
                         <provenance type="observed">
                            <p> 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</rs>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>
                            </p>
                         </provenance>
                      

@@ -44,13 +44,13 @@
                <history>
                   <origin>
                      <origPlace>
-                        <rs type="monuList" ref="http://www.slsgazetteer.org/1066">Temple of Zeus</rs>: from the Doric entablature of the external façade.</origPlace>
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1066">Temple of Zeus</placeName>: from the Doric entablature of the external façade.</origPlace>
                      <origDate notBefore="0001" notAfter="0100" precision="low" evidence="lettering">First century C.E.</origDate>
                   </origin>
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1066">Temple of Zeus</rs>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1066">Temple of Zeus</placeName>
                               In situ as overthrown during the Jewish revolt. <!-- check -->
                               The fragments of the second and fourth block were found in <date type="found">1955</date>,
                               the substantial portion of the fifth, sixth and seventh blocks between <date type="found" notBefore="1939" notAfter="1942">1939 and 1942</date>.</p>

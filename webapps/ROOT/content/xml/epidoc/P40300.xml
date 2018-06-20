@@ -56,7 +56,7 @@
                      
                         <provenance type="found">
                             <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:  
-                               <rs type="monuList" ref="http://www.slsgazetteer.org/953">village</rs>, partly buried in sand near the seashore east of the city, 
+                               <placeName type="monuList" ref="http://www.slsgazetteer.org/953">village</placeName>, partly buried in sand near the seashore east of the city, 
                                between the Italian fortifications and the Quarry Hawan Gheti; recorded in <date type="found">1935</date>.</p>
                         </provenance>
                         <provenance type="observed">

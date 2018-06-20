@@ -57,12 +57,12 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>:
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1133">Turkish castle</rs>, tower of the wall south of the guardhouse; recorded in <date type="found">1910</date>. 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1133">Turkish castle</placeName>, tower of the wall south of the guardhouse; recorded in <date type="found">1910</date>. 
                                Subsequently found lying loose near sea-shore.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum.</rs>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1095">Tocra Museum.</placeName>
                            </p>
                         </provenance>
                      

@@ -53,7 +53,7 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
-                              <rs type="monuList" ref="http://www.slsgazetteer.org/1354">Shrine of Serapis</rs>.</p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1354">Shrine of Serapis</placeName>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot. Photographed in 1925.</p>
