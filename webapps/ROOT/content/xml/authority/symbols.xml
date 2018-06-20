@@ -44,6 +44,9 @@
                 <item xml:id="year">
                     <term xml:lang="en">year</term>
                 </item>
+                <item xml:id="slanting-stroke">
+                    <term xml:lang="en">slanting stroke</term>
+                </item>
             </list>
         </body>
     </text>
