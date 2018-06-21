@@ -125,19 +125,19 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                   <lb n="1"/> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                   <lb n="1"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="1"><unclear>α</unclear></num> <persName type="attested"><name nymRef="Εἰρήνα">Ἰ<unclear>ρή</unclear>να</name> 
             <persName type="attested" key="lgpn:V1-60515"><name nymRef="Σίμων">Σί<lb n="2" break="no"/>μωνος</name></persName></persName> 
-                    <date type="life-span" dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <date type="life-span" dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                        <num value="30">λ</num> </date>. 
-                    <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="1">α</num> <rs type="month" key="θώθυ"><w>Θώθυ</w></rs> <num value="1">α</num> 
                     <lb n="4"/> <persName type="attested" key="lgpn:V1-60517"><name nymRef="Μουσαῖος">Μουσαῖος</name> 
                     <lb n="5"/><persName type="attested" key="lgpn:V1-60516"><name nymRef="Εὐφρόσυνος">Εὐφροσύνου</name></persName></persName> 
-                    <lb n="6"/> <date type="life-span" dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="30">λ</num> </date>.  <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6">ϛ</num> 
+                    <lb n="6"/> <date type="life-span" dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="30">λ</num> </date>.  <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6">ϛ</num> 
                     <rs type="month" key="Ἀθύρ"><w>Ἁθὺρ</w></rs>
                     <lb n="7"/><num value="13">γι</num> <persName type="attested" key="lgpn:V1-60518"><name nymRef="Σίμων">Σίμων</name> <persName type="attested"><name nymRef="Μουσαῖος">Μ<lb n="8" break="no"/>ουσαίου</name></persName></persName> 
-            <date type="life-span" dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="20">κ</num> </date>
+            <date type="life-span" dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="20">κ</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

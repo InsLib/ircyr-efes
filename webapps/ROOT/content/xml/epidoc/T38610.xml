@@ -121,7 +121,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="2"><unclear>β</unclear></num> 
                     <rs type="month" key="Φαρμουθί"><w><unclear>Φ</unclear><supplied reason="lost">αρμουθ</supplied>ὶ</w></rs> <num value="20">κ</num>
                     <lb n="2"/><persName type="attested"><name nymRef="Κα-"><unclear>κ</unclear>α</name></persName><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ι</unclear>οδι</orig>

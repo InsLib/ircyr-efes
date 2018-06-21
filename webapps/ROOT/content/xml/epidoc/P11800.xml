@@ -118,12 +118,12 @@
                     </ab></div><div subtype="section" n="b" type="textpart"><ab>
                             <lb n="1"/><persName type="attested"><name nymRef="Μοντάνος">Μοντάνος</name></persName>
                         </ab></div><div subtype="section" n="c" type="textpart"><ab>        
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                             <num value="2">β</num>
                             <persName type="attested"><name nymRef="Τιβέριος"><expan><abbr><unclear>Τ</unclear></abbr><ex>ιβέριος</ex></expan></name>
                             <name nymRef="Κλαύδιος"><expan><abbr>Κλ</abbr><ex>αύδιος</ex></expan></name></persName> <space quantity="3" unit="character"/>
                             <gap reason="lost" extent="unknown" unit="character"/>
-                            <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                            <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                             <num value="2">β</num> <persName type="attested"><name nymRef="Λέων">Λέων</name> <persName type="attested"><name nymRef="Λούκιος">Λουκίου</name> 
                                 <name nymRef="Ἀτίλιος">Ἀτιλίο<supplied reason="lost">υ</supplied></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
                         </ab>

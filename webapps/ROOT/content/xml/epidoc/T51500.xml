@@ -130,11 +130,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="4">δ</num>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="4">δ</num>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60743"><name nymRef="Δωσίθεος">Δωσ<supplied reason="lost">ίθε</supplied>ος</name> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60742"><name nymRef="Δωσίθεος">Δω<supplied reason="lost">σιθέου</supplied></name></persName></persName>
-                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <gap reason="lost" quantity="1" unit="line"/>
+                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <gap reason="lost" quantity="1" unit="line"/>
                 </ab>
 </div>
          <div type="apparatus">

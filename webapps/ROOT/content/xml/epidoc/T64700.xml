@@ -134,7 +134,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" quantity="3" unit="character"/> 
-                        <w><expan><abbr><am><unclear><g type="L"/></unclear></am></abbr><ex cert="low">ἔτους</ex></expan></w>
+                        <w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex cert="low">ἔτους</ex></expan></w>
                         <space quantity="3" unit="character"/> 
                         <num value="3" xml:lang="grc">γ</num> 
                         <gap reason="lost" extent="unknown" unit="character"/>

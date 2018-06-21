@@ -119,12 +119,12 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="column" n="1" type="textpart"><ab>
-                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                             <num value="54"><unclear>νδ</unclear></num>
                         </ab></div><div subtype="column" n="2" type="textpart"><ab>
                             <lb n="1"/><persName type="attested" key="lgpn:V1-63012"><name nymRef="Ἀπολλώς">Ἀπολλὼς</name>
                             <lb n="2"/><persName type="attested" key="lgpn:V1-62930"><name nymRef="Ἀντίοχος">Ἀντιόχο<unclear>υ</unclear></name></persName></persName>
-                            <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                            <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                             <num value="55">νε</num> <w part="I">κα<unclear>λ</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
                         </ab>
 </div>

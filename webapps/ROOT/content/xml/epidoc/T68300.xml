@@ -115,7 +115,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
+                    <lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
                         <num xml:lang="grc"><gap reason="lost" quantity="1" unit="character"/></num> 
                         <rs type="month" key="Φαμενώθ"><w><supplied reason="lost">Φ</supplied>α<supplied reason="lost">μ</supplied>ε<unclear>νὼ</unclear>θ</w></rs>
                         <num value="8" xml:lang="grc">η</num>
@@ -123,15 +123,15 @@
                         <persName type="attested"><name><seg part="F">ξεας</seg></name>
                            <lb n="2a"/><gap reason="lost" extent="1" unit="line"/> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60138"><name nymRef="Σωσικράτης">Σωσικ<unclear>ρ</unclear>άτου</name></persName></persName> 
-                       <lb n="3a"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> 
+                       <lb n="3a"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> 
                         <num xml:lang="grc"><gap reason="lost" quantity="1" unit="character"/></num>
-                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="87" xml:lang="grc">πζ</num> 
                         <rs type="month" key="Μεσορή"><w><unclear>Μ</unclear><supplied reason="lost">ε</supplied>σορὴ</w></rs> 
                     <lb n="5"/><num value="22" xml:lang="grc">κβ</num> 
                         <gap reason="lost" extent="3" unit="character"/><orig>ιαοη</orig> 
                     <lb n="6"/><orig>αν</orig><gap reason="lost" extent="2" unit="character"/> 
-                        <date type="life-span" dur="P42Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                        <date type="life-span" dur="P42Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="42" xml:lang="grc">μβ</num> </date>
                 </ab>
 </div>

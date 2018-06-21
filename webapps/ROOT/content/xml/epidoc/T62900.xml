@@ -122,13 +122,13 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="14" xml:lang="grc">ιδ</num> <rs type="month" key="Φαωφί"><w lemma="Φαωφί">Φαωφὶ</w></rs> 
                         <num value="10" xml:lang="grc">ι</num>
                     <lb n="2"/><persName type="attested"><name nymRef="Εὐμένης">Εὐμένης</name>
                     <lb n="3"/><persName type="attested"><name nymRef="Εὐμένης">Εὐμένευς</name></persName></persName>    
                     <lb n="4"/><space quantity="1" unit="character"/>
-                        <date type="life-span" dur="P50Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                        <date type="life-span" dur="P50Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="50">ν</num> </date>
                 </ab>
 </div>

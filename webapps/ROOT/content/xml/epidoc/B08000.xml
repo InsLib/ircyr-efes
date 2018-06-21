@@ -120,8 +120,8 @@
                     <lb n="1"/><persName type="attested" key="lgpn:V1-61923"><name nymRef="Φλάβιος"><supplied reason="undefined" evidence="previouseditor">Φ</supplied><unclear>λ</unclear>άβιοϲ</name> 
                     <lb n="2"/><name nymRef="Εὐέτης"><supplied reason="undefined" evidence="previouseditor">Εὐ</supplied>έτηϲ</name></persName>
                     <lb n="3"/><w>ἐτῶν</w>
-                    <lb n="4"/><num type="total" value="21"><num type="cardinal" value="20"><g type="alphabetic">κ</g></num>
-                       <num type="cardinal" value="1"><g type="alphabetic">α</g></num> </num> <unclear><g ref="symbols.xml#leaf"/></unclear>
+                    <lb n="4"/><num type="total" value="21"><num type="cardinal" value="20"><g ref="symbols.xml#alphabetic">κ</g></num>
+                       <num type="cardinal" value="1"><g ref="symbols.xml#alphabetic">α</g></num> </num> <unclear><g ref="symbols.xml#leaf"/></unclear>
          </ab>
          </div>
          

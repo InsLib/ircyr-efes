@@ -136,7 +136,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="15">ιε</num> <w>ἐπὶ</w> <w>ἱρέ<space quantity="1" unit="character"/>ως</w>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-63953"><name nymRef="Φιλίσκος">Φιλίσκω</name> <persName type="attested" key="lgpn:V1-63908"><name nymRef="Εὐφάνης">Εὐφάνευς</name></persName></persName>
                     <lb n="3"/><persName type="emperor" key="augustus"><w>Αὐτοκρατορος</w> <w>δὲ</w> <name nymRef="Καῖσαρ">Καίσα

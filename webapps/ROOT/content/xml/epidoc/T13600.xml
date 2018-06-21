@@ -126,9 +126,9 @@
                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ονν</unclear></orig>
                </ab></div>
             <div subtype="coloumn" n="ii" type="textpart"><ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="52">νβ</num> <persName type="attested" key="lgpn:V1-60290"><name nymRef="Ἀριστομένης">Ἀριστο<lb n="2" break="no"/>μέν<unclear>η</unclear><supplied reason="lost">ς</supplied></name></persName>
-                    <lb n="3"/> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="63">ξγ</num> 
+                    <lb n="3"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="63">ξγ</num> 
                     <persName type="attested" key="lgpn:V1-60289"><name nymRef="Εὐφράνωρ">Εὐφρά<supplied reason="lost">νωρ</supplied></name>
                     <lb n="4"/><persName type="attested" key="lgpn:V1-60291"><name nymRef="Ἀριστόβουλος">Ἀριστοβού<supplied reason="lost">λω</supplied></name></persName></persName>
                 </ab>

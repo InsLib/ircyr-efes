@@ -126,11 +126,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="14">ιδ</num> <rs type="month" key="Ἐπιφί"><w>Ἐπιφί</w></rs> 
                     <lb n="2"/><gap reason="lost" quantity="3" unit="character"/>
                     <persName type="attested" key="lgpn:V1-60563"><name nymRef="Μητροφάνης">Μητροφά<lb n="3" break="no"/>νης</name> <persName type="attested" key="lgpn:V1-60562"><name nymRef="Ἁμαισίννας">Ἁμαισ<lb n="4" break="no"/>ιννα</name></persName></persName> 
-            <date type="life-span" dur="P8Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P8Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                      <num value="8">η</num> </date>
                 </ab>
 </div>

@@ -129,10 +129,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="14">ιδ</num> <persName type="attested" key="lgpn:V1-60741"><name nymRef="Τίμαρχος">Τίμ<lb n="2" break="no"/>αρχος</name>
                     <lb n="3"/><persName type="attested"><name nymRef="Μαγαυνος" cert="low">Μα<unclear>γ</unclear>α<unclear>υ</unclear><lb n="4" break="no"/><unclear>νω</unclear></name></persName></persName>  
-            <date type="life-span" dur="P4Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+            <date type="life-span" dur="P4Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="4">δ</num> </date>
                 </ab>
 </div>

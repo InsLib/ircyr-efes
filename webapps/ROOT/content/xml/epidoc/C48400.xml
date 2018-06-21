@@ -123,7 +123,7 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Φιλόστρατος">Φιλόϲτρατοϲ</name>
                     <lb n="2"/><persName type="attested"><name nymRef="Θρασύμαχος">Θραϲυμάχω</name></persName></persName>
-                    <lb n="3"/><space extent="5" unit="character"/><date type="life-span" dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="7">ζ</num> </date><space extent="3" unit="character"/>
+                    <lb n="3"/><space extent="5" unit="character"/><date type="life-span" dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="7">ζ</num> </date><space extent="3" unit="character"/>
                 </ab>
 </div>
          <div type="apparatus">

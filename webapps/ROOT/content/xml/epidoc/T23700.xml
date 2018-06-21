@@ -117,7 +117,7 @@
                             <lb n="1"/><persName type="attested"><name nymRef="Ἀπολλώνιος">Ἀπολλώνιος</name> 
                         <lb n="2"/><persName type="attested"><name nymRef="Πε-"><seg part="I">Πε</seg><del rend="erasure"><gap reason="lost" quantity="8" unit="character"/></del><seg part="F">ω</seg></name></persName></persName>
                         </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="45">με</num> <persName type="attested"><name nymRef="Ἵππαρχος">Ἵππαρχος</name></persName>
                     </ab></div><div subtype="fragment" n="iii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Θανύρις">Θανυ<unclear>ρ</unclear>ις</name>

@@ -132,7 +132,7 @@
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60317"><name nymRef="Ἰάσων">Ἰάϲονος</name></persName></persName>
                        </ab></div>
                <div subtype="fragment" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="10">ι</num> <persName type="attested"><name nymRef="Αἰγλάνωρ">Αἰγ<supplied reason="lost" cert="low">λάνωρ</supplied></name></persName>
                     </ab>
 </div></div>

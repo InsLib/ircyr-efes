@@ -124,7 +124,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="1">α</num>
                     <persName type="emperor" key="diocletianus"><name nymRef="Διοκλητιανός">Διο<surplus>ιο</surplus>κλη<lb n="2" break="no"/>τιανοῦ</name></persName>
                     <supplied reason="lost"><w lemma="καί">καὶ</w></supplied>

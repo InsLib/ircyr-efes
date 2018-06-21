@@ -151,7 +151,7 @@
                         <lb n="1"/><persName type="attested"><name nymRef="Δημήτριος"><seg part="I">Δη<supplied reason="lost">μητρι</supplied></seg></name></persName>
                     </ab></div>
              <div subtype="fragment" n="vii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="4">δ</num> <persName type="attested"><name nymRef="Μαιαν">Μαιαν</name></persName>
                         <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>

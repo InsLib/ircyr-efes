@@ -120,13 +120,13 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="26" xml:lang="grc">κ<unclear>ϛ</unclear></num> 
                         <rs type="month" key="Τυβί"><w lemma="Τυβί">Τυβὶ</w></rs>
                     <lb n="2"/><num value="18" xml:lang="grc">ηι</num>
                         <persName type="attested"><name nymRef="Κάσσιος">Κάσ<lb n="3" break="no"/>σιος</name>  
                         <persName type="attested"><name nymRef="Κάσσιος">Κ<lb n="4" break="no"/>ασσίου</name></persName></persName>
-                    <lb n="5"/><date type="life-span" dur="P15Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="5"/><date type="life-span" dur="P15Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="15" xml:lang="grc"><unclear>ιε</unclear></num> </date>
                 </ab>
 </div>

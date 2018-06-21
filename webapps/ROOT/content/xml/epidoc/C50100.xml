@@ -116,11 +116,11 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/> 
-            <date type="life-span" dur="P64Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P64Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                         <num value="64" xml:lang="grc">ξδ</num> </date>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="40" xml:lang="grc">μ</num> </date>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="40" xml:lang="grc">μ</num> </date>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>ου </orig>
-            <date type="life-span" dur="P39Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+            <date type="life-span" dur="P39Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                <num value="39" xml:lang="grc">λθ</num> </date>                    
             <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig>του</orig>
                 </ab>

@@ -127,7 +127,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <div n="i" type="textpart"><ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
                     <num value="3">γ</num>
                     <lb n="2"/><persName type="attested"><name nymRef="Ἀριστέας">Ἀριστέ<lb n="3" break="no"/>αϲ</name> <persName type="attested"><name nymRef="Ποσειδώνιος">Ποσε<lb n="4" break="no"/><supplied reason="lost">ι</supplied>δώνιο<hi rend="subscript">υ</hi></name></persName></persName>
                 </ab>
@@ -136,10 +136,10 @@
 </div>
          
          <div n="iii" type="textpart"><ab>
-                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                             <num value="26">ϛκ</num> <space quantity="1" unit="character"/> <persName type="attested" key="lgpn:V1-60362"><name nymRef="Νικαΐς">Νί<lb n="2" break="no"/>καΐς</name> <persName type="attested" key="lgpn:V1-60361"><name nymRef="Νικίας"><unclear>Ν</unclear><supplied reason="lost">ι</supplied><lb n="3" break="no"/><unclear>κ</unclear>ία</name></persName></persName> <g ref="symbols.xml#palm"/> </ab></div>
             <div n="iv" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="49">μθ</num>
                     </ab>
 </div>

@@ -135,7 +135,7 @@
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><orig>ινου</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><orig>ελο</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="10"/><gap reason="lost" quantity="1" unit="character"/><orig><unclear>οα</unclear></orig><gap reason="lost" quantity="2" unit="character"/><orig><unclear>ι</unclear></orig>
-                    <date type="life-span" dur="P22Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <date type="life-span" dur="P22Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="22">κβ</num> <w lemma="μείς">μ<supplied reason="lost">ηνῶν</supplied></w></date> 
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="11"/><orig><unclear>cc</unclear></orig> <w>ε<unclear>γ</unclear></w><gap reason="lost" extent="unknown" unit="character"/> <space quantity="3" unit="character"/>

@@ -137,11 +137,11 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
              
             <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
             <num value="5"><unclear>ε</unclear></num> <rs type="month" key="Φαμενώθ"><w lemma="Φαμενώθ">Φαμενὼ<lb n="2" break="no"/>θ</w></rs> 
                     <num value="10">ι</num> <persName type="attested" key="lgpn:V1-60832"><name nymRef="Φιλοῦς">Φιλοῦς</name>
                        <lb n="3"/><orig>α</orig> <persName type="attested" key="lgpn:V1-60816"><name nymRef="Μελίτων">Μελιτα</name></persName></persName> 
-               <lb n="4"/><date type="life-span" dur="P27Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+               <lb n="4"/><date type="life-span" dur="P27Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                        <num value="27">κζ</num> </date>
             </ab>
          </div>

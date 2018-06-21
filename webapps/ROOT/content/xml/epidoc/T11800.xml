@@ -130,7 +130,7 @@
 <ab>
                        <lb n="1"/><persName  type="attested" key="lpgn:V1-60261"><name nymRef="Ἐργίας">Ἐργί<supplied reason="lost">ας</supplied></name> </persName>
                       <persName  type="attested" key="lpgn:V1-60262"> <name nymRef="Δάχις">Δ<unclear>ά</unclear><unclear>χ</unclear>ι<unclear>ς</unclear></name></persName>
-                       <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                       <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                        <num value="49">μθ</num> 
                    <lb n="3"/><persName type="attested" key="lpgn:V1-60260"><name nymRef="Ἀπολλώνιος">Ἀπολλώ<lb n="4" break="no"/>νιος</name></persName>
                 </ab>

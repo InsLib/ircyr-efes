@@ -125,7 +125,7 @@
                <gap reason="lost" quantity="9" unit="character" precision="low"/>
                     <lb n="2"/><persName type="attested"><name nymRef="Νικασία"><supplied reason="lost">Νι</supplied>καϲία</name></persName>
                <w>ἐτελ<supplied reason="lost">εύτηϲεν</supplied></w>
-               <supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied>
+               <supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied>
                 </ab>
          </div>
          <div type="apparatus">

@@ -140,7 +140,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="34">λδ</num> 
+                    <lb n="1"/><space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="34">λδ</num> 
                     <w>ὲπὶ</w> <persName type="attested" key="lgpn:V1-61814"><w lemma="ἱερεύς">ἱερέως</w> <w lemma="ὁ">τοῦ</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName> <name nymRef="Λῦσις">Λὐσιος</name></persName> <space quantity="3" unit="character"/>
                     <lb n="2"/><space quantity="3" unit="character"/> <w>ἁδήματος</w> <w>ἀντίγραφον</w> <space quantity="3" unit="character"/>
                     <lb n="3"/><w lemma="ἐπεί">ἐπειδὴ</w> <persName type="attested" key="lgpn:V1-61920"><name nymRef="Ἀπολλόδωρος">Ἀπολλόδωρος</name> <persName type="attested" key="lgpn:V1-61919"><name nymRef="Παγκράτης">Παγκράτευς</name></persName></persName> <w lemma="ὁ">τῶν</w> <w>πολιτᾶν</w>

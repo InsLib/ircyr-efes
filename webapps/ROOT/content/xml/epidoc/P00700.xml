@@ -150,7 +150,7 @@
                             <lb n="1"/><hi rend="ligature"><orig>νγ</orig></hi>
                         </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="12">ιβ</num> <persName type="attested" key="lgpn:V1-61160"><name nymRef="Αὖλος">Αὖλος</name>
                             <persName type="attested" key="lgpn:V1-61545"><name nymRef="Πελίδας" >Πελί<unclear>δ</unclear>α</name></persName></persName>
                     </ab>

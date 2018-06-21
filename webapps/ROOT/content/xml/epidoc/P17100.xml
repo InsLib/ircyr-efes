@@ -112,7 +112,7 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><head xml:lang="en">Text
-                       </head><ab><lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="17">ιζ</num> <persName type="attested"><name nymRef="Ο-"><seg part="I">Ο</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                       </head><ab><lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="17">ιζ</num> <persName type="attested"><name nymRef="Ο-"><seg part="I">Ο</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
             </ab>
 </div>
          <div type="translation" xml:space="preserve"><head>Translations</head>

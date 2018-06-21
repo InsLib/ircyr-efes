@@ -126,18 +126,18 @@
 </div>
 <div type="textpart" subtype="text" n="c"><ab>
     <lb n="1"/><persName type="attested"><name nymRef="Ἁγήσιος">Ἁγήσιος</name> 
- <lb n="2"/><w><expan><abbr><g type="L"/></abbr><ex>ἔτους</ex></expan></w> 
+ <lb n="2"/><w><expan><abbr><g ref="symbols.xml#year"/></abbr><ex>ἔτους</ex></expan></w> 
     <num value="40">μ</num> <persName type="attested"><name nymRef="Βαρκαῖος">Βαρκαίω</name>
  <lb n="3"/><w>τῶ</w> <persName type="attested"><name nymRef="Δᾶμις">Δάμιος</name></persName></persName></persName>
  <lb n="4"/><orig>αρ<unclear>ιι</unclear></orig><gap quantity="1" unit="character" reason="lost"/> <space extent="unknown" unit="character"/>
- <lb n="5"/><w><expan><abbr><g type="L"/></abbr><ex>ἔτους</ex></expan></w> 
+ <lb n="5"/><w><expan><abbr><g ref="symbols.xml#year"/></abbr><ex>ἔτους</ex></expan></w> 
     <space extent="unknown" unit="character"/> 
- <lb n="6"/><w><expan><abbr><g type="L"/></abbr><ex>ἔτους</ex></expan></w> 
-    <num value="5"><unclear>ε</unclear></num> <orig>αλκ</orig> <w><expan><abbr><g type="L"/></abbr><ex>ἔτους</ex></expan></w>
+ <lb n="6"/><w><expan><abbr><g ref="symbols.xml#year"/></abbr><ex>ἔτους</ex></expan></w> 
+    <num value="5"><unclear>ε</unclear></num> <orig>αλκ</orig> <w><expan><abbr><g ref="symbols.xml#year"/></abbr><ex>ἔτους</ex></expan></w>
     <num value="5">ε</num> <persName type="attested"><name nymRef="Λύκος">Λύκος</name> 
         <persName type="attested"><name nymRef="Ἀμμώνιος"><expan><abbr>Ἀμμων</abbr><ex>ί</ex><abbr>ου</abbr></expan></name></persName> </persName>
- <lb n="7"/><w><expan><abbr><g type="L"/></abbr><ex>ἔτους</ex></expan></w> 
-    <num value="10">ι</num> <w><expan><abbr><g type="L"/></abbr><ex>ἔτους</ex></expan></w> 
+ <lb n="7"/><w><expan><abbr><g ref="symbols.xml#year"/></abbr><ex>ἔτους</ex></expan></w> 
+    <num value="10">ι</num> <w><expan><abbr><g ref="symbols.xml#year"/></abbr><ex>ἔτους</ex></expan></w> 
     <num value="55">νε</num> <persName type="attested"><name nymRef="Νασάμων">Νασάμων</name> <persName type="attested"><name nymRef="Αἰάλαν">Αἰάλα<lb break="no" n="8"/><unclear>ν</unclear>τος</name></persName></persName>
 </ab>
 </div>

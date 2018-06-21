@@ -119,7 +119,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="24">κδ</num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="24">κδ</num> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          <div type="apparatus">
@@ -129,7 +129,7 @@
                   <note>Or <expan>
                         <abbr>
                            <am>
-                              <g ref="symbols.xml#years"/> </am>
+                              <g ref="symbols.xml#year"/> </am>
                         </abbr>
                         <ex>ἐτῶν</ex>
                      </expan>, so 'aged 24'

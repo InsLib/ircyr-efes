@@ -117,12 +117,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="15" xml:lang="grc">ει</num>
                         <rs type="month" key="Μεσορή"><w>Με<supplied reason="lost">σο</supplied><lb n="2" break="no"/>ρὴ</w></rs> 
                         <num value="3" xml:lang="grc">γ</num>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">α<unclear>ς</unclear></seg></name></persName> 
-                    <lb n="4"/><date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="4"/><date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="40" xml:lang="grc">λ</num> </date>
                 </ab>
 </div>

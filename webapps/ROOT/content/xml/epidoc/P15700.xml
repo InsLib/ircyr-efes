@@ -117,26 +117,26 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div subtype="section" n="i" type="textpart">
                <ab>
-                <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num></date>
+                <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num></date>
                   <persName type="attested"><name nymRef="Κλα-"><seg part="I">Κλα</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
                   <lb n="2"/><orig>ἀμων</orig><gap reason="lost" extent="unknown" unit="character"/>
                </ab>
             </div>
             <div subtype="section" n="ii" type="textpart">
                <ab>
-                    <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="1">α</num></date>
+                    <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="1">α</num></date>
                <gap reason="lost" extent="unknown" unit="character"/></ab>
             </div>
             <div subtype="section" n="iii" type="textpart">
                <ab>
-                    <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num></date>
+                    <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num></date>
                   <persName type="attested"><name nymRef="Πα-"><seg part="I">Π<unclear>α</unclear></seg></name></persName><gap
                      reason="lost" extent="unknown" unit="character"/>
                </ab>
             </div>
             <div subtype="section" n="iv" type="textpart">
                <ab>
-                  <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                  <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                        <num value="11">ια</num></date>
                   <persName type="attested"><name nymRef="Α-"><seg part="I"><unclear>Α</unclear></seg></name></persName><gap
                      reason="lost" extent="unknown" unit="character"/>

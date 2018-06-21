@@ -124,7 +124,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="2">β</num> <persName type="attested" key="lgpn:V1-60536"><name nymRef="Μυρτόι">Μυρ<lb n="2" break="no"/>τόι</name> 
                        <persName type="attested" key="lgpn:V1-60537"><name nymRef="Διόδοτος">Διοδό<unclear>τ</unclear><lb n="3" break="no"/>ου</name></persName></persName> 
    <date type="life-span" dur="P60Y"><w>ἐ<unclear>τῶν</unclear></w>

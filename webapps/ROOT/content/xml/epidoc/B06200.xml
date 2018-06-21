@@ -162,7 +162,7 @@
                         <lb n="1"/> <persName type="attested"><name nymRef="Ἀλέξων">Ἀλέξων</name> <orig>αμμ</orig> <persName type="attested" key="lgpn:V1-60852"><name nymRef="Ἀρίμμας">Ἀρίμμα</name></persName></persName>
                         <lb n="2"/><w><orig>σ</orig></w><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> 
-                        <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="16">ςι</num>
                     </ab>
                     </div>
@@ -175,14 +175,14 @@
                         <lb n="4"/><persName type="attested"><name nymRef="Δέγμος">Δέγ<unclear>μ</unclear><supplied reason="lost">ο</supplied>ς</name> 
                        <persName type="attested"><name nymRef="Δέγμος">Δέγ<supplied reason="lost">μου</supplied></name></persName></persName> 
                     </ab></div><div subtype="section" n="g" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="10">ι</num> <persName type="attested" key="lgpn:V1-60856"><name nymRef="Ἀριστοτέλης">Ἀριστοτέλης</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="section" n="h" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἱππ<unclear>ε</unclear><supplied reason="lost">ύ</supplied>ς</w> 
                         <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="section" n="j" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w>ϲτρατιώτηϲ</w> <w>ἥκω</w>
-                        <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="10">ι</num>
                     </ab>
 </div>

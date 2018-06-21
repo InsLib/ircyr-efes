@@ -115,7 +115,7 @@
             <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>άϊος</ex></expan></name>
                        <name  nymRef="Εὐθυκλῆς"><expan><abbr>Εὐθυκλ</abbr><ex>ῆς</ex></expan></name></persName>
-                    <lb n="2"/><date type="life-span" dur="P68Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="2"/><date type="life-span" dur="P68Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="68">ξη</num> </date>
                     <lb n="3"/><w><expan><abbr>ἱερ</abbr><ex>εὺς</ex></expan></w>
                      <persName type="divine" key="dionysus"><name nymRef="Διόνυσος"><expan><abbr>Διονύ</abbr><ex>σου</ex></expan></name></persName>

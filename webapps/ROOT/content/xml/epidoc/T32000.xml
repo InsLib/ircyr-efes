@@ -127,11 +127,11 @@
             <ab>
                     <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/>
             <persName type="attested" key="lgpn:V1-60448"><name nymRef="Καλλίτυχος"><supplied reason="lost">Κα</supplied><unclear>λ</unclear>λίτ<unclear>υχ</unclear>οϲ</name></persName>
-                    <date type="life-span" dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="7">ζ</num> </date>
+                    <date type="life-span" dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="7">ζ</num> </date>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ια</unclear></orig>
-                    <num value="17">ιζ</num> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
+                    <num value="17">ιζ</num> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
                     <num value="23">κγ</num> <persName type="attested" key="lgpn:V1-60447"><name nymRef="Εὐαγγέλιος"><supplied reason="lost">Εύ</supplied><unclear>αν</unclear>γε<unclear>λ</unclear>ὶϲ</name></persName> 
-                    <date type="life-span" dur="P16Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P16Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="16">ις</num> </date>
                 </ab>
 </div>

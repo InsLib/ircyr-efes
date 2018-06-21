@@ -119,7 +119,7 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Ἀγαθώνεμος">Ἀγαθώνεμος</name></persName>
                     <lb n="2"/><orig>τ<unclear>σ</unclear></orig> 
-            <date type="life-span" dur="P58Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="58">νη</num> </date> 
+            <date type="life-span" dur="P58Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="58">νη</num> </date> 
                 </ab>
 </div>
          

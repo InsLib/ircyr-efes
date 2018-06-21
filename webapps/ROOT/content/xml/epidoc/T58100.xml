@@ -117,7 +117,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="4">δ</num>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="4">δ</num>
                     <lb n="2"/><rs type="month" key="Χοιάκ"><w><supplied reason="lost">Χ</supplied><unclear>ο</unclear>ιάχι</w></rs>
                     <lb n="3"/><num value="3">γ</num>
                     <lb n="4"/><persName type="attested"><name nymRef="Μάριν"><unclear>Μ</unclear>άριν</name>

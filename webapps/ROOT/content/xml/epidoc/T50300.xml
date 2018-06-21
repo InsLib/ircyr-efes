@@ -131,14 +131,14 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="11">ια</num> 
                    <rs type="month" key="Θώθ"><w>Θ<supplied reason="lost">ώ</supplied>θ<supplied reason="lost">υ</supplied></w></rs> <gap reason="lost" quantity="1" unit="character"/>
                     <lb n="2"/> <persName type="attested"><name nymRef="Ἀντ-"><seg part="I">Ἀν<unclear>τ</unclear></seg> <gap reason="lost" quantity="5" unit="character"/>
                     <lb n="3"/><seg part="F">ος</seg></name> 
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><persName type="attested"><name><seg part="M">Η</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="5"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <gap reason="lost" quantity="1" unit="character"/>
                 </ab>
 </div>

@@ -122,7 +122,7 @@
             </div>
             <div subtype="part" n="ii" type="textpart">
                <ab>
-                    <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="18">ιη</num></date>
+                    <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="18">ιη</num></date>
                <persName type="attested" key="lgpn:V1-61468"><name nymRef="Μᾶρκος">Μᾶρκο<supplied reason="lost">ς</supplied></name></persName>
                <gap reason="lost" extent="unknown" unit="character"/>
                </ab>

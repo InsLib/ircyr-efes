@@ -117,7 +117,7 @@
                     <lb n="2"/><persName type="divine" key="artemis"><name nymRef="Ἄρτεμις">Ἀρτέμιδο<supplied reason="lost">ς</supplied></name></persName>
                     <lb n="3"/><persName type="attested"><name nymRef="Ῥούφιλλα">Ῥούφιλλα</name> <persName type="attested"><name nymRef="Ἐτευκλῆς">Ἐτευκλέους</name></persName></persName>
                     <lb n="4"/><persName type="attested"><name nymRef="Ῥούφιλλα"><expan><abbr>Ῥούπ</abbr><ex>ιλλα</ex></expan></name> <persName type="attested"><name nymRef="Εὐκλίδης">Εὐκλίδ<supplied reason="lost">ο</supplied><unclear>υς</unclear></name></persName></persName> 
-            <date type="life-span" dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="30">λ</num> </date>
+            <date type="life-span" dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="30">λ</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

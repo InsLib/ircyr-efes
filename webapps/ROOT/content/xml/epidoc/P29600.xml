@@ -126,7 +126,7 @@
                     <lb n="1"/><gap reason="lost" quantity="2" unit="character"/>
                     <persName type="attested"><name nymRef="Κλευπάτρα"><unclear>Κ</unclear>λευ<lb n="2" break="no"/><supplied reason="lost">π</supplied><unclear>ά</unclear>τ<unclear>ρ</unclear>α</name> 
                      <lb n="3"/><name nymRef="Θεύχρηστος"><supplied reason="lost">θε</supplied><unclear>υ</unclear>χρη<lb n="4" break="no"/><supplied reason="lost">στόυ</supplied></name></persName> 
-                    <date type="life-span" dur="P20Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied>
+                    <date type="life-span" dur="P20Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied>
                        <num value="20"><unclear>κ</unclear></num> </date>
                 </ab>
          </div>

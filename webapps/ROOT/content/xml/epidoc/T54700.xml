@@ -129,11 +129,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="105">ρε</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιάχι</w></rs> <num value="29">κθ</num> 
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60685"><name nymRef="Δωσιθέα">Δωϲ<supplied reason="omitted">ι</supplied>θέα</name> 
                        <persName type="attested" key="lgpn:V1-60686"><name nymRef="Πολύαρχος">Πολυ<lb n="3" break="no"/>άρχω</name></persName></persName> 
-            <date type="life-span" dur="P6Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P6Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="6">ς</num> </date>
                 </ab>
 </div>

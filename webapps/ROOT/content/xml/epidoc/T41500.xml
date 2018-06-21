@@ -124,10 +124,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <gap reason="lost" extent="unknown" unit="character"/><rs type="month" key="Ἁθύρ"><w><supplied reason="lost">Ἁ</supplied>θ<supplied reason="lost">ὺρ</supplied></w></rs><gap reason="lost" extent="unknown" unit="character"/>           
                     <lb n="2"/><space quantity="1" unit="character"/> <persName type="attested" key="lgpn:V1-60541"><name nymRef="Ἀλέξανδρος">Ἀλεξάν<lb n="3" break="no"/>δρω</name></persName>                                
-                    <lb n="4"/><date type="life-span" dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="4"/><date type="life-span" dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="7">ζ</num> </date>
                 </ab>
 </div>

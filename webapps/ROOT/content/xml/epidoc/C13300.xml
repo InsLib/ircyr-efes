@@ -137,7 +137,7 @@
 <ab>
                     <!-- check number values missing "|" marks?  -->
                     <lb n="1"/><space quantity="2" unit="character"/><w>Τύχα</w> <w>Ἀγαθᾶ</w> 
-                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="254">σνδ</num> <w lemma="ὁ">τοῦ</w> <w lemma="καί">καὶ</w> <num value="3">γ</num> 
                     <w lemma="αὐτοκράτωρ">Αὐτοκρά<lb n="3" break="no"/>τορος</w> <persName type="emperor" key="severusalexander"><name nymRef="Καῖσαρ">Καίσαρος</name> 
                     <name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκου</ex></expan></name> <name nymRef="Αὐρήλιος">Αὐρηλίου</name> 

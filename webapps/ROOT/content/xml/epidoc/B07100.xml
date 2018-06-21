@@ -138,7 +138,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div type="textpart">
                <ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> 
                         <persName type="emperor" key="nero"><name nymRef="Νέρων">Νέρωνος</name> <name nymRef="Κλαύδιος">Κλαυδίου</name>
                             <name nymRef="Καῖσαρ">Καίσαρος</name> <name nymRef="Δροῦσος">Δρούσου</name> 
                                 <lb n="2"/><name nymRef="Γερμανικός">Γερμανικοῦ</name>

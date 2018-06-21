@@ -120,7 +120,7 @@
             <div subtype="section" n="ii" type="textpart"><ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>κου</orig> <gap reason="lost" extent="unknown" unit="character"/></ab></div>
             <div subtype="section" n="iii" type="textpart"><ab>
-                    <lb n="1"/><space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="1">α</num> 
+                    <lb n="1"/><space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="1">α</num> 
                     <persName type="attested"><name nymRef="Ε-"><seg part="I">Ε</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName></ab></div>
             <div subtype="section" n="iv" type="textpart"><ab>
                     <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">παρχος</seg></name> <gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">ωνος</seg></name></persName></persName></ab>

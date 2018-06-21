@@ -113,9 +113,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="138">ρλη</num> 
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="138">ρλη</num> 
                     <lb n="2"/><persName type="attested"><name nymRef="Καλλιβία">Καλ<unclear>λ</unclear>ι<unclear>βί</unclear><lb n="3" break="no"/>α</name> <name nymRef="Τιμίς">Τιμι<unclear>ς</unclear></name></persName> 
-                    <lb n="4"/><date type="life-span" dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="45">μ<space quantity="3" unit="character"/>ε</num> </date>
+                    <lb n="4"/><date type="life-span" dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="45">μ<space quantity="3" unit="character"/>ε</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

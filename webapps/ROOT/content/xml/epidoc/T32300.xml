@@ -135,12 +135,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="15">ιε</num> <rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs> 
                     <lb n="2"/><num value="18">ηι</num> 
                     <persName type="attested" key="lgpn:V1-60452"><name nymRef="Θαλασσίς"><unclear>Θ</unclear>α<unclear>λ</unclear><lb n="3" break="no"/>α<supplied reason="lost">σσὶς</supplied></name> 
                     <persName type="attested"  key="lgpn:V1-60451"><name nymRef="Λυσανίας"><unclear>Λ</unclear><supplied reason="lost">υ</supplied><lb n="4" break="no"/>σ<supplied reason="lost">α</supplied>ν<supplied reason="lost">ί</supplied>α</name></persName></persName>
-                    <lb n="5"/><space quantity="1" unit="character"/> <date type="life-span" dur="P36Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="5"/><space quantity="1" unit="character"/> <date type="life-span" dur="P36Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="36">λς</num> </date>
                 </ab>
 </div>

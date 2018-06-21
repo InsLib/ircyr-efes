@@ -129,7 +129,7 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Νέμεσις">Νέμεσις</name>
                     <lb n="2"/><persName type="attested"><name nymRef="Ὠρίων">Ὠρίωνος</name></persName></persName> 
-            <date type="life-span" dur="P16Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="16">ις</num> </date>
+            <date type="life-span" dur="P16Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="16">ις</num> </date>
                 </ab>
 </div>
          

@@ -129,7 +129,7 @@
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>πευ<unclear>γ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div subtype="fragment" n="iii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="49">μθ</num> <persName type="attested" key="lgpn:V1-60294"><name nymRef="Ἀφθάν">Ἀφθάν</name></persName>
                     </ab></div>
             <div subtype="fragment" n="iv" type="textpart"><ab> 

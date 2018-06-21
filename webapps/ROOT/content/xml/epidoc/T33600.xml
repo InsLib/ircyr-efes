@@ -117,7 +117,7 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Κορνήλιος" cert="low"><seg part="F"><unclear>νή</unclear>λιος</seg></name></persName>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><space quantity="3" unit="character"/> 
-            <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+            <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="40">μ</num> </date>
                 </ab>
 </div>

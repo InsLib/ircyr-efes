@@ -169,17 +169,17 @@
                     <lb n="31"/><persName type="attested"><name nymRef="Μνασώι">Μνασὼι</name> <space quantity="3" unit="character"/> <persName type="attested"><name nymRef="Ἰάσων">Ἰ<supplied reason="lost">ά</supplied>σονος</name></persName></persName>
                     <lb n="32"/><persName type="attested"><name nymRef="Ἀριστοδίκα">Ἀριστοδίκα</name> <persName type="attested"><name nymRef="Ἰσοκράτης">Ἰσοκρά<unclear>τ</unclear>ευς</name></persName></persName> 
                     <lb n="33"/><persName type="attested"><name nymRef="Μεγώ">Μεγὼ</name> <persName type="attested"><name nymRef="Ἀρίσταρχος">Ἀριστάρχω</name></persName></persName> 
-                    <lb n="34"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="34"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="92">ϙβ</num> <persName type="attested"><name nymRef="Φαβία">Φαβία</name> <name nymRef="Κυδιμάχα">Κυδιμάχα</name>
                     <lb n="35"/><space quantity="3" unit="character"/><persName type="attested"><name nymRef="Φάος">Φαώι</name></persName></persName> <space quantity="3" unit="character"/> 
-                    <lb n="36"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="36"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="133">ρλγ</num> <w lemma="ὁ">τοῦ</w> <w lemma="καί">καὶ</w> <num value="6">ς</num>  
                        <persName type="attested"><name nymRef="Καλλιβώλα">Καλλιβώλα</name> <persName type="attested" key="lgpn:V1-62698"><name nymRef="Ἀλέξανδρος">Ἀλεξάνδ<supplied reason="lost">ρω</supplied></name></persName></persName>   
                 </ab>
             </div>
             <div subtype="face" n="b" type="textpart">
                <ab>    
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="93">ϙλγ</num> 
                 </ab>
 </div>

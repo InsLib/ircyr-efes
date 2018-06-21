@@ -125,7 +125,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num atLeast="80"><unclear>π</unclear><gap reason="lost" quantity="1" unit="character"/></num> 
                     <lb n="2"/><persName type="attested"><name nymRef="Ἀντι-"><seg part="I">Ἀντι<gap
                        reason="lost" quantity="2" unit="character"/><unclear>λ</unclear></seg></name><gap reason="lost" extent="unknown" unit="character"/>

@@ -118,7 +118,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     
-                    <lb n="1"/><persName type="attested"><name nymRef="Θεόδοτος">Θεόδοτος</name></persName> <w><expan><abbr>ἐπί</abbr><ex>σ</ex><abbr>κ</abbr><ex>οπος</ex></expan></w> <g type="monogram-cross"/> <w>ἐνθάδε</w> <w>κεῖται</w>
+                    <lb n="1"/><persName type="attested"><name nymRef="Θεόδοτος">Θεόδοτος</name></persName> <w><expan><abbr>ἐπί</abbr><ex>σ</ex><abbr>κ</abbr><ex>οπος</ex></expan></w> <g ref="symbols.xml#monogram-cross"/> <w>ἐνθάδε</w> <w>κεῖται</w>
                 </ab>
 </div>
          

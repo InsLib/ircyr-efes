@@ -114,11 +114,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="134">ρλδ</num>
+                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="134">ρλδ</num>
                
                    <lb n="2"/> <persName type="attested" key="lgpn:V1-61895, V1-61896"><name nymRef="Καλλοῦς">Καλλοῦϲ</name>
                 <lb n="3"/><name nymRef="Φιλόστρατος">Φιλόϲτρα<lb n="4" break="no"/>τοϲ</name></persName> 
-            <date type="life-span" dur="P23Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="23">κγ</num> </date>
+            <date type="life-span" dur="P23Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="23">κγ</num> </date>
             </ab>
 </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>

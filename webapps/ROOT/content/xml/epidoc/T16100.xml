@@ -125,11 +125,11 @@
                             <lb n="1"/><persName type="attested"><name nymRef="Ἀρε-"><seg part="I">Ἀρ<unclear>ε</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="8">η</num> <persName type="attested"><name nymRef="Β-"><seg part="I"><unclear>Β</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div subtype="fragment" n="iii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="1">α</num>
                         <persName type="attested"><name nymRef="Μ-"><seg part="I"><unclear>Μ</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>

@@ -116,7 +116,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="58">νη</num>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60401"><name nymRef="Ἰσίδωρος">Ἰσίδ<lb n="3" break="no"/>ορος</name></persName>
                 </ab>

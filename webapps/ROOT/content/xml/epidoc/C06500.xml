@@ -136,7 +136,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
+                    <lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
                     <num><gap reason="lost" atLeast="1" atMost="3" unit="character"/></num>
                     <supplied reason="lost"><w lemma="ἐπί">ἐπὶ</w>
                         <w lemma="ἱερεύς">ἱερέως</w> <w>τῶ</w> <w lemma="μέν">μὲν</w></supplied> 

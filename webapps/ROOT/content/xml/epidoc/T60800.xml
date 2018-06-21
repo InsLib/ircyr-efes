@@ -119,7 +119,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="12" xml:lang="grc">ιβ</num> 
                         <gap reason="lost" extent="unknown" unit="character"/>
                         <persName type="attested"><name nymRef="Νίκας" cert="low"><supplied reason="lost">Νί</supplied><lb n="2" break="no"/>κ<unclear>ας</unclear></name> 
@@ -127,13 +127,13 @@
                     <lb n="3"/><persName type="attested"><name><seg part="M">ευ</seg> 
                         <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><seg part="F">ς</seg></name></persName>  </persName>
-                        <date type="life-span" dur="P29Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>  
+                        <date type="life-span" dur="P29Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>  
                         <num value="29" xml:lang="grc">κθ</num> </date>
                         <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><persName type="attested"><name nymRef="Νίκας"><unclear>Ν</unclear>ίκας</name> 
                         <persName type="attested"><name nymRef="Τουβίας"><supplied reason="lost">Τ</supplied><unclear>ο</unclear>υβί<unclear>α</unclear></name></persName></persName>
                         <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><date type="life-span" dur="P1Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="6"/><date type="life-span" dur="P1Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="1" xml:lang="grc">α</num> </date>
                 </ab>
 </div>

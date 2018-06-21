@@ -122,7 +122,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> <rs type="month" key="Ἐπιφί"><w>Ἐπιφὶ</w></rs> <num value="4">δ</num> 
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> <rs type="month" key="Ἐπιφί"><w>Ἐπιφὶ</w></rs> <num value="4">δ</num> 
    <persName type="attested" key="lgpn:V1-60798"><name nymRef="Εὐφρόσυνος">Εὐ<lb n="2" break="no"/>πρόσυνος</name></persName> 
                     <lb n="3"/><w>ἔπλησεν</w> 
                     <lb n="4"/><w>ἔτη</w> <num value="50">ν</num> <w>καὶ</w> <w>ἀ

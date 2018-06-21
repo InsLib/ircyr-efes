@@ -113,14 +113,14 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div subtype="section" n="i" type="textpart">
                <ab>
-                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="3">γ</num>
+                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="3">γ</num>
                   <persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>αιος</ex></expan></name>
                      <name nymRef="Ἀβίδιος">Αβ<lb n="2" break="no"/>ίδιος</name> 
                 <lb n="3"/><name nymRef="Σεβῆρος">Σεβῆ<lb n="4" break="no"/>ρος</name></persName></ab></div><div subtype="section" n="ii" type="textpart"><ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" key="lgpn:V1-61327"><name nymRef="Ἴαλμις">Ἰάλμιος</name></persName></ab></div>
             <div subtype="section" n="iii" type="textpart"><ab>
-                   <lb n="1"/><space quantity="3" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <space quantity="5" unit="character"/>
-                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="1">α</num> <persName type="attested" key="lgpn:V1-61197"><name nymRef="Δάχις">Δάχις</name> <persName type="attested" key="lgpn:V1-61196"><name nymRef="Δάχις">Δάχιος</name></persName></persName></ab>
+                   <lb n="1"/><space quantity="3" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <space quantity="5" unit="character"/>
+                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="1">α</num> <persName type="attested" key="lgpn:V1-61197"><name nymRef="Δάχις">Δάχις</name> <persName type="attested" key="lgpn:V1-61196"><name nymRef="Δάχις">Δάχιος</name></persName></persName></ab>
 </div>
 </div>
          <div type="apparatus">

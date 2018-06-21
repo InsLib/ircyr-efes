@@ -121,7 +121,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-61373"><name nymRef="Καλλιβία">Καλλιβία</name></persName>
-                    <lb n="2"/><w lemma="ἔτος">ἐτῶν</w> <surplus><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w></surplus> <num value="100">ρ</num>
+                    <lb n="2"/><w lemma="ἔτος">ἐτῶν</w> <surplus><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></surplus> <num value="100">ρ</num>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-61037"><name nymRef="Ἀμάραντος">Ἀμάραντοϲ</name></persName> <w lemma="ἔτος">ἐτῶν</w> <num value="60">ξ</num>
                 </ab>
 </div>

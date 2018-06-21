@@ -111,7 +111,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num> <persName type="attested"><name nymRef="Πάκκιος">Πάκκιος</name> <persName type="attested"><name nymRef="Ἰούλιος" cert="low"><seg part="I">Ἰου</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName></persName></ab>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num> <persName type="attested"><name nymRef="Πάκκιος">Πάκκιος</name> <persName type="attested"><name nymRef="Ἰούλιος" cert="low"><seg part="I">Ἰου</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName></persName></ab>
 </div>
          <div type="apparatus">
             <head>Apparatus</head>

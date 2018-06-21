@@ -117,10 +117,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="142">ρμβ</num> 
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="142">ρμβ</num> 
                     <persName type="attested"><name nymRef="Φιλίππα">Φιλίππ<lb n="2" break="no"/>α</name> 
                     <persName type="attested"><name nymRef="Ἀριστοκράτης">Ἀριστοκράτ<lb n="3" break="no"/> ου</name></persName> </persName>
-            <date type="life-span" dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="45">με</num> </date>
+            <date type="life-span" dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="45">με</num> </date>
                 </ab>
 </div>
          

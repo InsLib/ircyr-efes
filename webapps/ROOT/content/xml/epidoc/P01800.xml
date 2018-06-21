@@ -144,15 +144,15 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="12">ιβ</num>
                     </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="8">η</num>
                     </ab></div>
             <div subtype="fragment" n="iii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="12">ιβ</num> <persName type="attested" key="lgpn:V1-61065"><name nymRef="Ἀμμώνιος">Ἀμμώνιος</name> 
                             <persName type="attested" key="lgpn:V1-61248"><name nymRef="Ἐρμαῖος">Ἐρμαίου</name></persName></persName>
                     </ab>

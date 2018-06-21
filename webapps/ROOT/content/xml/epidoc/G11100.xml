@@ -138,7 +138,7 @@
                     <lb n="1"/><persName type="attested"><name nymRef="Λούκιος">Λούκιος</name>
                     <lb n="2"/><name nymRef="Κόϊντος">Κόιντος</name></persName>
                     <lb n="3"/><orig><unclear>ΑΖ</unclear>Α<unclear>Ζ</unclear>Ε<unclear>ΟΕΑ</unclear></orig>                    
-                    <lb n="4"/><date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>  <num value="40">μ</num> </date>
+                    <lb n="4"/><date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>  <num value="40">μ</num> </date>
                     </ab>
                </div>
             </div>

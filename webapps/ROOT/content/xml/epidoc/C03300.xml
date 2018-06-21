@@ -115,7 +115,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                 
-                <lb n="1"/> <w><supplied reason="lost" cert="low"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></supplied></w>
+                <lb n="1"/> <w><supplied reason="lost" cert="low"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></supplied></w>
                     <num value="13"><unclear>ι</unclear>γ</num> <persName type="attested"><name nymRef="Γλαυκίας">Γλαυκία</name>
                     <w lemma="ὁ">τῶ</w> <persName type="attested"><name nymRef="Λεωνίδας">Λεωνίδα</name></persName></persName>
                 

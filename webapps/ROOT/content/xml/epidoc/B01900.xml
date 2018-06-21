@@ -123,7 +123,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="70">ο</num>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="70">ο</num>
                     <persName type="attested"><name nymRef="Θεομνᾶς">Θεο<gap reason="lost" quantity="2" unit="character"/>ας</name> 
                     <persName type="attested" key="lgpn:V1-62013"><name nymRef="Ἀριστόδημος">Ἀρ<unclear>ι</unclear><supplied reason="lost">σ</supplied><unclear>τ</unclear>οδή<supplied reason="lost">μ</supplied>ω</name></persName></persName>
                     <lb n="2"/><w>κεντυρ<supplied reason="lost">ίω</supplied><unclear>ν</unclear></w> 

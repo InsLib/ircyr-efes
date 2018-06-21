@@ -117,7 +117,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
                     <num value="179">ροθ</num> <g ref="symbols.xml#stop"/> <w>τοῦ</w> <w>καὶ</w> <num value="11">ια</num> <g ref="symbols.xml#stop"/> <persName type="emperor" key="antoninuspius"><name nymRef="Ἀντωνῖνος">Ἀντω<unclear>ν</unclear><supplied reason="lost">είνου</supplied></name>
                     <lb n="2"/><name nymRef="Καῖσαρ">Καίσαροϲ</name> <g ref="symbols.xml#stop"/> <name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></name> <g ref="symbols.xml#stop"/> <name nymRef="Κλαύδιος">Κλαυδί<supplied reason="lost">ου</supplied></name></persName>
                <gap reason="lost" quantity="7" unit="character" precision="low"/>

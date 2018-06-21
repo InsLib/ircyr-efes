@@ -136,7 +136,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/>
-                    <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <gap reason="lost" quantity="1" unit="character"/>
                     <num value="3"><unclear>γ</unclear></num>
                     <rs type="month" key="Φαμενώθ"><w lemma="Φαμενώθ">Φ<supplied reason="lost">αμ</supplied>ενώθ</w></rs>

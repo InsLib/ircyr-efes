@@ -143,14 +143,14 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
-                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                             <num value="4">δ</num> <orig>π<unclear>λ</unclear>η<unclear>ρλ</unclear>ιβευποσυ</orig>
                         </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Ἱππόμαχος">Ἱππόμαχος</name> 
                         <lb n="2"/><persName type="attested"><name nymRef="Τιμαχίδας">Τιμαχίδα</name> </persName>
                         <lb n="3"/><placeName type="ethnic"><w lemma="Ῥόδιος">Ῥόδιος</w></placeName></persName>
                     </ab></div><div subtype="fragment" n="iii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="8">η</num> <persName type="attested"><name nymRef="Θεοφείδης">Θεοφείδης</name> 
                     <lb n="2"/><persName type="attested"><name nymRef="Χαρίδαμος">Χαριδάμω</name></persName></persName>
                     </ab></div><div subtype="fragment" n="iv" type="textpart"><ab>

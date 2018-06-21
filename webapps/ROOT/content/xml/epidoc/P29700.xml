@@ -125,10 +125,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="89">πθ</num> <rs type="month" key="Ἐπιφί"><w>Ἐπιφὶ</w></rs>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="89">πθ</num> <rs type="month" key="Ἐπιφί"><w>Ἐπιφὶ</w></rs>
                     <lb n="2"/><num value="5">ε</num> <persName type="attested"><name nymRef="Μνασιώ">Μνασιὼ</name> 
                     <lb n="3"/><persName type="attested"><name nymRef="Θεύχρηστος">Θευχρήστω</name></persName></persName> 
-                    <lb n="4"/><date type="life-span" dur="P1Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="1">α</num> </date>
+                    <lb n="4"/><date type="life-span" dur="P1Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="1">α</num> </date>
                 </ab>
 </div>
          

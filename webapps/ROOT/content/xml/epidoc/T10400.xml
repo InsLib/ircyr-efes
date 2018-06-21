@@ -137,7 +137,7 @@
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60167"><name nymRef="Ἰταιαλαν">Ἰταιαλα<unclear>ν</unclear></name></persName>
                     </ab></div>
             <div subtype="part" n="iii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="15"><unclear>ει</unclear></num> 
                         <persName type="attested" key="lgpn:V1-60214"><name nymRef="Νίκανδρος">Νε<supplied reason="lost">ί</supplied>κα<unclear>ν</unclear>δρος</name> 
                         <persName type="attested"><name nymRef="Α-"><seg part="I">Α</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
@@ -152,10 +152,10 @@
                         <persName type="attested"><name nymRef="Βοσύλιος">Βο<unclear>σ</unclear>υ<unclear>λ</unclear>ίω</name></persName>
                     </ab></div>
             <div subtype="part" n="vi" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="16">ις</num>
                         <persName type="attested" key="lgpn:V1-60212"><name nymRef="Ἀρχίβιος">Ἀρχίβιος</name></persName> 
-                        <gap reason="lost" quantity="1" unit="character"/><orig>π</orig> <space quantity="3" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <gap reason="lost" quantity="1" unit="character"/><orig>π</orig> <space quantity="3" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="55">νε</num> <gap reason="lost" extent="unknown" unit="character"/><!-- check -->
                     </ab>
 </div>

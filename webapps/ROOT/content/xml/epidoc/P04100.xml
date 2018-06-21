@@ -119,14 +119,14 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
                             <lb n="1"/><persName type="attested"><name nymRef="Λῦσις">Λῦσις</name></persName> 
-                            <lb n="2"/><w><expan><abbr><expan><abbr><am><g type="ΣΤΚ"/></am></abbr><ex>συγκ</ex></expan></abbr><ex>οίτοι</ex></expan></w>
+                            <lb n="2"/><w><expan><abbr><expan><abbr><am><g ref="symbols.xml#ΣΤΚ"/></am></abbr><ex>συγκ</ex></expan></abbr><ex>οίτοι</ex></expan></w>
                             <lb n="3"/><persName type="attested" key="lgpn:V1-61328"><name nymRef="Ἱαρθάμμων">Ἱαρθάμμων</name></persName>
                         </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested" key="lgpn:V1-61454"><name nymRef="Μάκκυρ">Μάκκυρ</name></persName>
                     </ab></div><div subtype="fragment" n="iii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Μασκ-"><seg part="I">Μασ<unclear>κ</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="fragment" n="iv" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="14"><unclear>ι</unclear>δ</num> 
                         <persName type="attested"><name nymRef="θεοδ-"><seg part="I"><abbr>θεοδ</abbr></seg></name></persName>
                     </ab></div><div subtype="fragment" n="v" type="textpart"><ab>

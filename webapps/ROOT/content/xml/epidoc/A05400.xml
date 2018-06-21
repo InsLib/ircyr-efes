@@ -132,7 +132,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div n="a" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>εδοϲ</orig>    
-                        <g type="triple-bar"/>
+                        <g ref="symbols.xml#triple-bar"/>
                         <orig>βιβ</orig><supplied reason="lost"><orig>λ</orig></supplied><orig>ιοϲ</orig>
                         <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div n="b" type="textpart"><ab>

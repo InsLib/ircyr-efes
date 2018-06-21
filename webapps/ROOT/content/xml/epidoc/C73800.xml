@@ -125,7 +125,7 @@
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><space quantity="1" unit="character"/> <w>ἱερεὺς</w> <w>τελεσφόρος</w>
                <lb n="1a"/> <space quantity="1" unit="line"/>
-                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="131">ρλα</num> <persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαυδίου</name> 
                     <name nymRef="Φείδιμος">Φειδίμ<unclear>ο</unclear><supplied reason="lost">υ</supplied></name></persName>
                     <lb n="3"/><w>υἱὸς</w> <persName type="attested"><name nymRef="Ἴστρος">Ἴστρος</name></persName> <w>ἱερεὺς</w>

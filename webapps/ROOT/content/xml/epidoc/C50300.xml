@@ -140,7 +140,7 @@
                         <expan>
                      <abbr>
                         <am>
-                           <g type="L"/>
+                           <g ref="symbols.xml#year"/>
                         </am>
                      </abbr>
                      <ex>ἔτους</ex>

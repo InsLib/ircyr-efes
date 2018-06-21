@@ -128,11 +128,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="11">ια</num> <rs type="month" key="Τυβί"><w lemma="Τυβί">Τυβὶ</w></rs>
                     <lb n="2"/><num value="14">δι</num> <persName type="attested" key="lgpn:V1-60153"><name  nymRef="Δωσᾶς">Δωϲᾶϲ</name> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60152"><name nymRef="Ἀριστοκράτης">Ἀριϲτοκρά<lb n="4" break="no"/>τευϲ</name></persName></persName> 
-                    <date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="35">λε</num> </date>
                 </ab>
 </div>

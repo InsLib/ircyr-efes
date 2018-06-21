@@ -117,7 +117,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
                         <num value="11" xml:lang="grc">αι</num> 
                         <persName type="emperor" key="tiberius"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></name></persName> 
                         <rs type="month" key="Παχών"><w>Παχὼ<lb n="2" break="no"/>ν</w></rs> <num value="9" xml:lang="grc">θ</num> 

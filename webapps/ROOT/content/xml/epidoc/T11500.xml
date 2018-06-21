@@ -137,7 +137,7 @@
                             <lb n="1"/><persName type="attested" key="lgpn:V1-60250"><name nymRef="Εὔφραντος"><subst><del>Ε</del><add place="overstrike"><unclear>Δ</unclear></add></subst><unclear>ιφ</unclear>ρά<unclear>ν</unclear>τ<unclear>ω</unclear>ρ</name></persName>
                         </ab></div><!-- check -->
             <div subtype="part" n="ii" type="textpart"><ab>
-                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                            <num value="10">ι</num>
                        </ab>
 </div>

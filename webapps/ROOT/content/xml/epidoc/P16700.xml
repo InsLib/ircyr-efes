@@ -118,7 +118,7 @@
              
             <div subtype="part" n="i" type="textpart">
                <ab>
-                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15">ιε</num>
+                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15">ιε</num>
                           <gap reason="lost" extent="unknown" unit="character"/>
                        </ab>
                        </div>

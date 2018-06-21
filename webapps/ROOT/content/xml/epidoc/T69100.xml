@@ -116,7 +116,7 @@
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="1"/><orig>μ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><space quantity="3" unit="character"/> 
-                        <date type="life-span" dur="P70Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                        <date type="life-span" dur="P70Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                         <num value="70" xml:lang="grc"><unclear>o</unclear></num> </date>
                 </ab>
 </div>

@@ -129,7 +129,7 @@
                        </ab></div>
             <div subtype="part" n="iii" type="textpart"><ab>
                              <lb n="1"/><persName type="attested" key="lgpn:V1-60187"><name nymRef="Ἀρίμμας">Ἀρίμ<lb n="2" break="no"/><unclear>μ</unclear><supplied reason="lost">α</supplied>ς</name></persName> 
-                             <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                             <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                              <num value="10">ι</num>
                     </ab>
 </div>

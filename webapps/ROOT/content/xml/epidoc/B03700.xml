@@ -121,7 +121,7 @@
             </div>
             <div subtype="section" n="ii" type="textpart">
                   <ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="1">α</num>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="1">α</num>
                   </ab>
             </div>
          </div>

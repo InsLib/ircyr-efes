@@ -120,7 +120,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="4"><unclear>δ</unclear></num> <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παῦν</w></rs> <num value="11"><unclear>ι</unclear>α</num>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="4"><unclear>δ</unclear></num> <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παῦν</w></rs> <num value="11"><unclear>ι</unclear>α</num>
                     <lb n="2"/><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ε</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ωισι</unclear></orig>
                     <lb n="3"/><orig><unclear>δ</unclear>η<unclear>πω</unclear></orig>
                     

@@ -126,7 +126,7 @@
                         <gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="M"><unclear>κρ</unclear>ατ</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="1">α</num> 
                         <gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">ρατ<unclear>ω</unclear></seg></name></persName>
                         <orig><unclear>λ</unclear>ι<unclear>ακ</unclear><gap reason="lost" extent="unknown" unit="character"/></orig>

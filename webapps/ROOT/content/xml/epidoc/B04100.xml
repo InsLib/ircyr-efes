@@ -118,7 +118,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div subtype="section" n="a" type="textpart">
                <ab>
-                       <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><g type="monogram">ΜΤ</g>
+                       <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><g ref="symbols.xml#monogram">ΜΤ</g>
                </ab>
             </div>
             <div subtype="section" n="b" type="textpart">

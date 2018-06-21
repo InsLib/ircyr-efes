@@ -133,19 +133,19 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="5">ε</num> 
                         <persName type="attested"><name nymRef="Κρίτων">Κρίτων</name></persName>
                     </ab></div><div subtype="part" n="ii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Τήλεφος"><del rend="erasure">Τήλ</del>εφος</name>
                             <persName type="attested"><name nymRef="Τήλεφος">Τηλέφω</name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="part" n="iii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="56">νς</num> 
                         <persName type="attested"><name nymRef="Ἀμμώνιος">Ἀμμώνιος</name> 
                             <persName type="attested"><name nymRef="Ἀέροπος">Ἀερόπ<supplied reason="lost">ω</supplied></name></persName></persName>
                     </ab></div><div subtype="part" n="iv" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="56">νς</num> 
                         <persName type="attested"><name nymRef="Δίοφαντος">Δίοφαντος</name> 
                             <persName type="attested"><name nymRef="Δωσίθεος">Δωσιθέου</name></persName></persName>

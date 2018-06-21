@@ -159,7 +159,7 @@
             <lb n="22"/><persName type="attested"><name nymRef="Πραξιάδας">Πραξιάδας</name> <persName type="attested"><name nymRef="Πραξιάδας">Πραξιάδα</name> <w>τῶ</w>
             <lb n="23"/><persName type="attested"><name nymRef="Φιλίννας"><space quantity="1" unit="character"/>Φιλίννα <space quantity="1" unit="character"/></name></persName></persName></persName>
             <lb n="24"/><persName type="attested"><name nymRef="Εὐκλειδας">Εὐκλειδας</name> <persName type="attested"><name nymRef="Εὐκλειδας">Εὐ<add place="overstrike">κλ</add>είδα</name> <w>τῶ</w> 
-            <persName type="attested"><name nymRef="Εὐκλειδας"><expan><abbr><am><g type="slanting-stroke"/></am></abbr><ex>Εὐκλείδα</ex></expan></name></persName></persName></persName>
+            <persName type="attested"><name nymRef="Εὐκλειδας"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Εὐκλείδα</ex></expan></name></persName></persName></persName>
             <lb n="25"/><persName type="attested"><name nymRef="Σεραπίων">Σεραπ<del rend="erasure">σ</del>ίων</name> <persName type="attested" key="lgpn:V1-63058"><name nymRef="Ἀρίστανδρος">Ἀριστάνδρω</name></persName></persName>
             <lb n="26"/><persName type="attested"><name nymRef="Ζηνίων">Ζηνίων</name> <persName type="attested"><name nymRef="Σῶσος">Σώσου</name></persName></persName>
             <lb n="27"/><persName type="attested"><name nymRef="Κλέαρχος">Κλέαρχος</name> <persName type="attested"><name nymRef="Καρνήδας">Καρνήδα</name></persName></persName>

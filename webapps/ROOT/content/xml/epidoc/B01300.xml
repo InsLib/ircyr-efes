@@ -130,7 +130,7 @@
                     <lb n="1"/><persName type="attested"><name nymRef="Οὐαλέριος"><supplied reason="lost">Οὐα</supplied>λέρ<unclear>ι</unclear>ος</name>
                     <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><persName type="attested"><name><seg part="F"><supplied reason="lost">δ</supplied>ώρου</seg></name></persName></persName>
                     <lb n="3"/><placeName type="ethnic"><w lemma="Σύρος">Σύρος</w></placeName> <w>Α</w><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><w>ἥκω</w> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="4"/><w>ἥκω</w> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="80"><w><unclear>π</unclear></w><gap reason="lost" quantity="1" unit="character"/></num>
                 </ab>
 </div>

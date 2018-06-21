@@ -40,6 +40,57 @@
                 <item xml:id="star">
                     <term xml:lang="en">star</term>
                 </item>
+                <item xml:id="figure">
+                    <term xml:lang="en">figure</term>
+                </item>
+                <item xml:id="monogram">
+                    <term xml:lang="en">monogram</term>
+                </item>
+                <item xml:id="monogram-cross">
+                    <term xml:lang="en">monogram-cross</term>
+                </item>
+                <item xml:id="scroll">
+                    <term xml:lang="en">scroll</term>
+                </item>
+                <item xml:id="line">
+                    <term xml:lang="en">line</term>
+                </item>
+                <item xml:id="dipunct">
+                    <term xml:lang="en">dipunct</term>
+                </item>
+                <item xml:id="jug">
+                    <term xml:lang="en">jug</term>
+                </item>
+                <item xml:id="dash">
+                    <term xml:lang="en">dash</term>
+                </item>
+                <item xml:id="onchias">
+                    <term xml:lang="en">onchias</term>
+                </item>
+                <item xml:id="conch">
+                    <term xml:lang="en">conch</term>
+                </item>
+                <item xml:id="obliquebar">
+                    <term xml:lang="en">obliquebar</term>
+                </item>
+                <item xml:id="branch">
+                    <term xml:lang="en">branch</term>
+                </item>
+                <item xml:id="head">
+                    <term xml:lang="en">head</term>
+                </item>
+                <item xml:id="alphabetic">
+                    <term xml:lang="en">alphabetic</term>
+                </item>
+                <item xml:id="triple-bar">
+                    <term xml:lang="en">triple-bar</term>
+                </item>
+                <item xml:id="ΣΤΚ">
+                    <term>ΣΤΚ</term>
+                </item>
+                <item xml:id="barley-year">
+                    <term xml:lang="en">barley-year</term>
+                </item>
             </list>
         </body>
     </text>

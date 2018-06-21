@@ -122,12 +122,12 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragement" n="i" type="textpart"><ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="10">ι</num> <persName type="attested"><name nymRef="Μ-">Μ</name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>υ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab></div><div subtype="fragement" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="9">θ</num> <persName type="attested"><name nymRef="Δ-"><seg part="I">Δ</seg></name> <persName type="attested"><name nymRef="Ε"><seg part="I">Ε</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/><!-- check marking... -->
                     </ab>
 </div>

@@ -125,7 +125,7 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
-                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                             <num value="12"><unclear>ι</unclear><unclear>β</unclear></num> 
                             <persName type="attested"><name nymRef="Πραξιτέλης">Πραξιτέλης</name></persName>
                         </ab></div>

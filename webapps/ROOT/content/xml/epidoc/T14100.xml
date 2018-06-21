@@ -125,7 +125,7 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
-                           <lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτουϲ</ex></expan></w></supplied> 
+                           <lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w></supplied> 
                            <num value="18">ιη</num> <persName type="attested"  key="lgpn:V1-60329"><name nymRef="Δομίτιος">Δομί<lb n="2" break="no"/><supplied reason="lost">τι</supplied>οϲ</name> <name nymRef="Οἶαξ">Οἶαξ</name></persName> 
                        </ab></div>
                <div subtype="fragment" n="ii" type="textpart"><ab>

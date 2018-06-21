@@ -145,7 +145,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div subtype="fragment" n="i" type="textpart">
                <ab>
-                            <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                            <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                             <num value="12">ιβ</num> </date>
          </ab>
          </div>

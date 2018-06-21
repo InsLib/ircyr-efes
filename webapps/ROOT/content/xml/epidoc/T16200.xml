@@ -122,13 +122,13 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="block" n="1" type="textpart"><div subtype="fragment" n="i" type="textpart"><ab>
-                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                            <num value="45">με</num> <persName type="attested"><name nymRef="Σίνδρων" cert="low"><seg part="I">Σιν<unclear>δ</unclear></seg></name><gap reason="lost" extent="unknown" unit="character"/>
                        <lb n="2"/><space quantity="1" unit="character"/> 
-                           <persName type="attested"><name nymRef="Σίνδρων" cert="low"><expan><abbr><am><g type="slanting-stroke"/></am></abbr><ex>Σίνδρωνος</ex></expan></name></persName></persName>
+                           <persName type="attested"><name nymRef="Σίνδρων" cert="low"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Σίνδρωνος</ex></expan></name></persName></persName>
                        </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="7"><unclear>ζ</unclear></num> <persName type="attested" key="lgpn:V1-60341"><name nymRef="Φίλιππος">Φ<unclear>ιλί</unclear><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="2"/><unclear>π</unclear>π<unclear>ω</unclear>ι</name></persName>
                     </ab></div>

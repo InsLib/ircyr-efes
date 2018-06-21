@@ -143,13 +143,13 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
                            <persName type="attested" key="lgpn:V1-60249"><name nymRef="Γιλδαν">Γ<unclear>ι</unclear><unclear>λδ</unclear>αν</name></persName><gap reason="lost" extent="unknown" unit="character"/>
          </ab></div><div subtype="part" n="ii" type="textpart"><ab>
-                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                            <num value="56">νς</num> <orig>ι<gap reason="lost" extent="unknown" unit="character"/>
 
 </orig>                           <lb n="2"/><persName type="attested"><name nymRef="Ἀρισ-"><seg part="I">Ἀρισ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                        </ab></div>
             <div subtype="part" n="iii" type="textpart"><ab>
-                           <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                           <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                            <num value="79"><unclear>ο</unclear>θ</num> <gap reason="lost" extent="unknown" unit="character"/>
 
                        </ab>

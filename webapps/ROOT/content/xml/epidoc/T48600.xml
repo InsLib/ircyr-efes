@@ -144,20 +144,20 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="97">ϙζ</num>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60613"><name nymRef="Ἄριστις">Ἄριστις</name>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60615"><name nymRef="Ἀνδρόνικος">Ἀνδρονί<lb n="4" break="no"/>κω</name></persName></persName> 
-            <date type="life-span" dur="P79Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="79">οθ</num> </date> 
+            <date type="life-span" dur="P79Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="79">οθ</num> </date> 
                     <lb n="5"/><persName type="attested" key="lgpn:V1-60616"><name nymRef="Μυρτώ">Μυρτὼ</name> 
                     <lb n="6"/><persName type="attested" key="lgpn:V1-60617"><name nymRef="Δωσίθεος">Δωσιθ<supplied reason="omitted">έ</supplied>ω</name></persName></persName> 
-                    <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="20">κ</num> 
                     <lb n="7"/><persName type="attested" key="lgpn:V1-60619"><name nymRef="Λαὶς">Λαὶς</name>
                         <persName type="attested" key="lgpn:V1-60614"><name nymRef="Ἄριστις">Ἀρίστι<supplied reason="omitted">ο</supplied>ς</name></persName></persName>
-                    <lb n="8"/><date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="8"/><date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="35">λε</num> </date> <persName type="attested" key="lgpn:V1-60618"><name nymRef="Σώσιππος">Σώ<unclear>σ</unclear>ι<supplied reason="lost">π</supplied><lb n="9" break="no"/>πος</name> 
-                       <persName type="attested"><name nymRef="Να-"><seg part="I">Να</seg><gap reason="lost" quantity="3" unit="character"/><lb n="10" break="no"/><seg part="F">ος</seg></name></persName></persName> <date type="life-span" dur="P18Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                       <persName type="attested"><name nymRef="Να-"><seg part="I">Να</seg><gap reason="lost" quantity="3" unit="character"/><lb n="10" break="no"/><seg part="F">ος</seg></name></persName></persName> <date type="life-span" dur="P18Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="18">ι<unclear>η</unclear></num> </date>
                 </ab>
 </div>

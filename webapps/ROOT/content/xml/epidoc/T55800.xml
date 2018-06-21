@@ -127,13 +127,13 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><ab type="attested">
             <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><persName type="attested"><name nymRef="Μυρτώ">Μυρτὺ</name>
-            <lb n="2"/><persName type="attested"><name nymRef="Ἰούδας">Ἰούδα</name></persName></persName> <date type="life-span" dur="P16Y"><supplied reason="omitted"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="16">ις</num> </date>
+            <lb n="2"/><persName type="attested"><name nymRef="Ἰούδας">Ἰούδα</name></persName></persName> <date type="life-span" dur="P16Y"><supplied reason="omitted"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="16">ις</num> </date>
                     <lb n="3"/><persName type="attested"><name nymRef="Νάσων">Νάϲων</name>
-            <lb n="4"/><persName type="attested"><name nymRef="Ἰούδας">Ἰο<supplied reason="lost">υ</supplied>δα</name></persName></persName> <date type="life-span" dur="P8Y"><supplied reason="omitted"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="8">η</num> </date>
+            <lb n="4"/><persName type="attested"><name nymRef="Ἰούδας">Ἰο<supplied reason="lost">υ</supplied>δα</name></persName></persName> <date type="life-span" dur="P8Y"><supplied reason="omitted"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="8">η</num> </date>
                     <lb n="5"/><persName type="attested"><name nymRef="Κλεόδαμος"><supplied reason="lost" cert="low">Κλ</supplied><unclear>εόδαμοϲ</unclear></name>
-            <lb n="6"/><persName type="attested"><name nymRef="Ἰούδας">Ἰο<unclear>υ</unclear>δα</name></persName></persName> <date type="life-span" dur="P4Y"><supplied reason="omitted"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="4">δ</num> </date>
+            <lb n="6"/><persName type="attested"><name nymRef="Ἰούδας">Ἰο<unclear>υ</unclear>δα</name></persName></persName> <date type="life-span" dur="P4Y"><supplied reason="omitted"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="4">δ</num> </date>
                     <lb n="7"/><persName type="attested"><name nymRef="Σεκόνδα">Ϲεκόνδα</name>
-            <lb n="8"/><persName type="attested"><name nymRef="Ἰούδας">Ἰουδα</name></persName></persName> <date type="life-span" dur="P4Y"><supplied reason="omitted"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="4">δ</num> </date>
+            <lb n="8"/><persName type="attested"><name nymRef="Ἰούδας">Ἰουδα</name></persName></persName> <date type="life-span" dur="P4Y"><supplied reason="omitted"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="4">δ</num> </date>
                     <lb n="8a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
          </div>

@@ -124,12 +124,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">ος</w> <space quantity="5" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">ος</w> <space quantity="5" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num> 
                     <persName type="attested" key="lgpn:V1-61571"><name nymRef="Πράξιμος">Πρ<unclear>ά</unclear>ξιμ<supplied reason="lost">ος</supplied></name></persName>
-                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num> <persName type="attested" key="lgpn:V1-61017"><name nymRef="Αἰάλαν">Αἰάλαν</name></persName>
+                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num> <persName type="attested" key="lgpn:V1-61017"><name nymRef="Αἰάλαν">Αἰάλαν</name></persName>
    <space quantity="3" unit="character"/> <persName type="attested" key="lgpn:V1-61237"><name nymRef="Ἔκφαντος">Ἔκφαντος</name></persName>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>ς</orig> 
-                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> <persName type="attested" key="lgpn:V1-61487"><name nymRef="Μίμας">Μείμα<supplied reason="lost" cert="low">ς</supplied></name></persName>
+                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> <persName type="attested" key="lgpn:V1-61487"><name nymRef="Μίμας">Μείμα<supplied reason="lost" cert="low">ς</supplied></name></persName>
                 </ab>
 </div>
          <div type="apparatus">

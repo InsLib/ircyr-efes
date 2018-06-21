@@ -153,16 +153,16 @@
                            <lb n="1"/><persName type="attested"  key="lgpn:V1-60217"><name nymRef="Ἀπολλώνιος">Ἀπολλώνιοϲ</name></persName>
                        </ab></div>
             <div subtype="part" n="ii" type="textpart"><ab>
-                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num>
+                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num>
                        </ab></div>
             <div subtype="part" n="iii" type="textpart"><ab>
-                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="40">μ</num>
+                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="40">μ</num>
                            <lb n="2"/> <persName type="attested" key="lgpn:V1-60222"><name nymRef="Ἀτθυμάλλας">Ἀτθυμάλλαϲ</name></persName>
                            <lb n="3"/><w>φί<supplied reason="lost">λος</supplied></w>
                            <lb n="4"/><persName type="attested" key="lgpn:V1-60219"><name nymRef="Στρατοκλῆς">Στρατοκλεῖ</name></persName> 
                        </ab></div
             ><div subtype="part" n="iv" type="textpart"><ab>
-                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="8">η</num> 
+                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="8">η</num> 
                            <persName type="attested" key="lgpn:V1-60220"><name nymRef="Δαμοκλῆς">Δαμοκλῆϲ</name>
                    <lb n="2"/> <persName type="attested" key="lgpn:V1-60221"><name nymRef="Δαμοκλῆς">Δαμοκλεῦϲ</name></persName></persName>
                        </ab></div>

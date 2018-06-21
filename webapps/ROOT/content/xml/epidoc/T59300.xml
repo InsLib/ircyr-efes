@@ -121,7 +121,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab><lb n="0"/><gap reason="illegible" atLeast="3" atMost="5" unit="line"/>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                <gap reason="lost" extent="unknown" unit="character"/>
             </ab>
          </div>

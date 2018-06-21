@@ -115,12 +115,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="6"><unclear>ς</unclear></num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ"><supplied reason="lost">Χοι</supplied>ακὶ</w></rs>
                     <num value="20">κ</num>
                     <lb n="2"/><persName type="attested"><name nymRef="Μάριος">Μάρ<unclear>ι</unclear>ος</name>
                         <persName type="attested"><name nymRef="Ἀριστοκλῆς">Ἀ<lb n="3" break="no"/><unclear>ριστοκλ</unclear><lb n="4" break="no"/><supplied reason="lost">έους</supplied></name></persName></persName>
-                    <date type="life-span" dur="P21Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P21Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="21">κ<unclear>α</unclear></num> </date>
                 </ab>
 </div>

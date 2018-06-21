@@ -141,23 +141,23 @@
 <ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-62091"><name nymRef="Ἰουδίων"><supplied reason="lost">Ἰου</supplied><unclear>δ</unclear>ίων</name>
                        <persName type="attested" key="lgpn:V1-62140"><name nymRef="Φιλόξενος">Φιλο<lb n="2" break="no"/>ξένου</name></persName></persName> 
-            <date type="life-span" dur="P57Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P57Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="57">νζ</num> </date> 
-                    <lb n="3"/> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="3"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="93">ϙγ</num>
                     <rs key="Ἀθύρ" type="month"><w>Ἁθὺρ</w></rs> <num value="2">β</num>
                     <lb n="4"/><persName type="attested" key="lgpn:V1-62115"><name nymRef="Μάριον">Μάριον</name> 
                     <lb n="5"/><persName type="attested" key="lgpn:V1-62067"><name nymRef="Δωρόθεος">Δωρο<unclear>θέω</unclear></name></persName></persName>
-                    <lb n="6"/><date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="6"/><date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="35">λε</num> </date>
-            <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="100">ρ</num> 
+            <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="100">ρ</num> 
                     <persName type="attested"><name nymRef="Σα-"><seg part="I"><unclear>Σα</unclear></seg></name></persName>
                     <lb n="7"/><gap reason="lost" quantity="1" unit="character"/><orig>ιγ</orig><gap reason="lost" atLeast="5" atMost="6" unit="character"/>
                     <lb n="8"/><gap reason="lost" quantity="3" unit="character"/><orig>ν<unclear>ι</unclear></orig><gap reason="lost" atLeast="4" atMost="5" unit="character"/>
                     <lb n="9"/><gap reason="lost" quantity="3" unit="character"/><persName type="attested"><name><seg part="F">ου</seg></name></persName>
-            <date type="life-span" dur="P21Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <date type="life-span" dur="P21Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
             <num value="21">κα</num> </date> 
-                    <lb n="10"/> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="10"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="100">ρ</num>
             <persName type="attested"><name nymRef="Τι-"><seg part="I">Τι</seg></name></persName><gap reason="lost" atLeast="6" atMost="7" unit="character"/>
                     <lb n="11"/><gap reason="lost" quantity="3" unit="character"/> 
@@ -191,7 +191,7 @@
                </app>
            <app loc="6">
                   <lem>
-                     <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="100">ρ</num> 
+                     <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="100">ρ</num> 
                      <unclear>Σα</unclear>
                   </lem>
                   <rdg resp="#applebaum1954">

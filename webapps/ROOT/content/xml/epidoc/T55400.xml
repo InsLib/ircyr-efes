@@ -128,13 +128,13 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="104">ρδ</num> <rs type="month" key="Ἁθύρ"><w>Ἁθ<unclear>ὺρ</unclear></w></rs>
                     <num><gap reason="lost" quantity="1" unit="character"/></num>
                     <lb n="2"/><persName type="attested"><orig><unclear>ε</unclear>πα<unclear>γη</unclear>σ<unclear>οι</unclear>α</orig>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60786"><name nymRef="Δημήτριος">Δημητρίω</name></persName></persName>
                     <lb n="4"/><space quantity="1" unit="character"/>
-                    <date type="life-span" dur="P21Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P21Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="21"><unclear>κα</unclear></num> </date>
                 </ab>
 </div>

@@ -172,7 +172,7 @@
                <div type="textpart" n="iii">
                   <ab>
                      <lb n="1"/><gap reason="lost" quantity="6" unit="character" precision="low"/> 
-                     <persName type="attested"><name type="gentilicium" nymRef="Οὐαλέριος"><supplied reason="lost">Οὐ</supplied>ᾳλέριος</name> <g type="slanting-stroke"/>
+                     <persName type="attested"><name type="gentilicium" nymRef="Οὐαλέριος"><supplied reason="lost">Οὐ</supplied>ᾳλέριος</name> <g ref="symbols.xml#slanting-stroke"/>
                      <name nymRef="Σταδι-"><seg part="I">Σταδι</seg></name><gap reason="lost" extent="unknown" unit="character"/></persName>
                   </ab>
                </div>

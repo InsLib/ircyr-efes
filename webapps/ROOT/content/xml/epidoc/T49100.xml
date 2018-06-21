@@ -146,9 +146,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> <rs type="month" key="Τυβί"><w lemma="Τυβί">Τυβὶ</w></rs> <num value="20">κ</num>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> <rs type="month" key="Τυβί"><w lemma="Τυβί">Τυβὶ</w></rs> <num value="20">κ</num>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60753"><name nymRef="Καλλιμήδης">Καλλιμήδης</name> 
-                    <lb n="3"/><persName type="attested" key="lgpn:V1-60752"><name nymRef="Νίκαιος">Νικ<unclear>α</unclear>ίου</name></persName></persName>  <date type="life-span" dur="P23Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="23">γκ</num> </date>
+                    <lb n="3"/><persName type="attested" key="lgpn:V1-60752"><name nymRef="Νίκαιος">Νικ<unclear>α</unclear>ίου</name></persName></persName>  <date type="life-span" dur="P23Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="23">γκ</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

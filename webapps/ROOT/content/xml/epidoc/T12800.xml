@@ -125,7 +125,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="49">μθ</num>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60311"><name nymRef="Νικάνωρ">Νικάνωρ</name></persName>
                     <w lemma="ἔθος"><unclear>ἔ</unclear>θο<supplied reason="lost">ς</supplied></w>

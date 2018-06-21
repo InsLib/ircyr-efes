@@ -116,7 +116,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="1">α</num> <rs type="month" key="Ἁθύρ"><w>Ἁθὺ<supplied reason="lost">ρ</supplied></w></rs> 
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><persName type="attested"><name nymRef="Ἀπελλᾶς">Ἀ<unclear>π</unclear>ελλᾶϲ</name>

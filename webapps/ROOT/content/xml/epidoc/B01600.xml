@@ -129,7 +129,7 @@
                     <lb n="2"/><gap reason="lost" quantity="1" unit="character"/><orig>ιλ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="4"/><persName type="attested"><name nymRef="Πολ-"><seg part="I">Πολ</seg><orig><unclear>ιι</unclear></orig><lb n="5" break="no"/>ιοϲ</name><!-- check --></persName>
-                    <lb n="6"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
+                    <lb n="6"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
                     <num value="28"><unclear>κη</unclear></num>
                 </ab>
 </div>

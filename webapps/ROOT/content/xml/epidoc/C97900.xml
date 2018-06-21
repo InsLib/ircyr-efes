@@ -143,7 +143,7 @@
                     
                     <lb n="3"/><handShift new="b"/><persName type="attested"><name nymRef="Μαρσύας">Μαρσύας</name> <persName
                         type="attested"><name nymRef="Μαρσύας">Μαρσύα</name> <persName
-                            type="attested"><expan><abbr><am><g type="line">-</g></am></abbr><w><ex cert="low">τῶ</ex></w> <name
+                            type="attested"><expan><abbr><am><g ref="symbols.xml#line">-</g></am></abbr><w><ex cert="low">τῶ</ex></w> <name
                                 type="patronymic" nymRef="Μαρσύας"><ex
                                 cert="low">Μαρσύα</ex></name></expan></persName></persName></persName>
                     

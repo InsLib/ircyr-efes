@@ -145,7 +145,7 @@
                                     <persName type="attested"><name nymRef="Σόφων">Σόφων</name></persName> <w lemma="ἔθος">ἔθος</w>
                                 <lb n="2"/><persName type="attested"><name nymRef="Φερέτιμος"><supplied reason="lost">Φ</supplied><unclear>ερ</unclear>ετίμω<unclear>ι</unclear></name></persName>
                             </ab></div><div subtype="section" n="ii" type="textpart"><ab>
-                                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan> </w> <num value="56">νς</num> 
+                                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan> </w> <num value="56">νς</num> 
                                     <persName type="attested"><name nymRef="Ξένων">Ξένων</name> 
                                     <persName type="attested"><name nymRef="Ἀρίστιππος">Ἀριστίππ<supplied reason="lost">ω</supplied></name></persName></persName>
                             </ab></div><div subtype="section" n="iii" type="textpart"><ab>

@@ -127,9 +127,9 @@
 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
-                   <date type="life-span" dur="P43Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                   <date type="life-span" dur="P43Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="43">μγ</num> </date>
-                    <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="118">ριη</num> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <rs type="month" key="Φαρμουθί"><w lemma="Φαρμουθί">Φαρμουθὶ</w></rs> <num atLeast="20" atMost="29">κ</num> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

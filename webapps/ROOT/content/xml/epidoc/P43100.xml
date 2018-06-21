@@ -117,7 +117,7 @@
          
          <div type="edition" xml:space="preserve" xml:lang="grc">
             <ab> 
-            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="7">ζ</num> <rs type="month" key="Μεσορή"><w>Μεσορὴ</w></rs> <num value="22">βκ</num>
+            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="7">ζ</num> <rs type="month" key="Μεσορή"><w>Μεσορὴ</w></rs> <num value="22">βκ</num>
             <lb n="2"/><persName type="attested"><name nymRef="Λύκα"><unclear>Λ</unclear>ύκα</name> <persName type="attested"><name nymRef="Πρ-"><seg part="I">Πρ</seg><gap reason="lost" quantity="2" unit="character"/><seg part="M"><unclear>ρω</unclear></seg></name></persName></persName>
             </ab>
          </div>

@@ -119,9 +119,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="117">ριζ</num> 
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="117">ριζ</num> 
                     <lb n="2"/><persName type="attested"><name nymRef="Μάριν">Μ<unclear>ά</unclear>ρ<unclear>ι</unclear><lb n="3" break="no"/>ν</name> <persName type="attested"><name nymRef="Σώδαμος">Σωδ<lb n="4" break="no"/>άμω</name></persName></persName> 
-                    <lb n="5"/><date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="40">μ</num> </date>
+                    <lb n="5"/><date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="40">μ</num> </date>
                 </ab>
 </div>
          

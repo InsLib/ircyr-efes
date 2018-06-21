@@ -132,11 +132,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Αν-"><seg part="I">Αν</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="10">ι</num>
                    </ab></div><div subtype="part" n="ii" type="textpart"><ab>
                            <lb n="1"/> <persName type="attested" key="lgpn:V1-60168"><name nymRef="Φίλων">Φίλω<supplied reason="lost">ν</supplied>ο<unclear>ς </unclear></name></persName>
-                           <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                           <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                            <num value="9">θ</num>
                         </ab>
 </div>

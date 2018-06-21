@@ -103,7 +103,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
             <num value="15">ει</num> <rs type="month" key="Θώθ"><w lemma="Θώθ">Θώθυ</w></rs>
             <lb n="2"/><num value="29">θκ</num> <persName type="attested"><name nymRef="Ἀνσχαντος">Ἀν<unclear>σ</unclear>χαν
                <lb n="3" break="no"/>τος</name></persName> <date type="life-span" dur="P60Y"><w lemma="ἔτος">ἐτῶν</w>

@@ -108,7 +108,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
           <div type="textpart" n="a">
              <ab>
-             <lb n="1"/> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+             <lb n="1"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                 <num value="129">ρκθ</num>, <w>ἐ<unclear>π</unclear><supplied reason="lost">ὶ</supplied></w>
                 <w><supplied reason="lost">ἱαρέως</supplied></w> <gap reason="illegible" quantity="3" unit="character"/>, 
                 <rs type="month" key="Ἐπιφί"><w>Ἐπιφὶ</w></rs> <num value="8">η</num> 

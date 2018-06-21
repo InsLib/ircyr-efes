@@ -143,12 +143,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="3">γ</num>
+                    <lb n="1"/><space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="3">γ</num>
                     <lb n="2"/><rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs> <num value="12">βι</num>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60147"><name nymRef="Ἰησοῦς">Εἰηϲο<supplied reason="lost">ῦϲ</supplied></name>
                     <lb n="4"/><persName type="attested" key="lgpn:V1-60148"><name nymRef="Ἀπολλόδωρος">Ἀπολλ<lb n="5" break="no"/>οδώρω</name></persName></persName>  
                     <lb n="6"/><space quantity="1" unit="character"/>
-                    <date type="life-span" dur="P8Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <date type="life-span" dur="P8Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="8">η</num> </date> <space quantity="1" unit="character"/>
                 </ab>
 </div>

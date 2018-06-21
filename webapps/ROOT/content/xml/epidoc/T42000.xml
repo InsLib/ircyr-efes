@@ -124,14 +124,14 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
                     <num value="15">ιε</num> <rs type="month" key="Παῦνι"><w>Παῦνι</w></rs> <gap reason="lost" quantity="2" unit="character"/>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60074"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>αίοϲ</ex></expan></name>
                         <name nymRef="Ἰούλιος">Ἰο<supplied reason="omitted">ύ</supplied>λιοϲ</name>
                     <name nymRef="Ἀρετᾶς">Ἀ<unclear>ρ</unclear><supplied reason="lost">ε</supplied>τᾶ<lb n="3" break="no"/>ϲ</name> <persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>αίου</ex></expan></name> 
                         <name nymRef="Ἰούλιος">Ἰο<supplied reason="omitted">ύ</supplied>λίου</name> 
                     <name nymRef="Κάνδιδος">Κ<supplied reason="lost">αν</supplied><lb n="4" break="no"/>δίδου</name></persName> <w lemma="υἱός">υἱὸϲ</w></persName> 
-            <supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied><gap reason="lost" quantity="1" unit="character"/>
+            <supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied><gap reason="lost" quantity="1" unit="character"/>
                 </ab>
 </div>
          <div type="apparatus">

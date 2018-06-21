@@ -111,7 +111,7 @@
             <ab>
                  <lb n="1"/><persName type="attested" key="lgpn:V1-61892"><name nymRef="Δύναμις">Δύναμις</name> 
                  <lb n="2"/><persName type="attested" key="lgpn:V1-61893"><name nymRef="Ἑρμᾶς">Ἑρμᾶ</name></persName></persName> 
-                 <date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="35">λε</num> </date>
+                 <date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="35">λε</num> </date>
             </ab>
          </div>
          

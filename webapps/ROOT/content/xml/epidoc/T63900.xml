@@ -122,7 +122,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="10" xml:lang="grc">ι</num> <rs type="month" key="Θώθ"><w>Θώθυ</w></rs> 
                     <lb n="2"/><num value="15" xml:lang="grc">ε<unclear>ι</unclear></num> 
                         <persName type="attested"><name nymRef="Σαλη-"><seg part="I">Σα<unclear>λη</unclear></seg></name></persName> 

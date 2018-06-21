@@ -132,7 +132,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><!-- check -->
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="2">β</num> 
                     <rs type="month" key="Μεσορή"><w>Μ<lb n="2" break="no"/>εϲορ<lb n="3" break="no"/>ὴ</w></rs> 
                     <w>τρι<lb n="4" break="no"/>τη</w> 

@@ -126,7 +126,7 @@
 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><orig>αι</orig> <persName type="attested" key="lgpn:V1-62131"><name nymRef="Σάρεπτα">Σά<supplied reason="lost">ρεπ</supplied><lb n="2" break="no"/>τα</name> <persName type="attested" key="lgpn:V1-62028"><name nymRef="Ἀνδρόνικος">Ἀν<unclear>δ</unclear><supplied reason="lost">ρο</supplied><lb n="3" break="no"/>νείκου</name></persName></persName>
-                    <lb n="4"/><date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="4"/><date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="35">λε</num> </date>
                     
                 </ab>

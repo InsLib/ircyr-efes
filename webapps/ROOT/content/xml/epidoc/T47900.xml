@@ -128,10 +128,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="14">ιδ</num>  <persName type="attested" key="lgpn:V1-60599"><name nymRef="Ἄριστις">Ἄριϲ<lb n="2" break="no"/>τιϲ</name> 
                        <persName type="attested" key="lgpn:V1-60598"><name nymRef="Δωσίθεος">Δω<lb n="3" break="no"/>ϲιθέου</name></persName></persName> 
-                    <lb n="4"/><date type="life-span" dur="P55Y"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="4"/><date type="life-span" dur="P55Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="55">νε</num> </date>
                 </ab>
 </div>

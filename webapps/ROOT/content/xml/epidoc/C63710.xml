@@ -113,12 +113,12 @@
                <persName type="divine" key="herakles"><name nymRef="Ἡρακλῆς">Ἡρακλεῖ</name></persName>
             </ab></div>
             <div type="textpart" n="2"><ab>
-               <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="13">ιγ</num> 
+               <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="13">ιγ</num> 
                <persName type="attested"><name nymRef="Καλλίμαχος">Καλλιμάχω</name> <w>τῶ</w> <persName type="attested"><name nymRef="Θευδόσιος">Θευδοσίω</name></persName></persName>
                
             </ab></div>
             <div type="textpart" n="3"><ab>
-               <w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="71">οα</num> <orig>α</orig><space extent="1" unit="character"/><orig>ι</orig> 
+               <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="71">οα</num> <orig>α</orig><space extent="1" unit="character"/><orig>ι</orig> 
                <persName type="attested"><name nymRef="Πολυάρατος">Πολυάρατος</name> <persName type="attested" key="lgpn:V1-64296"><name nymRef="Ἰάσων">Ἰάσονος</name></persName></persName>
             </ab></div>
             <div type="textpart" n="4"><ab>

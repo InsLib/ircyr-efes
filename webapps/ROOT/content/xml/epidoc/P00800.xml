@@ -147,11 +147,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <div subtype="fragment" n="i" type="textpart"><ab>
-      <lb n="1"/><w><expan><abbr><expan><abbr><am><g type="ΣΤΚ"/></am></abbr><ex>σύγκ</ex></expan></abbr><ex>οιτος</ex></expan></w>            
+      <lb n="1"/><w><expan><abbr><expan><abbr><am><g ref="symbols.xml#ΣΤΚ"/></am></abbr><ex>σύγκ</ex></expan></abbr><ex>οιτος</ex></expan></w>            
    <lb n="2"/><persName type="attested" key="lgpn:V1-61408"><name nymRef="Κόμανος">Κόμανος</name></persName>
                 </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
-      <lb n="1"/><w><expan><abbr><expan><abbr><am><g type="ΣΤΚ"/></am></abbr><ex>σύγκ</ex></expan></abbr><ex>οιτος</ex></expan></w>            
+      <lb n="1"/><w><expan><abbr><expan><abbr><am><g ref="symbols.xml#ΣΤΚ"/></am></abbr><ex>σύγκ</ex></expan></abbr><ex>οιτος</ex></expan></w>            
    </ab></div>
 </div>
          <div type="apparatus">

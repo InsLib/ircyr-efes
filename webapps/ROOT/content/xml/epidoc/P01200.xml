@@ -140,9 +140,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><g type="L"/><orig>μν<unclear>α</unclear>σ</orig><gap reason="lost" quantity="3" unit="character"/><orig>ανε</orig>
+                    <lb n="1"/><g ref="symbols.xml#year"/><orig>μν<unclear>α</unclear>σ</orig><gap reason="lost" quantity="3" unit="character"/><orig>ανε</orig>
                     <lb n="2"/><orig>μλ<unclear>τι</unclear>ρ</orig> 
-                    <w lemma="ἔτος"><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w></w>
+                    <w lemma="ἔτος"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></w>
                     <num value="100">ρ</num> <orig>μ</orig><gap reason="lost" quantity="1" unit="character"/><orig>ρι</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
@@ -155,7 +155,7 @@
                         <expan>
                            <abbr>
                               <am>
-                                 <g type="L"/>
+                                 <g ref="symbols.xml#year"/>
                               </am>
                            </abbr>
                            <ex>ἔτους</ex>

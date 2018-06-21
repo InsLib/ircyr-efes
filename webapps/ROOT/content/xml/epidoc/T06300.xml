@@ -114,7 +114,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
                     <num value="21">κ<unclear>α</unclear></num>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60064"><name nymRef="Κόϊντος"><expan><abbr>Κ</abbr><ex>όιντοϲ</ex></expan></name>
                         <name nymRef="Ἰούλιος">Ἰούλιοϲ</name>

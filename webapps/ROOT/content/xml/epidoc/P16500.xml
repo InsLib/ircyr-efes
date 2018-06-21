@@ -117,14 +117,14 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div subtype="part" n="i" type="textpart">
                           <ab>
-                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w>
+                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                           <num value="7">ζ</num> <persName type="attested"><name nymRef="Καρν-"><seg part="I">Καρν</seg></name><gap reason="lost" extent="unknown" unit="character"/> 
                 <persName type="attested"><name nymRef="Αἰαν-"><seg part="I">Αἰα<unclear>ν</unclear></seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
                        </ab>
                        </div>
             <div subtype="part" n="ii" type="textpart">
                           <ab>
-                             <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g type="L"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num>
+                             <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num>
                              <persName type="attested"><name nymRef="Δημήτριος" cert="low">Δημ<supplied reason="lost">ήτριος</supplied></name></persName>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>δ</unclear>ιδη<unclear>ρα</unclear></orig><gap reason="lost" extent="unknown" unit="character"/></ab>
 </div>
