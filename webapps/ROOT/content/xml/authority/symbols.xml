@@ -86,10 +86,10 @@
                     <term xml:lang="en">triple-bar</term>
                 </item>
                 <item xml:id="ΣΤΚ">
-                    <term>ΣΤΚ</term>
+                    <term xml:lang="en">ΣΤΚ</term>
                 </item>
-                <item xml:id="barley-year">
-                    <term xml:lang="en">barley-year</term>
+                <item xml:id="barley-ear">
+                    <term xml:lang="en">barley-ear</term>
                 </item>
             </list>
         </body>

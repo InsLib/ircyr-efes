@@ -157,7 +157,7 @@
                       <lb n="11" break="no"/><space quantity="12" unit="character"/>δος</name></persName> <w lemma="ὅδε">τῶνδε</w><space quantity="12" unit="character"/>
                     <lb n="12"/><persName type="attested" key="lgpn:V1-63019"><name nymRef="Κλαυδία"><expan><abbr>Κλ</abbr><ex>αυδία</ex></expan></name>
                        <name nymRef="Ἀράτα">Ἀράτα</name></persName> <space quantity="10" unit="character"/>
-                    <w><abbr>ὀγ</abbr><expan><ex>κίας</ex></expan></w> <num value="3">γ</num>
+                    <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="3">γ</num>
                     <lb n="13"/><persName type="attested"><name nymRef="Μουνατία">Μουνατία</name>
                        <persName type="attested" key="lgpn:V1-63020"><name nymRef="Ἀράτα">Ἀράτα</name></persName></persName><space quantity="7" unit="character"/>
                <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan><del rend="erasure">ε</del></w> <num value="8">η</num>

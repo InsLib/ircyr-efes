@@ -143,13 +143,13 @@
                     
                     <lb n="3"/><handShift new="b"/><persName type="attested"><name nymRef="Μαρσύας">Μαρσύας</name> <persName
                         type="attested"><name nymRef="Μαρσύας">Μαρσύα</name> <persName
-                            type="attested"><expan><abbr><am><g ref="symbols.xml#line">-</g></am></abbr><w><ex cert="low">τῶ</ex></w> <name
+                            type="attested"><expan><abbr><am><g ref="symbols.xml#line"/></am></abbr><w><ex cert="low">τῶ</ex></w> <name
                                 type="patronymic" nymRef="Μαρσύας"><ex
                                 cert="low">Μαρσύα</ex></name></expan></persName></persName></persName>
                     
                     <lb n="4"/><persName type="attested"><name nymRef="Καρτισθένης">Καρτισθένης</name> <persName
                         type="attested"><name nymRef="Καρτισθένης"><expan><abbr><am><g 
-                        type="slanting-stroke">/</g></am></abbr><ex>Καρτισθένευς</ex></expan></name> <w>τῶ</w> <persName type="attested">
+                        ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Καρτισθένευς</ex></expan></name> <w>τῶ</w> <persName type="attested">
                             <name nymRef="Νῖκις">Νίκιο<hi rend="sling-above small ">ς</hi></name></persName></persName></persName>
                     
                     <lb n="5"/><persName type="attested"><name nymRef="Πρώταρχος">Πρώταρχος</name> <persName

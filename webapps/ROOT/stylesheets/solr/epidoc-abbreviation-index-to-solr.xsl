@@ -26,6 +26,9 @@
                     <xsl:call-template name="field_file_path" />
                     <field name="index_item_name">
                         <xsl:value-of select="string-join(.//tei:abbr, '')" />
+                        <xsl:for-each select="descendant::tei:g">
+                            <xsl:value-of select="concat($base-uri, @ref)" />
+                        </xsl:for-each>
                     </field>
                     <field name="index_abbreviation_expansion">
                         <xsl:value-of select=".//text()[not(ancestor::tei:am)]"/>
