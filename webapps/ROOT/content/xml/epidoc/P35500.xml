@@ -128,7 +128,7 @@
             <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><persName type="attested"><name><seg part="F"><unclear>αυ</unclear>ρος</seg></name> 
                     <lb n="4"/><persName type="attested" key="lgpn:V1-61299"><name nymRef="Ἡρίλοχος">Ἡ<unclear>ριλ</unclear>όχου</name></persName></persName> 
                     <lb n="5"/><date type="life-span" dur="P48Y"><w lemma="ἔτος">ἐτῶν</w> <num value="48">μη</num> </date>
-                    <lb n="6"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am> </abbr><ex>ἔτους</ex></expan></w> <num value="5">ε</num> <gap reason="lost" quantity="5" unit="character"/>
+                    <lb n="6"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="5">ε</num> <gap reason="lost" quantity="5" unit="character"/>
             <lb n="7"/> <orig><unclear>ι</unclear>ε<unclear>υ</unclear></orig> <gap reason="lost" quantity="1" unit="character"/> <w><unclear>ἐ</unclear>τ<supplied reason="lost">ῶν</supplied></w> 
                     <lb n="8"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <gap reason="lost" extent="unknown" unit="character"/>
             <lb n="9"/><gap reason="lost" extent="unknown" unit="line"/>

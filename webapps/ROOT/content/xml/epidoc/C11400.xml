@@ -444,11 +444,7 @@
                   </persName></persName>
                             <lb n="34"/> 
                   <orig>μ</orig> 
-                  <w>
-                     <expan> 
-                        <abbr>
-                           <am>
-                              <g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                  <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                             <lb n="35"/> 
                   <orig>β</orig>
                   <persName type="attested">
