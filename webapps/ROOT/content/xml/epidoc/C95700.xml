@@ -118,7 +118,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
                <ab>   
-                  <lb n="1"/><persName type="divine" ><name nymRef="#Νύμφαι">Νυμφᾶν</name></persName>
+                  <lb n="1"/><persName type="divine" ><name nymRef="Νύμφαι">Νυμφᾶν</name></persName>
                </ab>
              </div>
 
