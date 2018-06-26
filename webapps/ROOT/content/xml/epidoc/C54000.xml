@@ -123,7 +123,9 @@
             <p>For the tomb see <bibl><ptr target="thorn2009"/> <citedRange>28</citedRange></bibl></p>
          </div>
          
-         <div type="edition" xml:lang="la" xml:space="preserve"><div xml:lang="la" type="textpart"><ab>
+         <div type="edition" xml:space="preserve">
+            <div xml:lang="la" type="textpart">
+               <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>ucio</ex></expan></name> 
                     <name nymRef="Vibius">Vibio</name> <persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>uci</ex></expan></name></persName>
                         <w lemma="libertus"><expan><abbr>l</abbr><ex>iberto</ex></expan></w> <name nymRef="Gattabus">Gattabo</name></persName>
@@ -133,7 +135,10 @@
                     <w lemma="libertus"><expan><abbr><unclear>l</unclear></abbr><ex>ibertus</ex></expan></w> <name nymRef="Marius"><unclear>Mario</unclear></name></persName>
                     <lb n="3"/><w lemma="frater"><unclear>frater</unclear></w> <w lemma="facio">faciendum</w> 
                     <lb n="4"/><space extent="5" unit="character"/><w lemma="curo">coerauit</w>
-                    </ab></div><div xml:lang="grc" type="textpart"><ab>
+                    </ab>
+            </div>
+            <div xml:lang="grc" type="textpart">
+               <ab>
                     <lb n="5"/><persName type="attested"><name nymRef="Λεύκιος">Λεύκιος</name> <name nymRef="Οὐίβιος">Οὐίβιος</name> <persName type="attested"><name nymRef="Λεύκιος">Λευκίου</name></persName>
                         <w lemma="ἀπελεύθερος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>ἀπελεύθερος</ex></expan></w>
                     <lb n="6"/><space extent="5" unit="character"/><name nymRef="Γάτταβος">Γάτταβος</name></persName>
@@ -141,7 +146,6 @@
                         <name nymRef="Μαρίω">Μαρίω</name>
                     <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ευκίου</ex></expan></name></persName>
                         <w lemma="ἀπελεύθερος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>ἀπελεύθερος</ex></expan></w></persName>
-                   
                     <lb n="8"/><w lemma="ἀδελφός">ἀδελφὸς</w> <w lemma="ποιέω">ἐποίησε<supplied reason="lost">ν</supplied></w>
                     </ab>
 </div>
