@@ -170,7 +170,7 @@
                     <w lemma="nonus"><expan><abbr>non</abbr><ex>as</ex></expan></w> 
                   <rs type="month" key="Ianuarius"><w lemma="Ianuarius"><expan><abbr>Ian</abbr><ex>uarias</ex></expan></w></rs> 
                   <w lemma="qui">quae</w> <w lemma="proximus">proximae</w> 
-                        <w lemma="populus"><expan><abbr/><ex>opulo</ex></expan></w> 
+                        <w lemma="populus"><expan><abbr>P</abbr><ex>opulo</ex></expan></w> 
                   <placeName type="ethnic"><w lemma="Romanus"><expan><abbr>R</abbr><ex>omano</ex></expan></w></placeName> 
                   <placeName type="ethnic"><w lemma="Quirites">Quiritibus</w></placeName></supplied> 
                         <w lemma="respublica"><supplied reason="lost"><expan><abbr>reip</abbr><ex>ublicae</ex></expan></supplied></w>  
