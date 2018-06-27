@@ -14,7 +14,7 @@
             <item label="Attested names" match="local-index-display-html" params="epidoc person_name" i18n:key="menu-index-person_name"/>
             <item label="Symbols" match="local-index-display-html" params="epidoc symbol" i18n:key="menu-index-symbol"/>
             <item label="Words" match="local-index-display-html" params="epidoc word" i18n:key="menu-index-word"/>
-        <item label="Mentioned places" match="local-index-display-html" params="epidoc mentioned_place" i18n:key="menu-index-mentioned_place"/>
+        <!-- <item label="Mentioned places" match="local-index-display-html" params="epidoc mentioned_place" i18n:key="menu-index-mentioned_place"/> -->
             </menu>
   <menu label="Concordances" i18n:key="menu-concordances">
     <item label="Bibliographic" match="local-concordance-bibliography"
