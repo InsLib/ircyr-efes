@@ -15,24 +15,31 @@
             <list>
                 <item xml:id="crux">
                     <term xml:lang="en">crux</term>
+                    <g>&#x2020;</g>
                 </item>
                 <item xml:id="denarius">
                     <term xml:lang="en">denarius</term>
+                    <g>&#x10196;</g>
                 </item>
                 <item xml:id="drachma">
                     <term xml:lang="en">drachma</term>
+                    <g>&#x10175;</g>
                 </item>
                 <item xml:id="leaf">
                     <term xml:lang="en">leaf</term>
+                    <g>&#x2766;</g>
                 </item>
                 <item xml:id="slanting-stroke">
                     <term xml:lang="en">slanting-stroke</term>
+                    <g>/</g>
                 </item>
                 <item xml:id="stop">
                     <term xml:lang="en">stop</term>
+                    <g>•</g>
                 </item>
                 <item xml:id="year">
                     <term xml:lang="en">year</term>
+                    <g>&#x10179;</g>
                 </item>
                 <item xml:id="palm">
                     <term xml:lang="en">palm</term>
@@ -57,12 +64,14 @@
                 </item>
                 <item xml:id="dipunct">
                     <term xml:lang="en">dipunct</term>
+                    <g>:</g>
                 </item>
                 <item xml:id="jug">
                     <term xml:lang="en">jug</term>
                 </item>
                 <item xml:id="dash">
                     <term xml:lang="en">dash</term>
+                    <g>-</g>
                 </item>
                 <item xml:id="onchias">
                     <term xml:lang="en">onchias</term>
@@ -78,9 +87,6 @@
                 </item>
                 <item xml:id="head">
                     <term xml:lang="en">head</term>
-                </item>
-                <item xml:id="alphabetic">
-                    <term xml:lang="en">alphabetic</term>
                 </item>
                 <item xml:id="triple-bar">
                     <term xml:lang="en">triple-bar</term>

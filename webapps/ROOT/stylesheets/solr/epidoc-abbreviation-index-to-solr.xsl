@@ -42,5 +42,5 @@
     <xsl:template match="tei:expan">
         <xsl:call-template name="field_index_instance_location" />
     </xsl:template>
-
+    
 </xsl:stylesheet>
