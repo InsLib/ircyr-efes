@@ -119,7 +119,7 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="14" xml:lang="grc">ιδ</num> 
-                        <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιά<unclear>χ</unclear>ι</w></rs> 
+                        <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιά<unclear>χ</unclear>ι</w></rs> 
                         <num value="12" xml:lang="grc"><unclear>β</unclear>ι</num>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60016"><name nymRef="Σαλώι">Σαλόι</name>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60022"><name nymRef="Καλλισθένης">Καλλ<supplied reason="lost">ι</supplied><unclear>σ</unclear>θένους</name></persName></persName>

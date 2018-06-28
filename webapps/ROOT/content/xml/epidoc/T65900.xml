@@ -123,7 +123,7 @@
 <ab>
                     <lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied>
                         <gap reason="lost" extent="unknown" unit="character"/> 
-                        <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χο<supplied reason="lost">ι</supplied><lb n="2" break="no"/>άκι</w></rs> <num value="18" xml:lang="grc">ιη</num>
+                        <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χο<supplied reason="lost">ι</supplied><lb n="2" break="no"/>άκι</w></rs> <num value="18" xml:lang="grc">ιη</num>
                     <lb n="3"/><persName type="attested"><name nymRef="Ἀλέξανδρος">Ἀλέ<unclear>ξ</unclear><lb n="4" break="no"/>ανδρ<lb n="5" break="no"/>ος</name> 
                         <persName type="attested"><name nymRef="Βλάστος">Βλ<unclear>ά</unclear>σ<lb n="6" break="no"/><unclear>τ</unclear><supplied reason="lost">ο</supplied>υ</name></persName></persName>
                         <date type="life-span" dur="P13Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 

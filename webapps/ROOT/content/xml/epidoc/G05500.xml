@@ -193,7 +193,7 @@
             <div subtype="section" n="6a" type="textpart">
                                        <ab>
                                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                                          <num value="50">ν</num> <rs type="month" key="Ἀθύρ"><w lemma="Ἀθύρ">Ἁ<unclear>θ</unclear><supplied reason="lost">ὺρ</supplied><gap reason="lost" quantity="1" unit="character"/>
+                                          <num value="50">ν</num> <rs type="month" key="Ἁθύρ"><w lemma="Ἀθύρ">Ἁ<unclear>θ</unclear><supplied reason="lost">ὺρ</supplied><gap reason="lost" quantity="1" unit="character"/>
                                           </w></rs><lb n="2"/><persName type="attested"><name nymRef="Τίμαρχος">Τίμαρχος</name></persName>
                                           <lb n="3"/><persName type="attested"><name nymRef="Σῖμος">Σίμου</name></persName> <date type="life-span" dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                                                       <num value="30"><unclear>λ</unclear></num> </date></ab></div><div subtype="section" n="6b" type="textpart"><ab><lb n="1"/><w lemma="ἔτος"><expan><ex>ἔτους</ex></expan></w> <num value="92">ϙβ</num> <lb n="2"/><persName type="attested"><name nymRef="Τίμαρχος">Τίμαρχος</name></persName><lb n="2a"/><gap reason="lost" extent="unknown" unit="character"/></ab></div>

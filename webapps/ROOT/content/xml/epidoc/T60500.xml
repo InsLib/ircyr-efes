@@ -128,7 +128,7 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="14" xml:lang="grc">δι</num>
-                        <rs type="month" key="Ἀθύρ"><w>Ἁθὺρ</w></rs>
+                        <rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs>
                     <lb n="2"/><num value="12" xml:lang="grc">βι</num>
                         <persName type="attested" key="lgpn:V1-60651"><name nymRef="Πρῖμος">Πρῖμος</name> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60650"><name nymRef="Κάσσιος">Κασσί<lb n="4" break="no"/>ου</name></persName></persName>

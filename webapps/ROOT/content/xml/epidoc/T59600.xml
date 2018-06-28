@@ -125,7 +125,7 @@
              
             <ab>
                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-               <num value="13">ιγ</num> <rs type="month" key="Ἀθύρ"><w><unclear>Ἁθ</unclear>ὺ<unclear>ρ</unclear></w></rs>
+               <num value="13">ιγ</num> <rs type="month" key="Ἁθύρ"><w><unclear>Ἁθ</unclear>ὺ<unclear>ρ</unclear></w></rs>
                    <lb n="2"/><gap reason="lost" quantity="1" unit="line"/>
                    <lb n="3"/><persName type="attested"><name><seg part="F"><unclear>ν</unclear>α<unclear>νος</unclear></seg></name> 
                     <persName type="attested" key="lgpn:V1-60811"><name nymRef="Λεύκιππος">Λευ<lb n="4" break="no"/>κίππου</name></persName></persName> 
