@@ -13,36 +13,90 @@
     <text>
         <body>
             <list>
-                <item xml:id="dipunct">
-                    <term xml:lang="ru">двоеточие</term>
-                    <term xml:lang="en">dipunct</term>
-                </item>
-                <item xml:id="leaf">
-                    <term xml:lang="ru">плющевый лист</term>
-                    <term xml:lang="en">leaf</term>
-                </item>
-                <item xml:id="staurogram">
-                    <term xml:lang="ru">ставрограмма</term>
-                    <term xml:lang="en">staurogram</term>
-                </item>
-                <item xml:id="stauros">
-                    <term xml:lang="ru">крест</term>
-                    <term xml:lang="en">stauros</term>
-                </item>
-                <item xml:id="stop">
-                    <term xml:lang="ru"></term>
-                    <term xml:lang="en">stop</term>
+                <item xml:id="crux">
+                    <term xml:lang="en">crux</term>
+                    <g>&#x2020;</g>
                 </item>
                 <item xml:id="denarius">
-                    <term xml:lang="ru">денарий</term>
                     <term xml:lang="en">denarius</term>
+                    <g>&#x10196;</g>
                 </item>
-                <item xml:id="chi-rho">
-                    <term xml:lang="ru">хрисма</term>
-                    <term xml:lang="en">chi-rho</term>
+                <item xml:id="drachma">
+                    <term xml:lang="en">drachma</term>
+                    <g>&#x10175;</g>
+                </item>
+                <item xml:id="leaf">
+                    <term xml:lang="en">leaf</term>
+                    <g>&#x2766;</g>
+                </item>
+                <item xml:id="slanting-stroke">
+                    <term xml:lang="en">slanting-stroke</term>
+                    <g>/</g>
+                </item>
+                <item xml:id="stop">
+                    <term xml:lang="en">stop</term>
+                    <g>•</g>
                 </item>
                 <item xml:id="year">
                     <term xml:lang="en">year</term>
+                    <g>&#x10179;</g>
+                </item>
+                <item xml:id="palm">
+                    <term xml:lang="en">palm</term>
+                </item>
+                <item xml:id="star">
+                    <term xml:lang="en">star</term>
+                </item>
+                <item xml:id="figure">
+                    <term xml:lang="en">figure</term>
+                </item>
+                <item xml:id="monogram">
+                    <term xml:lang="en">monogram</term>
+                </item>
+                <item xml:id="chi-rho">
+                    <term xml:lang="en">Chi-Rho</term>
+                    <g>&#x2627;</g>
+                </item>
+                <item xml:id="scroll">
+                    <term xml:lang="en">scroll</term>
+                </item>
+                <item xml:id="line">
+                    <term xml:lang="en">line</term>
+                </item>
+                <item xml:id="dipunct">
+                    <term xml:lang="en">dipunct</term>
+                    <g>:</g>
+                </item>
+                <item xml:id="jug">
+                    <term xml:lang="en">jug</term>
+                </item>
+                <item xml:id="dash">
+                    <term xml:lang="en">dash</term>
+                    <g>-</g>
+                </item>
+                <item xml:id="onchias">
+                    <term xml:lang="en">onchias</term>
+                </item>
+                <item xml:id="conch">
+                    <term xml:lang="en">conch</term>
+                </item>
+                <item xml:id="obliquebar">
+                    <term xml:lang="en">obliquebar</term>
+                </item>
+                <item xml:id="branch">
+                    <term xml:lang="en">branch</term>
+                </item>
+                <item xml:id="head">
+                    <term xml:lang="en">head</term>
+                </item>
+                <item xml:id="triple-bar">
+                    <term xml:lang="en">triple-bar</term>
+                </item>
+                <item xml:id="ΣΤΚ">
+                    <term xml:lang="en">ΣΤΚ</term>
+                </item>
+                <item xml:id="barley-ear">
+                    <term xml:lang="en">barley-ear</term>
                 </item>
             </list>
         </body>

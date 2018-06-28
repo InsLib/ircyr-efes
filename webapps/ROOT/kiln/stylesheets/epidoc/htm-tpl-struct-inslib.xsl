@@ -195,9 +195,9 @@
       </xsl:if>
    </xsl:template>
    
-   <xsl:template match="t:placeName|t:rs" mode="inslib-placename">
+   <xsl:template match="t:placeName|t:rs" mode="inslib-placename"> <!-- remove rs? -->
       <xsl:choose>
-         <xsl:when test="contains(@ref,'pleiades.stoa.org') or contains(@ref,'geonames.org')">
+        <xsl:when test="contains(@ref,'pleiades.stoa.org') or contains(@ref,'geonames.org') or contains(@ref,'slsgazetteer.org')">
             <a>
                <xsl:attribute name="href">
                   <xsl:value-of select="@ref"/>
