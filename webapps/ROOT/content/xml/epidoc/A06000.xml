@@ -145,7 +145,7 @@
                     <num value="57">νζ</num> </date> 
                     <lb n="3"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="93">ϙγ</num>
-                    <rs key="Ἀθύρ" type="month"><w>Ἁθὺρ</w></rs> <num value="2">β</num>
+                    <rs key="Ἁθύρ" type="month"><w>Ἁθὺρ</w></rs> <num value="2">β</num>
                     <lb n="4"/><persName type="attested" key="lgpn:V1-62115"><name nymRef="Μάριον">Μάριον</name> 
                     <lb n="5"/><persName type="attested" key="lgpn:V1-62067"><name nymRef="Δωρόθεος">Δωρο<unclear>θέω</unclear></name></persName></persName>
                     <lb n="6"/><date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>

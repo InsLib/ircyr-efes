@@ -136,7 +136,7 @@
                         <lb n="8"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>  
                             <num value="13" xml:lang="grc">γι</num>  
                             <w lemma="μείς"><expan><abbr>μην</abbr><ex>ὶ</ex></expan></w>  
-                            <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ"><expan><abbr>Χο</abbr><ex>ιὰκ</ex></expan></w></rs>
+                            <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ"><expan><abbr>Χο</abbr><ex>ιὰκ</ex></expan></w></rs>
                         <lb n="9"/><persName type="attested" key="lgpn:V1-60659"><name nymRef="Φίλων">Φίλων</name> 
                             <persName type="attested" key="lgpn:V1-60660"><name nymRef="Ἀρταφάν">Ἀρταφᾶν<lb n="10" break="no"/>τος</name></persName></persName> 
                             <date type="life-span" dur="P11Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
@@ -144,7 +144,7 @@
                         <lb n="11"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                             <num value="13" xml:lang="grc">γι</num>  
                             <w lemma="μείς"><expan><abbr>μη</abbr><ex>νὶ</ex></expan></w> 
-                            <rs type="month" key="Χοιάκ"><w  lemma="Χοιάκ"><expan><abbr>Χο</abbr><ex>ιὰκ</ex></expan></w></rs>
+                            <rs type="month" key="Χοιάκ"><w  lemma="Χοιάκ"><expan><abbr>Χο</abbr><ex>ιὰκ</ex></expan></w></rs>
                         <lb n="12"/><persName type="attested" key="lgpn:V1-60654"><name nymRef="Ἀρταφάν">Ἀρταφὰν</name> 
                             <persName type="attested"  key="lgpn:V1-60660"><name nymRef="Ἀρταφάν">Ἀρταφᾶντος</name></persName></persName> 
                         <lb n="13"/><date type="life-span" dur="P8Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 

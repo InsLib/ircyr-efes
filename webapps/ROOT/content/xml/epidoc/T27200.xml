@@ -117,7 +117,7 @@
              
             <ab>
                     <lb n="1"/><supplied reason="lost" cert="low"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied>
-               <rs type="month" key="Ἀθύρ"><w><supplied reason="lost">Ἁ</supplied>θὺρ</w></rs>
+               <rs type="month" key="Ἁθύρ"><w><supplied reason="lost">Ἁ</supplied>θὺρ</w></rs>
                <num value="7"><unclear>ζ</unclear></num>
                     <lb n="2"/><persName type="attested"><name nymRef="Πύρρος"><unclear>Π</unclear><supplied reason="lost">ύ</supplied>ρ<unclear>ρ</unclear>ος</name> 
                     <lb n="3"/><persName type="attested"><name nymRef="Λόγγος"><supplied reason="lost">Λ</supplied><unclear>ό</unclear>νγου</name></persName></persName> 

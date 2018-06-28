@@ -129,7 +129,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
-                        <num value="11" xml:lang="grc">ια</num> <rs type="month" key="Ἀθύρ"><w>Ἁθὺρ</w></rs> 
+                        <num value="11" xml:lang="grc">ια</num> <rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs> 
                     <lb n="2"/><num value="25" xml:lang="grc">ἐ<unclear>κ</unclear></num> 
                         <persName type="attested" key="lgpn:V1-60682"><name nymRef="Θευκλῆς">Θε<lb n="3" break="no"/><supplied reason="lost">υκ</supplied>λῆϲ</name> 
                     <lb n="4"/><persName type="attested" key="lgpn:V1-60683"><name nymRef="Θεύδωρος"><supplied reason="lost">Θε</supplied>υδ<lb n="5" break="no"/>ώρου</name></persName></persName>
