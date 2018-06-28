@@ -23,6 +23,7 @@ EFES Documentation home:
 ----
 
 https://github.com/EpiDoc/EFES/wiki/
+(Ctrl+click to open in new window)
 
 Kiln
 ----
