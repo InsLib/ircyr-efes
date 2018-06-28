@@ -178,7 +178,7 @@
             <div subtype="section" n="5a" type="textpart">
                                  <ab>
                                  <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
-                                    <rs type="month" key="Παυνί"><w lemma="Παυνί">Παυνὶ</w></rs> <num value="5"><unclear>ε</unclear></num>
+                                    <rs type="month" key="Παῦνι"><w lemma="Παυνί">Παυνὶ</w></rs> <num value="5"><unclear>ε</unclear></num>
                                     <gap reason="lost" extent="unknown" unit="character"/>
                                  </ab>
             </div>

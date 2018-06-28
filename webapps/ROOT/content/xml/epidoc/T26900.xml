@@ -120,7 +120,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
              
             <ab>
-                    <lb n="1"/> <w>ἕκτ<unclear>η</unclear></w> <rs type="month" key="Μεσορή"><w>Μεϲορὴ</w></rs>
+                    <lb n="1"/> <w>ἕκτ<unclear>η</unclear></w> <rs type="month" key="Μεσορή"><w>Μεϲορὴ</w></rs>
                     <w>τεθνη<lb n="2" break="no"/>κεν</w> <w lemma="ὁ">ὁ</w> <w>ποθητὸϲ</w>
                     <persName type="attested" key="lgpn:V1-60758"><name nymRef="Ἄδωνις">Ἄδωνιϲ</name>
                     <lb n="3"/><name nymRef="Ὑάκινθος">Ὑάκινθοϲ</name></persName>
