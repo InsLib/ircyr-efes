@@ -53,8 +53,9 @@
                 <item xml:id="monogram">
                     <term xml:lang="en">monogram</term>
                 </item>
-                <item xml:id="monogram-cross">
-                    <term xml:lang="en">monogram-cross</term>
+                <item xml:id="chi-rho">
+                    <term xml:lang="en">Chi-Rho</term>
+                    <g>&#x2627;</g>
                 </item>
                 <item xml:id="scroll">
                     <term xml:lang="en">scroll</term>
