@@ -79,7 +79,7 @@
           </list>
         </div>
       </div>
-      <!-- <div xml:id="months">
+      <div xml:id="months">
         <head>Months</head>
         <div type="headings">
           <list>
@@ -95,8 +95,7 @@
             </item>
           </list>
         </div>
-      </div> -->
-      
+      </div>       
 
       <div xml:id="symbol">
         <head>Symbols</head>
@@ -168,7 +167,7 @@
           </list>
         </div>
       </div>
-      <!-- <div xml:id="mentioned_places">
+      <div xml:id="mentioned_places">
         <head>Mentioned places</head>
         <div type="headings">
           <list>
@@ -183,7 +182,7 @@
             </item>
           </list>
         </div>
-      </div> -->
+      </div>
       
     </body>
   </text>
