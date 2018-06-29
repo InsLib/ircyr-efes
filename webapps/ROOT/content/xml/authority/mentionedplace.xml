@@ -19,7 +19,7 @@
             <listPlace type="places">
                 <place xml:id="egypt">
                     <placeName xml:lang="grc" xml:id="Αἴγυπτος">Αἴγυπτος</placeName>
-                    <placeName xml:lang="en" xml:id="Egypt">Αἴγυπτος</placeName>
+                    <placeName xml:lang="en" xml:id="Egypt">Egypt</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/places/1001943</idno>
                 </place>
                 <place xml:id="antiochia">
