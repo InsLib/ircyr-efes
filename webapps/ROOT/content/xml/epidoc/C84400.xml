@@ -148,18 +148,12 @@
                <lb n="1"/> 
                 <w>διὰ</w> 
                <persName type="attested">
-                  <name nymRef="Λούκιος">
-                     <expan>
-                        <abbr>Λ</abbr>
-                        <ex>ουκὶου</ex>
-                     </expan>
-                  </name> <name nymRef="Ἀκίλιος">Ἀκιλίου</name> <name nymRef="Στράβων">Στράβωνος</name></persName> 
-               <w>το<supplied reason="lost">ῦ</supplied>
-               </w>
+                  <name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ουκὶου</ex></expan></name> 
+                  <name nymRef="Ἀκίλιος">Ἀκιλίου</name> <name nymRef="Στράβων">Στράβωνος</name></persName> 
+               <w>το<supplied reason="lost">ῦ</supplied></w>
                 <lb n="2"/>
                <w>ἰδίου</w> 
-               <w>πρεσβευτο<supplied reason="lost">ῦ</supplied>
-               </w>
+               <w>πρεσβευτο<supplied reason="lost">ῦ</supplied></w>
                 <lb n="3"/>
                <w>ὄρους</w> 
                <w>διακατε<lb n="4" break="no"/>χομένους</w>

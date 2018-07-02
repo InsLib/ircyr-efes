@@ -14,7 +14,7 @@
 
     <xsl:template match="/">
         <add>
-            <xsl:for-each-group select="//tei:expan[ancestor::tei:div/@type='edition']" 
+            <xsl:for-each-group select="//tei:expan[ancestor::tei:div/@type='edition'][not(parent::tei:abbr)]" 
                 group-by="concat(string-join(.//tei:abbr, ''),'-',.)">
                 <doc>
                     <field name="document_type">
@@ -25,10 +25,14 @@
                     </field>
                     <xsl:call-template name="field_file_path" />
                     <field name="index_item_name">
-                        <xsl:value-of select="string-join(.//tei:abbr, '')" />
-                        <xsl:for-each select="descendant::tei:g">
-                            <xsl:value-of select="concat($base-uri, @ref)" />
-                        </xsl:for-each>
+                        <xsl:choose>
+                            <xsl:when test="descendant::tei:g">
+                                <xsl:value-of select="concat($base-uri, descendant::tei:g/@ref)" />
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:value-of select="string-join(.//tei:abbr, '')" />
+                            </xsl:otherwise>
+                        </xsl:choose>
                     </field>
                     <field name="index_abbreviation_expansion">
                         <xsl:value-of select=".//text()[not(ancestor::tei:am)]"/>

@@ -111,19 +111,8 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> 
-                     
-                    <w><expan>
-                     <abbr>
-                        <supplied reason="lost">proc</supplied>o</abbr>
-                     <ex>n</ex>
-                     <abbr>s</abbr>
-                     <ex>ul</ex></expan></w> <w><expan>
-                     <abbr>
-                        <unclear>f</unclear>
-                     </abbr>
-                     <ex>aciendum</ex>
-                  </expan></w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w><expan><abbr><supplied reason="lost">proc</supplied>o</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w> 
+   <w><expan><abbr><unclear>f</unclear></abbr><ex>aciendum</ex></expan></w>
                   <w><supplied reason="lost">curauit</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
