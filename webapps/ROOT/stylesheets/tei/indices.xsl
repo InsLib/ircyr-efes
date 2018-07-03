@@ -59,13 +59,30 @@
     </td>
   </xsl:template>
 
+  
   <xsl:template match="str[@name='index_item_name']">
     <th scope="row">
-      <!-- Look up the value in the RDF names, in case it's there. -->
-      <xsl:variable name="rdf-name" select="/aggregation/index_names/rdf:RDF/rdf:Description[@rdf:about=current()][1]/*[@xml:lang=$language][1]" />
+      <!-- Look up the value in the RDF names, in case it's there.
+        The QQQQQ string is added at time of indexing to mark instances
+        of symbols that expand to abbreviations -->
+      <xsl:variable name="current-marked">
+        <xsl:if test="contains(current(), 'QQQQQ')">
+          <xsl:value-of select="substring-before(current(), 'QQQQQ')"/>
+        </xsl:if>
+      </xsl:variable>
+      <xsl:variable name="current-unmarked">
+        <xsl:if test="not(contains(current(), 'QQQQQ'))">
+          <xsl:value-of select="current()"/>
+        </xsl:if>
+      </xsl:variable>
+      <xsl:variable name="rdf-name-marked" select="/aggregation/index_names/rdf:RDF/rdf:Description[@rdf:about=$current-marked][1]/*[@xml:lang=$language][1]" />
+      <xsl:variable name="rdf-name-unmarked" select="/aggregation/index_names/rdf:RDF/rdf:Description[@rdf:about=$current-unmarked][1]/*[@xml:lang=$language][1]" />
       <xsl:choose>
-        <xsl:when test="normalize-space($rdf-name)">
-          <xsl:value-of select="$rdf-name" />
+        <xsl:when test="normalize-space($rdf-name-marked)">
+          (<xsl:value-of select="$rdf-name-marked" />)
+        </xsl:when>
+        <xsl:when test="normalize-space($rdf-name-unmarked)">
+          <xsl:value-of select="$rdf-name-unmarked" />
         </xsl:when>
         <xsl:otherwise>
           <xsl:value-of select="."/>
@@ -73,6 +90,8 @@
       </xsl:choose>
     </th>
   </xsl:template>
+  
+  
 
   <xsl:template match="arr[@name='index_instance_location']">
     <td>

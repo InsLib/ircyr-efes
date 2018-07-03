@@ -27,7 +27,7 @@
                     <field name="index_item_name">
                         <xsl:choose>
                             <xsl:when test="descendant::tei:g">
-                                <xsl:value-of select="concat($base-uri, descendant::tei:g/@ref)" />
+                                <xsl:value-of select="concat($base-uri, descendant::tei:g/@ref, 'QQQQQ')" />
                             </xsl:when>
                             <xsl:otherwise>
                                 <xsl:value-of select="string-join(.//tei:abbr, '')" />
