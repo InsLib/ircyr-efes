@@ -126,13 +126,7 @@
             <head>Apparatus</head>
             <listApp>
                <app>
-                  <note>Or <expan>
-                        <abbr>
-                           <am>
-                              <g ref="symbols.xml#year"/> </am>
-                        </abbr>
-                        <ex>ἐτῶν</ex>
-                     </expan>, so 'aged 24'
+                  <note>Or <expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan>, so 'aged 24'
                   </note>
                </app>
             </listApp>

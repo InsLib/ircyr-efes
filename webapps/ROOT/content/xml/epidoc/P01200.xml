@@ -152,14 +152,8 @@
                <app loc="1">
                   <note>
                      <foreign xml:lang="grc">
-                        <expan>
-                           <abbr>
-                              <am>
-                                 <g ref="symbols.xml#year"/>
-                              </am>
-                           </abbr>
-                           <ex>ἔτους</ex>
-                        </expan> μ</foreign> = 40 
+                        <expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan> 
+                        μ</foreign> = 40 
                 of the Actian era (C.E. 9/10) ; alternatively the figure has been lost and after <foreign xml:lang="grc">(ἔτους)</foreign>
                 is the beginning of a name such as <foreign xml:lang="grc">Μνασίας</foreign>.</note>
                </app>

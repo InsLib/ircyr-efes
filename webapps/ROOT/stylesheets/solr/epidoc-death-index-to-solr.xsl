@@ -19,6 +19,7 @@
   <xsl:template match="/">
     <add>
       <xsl:for-each-group select="//tei:date[@type='life-span'][ancestor::tei:div/@type='edition']" group-by="@dur">
+        <xsl:sort select="@dur" data-type="number"/>
         <doc>
           <field name="document_type">
             <xsl:value-of select="$subdirectory" />
@@ -52,9 +53,16 @@
                 <xsl:text> </xsl:text>
               </xsl:matching-substring>
             </xsl:analyze-string>
+            <xsl:analyze-string select="@dur" regex="(\d+)H">
+              <xsl:matching-substring>
+                <xsl:value-of select="regex-group(1)"/>
+                <xsl:text> hour</xsl:text>
+                <xsl:if test="xs:integer(regex-group(1)) > 1">s</xsl:if>
+                <xsl:text> </xsl:text>
+              </xsl:matching-substring>
+            </xsl:analyze-string>
           </field>
           <xsl:apply-templates select="current-group()">
-            <xsl:sort data-type="number"/>
           </xsl:apply-templates>
         </doc>
       </xsl:for-each-group>

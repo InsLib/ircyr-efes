@@ -137,14 +137,7 @@
             <p>A document ending with a a figure is most likely to be a tombstone.</p>
             <p>The superscript bar above the final letter of line  4 shows that it indicates the figure 10. The line may have given a date - 
                     <foreign xml:lang="grc">
-                        <expan>
-                     <abbr>
-                        <am>
-                           <g ref="symbols.xml#year"/>
-                        </am>
-                     </abbr>
-                     <ex>ἔτους</ex>
-                  </expan> 
+                        <expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan> 
                   <gap reason="illegible" quantity="1" unit="character"/>
                         τοῦ καὶ 
                         <num value="10" xml:lang="grc">ι</num>

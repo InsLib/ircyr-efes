@@ -122,7 +122,7 @@
                    <name nymRef="Caesar">C<supplied reason="lost">ae</supplied>sa<unclear>r</unclear><supplied reason="lost">is</supplied></name>
                    <lb n="4"/><name nymRef="Augustus"><expan><abbr><unclear>A</unclear>u<unclear>g</unclear></abbr><ex>usti</ex></expan></name></persName> <w><expan><abbr>pron</abbr><ex>epos</ex></expan></w> <persName type="emperor" key="augustus"><w lemma="diuus">diui</w> <name nymRef="Augustus">Au<supplied reason="lost"><expan><abbr>g</abbr><ex>usti</ex></expan></supplied></name></persName> 
                        <w><supplied reason="lost"><expan><abbr>abn</abbr><ex>epos</ex></expan></supplied></w><lb n="5"/><name nymRef="Caesar"><unclear>C</unclear><supplied reason="lost">a</supplied>esar</name>
-                   <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex> </expan></name>
+                   <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name>
                    <name nymRef="Germanicus">Ger<supplied reason="lost">ma</supplied><lb n="6" break="no"/><note>sic</note> <orig>V</orig> nicus</name></persName> 
                    <w><supplied reason="lost"><expan><abbr>pont</abbr><ex>ifex</ex></expan></supplied></w> <w><supplied reason="lost"><expan><abbr>max</abbr><ex>imus</ex></expan></supplied></w>
                    <lb n="7"/><space quantity="1" unit="character"/> <w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <w><expan><abbr>po<supplied reason="lost">t</supplied></abbr><supplied reason="lost"><ex>estate</ex></supplied></expan></w> <w><supplied reason="lost"><expan><abbr>imp</abbr><ex>erator</ex></expan></supplied></w> 

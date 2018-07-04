@@ -172,11 +172,7 @@
                        </rdg> <note>; Smallwood follows Applebaum.</note>
                </app>
                 <app loc="3">
-                  <lem>
-                            <expan>
-                        <abbr>
-                           <supplied reason="lost">tribuni</supplied><unclear>c</unclear></abbr><ex>ia</ex>
-                     </expan>
+                  <lem><expan><abbr><supplied reason="lost">tribuni</supplied><unclear>c</unclear></abbr><ex>ia</ex></expan>
                             <expan><abbr>p</abbr><supplied reason="lost"><abbr>ot</abbr><ex>estate</ex>
                         </supplied>
                      </expan> 
