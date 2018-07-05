@@ -42,7 +42,7 @@
                             <origDate notBefore="0054" notAfter="0055" precision="low" evidence="reign titulature" cert="low">54-55 C.E.</origDate>
                         </origin>
                         <provenance type="found">
-                            <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>:
+                            <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1617">Gebel Akhdar: East of Cyrene</placeName>:
                                 Beside the <placeName type="monuList" ref="http://www.slsgazetteer.org/1269">Cyrene to Apollonia road</placeName>, between 10 and 11 km from Apollonia, 
                                 with <ref type="inscription">C86600</ref>; found in <date type="found">1915</date>.</p>
                         </provenance>

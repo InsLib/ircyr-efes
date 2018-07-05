@@ -53,8 +53,8 @@
                      <origDate notBefore="-0016" notAfter="-0014" evidence="internal-dates">16-14 B.C.</origDate>
                   </origin>
                   <provenance type="found">
-                     <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>:  
-                        <rs type="ancientFindspot" ref="http://www.slsgazetteer.org/1277">El-Gubba</rs>; found in <date type="found">1930</date>.</p>
+                     <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1617">Gebel Akhdar: East of Cyrene</placeName>:  
+                        <rs type="ancientFindspot" ref="http://www.slsgazetteer.org/1638">El-Gubba</rs>; found in <date type="found">1930</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
