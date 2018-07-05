@@ -48,7 +48,7 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>: 
-                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1264">Road fron Beida to Cyrene</placeName>, near the Cyrene cross roads; found in <date type="found">1956</date>.</p>
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/2091">Road from Beida to Cyrene</placeName>, near the Cyrene cross roads; found in <date type="found">1956</date>.</p>
                   </provenance>
                         <provenance type="observed">
                            <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
@@ -101,9 +101,7 @@
          <change when="2009-05-11" who="GB">mailmerged: created from template</change>
       </revisionDesc>
    </teiHeader><facsimile><graphic url="JMRNB02_082" decls="#photograph"><desc>Face (Joyce Reynolds, II.82; 1961-05-26)</desc></graphic>
-      <graphic url="JMRNB01_004" decls="#photograph"><desc>Face (Joyce Reynolds)</desc></graphic><!--
-                --><!--
-                --></facsimile>
+      <graphic url="JMRNB01_004" decls="#photograph"><desc>Face (Joyce Reynolds)</desc></graphic></facsimile>
    <text>
       <body>
          
@@ -114,12 +112,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Θεοξένα">Θεοξένα</name> <persName type="attested"><name nymRef="Ἁγησίστρατος">Ἁγησιστράτω</name></persName></persName>
+                    <lb n="1"/><persName type="attested"><name nymRef="Θεοξένα">Θεοξένα</name> <persName type="attested"><name nymRef="Ἁγησίστρατος">Ἁγηϲιϲτράτω</name></persName></persName>
                     <lb n="2"/><date type="life-span" dur="P18Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="18">ιη</num> </date> 
-                    <lb n="3"/><persName type="attested"><name nymRef="Ἁγησίστρατος">Ἁγησίστρατος</name> <persName type="attested"><name nymRef="Ἄλεξις">Ἀλέξιδος</name></persName></persName> 
+                    <lb n="3"/><persName type="attested"><name nymRef="Ἁγησίστρατος">Ἁγηϲίϲτρατοϲ</name> <persName type="attested"><name nymRef="Ἄλεξις">Ἀλέξιδοϲ</name></persName></persName> 
                     <date type="life-span" dur="P55Y"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><w><ex>ἐτῶν</ex></w></expan> <num value="55">νε</num> </date>
-                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="111">ρια</num>
-                    <rs type="month" key="Φαωφί"><w lemma="Φαωφί">Φαωφὶ</w></rs> <num value="21">κα</num> <persName type="attested"><name nymRef="Θεόδωρος">Θεόδωρος</name> 
+                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="111">ρια</num>
+                    <rs type="month" key="Φαωφί"><w lemma="Φαωφί">Φαωφὶ</w></rs> <num value="21">κα</num> <persName type="attested"><name nymRef="Θεόδωρος">Θεόδωροϲ</name> 
                     <lb n="5"/><persName type="attested"><name nymRef="Ἀμύντας">Ἀμύντα</name></persName></persName>
                     <date type="life-span" dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="5">ε</num> </date>
                 </ab>

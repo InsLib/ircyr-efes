@@ -54,8 +54,8 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>:
-                        <placeName type="monuList" ref="http://pleiades.stoa.org/places/375257, http://www.slsgazetteer.org/1197">Ras al-Hilal</placeName>, 
-                              from the nave of the Church; 
+                        <placeName type="monuList" ref="http://pleiades.stoa.org/places/375257, http://www.slsgazetteer.org/1197">Ras al-Hilal, Church</placeName>, 
+                              from the nave; 
                               excavated in <date type="found">1961</date>.</p>
                         </provenance>
                         <provenance type="observed">
