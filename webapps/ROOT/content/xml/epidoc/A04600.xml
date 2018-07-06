@@ -157,7 +157,7 @@
                             <w lemma="καί">καὶ</w> <w>δουκὸϲ</w> <persName type="attested"><name nymRef="Δανιήλ">Δανιῆλοϲ</name></persName></supplied> 
                         <lb n="4"/><note>1</note> <supplied reason="lost"><w>ὤϲτε</w> <w lemma="ὁ">τοὺϲ</w> <w lemma="νῦν">νῦν</w> <w lemma="καί">καὶ</w> 
                             <w lemma="κατά">κατὰ</w> <w lemma="καιρόϲ">καιρὸν</w> <w>δουκικοὺϲ</w> <w lemma="καί">καὶ</w> <w lemma="ὁ">τοὺϲ</w> <w lemma="οὗτοϲ">ταύτην</w></supplied>
-                            <w>πληροῦνταϲ</w></supplied> <w lemma="ὁ"><supplied reason="lost">τ</supplied><unclear>ὴ</unclear>ν</w>
+                            <w>πληροῦνταϲ</w> <w lemma="ὁ"><supplied reason="lost">τ</supplied><unclear>ὴ</unclear>ν</w>
                         <supplied reason="lost"><w>ϲτρατίαν</w> <w lemma="μήτε">μήτε</w> <w>ϲτρατιωτικὰ</w></supplied>
                         <lb n="6"/><supplied reason="lost"><w>κομίζεϲθαι</w> <w>ϲιτηρέϲια</w> <w lemma="μήτε">μήτε</w> <w lemma="εἰϲ">εἰϲ</w></supplied> 
                         <w><supplied reason="lost">μ</supplied>άτρικ<unclear>α</unclear><supplied reason="lost">ϲ</supplied></w>
@@ -334,7 +334,8 @@
                             <w lemma="ἑαυτοῦ">αὑτῷ</w></supplied> <w lemma="διαφέρω"><supplied reason="lost">δια</supplied><lb n="65" break="no"/><supplied reason="lost">φερόντων</supplied></w> <supplied reason="lost"><w>οἰκημάτων</w></supplied> <space quantity="3" unit="character"/>
                         <supplied reason="lost"><space quantity="3" unit="character"/> </supplied>
                         
-                    </ab></div><div subtype="fragment" n="10" type="textpart"><ab>    
+                    </ab>
+                 </div><div subtype="fragment" n="10" type="textpart"><ab>    
                             <lb n="1"/><orig>α<unclear>ϲ</unclear></orig> 
                             <lb n="2"/><orig><unclear>ο</unclear>υκα<unclear>ι</unclear></orig> 
                             <lb n="3"/><orig><gap reason="illegible" quantity="1" unit="character"/>οϲ-κα</orig> 
