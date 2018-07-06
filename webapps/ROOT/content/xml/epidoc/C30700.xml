@@ -135,7 +135,7 @@
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><w lemma="ἱερεύς">ἱερεὺς</w>
                     <persName type="attested"><name nymRef="Ἰουλιος"><supplied reason="lost">Ἰού</supplied>λιος</name>
-                        <name nymRef="Αποσ-"><seg part="I">Ἀποσ</seg></name><gap reason="lost" extent="unknown" unit="character"/></persName>
+                        <name nymRef="Ἀποσ-"><seg part="I">Ἀποσ</seg></name><gap reason="lost" extent="unknown" unit="character"/></persName>
                     <lb n="6"/><gap reason="lost" quantity="3" unit="character"/><orig>λ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="7"/><gap reason="lost" quantity="2" unit="character"/><persName type="attested"><name><seg part="F">ανος</seg></name>
                    <persName type="attested"><name nymRef="Μου-"><seg part="I">Μου</seg></name></persName></persName><gap reason="lost" quantity="3" unit="character"/><orig>ο</orig><gap reason="lost" extent="unknown" unit="character"/>

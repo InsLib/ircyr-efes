@@ -115,7 +115,7 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="19">ιθ</num> 
-                    <lb n="2"/><persName type="attested"><name nymRef="Φλάβιος">Φλά<unclear>β</unclear>ι<lb n="3" break="no"/>οϲ</name> <name nymRef="Αμαυονεύς">μαυ
+                    <lb n="2"/><persName type="attested"><name nymRef="Φλάβιος">Φλά<unclear>β</unclear>ι<lb n="3" break="no"/>οϲ</name> <name nymRef="Ἀμαυονεύς">Ἀμαυ
                     <lb n="3" break="no"/>ονευϲ</name></persName> 
                 </ab>
 </div>
@@ -128,6 +128,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
+            This name is not in LGPN
             </div>
          
       </body>
