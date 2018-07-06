@@ -167,7 +167,7 @@
                     <lb n="29"/><persName type="attested"><name nymRef="Πέλεια">Πέλεια</name> <space quantity="3" unit="character"/> <persName type="attested"><name nymRef="Φίλισκος">Φιλίσκω</name></persName> </persName>
                     <lb n="30"/><persName type="attested"><name nymRef="Μνασώι">Μνασὼι</name> <space quantity="3" unit="character"/> <persName type="attested"><name nymRef="Λυσανίας"><supplied reason="lost" cert="low">Λυσ</supplied>ανί<unclear>α</unclear></name></persName> </persName>
                     <lb n="31"/><persName type="attested"><name nymRef="Μνασώι">Μνασὼι</name> <space quantity="3" unit="character"/> <persName type="attested"><name nymRef="Ἰάσων">Ἰ<supplied reason="lost">ά</supplied>σονος</name></persName></persName>
-                    <lb n="32"/><persName type="attested"><name nymRef="Ἀριστοδίκα">Ἀριστοδίκα</name> <persName type="attested"><name nymRef="Ἰσοκράτης">Ἰσοκρά<unclear>τ</unclear>ευς</name></persName></persName> 
+                    <lb n="32"/><persName type="attested" key="lgpn:V1-63143"><name nymRef="Ἀριστοδίκα">Ἀριστοδίκα</name> <persName type="attested"><name nymRef="Ἰσοκράτης">Ἰσοκρά<unclear>τ</unclear>ευς</name></persName></persName> 
                     <lb n="33"/><persName type="attested"><name nymRef="Μεγώ">Μεγὼ</name> <persName type="attested"><name nymRef="Ἀρίσταρχος">Ἀριστάρχω</name></persName></persName> 
                     <lb n="34"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="92">ϙβ</num> <persName type="attested"><name nymRef="Φαβία">Φαβία</name> <name nymRef="Κυδιμάχα">Κυδιμάχα</name>
@@ -201,7 +201,7 @@
                <app loc="29"><rdg resp="#oliverioDAI">Πελεία [Ε]ὐαρίστ[ω</rdg></app>
                <app loc="31"><rdg  resp="#oliverioDAI">Μνασὼι - ι -</rdg></app>
                <app loc="32"><rdg  resp="#oliverioDAI">Ἀριστοδίκα Ἰσο[κράτ̣ε]υς</rdg></app>
-               <app loc="32"><rdg  resp="#oliverioDAI">Μεγὼ Ἀριστο[δά]μω</rdg></app>
+               <app loc="32"><rdg  resp="#oliverioDAI">Μεγὼ Ἀριστο[δά]μω</rdg><note>, whence LGPN V1-63142</note></app>
                <app></app>
                </listApp>
          </div>

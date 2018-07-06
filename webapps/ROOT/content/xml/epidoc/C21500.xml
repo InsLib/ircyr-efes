@@ -130,11 +130,11 @@
                     <lb n="1"/><w><supplied reason="lost"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></supplied></w><gap reason="lost" quantity="1" unit="character"/> <persName type="emperor" key="marcusaurelius"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> 
                     <name nymRef="Αὐρήλιος">Αὐρηλίου</name> <supplied reason="undefined" evidence="previous-editor"><gap reason="lost" quantity="8" unit="character" precision="low"/></supplied> <name nymRef="Ἀντωνῖνος">Ἀντωνείνου</name>
                     <lb n="2"/><name nymRef="Σεβαστός"><supplied reason="lost">Σ</supplied>εβαστοῦ</name></persName>
-                   <persName type="attested"><name nymRef="Δέκμος"><expan><abbr>Δ</abbr><ex>έκμος</ex></expan></name> 
+                   <persName type="attested" key="lgpn:V1-63184"><name nymRef="Δέκμος"><expan><abbr>Δ</abbr><ex>έκμος</ex></expan></name> 
                     <name nymRef="Κασκέλλιος">Κασκέλλιος</name> <name nymRef="Ἀριστοτέλης"><hi rend="supraline">Ἀριστοτέλης</hi></name></persName>
                     <lb n="3"/><w lemma="ἱερεύς"><supplied reason="lost">ἱερ</supplied>εὺς</w> <space quantity="1" unit="character"/> <w lemma="καλλιέτης">καλλιέτης</w>
                     <space quantity="1" unit="character"/> <w lemma="καί">καὶ</w> <space quantity="3" unit="character"/>
-                    <lb n="4"/><gap reason="lost" quantity="1" unit="character"/><persName type="attested"><name nymRef="Κασκέλλιος"><supplied reason="lost">Κ</supplied>ασκέ<unclear>λλ</unclear>ιος</name> 
+                    <lb n="4"/><gap reason="lost" quantity="1" unit="character"/><persName type="attested" key="lgpn:V1-63185"><name nymRef="Κασκέλλιος"><supplied reason="lost">Κ</supplied>ασκέ<unclear>λλ</unclear>ιος</name> 
                     <name nymRef="Ἀριστοτέλης">Ἀριστοτέλης</name></persName> <w>να</w><orig><unclear>ι</unclear></orig><gap reason="lost" quantity="5" unit="character" precision="low"/>
                     <lb n="5"/><w lemma="ἐπί"><supplied reason="lost">ἐφ'</supplied></w><w><unclear>ὧ</unclear>ν</w> <w>ὁ</w> <w><unclear>ν</unclear>εὼς</w> 
                     <w lemma="γίγνομαι">ἐγένετο</w> <w lemma="καί">καὶ</w> <w>ἀφ<supplied reason="lost">ιερώθη</supplied></w>
@@ -148,7 +148,7 @@
          <div type="commentary">
             <head>Commentary</head>
             <p>See also <ref type="inscription">C21400</ref>, n.2 for the date of the reconstruction of the temple after its destruction during the Jewish Revolt of C.E. 115. </p>
-            <p> line 2 he or his uncle, see line 4 and n.4, also appears in 156, and probably 170, line 8.  <!-- ee There was an eponymus Patronomos of the same name at Sparta in the Second century, see A.M. Woodward, ABSA XLIII (1948) 258, perhaps a member of the same family or even identical with one of these Cyrenaeans.
+            <p> line 2 he or his uncle, see line 4 and n.4, also appears in <!-- check -->156, and probably <!-- check -->170, line 8.  <!-- ee There was an eponymus Patronomos of the same name at Sparta in the Second century, see A.M. Woodward, ABSA XLIII (1948) 258, perhaps a member of the same family or even identical with one of these Cyrenaeans.
                Given the connections between Sparta and Cyrene, which were much publicised in the II cent C.E.   lines some individuals may have held citizenship and office in both cities, and others may have emigrated from one to the other.
                In view ofthe need for additional population in Cyrenaica after the Jewish Revolt of C.E. 115, emigration of a member of a notable Spartan family to Cyrene may seem quite likely  --> . </p>
             <p> line 4 Perhaps νάν[νος] or possibly ναπ[οιοι]; enough of the third letter survives to rule out Robert's attractive suggestion of ναυκόρος.</p>

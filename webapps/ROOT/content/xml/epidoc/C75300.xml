@@ -138,7 +138,7 @@
                         <lb n="3"/><gap reason="lost" atLeast="5" atMost="6" unit="character"/><persName type="attested"><name><seg part="F"><unclear>ον</unclear></seg></name> 
                         <persName type="attested"><name nymRef="Λύσιππος"><unclear>Λυσίππω</unclear></name></persName></persName>
                         <lb n="4"/><persName type="attested"><name nymRef="Λύκος"><supplied reason="lost">Λυ</supplied>κ<unclear>ο</unclear>ν</name> 
-                        <persName type="attested"><name nymRef="Ἀριστομένης">Ἀριστο<unclear>μενε</unclear><supplied reason="lost">υς</supplied></name></persName></persName>
+                        <persName type="attested" key="lgpn:V1-63157"><name nymRef="Ἀριστομένης">Ἀριστο<unclear>μενε</unclear><supplied reason="lost">υς</supplied></name></persName></persName>
                         <lb n="5"/><persName type="attested"><name nymRef="Ἑκαταῖος">Ἑκαταῖον</name> <persName type="attested"><name nymRef="Ἑκαταῖος"><unclear>Ἑ</unclear>καταί<unclear>ω</unclear></name></persName></persName>
                         <lb n="6"/><persName type="attested"><name nymRef="Φιλοκλῆς"><supplied reason="lost">Φ</supplied>ιλοκλῆν</name> <persName type="attested"><name nymRef="Φιλοκλῆς">Φιλοκλεῦς</name></persName>
                     </persName>

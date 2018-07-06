@@ -152,7 +152,7 @@
                     <lb n="3"/><gap reason="lost" extent="9" unit="character"/> <persName type="attested"><name nymRef="Θεύχρηστος"><supplied reason="lost">Θε</supplied><unclear>υ</unclear>χρήσ<unclear>τ</unclear>ω</name></persName> <space quantity="1" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="11" unit="character"/><persName type="attested"><name><seg part="F"><unclear>εμ</unclear><supplied reason="lost">ά</supplied>ρχω</seg></name></persName> <space quantity="1" unit="character"/>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <persName type="attested"><name nymRef="Ἀριστόδαμος"><seg part="I">Ἀριστοδ<unclear>α</unclear><supplied reason="lost">μ</supplied></seg></name></persName><gap reason="lost" extent="2" unit="character"/>
+                    <persName type="attested" key="lgpn:V1-63139"><name nymRef="Ἀριστόδαμος"><seg part="I">Ἀριστοδ<unclear>α</unclear><supplied reason="lost">μ</supplied></seg></name></persName><gap reason="lost" extent="2" unit="character"/>
                     <lb n="6"/><gap reason="lost" extent="11" unit="character"/> <persName type="attested"><name nymRef="Καλλίμαχος">Καλλιμά<supplied reason="lost">χω</supplied></name>
                     <lb n="7"/><w>τῶ</w> <persName type="attested"><name nymRef="Καλλίμαχος">Καλλ<supplied reason="lost">ιμά</supplied><unclear>χω</unclear></name></persName></persName> <space quantity="1" unit="character"/>
                     <lb n="8"/><persName type="attested"><name nymRef="Ἡρακλείδας">Ἡρακλείδ<unclear>ας</unclear></name> <persName type="attested"><name nymRef="Διονύσιος">Διονυσ<supplied reason="lost">ίω</supplied></name></persName></persName>
