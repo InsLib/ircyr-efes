@@ -350,9 +350,9 @@
                      <lb n="8"/> 
                   <persName type="attested"><name nymRef="Φιλοθάλης">Φιλοθάλης</name>
                      <lb n="9"/> 
-                  <persName type="attested"><name nymRef="Ἀρίστιππος">Ἀρίστιππος</name>
+                  <persName type="attested" key="lgpn:V1-63087"><name nymRef="Ἀρίστιππος">Ἀρίστιππος</name>
                      <lb n="10"/> 
-                  <persName type="attested"><name nymRef="Ἀρίστιππος">Ἀριστίππω</name></persName> 
+                  <persName type="attested" key="lgpn:V1-63088"><name nymRef="Ἀρίστιππος">Ἀριστίππω</name></persName> 
                   <w>υἱοί</w></persName></persName></persName></persName>
                             <lb n="11"/><persName type="attested" key="lgpn:V1-62695"><name nymRef="Ἀκτησος">Ἀκτησο<unclear>ι</unclear></name>
                     <persName type="attested"><name nymRef="Δα-"><seg part="I"><unclear>Δα</unclear></seg></name></persName></persName>

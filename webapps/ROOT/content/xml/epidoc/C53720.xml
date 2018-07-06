@@ -102,7 +102,7 @@
          <change when="2011-08-09" who="Pietro">fixed markup</change>
           <change when="2011-07-06" who="MLA">created from JMR-Mohammed 1997</change>
       </revisionDesc>
-   </teiHeader><facsimile><surface/></facsimile>
+   </teiHeader><facsimile>  <surface/></facsimile>
    <text>
       <body>
         
