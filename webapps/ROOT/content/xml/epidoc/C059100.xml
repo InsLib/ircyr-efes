@@ -144,8 +144,8 @@
                         unit="character" quantity="8"/> <w>τόπος</w>
                     <lb n="10"/><persName type="attested" key=""><name nymRef="Πολυκλῆς">Πολυκλεῦς</name></persName> <space 
                         unit="character" quantity="6"/> <w>τόπος</w>
-                    <lb n="11"/><persName type="attested" key=""><name nymRef="Βακαλ">Βακαλος</name></persName> <space unit="character" quantity="9"/> <w>τόπος</w>
-                    <lb n="12"/><persName type="attested" key=""><name nymRef="Ξηνόφαντος">Ξηνοφάντω</name></persName> <space 
+                    <lb n="11"/><persName type="attested" key=""><name nymRef="Βάκαλ">Βακαλος</name></persName> <space unit="character" quantity="9"/> <w>τόπος</w>
+                    <lb n="12"/><persName type="attested" key=""><name nymRef="Ξηνόφαντος">Ξηνοφάντω</name></persName> <space 
                         unit="character" quantity="6"/> <w lemma="τόπος">τόπο<supplied reason="lost">ς</supplied></w>
                     <lb n="13"/><persName type="attested" key=""><name nymRef="Νίκαιος"><supplied reason="lost">Ν</supplied>ικαίω</name></persName> <space 
                         unit="character" quantity="11"/> <w lemma="τόπος">τόπ<supplied reason="lost">ος</supplied></w>
