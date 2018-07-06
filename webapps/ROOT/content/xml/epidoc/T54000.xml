@@ -114,9 +114,7 @@
          <change when="2009-02-16" who="VA">turned to XML and tidied</change>
          <change when="2008-08-18" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="B_060" decls="#photograph"><desc>Text (Joyce Reynolds)</desc></graphic><!--Dept. JR.--><!--
-                    --><!--
-                --></facsimile>
+   </teiHeader><facsimile><graphic url="B_060" decls="#photograph"><desc>Text (Joyce Reynolds)</desc></graphic></facsimile>
    <text>
       <body>
          
@@ -135,7 +133,7 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="4"><unclear>δ</unclear></num> <rs type="month" key="Τυβί"><w lemma="Τυβί">Τυβὶ</w></rs> <num value="4">ιδ</num>
-                    <lb n="2"/><persName type="attested" key="lgpn:V1-60699"><name nymRef="Βάσσος">Βάσος</name> 
+                    <lb n="2"/><persName type="attested" key="lgpn:V1-60699"><name nymRef="Βάσσος">Βάσος</name> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60700"><name nymRef="Ἀρτεμᾶς">Ἀρτεμᾶ</name></persName></persName> 
                     <lb n="4"/><date type="life-span" dur="P46Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> 
                     <num value="46">μς</num> </date>
