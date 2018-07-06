@@ -39,7 +39,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>third century: lines1,2, <height>0.015</height>, lines3-15, <height>0.013</height>; lines 16-46 ave. <height>0.01</height>; lines 47,48, <height>0.04</height>; lunate sigma and epsilon, in the list only.</handNote>
+                     <handNote>third century: lines 1-2, <height>0.015</height>, lines 3-15, <height>0.013</height>; lines 16-46 ave. <height>0.01</height>; lines 47,48, <height>0.04</height>; lunate sigma and epsilon, in the list only.</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -184,7 +184,7 @@
                     <lb n="43"/><persName type="attested"><name nymRef="Αἴλιος"><expan><abbr>Αἰλ</abbr><ex>ιοϲ</ex></expan></name> <name nymRef="Μάρκελλος">Μάρκελλοϲ</name></persName>  <persName type="attested"><name nymRef="Αὐρήλιος"><expan><abbr>Αὐρ</abbr><ex>ήλιοϲ</ex></expan></name> <name nymRef="Στεφήφορος">Ϲτεφήφοροϲ</name></persName> <note>sic</note> 
                     <lb n="44"/><persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τιβ</abbr><ex>έριοϲ</ex></expan></name> <name nymRef="Κλαύδιος"><expan><abbr>Κλ</abbr><ex>αύδιοϲ</ex></expan></name> <name nymRef="Λέων">Λέων</name></persName>  
                     <persName type="attested" key="lgpn:V1-62529"><name nymRef="Σέξτος"><expan><abbr>Ϲέξ</abbr><ex>τοϲ</ex></expan></name> <name nymRef="Ἄννιος"><expan><abbr>Ἄν</abbr><ex>νιοϲ</ex></expan></name> <name nymRef="Ἀγάθων">Ἀγάθων</name></persName> 
-                    <lb n="45"/><persName type="attested"><name nymRef="Φλάβιος"><expan><abbr>Φλ</abbr><ex>άβιοϲ</ex></expan></name> <name nymRef="Γάιος">Γάιϲ</name></persName>  <persName type="attested"><name nymRef="Ποστούμιος"><expan><abbr>Ποϲ</abbr><ex>τούμιοϲ</ex></expan></name> <name nymRef="Πρεῖσκος">Πρεῖϲκοϲ</name></persName> 
+<lb n="45"/><persName type="attested"><name nymRef="Φλάβιος"><expan><abbr>Φλ</abbr><ex>άβιοϲ</ex></expan></name> <name nymRef="Γάϊος">Γάιϲ</name></persName>  <persName type="attested"><name nymRef="Ποστούμιος"><expan><abbr>Ποϲ</abbr><ex>τούμιοϲ</ex></expan></name> <name nymRef="Πρεῖσκος">Πρεῖϲκοϲ</name></persName> 
                     <lb n="46"/><persName type="attested"><name nymRef="Κασκέλλιος"><expan><abbr>Καϲκ</abbr><ex>έλλιοϲ</ex></expan></name> <name nymRef="Ἀττικος">Ἀττικοϲ</name></persName>  <persName type="attested"><name nymRef="Κάσσιος">Κάϲϲιοϲ</name> <name nymRef="Σεραπόδωρος">Ϲεραπόδωροϲ</name></persName> 
                     <lb n="47"/><persName type="divine" key="hermes"><name nymRef="Ἑρμῆς">Ἑρμαῖ</name></persName>
                     <space quantity="5" unit="character"/><persName type="divine" key="herakles"><name nymRef="Ἡρακλῆς">Ἡρακλεῖ </name></persName><space quantity="5" unit="character"/>
