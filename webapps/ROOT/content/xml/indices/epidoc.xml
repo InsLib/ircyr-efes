@@ -179,6 +179,25 @@
           </list>
         </div>
         
+        <div xml:id="persons">
+          <head>Attested People</head>
+          
+          <div type="headings">
+            <list>
+              <item>Person</item>
+              <item>References</item>
+            </list>
+          </div>
+          
+          <div type="notes">
+            <list>
+              <item>
+                <p>Square brackets [ ] indicate that the name/word is partially or completely restored in this inscription.</p>
+              </item>
+            </list>
+          </div>
+        </div>
+        
         <div type="notes">
           <list>
             <item>
