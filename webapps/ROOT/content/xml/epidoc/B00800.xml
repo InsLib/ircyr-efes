@@ -121,7 +121,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><w><supplied reason="lost" cert="low">ἥκ</supplied>ω</w> 
-                    <persName type="attested"><name nymRef="Zώπυρος"><supplied reason="lost">Z</supplied><unclear>ώ</unclear>π<unclear>υ</unclear>ροϲ</name> <name nymRef="Υαυ-"><seg part="I"><unclear>Υ</unclear>αυ</seg></name><!-- check SOAS --></persName>
+                    <persName type="attested"><name nymRef="Ζώπυρος"><supplied reason="lost">Ζ</supplied><unclear>ώ</unclear>π<unclear>υ</unclear>ροϲ</name> <name nymRef="Υαυ-"><seg part="I"><unclear>Υ</unclear>αυ</seg></name><!-- check SOAS --></persName>
                     <lb n="2"/><gap reason="lost" quantity="1" unit="character"/><orig>π</orig><gap reason="lost" quantity="5" unit="character"/><orig>ϲ</orig><g ref="symbols.xml#stop"/><hi rend="supraline"><orig>ο</orig></hi><orig>α<unclear>π</unclear>αχο</orig> 
                     <lb n="3"/><gap reason="lost" quantity="10" unit="character"/><orig>οϲϲπα</orig> 
                     <lb n="4"/><gap reason="lost" quantity="4" unit="character"/><orig>οπαϲ</orig><gap reason="lost" quantity="3" unit="character"/><orig>δ</orig><gap reason="lost" quantity="2" unit="character"/>
