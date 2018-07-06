@@ -243,8 +243,8 @@
                     <w lemma="diuus">di<unclear>u</unclear><supplied reason="lost">i</supplied></w> 
                    <persName type="emperor" key="nerva"><name nymRef="Nerva"><supplied reason="lost">Nerua</supplied><unclear/></name></persName>
                   <w lemma="nepos"><unclear>n</unclear>epos</w> <name nymRef="Traianus">T<supplied reason="lost">raianus</supplied></name> 
-                        <supplied reason="lost"><name nymRef="hadrianus">Hadrianus</name> 
-                           <name nymRef="augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></supplied></persName>
+                        <supplied reason="lost"><name nymRef="Hadrianus">Hadrianus</name> 
+                           <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></supplied></persName>
                        <supplied reason="lost"><w lemma="pontifex"><expan><abbr>pont</abbr><ex>ifex</ex></expan></w>
                         <w lemma="magnus"><expan><abbr>max</abbr><ex>imus</ex></expan></w>
                         <w lemma="tribunicius"><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> 

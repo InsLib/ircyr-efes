@@ -55,8 +55,8 @@
                      <origDate notBefore="0054" notAfter="0068" precision="low" evidence="terminology">ii: C.E. 54-68</origDate>
                   </origin>
                   <provenance type="found">
-                     <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>:
-                        <placeName type="monuList" ref="http://pleiades.stoa.org/places/375257, http://www.slsgazetteer.org/1197">Ras al-Hilal</placeName>; found in <date type="found">1961</date>.</p>
+                     <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1617">Gebel Akhdar: East of Cyrene</placeName>:
+                        <placeName type="monuList" ref="http://pleiades.stoa.org/places/375257, http://www.slsgazetteer.org/1684">Ras al-Hilal</placeName>; found in <date type="found">1961</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p><rs   type="monuList" ref="http://www.slsgazetteer.org/932">Apollonia Museum</rs>, <date type="observed">2008</date>.</p>

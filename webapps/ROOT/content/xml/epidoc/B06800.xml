@@ -172,7 +172,7 @@
                     <lb n="6"/>
                     <persName type="attested" key="lgpn:V1-61881"><name nymRef="Δέκμος"><supplied reason="lost">Δέκ</supplied>μος</name>
                        <name nymRef="Οὐαλέριος">Ο<supplied reason="lost">ὐαλέριος</supplied></name> 
-                       <persName type="attested"><name nymRef="Γαῖος"><supplied reason="lost">Γ</supplied>αίο<supplied reason="lost">υ</supplied></name></persName> 
+                       <persName type="attested"><name nymRef="Γάϊος"><supplied reason="lost">Γ</supplied>αίο<supplied reason="lost">υ</supplied></name></persName> 
                       <name nymRef="Διονύσιος"><supplied reason="lost">Διον</supplied>ύσιος</name></persName>
                     <w><unclear>πρ</unclear>η<unclear>π</unclear>ότης</w>
                     <lb n="7"/><supplied reason="lost"><w>τῆς</w></supplied> <w><supplied reason="lost">συν</supplied><unclear>ωγης</unclear></w>
@@ -271,7 +271,7 @@
                     <lb n="22"/>
                     <persName type="attested"><name nymRef="Δέκμος">Δέκμος</name>
                     <name nymRef="Οὐαλέριος">Οὐαλέριος</name>
-                    <persName type="attested"><name nymRef="Γαῖος">Γαΐου</name></persName>
+                    <persName type="attested"><name nymRef="Γάϊος">Γαΐου</name></persName>
                     <name nymRef="Διονύσιος">Διονύσιος</name></persName>
                     <lb n="23"/>
                     <w lemma="ὁ">τὸ</w>

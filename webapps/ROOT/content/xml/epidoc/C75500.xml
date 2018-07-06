@@ -259,7 +259,7 @@
                       <ab>
                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <lb n="2"/><num value="21">κα</num> 
-                         <persName type="attested" key="lgpn:V1-62916"><name nymRef="Αντίγονος"><expan><abbr>Ἀντίγονο</abbr><ex>ς</ex></expan></name> 
+                         <persName type="attested" key="lgpn:V1-62916"><name nymRef="Ἀντίγονος"><expan><abbr>Ἀντίγονο</abbr><ex>ς</ex></expan></name> 
                         <persName type="attested"><name nymRef="Νίκαιος">Νικαίω</name></persName></persName>
                       </ab>
             </div>

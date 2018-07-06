@@ -47,7 +47,7 @@
                             <origDate notBefore="-0100" notAfter="0300" precision="low" evidence="lettering">First century B.C. - third century C.E.</origDate>
                         </origin>
                         <provenance type="found">
-                            <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>: 
+                            <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1617">Gebel Akhdar: East of Cyrene</placeName>: 
                                 <rs type="ancientFindspot" ref="http://www.slsgazetteer.org/1428">Faidia</rs>; 
                                          18 km from Cyrene on the road to Slonta.</p>
                                 </provenance>

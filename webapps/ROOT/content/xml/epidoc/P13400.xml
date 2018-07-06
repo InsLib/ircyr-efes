@@ -109,10 +109,7 @@
          <change when="2009-02-24" who="GB">mailmerged: created from template</change>
       </revisionDesc>
    </teiHeader><facsimile><graphic url="JMR_342e_001" decls="#photograph"><desc>Left part (Joyce Reynolds, Tolmeita I.11; NB V.12)</desc></graphic>
-      <graphic url="JMR_342e_002" decls="#photograph"><desc>Right part (Joyce Reynolds, Tolmeita I.15; NB V.15)</desc></graphic><!--Dept.--><!--
-                    --><!--
-                    --><!--
-            --></facsimile>
+      <graphic url="JMR_342e_002" decls="#photograph"><desc>Right part (Joyce Reynolds, Tolmeita I.15; NB V.15)</desc></graphic></facsimile>
    <text>
       <body>
          <div type="bibliography">
@@ -124,7 +121,7 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="18">ι<unclear>η</unclear></num>
-                    <persName type="attested"><name nymRef="Αφηδο-"><seg part="I"><unclear>Ἀ</unclear>φ<unclear>ηδο</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <persName type="attested"><name nymRef="Ἀφηδο-"><seg part="I"><unclear>Ἀ</unclear>φ<unclear>ηδο</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">τος</seg></name></persName> <space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="2"><unclear>β</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><space quantity="1" unit="character"/> 

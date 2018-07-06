@@ -102,7 +102,7 @@
          <change when="2011-08-09" who="Pietro">fixed markup</change>
           <change when="2011-07-06" who="MLA">created from JMR-Mohammed 1997</change>
       </revisionDesc>
-   </teiHeader><facsimile><surface/></facsimile>
+   </teiHeader><facsimile>  <surface/></facsimile>
    <text>
       <body>
         
@@ -125,7 +125,7 @@
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-             <p>Boton (son) of Alexandros, aged 2.</p></div>
+             <p>Boton <supplied reason="subaudible">son</supplied> of Alexandros, aged 2.</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p/>

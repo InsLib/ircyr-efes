@@ -53,8 +53,8 @@
                      <origDate notBefore="0050" notAfter="0150" precision="low" evidence="lettering" cert="low">Late first or early second century C.E.</origDate>
                   </origin>
                   <provenance type="found">
-                     <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>: 
-                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1198">Limnias</placeName>; found in <date type="found">1959</date>.</p>
+                     <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1617">Gebel Akhdar: East of Cyrene</placeName>: 
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1276">Limnias</placeName>; found in <date type="found">1959</date>.</p>
                         </provenance>
                         <provenance type="observed">
                            <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>: Casa Parisi, no inventory number</p>

@@ -53,9 +53,9 @@
                      <origDate evidence="context" notAfter="0600" notBefore="0500">VI century C.E.</origDate>
                   </origin>
                   <provenance type="found">
-                     <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1581">Sites east of Cyrene</placeName>:
-                        <placeName type="monuList" ref="http://pleiades.stoa.org/places/375257, http://www.slsgazetteer.org/1197">Ras al-Hilal</placeName>, 
-                              from the nave of the Church; 
+                     <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1617">Gebel Akhdar: East of Cyrene</placeName>:
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/1197">Ras al-Hilal, Church</placeName>, 
+                              from the nave; 
                               excavated in <date type="found">1961</date>.</p>
                         </provenance>
                         <provenance type="observed">
@@ -133,7 +133,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div subtype="fragment" n="a" type="textpart">
                <ab>
-                   <lb n="1"/><persName type="divine" key="ktesis"><w>Κτῆ<space quantity="1" unit="character"/>σις</w></persName>
+                   <lb n="1"/><persName type="divine" key="ktesis"><w>Κτῆ<space quantity="1" unit="character"/>ϲιϲ</w></persName>
                </ab>
             </div>
             <div subtype="fragment" n="b" type="textpart">
@@ -150,9 +150,9 @@
         
          <div type="commentary">
             <head>Commentary</head>
-            <p>For the building, probably of the VI century, see Ward-Perkins, op. cit, 326-341</p>
-            <p> The texts are paralleled in the mosaic of C.E. 534 at Gsar Lerbia (<ref type="inscription">G03900</ref>). The spelling errors here, if nothing else, 
-                    might suggest a date rather late in the VFirst century</p>
+            <p>For the building, probably of the sixth century, see Ward-Perkins, op. cit, 326-341</p>
+            <p> The texts are paralleled in the mosaic of C.E. 534 at Gsar Lebia (<ref type="inscription">G03900</ref>). The spelling errors here, if nothing else, 
+                    might suggest a date rather late in the sixth century</p>
          </div>
          
       </body>
