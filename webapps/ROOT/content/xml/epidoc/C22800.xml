@@ -118,7 +118,7 @@
                <bibl>
                   <ptr target="smith-porcher1864"/> <citedRange>10</citedRange>, p. 112, and  pl. 80 
                </bibl>; cf. <bibl>
-                  <ptr target="SECir"/>  <citedRange>70bis</citedRange> p. 258</bibl>, whence 
+                  <ptr target="SECir"/> <citedRange>70bis</citedRange> p. 258</bibl>, whence 
                <bibl><ptr target="robertBE"/> <citedRange>1964.562</citedRange></bibl>
             </p>
          </div>
@@ -133,7 +133,7 @@
                     <lb n="3"/><persName type="attested"><name nymRef="Πόπλιος"><expan><abbr><hi rend="supraline">Π</hi></abbr><ex>όπλιοϲ</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιοϲ</name>
                     <name nymRef="Τορκο-"><seg part="I">Τορκο</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><space quantity="3" unit="character"/> <w lemma="ὁ">ἡ</w> <w lemma="πόλις">πόλιϲ</w> <space quantity="3" unit="character"/> 
-                    <lb n="5"/><persName type="attested"><name nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτοϲ</ex></expan></name> <name nymRef="Φλάβιος">Φλάβιοϲ</name> 
+                    <lb n="5"/><persName type="attested" key="lgpn:V1-63378"><name nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτοϲ</ex></expan></name> <name nymRef="Φλάβιος">Φλάβιοϲ</name> 
                     <name nymRef="Βαρκαῖος">Βαρκαῖο<supplied reason="lost">ϲ</supplied></name></persName>
                     <lb n="6"/><space quantity="3" unit="character"/> <w lemma="ὁ">ἡ</w> <w lemma="πόλις">πόλιϲ</w> <space quantity="3" unit="character"/> 
                     <lb n="7"/><persName type="attested" key="lgpn:V1-62602"><name nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτος</ex></expan></name> <name nymRef="Φλάβιος">Φλάβιοϲ</name> 

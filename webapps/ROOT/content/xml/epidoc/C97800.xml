@@ -134,7 +134,7 @@
                         type="attested" key="lgpn:V1-63172"><name type="patronymic" nymRef="Ἀριστοτέλης">Ἀριστοτέλευς</name></persName></persName>
                     
                     <lb n="4"/><persName type="attested"><name nymRef="Νίκαιος">Νίκαιος</name> <space quantity="3" unit="character"/> <persName
-                        type="attested"><name type="patronymic" nymRef="Αὔξιμος">Αὐξίμω</name></persName></persName>
+                        type="attested" key="lgpn:V1-63324"><name type="patronymic" nymRef="Αὔξιμος">Αὐξίμω</name></persName></persName>
                     
                     <lb n="5"/><persName type="attested" key="lgpn:V1-62969"><name nymRef="Ἀπολλόδωρος">Ἀπολλόδωρος</name> <space quantity="1" unit="character"/> <persName
                         type="attested" key="lgpn:V1-62985"><name type="patronymic" nymRef="Ἀπολλωνίδης">Ἀπολλωνίδα</name></persName></persName>

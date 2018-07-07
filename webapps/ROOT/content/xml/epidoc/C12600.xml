@@ -129,7 +129,7 @@
                     <lb n="5"/><persName type="attested"><name nymRef="Βερενίκα">Βερενίκα</name> <persName type="attested"><name nymRef="Πραξιάδας">Πραξιάδα</name></persName></persName>
                     <lb n="6"/><persName type="attested" key="lgpn:V1-62963"><name nymRef="Ἀπία">Ἀπία <g ref="symbols.xml#dash"/> </name>
                         <persName type="attested"><name nymRef="Πτολεμαῖος">Πτολεμαίω</name></persName></persName>
-                    <lb n="7"/><persName type="attested"><name nymRef="Ζευξίππα"><supplied reason="lost">Ζ</supplied>ευξίππα</name> <persName type="attested"><name nymRef="Βαρκαῖος">Βαρκαίω</name></persName></persName>
+                    <lb n="7"/><persName type="attested"><name nymRef="Ζευξίππα"><supplied reason="lost">Ζ</supplied>ευξίππα</name> <persName type="attested" key="lgpn:V1-63375"><name nymRef="Βαρκαῖος">Βαρκαίω</name></persName></persName>
                     <lb n="8"/><persName type="attested"><name nymRef="Εὐρυκλήτα">Εὐρυκλήτα</name> 
                         <persName type="attested" key="lgpn:V1-63291"><name nymRef="Ἄσκλαπος">Ἀσκ<unclear>λάπω</unclear></name></persName></persName>
                     <lb n="9"/><persName type="attested"><name nymRef="Ζευξώ">Ζευξὼ</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Φείδιμος">Φειδίμω</name></persName></persName>

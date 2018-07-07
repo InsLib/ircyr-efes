@@ -128,7 +128,7 @@
                     <lb n="1"/> <persName type="divine" key="apollo"><w>θεός</w></persName> <persName type="divine" key="agathetyche"><name nymRef="Τύχη">Τύχα</name> <w>ἀγαθά</w></persName>
                     <lb n="2"/> <w>Ἱάρεαι</w> <w>τᾶς</w> <persName type="divine" key="hera"><name nymRef="Ἥρα">Ἥρας</name></persName>
                     <lb n="3"/> <persName type="attested"><name nymRef="Μεγώ">Μεγὼ</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Εἰδόκριτος">Εἰδοκρίτω</name></persName></persName>
-                    <lb n="4"/> <persName type="attested"><name nymRef="Λαβράμεα">Λαβράμεα</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Βάκαλ">Βάκαλος</name></persName></persName>
+                    <lb n="4"/> <persName type="attested"><name nymRef="Λαβράμεα">Λαβράμεα</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-63362"><name nymRef="Βάκαλ">Βάκαλος</name></persName></persName>
                     <lb n="5"/> <persName type="attested"><name nymRef="Πρωταρχίς">Πρωταρχὶς</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Ἡρακλείδας">Ἡρακλείδα</name></persName></persName>
                     <lb n="6"/> <persName type="attested"><name nymRef="Νικαρίστα">Νικαρίστα</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Πολιάνθης">Πολιάνθευς</name></persName></persName>
                     <lb n="7"/> <persName type="attested"><name nymRef="Πέλεια">Πέλεια</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-64330"><name nymRef="Ἰάσων">Ἰάσονος</name></persName></persName>
