@@ -139,7 +139,7 @@
                     <lb n="1"/><handShift new="a"/><persName type="attested" key="lgpn:V1-62934"><name nymRef="Ἀντίπατρος"><unclear>Ἀντίπατρος</unclear></name></persName><gap reason="lost"
                                 atLeast="5" atMost="6" unit="character"/>
                     
-                    <lb n="2"/><persName type="attested" key="lgpn:V1-62992"><name nymRef="Ἀπολλώνιος">Ἀπολλώνιος</name> <persName type="attested"><name nymRef="Ἁρμόδιος">Ἁρμοδί<supplied reason="lost">ω</supplied></name></persName></persName>
+                    <lb n="2"/><persName type="attested" key="lgpn:V1-62992"><name nymRef="Ἀπολλώνιος">Ἀπολλώνιος</name> <persName type="attested" key="lgpn:V1-63243"><name nymRef="Ἁρμόδιος">Ἁρμοδί<supplied reason="lost">ω</supplied></name></persName></persName>
                     
                     <lb n="3"/><handShift new="b"/><persName type="attested"><name nymRef="Μαρσύας">Μαρσύας</name> <persName
                         type="attested"><name nymRef="Μαρσύας">Μαρσύα</name> <persName

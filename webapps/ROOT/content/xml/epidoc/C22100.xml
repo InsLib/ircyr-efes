@@ -125,7 +125,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Δέκμος"><expan><abbr>Δ</abbr><ex>έκμοϲ</ex></expan></name>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-63184"><name nymRef="Δέκμος"><expan><abbr>Δ</abbr><ex>έκμοϲ</ex></expan></name>
                     <name nymRef="Κασκέλλιος">Κασ<supplied reason="lost">κέλλιοϲ</supplied></name>
                     <lb n="2"/><name nymRef="Ἀριστοτέλης"><unclear>Ἀ</unclear>ρι<unclear>στο</unclear><supplied reason="lost">τέληϲ</supplied></name></persName>
                     <lb n="3"/><w lemma="ὁ">τὸν</w> <w lemma="κίων">κεί<supplied reason="lost">ονα</supplied></w>
@@ -144,7 +144,8 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>Cascellius Aristoteles: for two men of this name, both associated with the restoration of the Temple, see <ref type="inscription">C21500</ref>, lines 2f.</p>
+            <p>Cascellius Aristoteles: for two men of this name, both associated with the restoration of the Temple, see 
+               <ref type="inscription">C21500</ref>, lines 2f.</p>
          </div>
          
       </body>

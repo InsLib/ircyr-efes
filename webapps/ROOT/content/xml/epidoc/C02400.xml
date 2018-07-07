@@ -40,9 +40,8 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>
-                         b: <height unit="metre">0.025-0.03</height>; ⟃ for
-                    ἔτους; sloping I for the patronymics</handNote>
+                     <handNote> <height unit="metre">0.025-0.03</height>; ⟃ for <!-- check -->
+                    ἔτους; sloping / for the patronymics</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -114,15 +113,16 @@
       <body>
          <div subtype="editions" type="bibliography">
             <head>Bibliography</head>
-            <p>Unpublished.</p>
+            <p><!-- check Luni 1976, 9 -->Unpublished.</p>
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><ab><lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="79">οθ</num> 
-                            <lb n="2"/><persName type="attested"><name nymRef="Ἀριστώνυμος">Ἀριστώνυμον</name> <persName type="attested"><name nymRef="Ἀριστώνυμος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Ἀριστωνύμου</ex></expan></name></persName> <w lemma="ὁ">τοῦ</w> 
-                    <persName type="attested"><name nymRef="Ἀριστώνυμος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Ἀριστωνύμου</ex></expan></name></persName></persName></ab>
+                            <lb n="2"/><persName type="attested" key="lgpn:V1-63228"><name nymRef="Ἀριστώνυμος">Ἀριστώνυμον</name> <persName type="attested" key="lgpn:V1-63227"><name nymRef="Ἀριστώνυμος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Ἀριστωνύμου</ex></expan></name></persName> <w lemma="ὁ">τοῦ</w> 
+                    <persName type="attested" key="lgpn:V1-63226"><name nymRef="Ἀριστώνυμος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Ἀριστωνύμου</ex></expan></name></persName></persName></ab>
 </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head><p><!--  ...--></p></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head><p>
+            <!--  ...--></p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>b: line 1, 79 of the Actian era = C.E. 48/9.</p>

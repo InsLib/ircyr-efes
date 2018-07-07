@@ -108,11 +108,11 @@
       <body>
          <div subtype="editions" type="bibliography">
             <head>Bibliography</head>
-            <p>Unpublished.</p>
+            <p>Unpublished.<!-- check Luni1976, no 9 --></p>
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><ab><lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="55"><unclear>ν</unclear>ε</num>
-                            <lb n="2"/><persName type="attested"><name nymRef="Ἀπολλοφάνης">Ἀπολλοφάνης</name></persName> 
+                            <lb n="2"/><persName type="attested" key="lgpn:V1-62982"><name nymRef="Ἀπολλοφάνης">Ἀπολλοφάνης</name></persName> 
                             <gap reason="lost" extent="unknown" unit="character"/>
                             <persName type="attested"><name nymRef="Εὐμένης">Εὐ<lb n="3" break="no"/>μέν<supplied reason="lost">η</supplied>ς</name>
                                 <persName type="attested"><name nymRef="Ὀνόμαρχος">Ὀνομάρ<supplied reason="omitted" cert="low">χ</supplied>ω</name></persName></persName> 
