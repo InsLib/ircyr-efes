@@ -135,7 +135,7 @@
             
             <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                <lb n="1"/><persName type="attested"><name nymRef="Ἀρχίππα"><unclear>Ἀρχίππ</unclear>αν</name> 
+                <lb n="1"/><persName type="attested" key="lgpn:V1-63277"><name nymRef="Ἀρχίππα"><unclear>Ἀρχίππ</unclear>αν</name> 
                   <persName type="attested"> <name nymRef="Πτολεμαῖος"><unclear>Π</unclear>τολεμ<unclear>αί</unclear>ου</name></persName></persName>
                 <lb n="2"/><w>συ<unclear>ν</unclear>ιεριτεύου<unclear>σ</unclear>αν</w> 
                 <persName type="attested"><name nymRef="Πτολεμαῖος">Πτολε<supplied reason="lost">μαίῳ</supplied></name></persName>

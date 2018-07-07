@@ -160,7 +160,7 @@
                     <lb n="6"/> <persName type="attested"><name nymRef="Ἴστρος"><choice><sic>Ἴστρον</sic><corr>Ἴστρω</corr></choice></name>
                     <w lemma="ὁ">τῶ</w> <persName type="attested" key="lgpn:V1-62509"><name nymRef="Ἀγαθῖνος">Ἀγαθίνω</name></persName></persName>
                     <lb n="7"/> <persName type="attested"><name nymRef="Ἰγίσαν">Ἱγίσαντα</name> <persName type="attested"><name nymRef="Ὀνόμαρχος">Ὀνομάρχω</name></persName></persName>
-                    <lb n="8"/> <persName type="attested"><name nymRef="Ἄρχιππος">Ἄρχιππον</name> <persName type="attested"><name nymRef="Ἄρχιππος">Ἀρχίππω</name></persName></persName>
+                    <lb n="8"/> <persName type="attested" key="lgpn:V1-63282"><name nymRef="Ἄρχιππος">Ἄρχιππον</name> <persName type="attested" key="lgpn:V1-63281"><name nymRef="Ἄρχιππος">Ἀρχίππω</name></persName></persName>
                     <lb n="9"/> <persName type="attested"><name nymRef="Εὐμηλίδας">Εὐμηλίδαν</name> <persName type="attested"><name nymRef="Εὐμηλίδας">Εὐμηλίδα</name></persName></persName>
                     <lb n="10"/> <space extent="4" unit="character"/><w>ἀπορυτιάζοντα</w>
                     <lb n="11"/> <persName type="attested"><name nymRef="Ζηνίων">Ζηνίωνα</name> <persName type="attested"><name nymRef="Σώσαρχος">Σωσάρχω</name></persName></persName>
@@ -416,7 +416,7 @@
                             <lb n="28"/> 
                   <persName type="attested">
                      <name nymRef="Λύκος">Λύκος</name> 
-                     <persName type="attested"><name nymRef="Ἄσκλαπος"><expan><abbr>Ἀσκ<unclear>λ</unclear></abbr><ex>απω</ex></expan></name>
+                     <persName type="attested" key="lgpn:V1-63293"><name nymRef="Ἄσκλαπος"><expan><abbr>Ἀσκ<unclear>λ</unclear></abbr><ex>απω</ex></expan></name>
                             <lb n="29"/> 
                      <name nymRef="Κεφάλων">Κεφάλωνος</name></persName>
                   </persName>

@@ -124,7 +124,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><w lemma="ἐπί">ἐπὶ</w> <w lemma="ἱερεύς">ἱερέ<unclear>ω</unclear>ς</w>
-                    <persName type="attested"><name nymRef="Ἀρχέδαμος"><unclear>Ἀ</unclear>ρ<unclear>χ</unclear>εδάμου</name></persName>
+                    <persName type="attested" key="lgpn:V1-63266"><name nymRef="Ἀρχέδαμος"><unclear>Ἀ</unclear>ρ<unclear>χ</unclear>εδάμου</name></persName>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>λσ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>ισ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

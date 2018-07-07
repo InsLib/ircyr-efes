@@ -121,7 +121,7 @@
             <head>Bibliography</head>
             <p>
                <bibl>
-                  <ptr target="gasperini1967"/>, <citedRange>p. 58</citedRange>, with
+                  <ptr target="gasperini1967"/>, <citedRange>p. 58</citedRange><!-- check foor numbers -->, with
                   illustration fig. 5 </bibl>, whence  
                <bibl><ptr target="robertBE"/> <citedRange>1973.536</citedRange></bibl>; 
                <bibl> <ptr target="gasperini1967a"/>
@@ -142,7 +142,7 @@
             <lb n="5"/><persName type="attested"><name nymRef="Φάος">Φάος</name> <persName type="attested"><name nymRef="Κλέαρχος">Κλεάρχω</name>
                <lb n="6"/><w>τῶ</w> <w>φιλοπάτριδος</w></persName></persName>
             <lb n="7"/><persName type="attested"><name nymRef="Ἴστρος">Ἴστρος</name> <persName type="attested" key="lgpn:V1-62509"><name nymRef="Ἀγαθῖνος">Ἀγαθίνω</name></persName></persName>
-            <lb n="8"/><persName type="attested"><name nymRef="Ἀσκληπιάδης">Ἀσκληπιάδης</name> <persName type="attested"><name nymRef="Ἑπικράτης">Ἑπικράτευς</name></persName></persName>
+            <lb n="8"/><persName type="attested" key="lgpn:V1-63301"><name nymRef="Ἀσκληπιάδης">Ἀσκληπιάδης</name> <persName type="attested"><name nymRef="Ἑπικράτης">Ἑπικράτευς</name></persName></persName>
             <lb n="9"/><persName type="attested"><name nymRef="Εὐφάνης">Εὐφάνης</name> <persName type="attested"><name nymRef="Ἰσοκράτης">Ἰσοκράτευς</name></persName></persName>
             <lb n="10"/><persName type="attested"><name nymRef="Πανταλέων">Πανταλέων</name> <persName type="attested"><name nymRef="Πανταλέων">Πανταλέοντος</name></persName></persName>
             <lb n="11"/><persName type="attested"><name nymRef="Ἰσοκράτης"><supplied reason="lost">Ἰ</supplied>σοκράτης</name> <persName type="attested" key="lgpn:V1-62610"><name nymRef="Ἀγχίστρατος">Ἀγχιστράτω</name></persName></persName>

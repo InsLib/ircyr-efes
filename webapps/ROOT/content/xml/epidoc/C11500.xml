@@ -216,7 +216,7 @@
                         <name nymRef="Κάσσιος">Κάσσιος</name> <name nymRef="Νατᾶλις">Νατᾶλις</name></persName> 
                     <space quantity="5" unit="character"/> <persName type="attested"><name nymRef="Εὐκλείδης">Εὐκλείδης</name>
                         <persName type="attested"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name></persName></persName> 
-                    <lb n="29"/><persName type="attested"><name nymRef="Πόπλιος"><supplied reason="lost"><expan><abbr>Π</abbr><ex>όπλιος</ex></expan></supplied></name> 
+                    <lb n="29"/><persName type="attested" key="lgpn:V1-63267"><name nymRef="Πόπλιος"><supplied reason="lost"><expan><abbr>Π</abbr><ex>όπλιος</ex></expan></supplied></name> 
                     <name nymRef="Ῥεῖος">Ῥεῖος</name> <name nymRef="Ἀρχέλαος">Ἀρχέλαος</name></persName> 
                     <space quantity="5" unit="character"/> <persName type="attested"><name nymRef="Εὐφρᾶς">Εὐφρᾶς</name>
                         <persName type="attested"><name nymRef="Φιλόξενος">Φιλοξένω</name></persName></persName> 

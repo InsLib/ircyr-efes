@@ -131,7 +131,7 @@
                         <persName type="attested"><name nymRef="Πτολεμαῖος">Πτολεμαίω</name></persName></persName>
                     <lb n="7"/><persName type="attested"><name nymRef="Ζευξίππα"><supplied reason="lost">Ζ</supplied>ευξίππα</name> <persName type="attested"><name nymRef="Βαρκαῖος">Βαρκαίω</name></persName></persName>
                     <lb n="8"/><persName type="attested"><name nymRef="Εὐρυκλήτα">Εὐρυκλήτα</name> 
-                        <persName type="attested"><name nymRef="Ἄσκλαπος">Ἀσκ<unclear>λάπω</unclear></name></persName></persName>
+                        <persName type="attested" key="lgpn:V1-63291"><name nymRef="Ἄσκλαπος">Ἀσκ<unclear>λάπω</unclear></name></persName></persName>
                     <lb n="9"/><persName type="attested"><name nymRef="Ζευξώ">Ζευξὼ</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Φείδιμος">Φειδίμω</name></persName></persName>
                     <lb n="10"/><persName type="attested"><name nymRef="Επαγώ">Επαγὼ</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Καρνήδας">Καρνήδα</name></persName></persName>
                     <lb n="11"/><persName type="attested"><orig>ιλυλδιω</orig> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Λῦσις">Λύσιος</name></persName></persName>

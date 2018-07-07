@@ -128,7 +128,7 @@
             <ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-62911"><name nymRef="Ἀνταῖοϲ">Ἀνταῖοϲ</name> <persName type="attested"><name nymRef="Πολίανθος">Πολιάνθου</name></persName></persName> 
                     <lb n="2"/><space extent="7" unit="character"/><date type="life-span" dur="P80Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="80">π</num></date><space extent="5" unit="character"/> 
-                    <lb n="3"/><persName type="attested"><name nymRef="Ἀρχώ">Ἀρχὼ</name> <persName type="attested"><name nymRef="Βαρκαῖος">Βαρκαίου</name></persName></persName>
+                    <lb n="3"/><persName type="attested" key="lgpn:V1-63285"><name nymRef="Ἀρχώ">Ἀρχὼ</name> <persName type="attested"><name nymRef="Βαρκαῖος">Βαρκαίου</name></persName></persName>
                     <lb n="4"/><space extent="5" unit="character"/><date type="life-span" dur="P70Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="70">ο</num> </date><space extent="4" unit="character"/>
                <lb n="4a"/><space extent="1" unit="line"/>
                     <lb n="5"/><persName type="attested"><name nymRef="Βαρκαῖος">Βαρκαῖοϲ</name> <persName type="attested" key="lgpn:V1-62911"><name nymRef="Ἀνταῖοϲ">Ἀνταίου</name></persName></persName>
