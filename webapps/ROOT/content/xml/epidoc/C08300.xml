@@ -144,9 +144,9 @@
                     <lb n="7" break="no"/><space quantity="1" unit="character"/>λῶτος</name></persName></persName> <space quantity="1" unit="character"/> 
                        <lb n="8"/><persName type="attested"><name nymRef="Ἐλάζαρ">Ἐλάζα<supplied reason="lost">ρ</supplied></name> 
                        <persName type="attested" key="lgpn:V1-64320"><name nymRef="Ἰάσων"><supplied reason="lost">Ἰ</supplied>άσονος</name></persName></persName> 
-                       <lb n="9"/><persName type="attested"><name nymRef="Γέμελλος">Γέμε<unclear>λ</unclear><supplied reason="lost">λ</supplied>ος</name> 
+                       <lb n="9"/><persName type="attested" key="lgpn:V1-63429"><name nymRef="Γέμελλος">Γέμε<unclear>λ</unclear><supplied reason="lost">λ</supplied>ος</name> 
                        <persName type="attested" key="lgpn:V1-62783"><name nymRef="Ἀλώπηξ">Ἀλώπεκος</name></persName></persName> 
-                       <lb n="10"/><persName type="attested"><name nymRef="Δᾶμις">Δᾶμις</name> <persName type="attested" key="lgpn:V1-63042"><name nymRef="Ἀρίμμαν"><supplied reason="lost">Ἀρ</supplied>ίμμαντος</name></persName></persName>
+                       <lb n="10"/><persName type="attested" key="lgpn:V1-63468"><name nymRef="Δᾶμις">Δᾶμις</name> <persName type="attested" key="lgpn:V1-63042"><name nymRef="Ἀρίμμαν"><supplied reason="lost">Ἀρ</supplied>ίμμαντος</name></persName></persName>
                        <lb n="11"/><persName type="attested"><name nymRef="Θρασύμαχος">Θρασύ<supplied reason="lost">μ</supplied><unclear>α</unclear>χος</name> 
                       <persName type="attested"><name nymRef="Λυσίμαχος">Λυσι
                     <lb n="12" break="no"/><space quantity="1" unit="character"/>μά<unclear>χ</unclear><supplied reason="lost">ο</supplied>υ</name></persName></persName>

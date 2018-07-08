@@ -142,7 +142,7 @@
                J.M. Reynolds, <bibl><title>SEG</title> <citedRange>20.741</citedRange></bibl>, 
                <bibl><ptr target="appelbaum1964"/>, <citedRange>291f.<!-- check pp --></citedRange></bibl>, whence  
                <bibl><ptr target="robertBE"/> <citedRange>1967.680</citedRange></bibl>;   
-                <bibl><ptr target="gl-jmr1983"/> <citedRange>7</citedRange></bibl>.
+                (part) <bibl><ptr target="gl-jmr1983"/> <citedRange>7</citedRange></bibl>.
             </p>
          </div>
          
@@ -286,7 +286,7 @@
                       <num value="54">νε</num> <persName type="attested"><name nymRef="Φιλόκωμος">Φιλόκω<lb n="12" break="no"/>μος</name> <persName type="attested"><name nymRef="Φίλων">Φίλωνος</name></persName></persName>
                       <lb n="13"/> <w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                       <num value="54">νε</num> <persName type="attested"><name nymRef="Ἰγίσαν">Ἰγίσαν</name>
-                      <lb n="14"/> <persName type="attested"><name nymRef="Βωλακλῆς">Βωλακλεῦς</name></persName></persName>
+                      <lb n="14"/> <persName type="attested" key="lgpn:V1-63420"><name nymRef="Βωλακλῆς">Βωλακλεῦς</name></persName></persName>
                       <lb n="15"/> <orig>Π</orig>
                       <lb n="16"/> <persName type="attested"><name nymRef="Νίκαιος">Νίκαιος</name> <persName type="attested"><name nymRef="Νίκαιος">Νικαίου</name></persName></persName>
                       <lb n="17"/> <orig>Π</orig>
@@ -465,7 +465,8 @@
                   <lb n="40"/><space extent="unknown" unit="character"/> 
                   <persName type="attested"><name nymRef="Δίων">Δίω<lb
                      n="41" break="no"/><surplus>ω</surplus>νος</name></persName> 
-                  <persName type="attested"><name nymRef="Δαμακλῆς">Δαμακλῆς</name></persName>
+                  <persName type="attested" key="lgpn:V1-63447"><name nymRef="Δαμακλῆς">Δαμακλῆς</name> 
+                  <persName type="attested" key="lgpn:V1-63446"><name nymRef="Δαμακλῆς"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Δαμακλεῦς</ex></expan></name></persName></persName>
                   <lb n="42"/><orig><unclear>Α</unclear><space extent="4" unit="character"/>
                            Ε</orig>
                   </ab>

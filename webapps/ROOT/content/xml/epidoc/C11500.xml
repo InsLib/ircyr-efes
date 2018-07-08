@@ -222,7 +222,7 @@
                         <persName type="attested"><name nymRef="Φιλόξενος">Φιλοξένω</name></persName></persName> 
                     <lb n="30"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name>
                         <name nymRef="Ἀσίνιος">Ἀσίνιος</name> <name nymRef="Ῥοῦφος">Ῥοῦφος</name></persName>
-                    <space quantity="5" unit="character"/> <persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γάι</abbr><ex>ο</ex><abbr>ς</abbr></expan></name><!-- check --> 
+                    <space quantity="5" unit="character"/> <persName type="attested" key="lgpn:V1-63425"><name nymRef="Γάϊς">Γάϊς</name>
                         <persName type="attested" key="lgpn:V1-62700"><name nymRef="Ἀλέξανδρος">Ἀλεξάνδρω</name></persName></persName> 
                     <lb n="31"/><persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>άιος</ex></expan></name>
                         <name nymRef="Ῥοῦφος">Ῥοῦφος</name> <name nymRef="Λικινιανός">Λικινιανός</name></persName> 
@@ -230,12 +230,12 @@
                         <persName type="attested"><name nymRef="Πρῖμος">Πρείμω</name></persName></persName> 
                     <lb n="32"/><gap reason="lost" quantity="1" unit="character"/> 
                     <persName type="attested"><name nymRef="Οὐαλέριος">Οὐαλέριος</name> <name nymRef="Σατουρνεῖνος">Σατουρνεῖνος</name></persName> 
-                    <space quantity="5" unit="character"/> <persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γάϊ</abbr><ex>ο</ex><abbr>ς</abbr></expan></name>
+                    <space quantity="5" unit="character"/> <persName type="attested" key="lgpn:V1-63427"><name nymRef="Γάϊς">Γάϊς</name>
                         <persName type="attested"><name nymRef="Πόπλιος">Ποπλίω</name></persName></persName> 
                     <lb n="33"/><gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name nymRef="Ἰούλιος"><supplied reason="lost">Ἰο</supplied>ύλιος</name> 
                     <name nymRef="Λιβερᾶλις">Λιβερᾶλις</name></persName><!-- check -->
                     <space quantity="5" unit="character"/> 
-                    <persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γάι</abbr><ex>ο</ex><abbr>ς</abbr></expan></name>
+                    <persName type="attested" key="lgpn:V1-63426"><name nymRef="Γάϊς">Γάϊς<</name>
                         <persName type="attested"><name nymRef="Μέμμιος">Μεμμίω</name></persName></persName> 
                     <lb n="34"/><persName type="attested"><gap reason="lost" quantity="4" unit="character"/><name><seg part="F">ος</seg></name>
                         <name nymRef="Βλαίσιος">Βλαίσιος</name> <name nymRef="Νίγερ">Νιγερ</name></persName> 
