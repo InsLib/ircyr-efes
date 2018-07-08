@@ -115,7 +115,7 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Πεφαμος">Πεφαμος</name></persName>
                         <lb n="2"/><persName type="attested"><name nymRef="Στράτων">Στράτων</name></persName> <w>ἥκοσι</w>
-                            <lb n="3"/><persName type="attested"><name nymRef="Βερενίκη">Βερενίκη</name></persName>
+                            <lb n="3"/><persName type="attested" key="lgpn:V1-63404"><name nymRef="Βερενίκη">Βερενίκη</name></persName>
                     <lb n="4"/><persName type="attested" key="lgpn:V1-62721"><name nymRef="Ἀλέξανδρος">Ἀλέξανδρος</name></persName>
                     <lb n="5"/><persName type="attested"><name nymRef="Ἡρακλεία">Ἡρακλεία</name></persName>
                     <lb n="6"/><w>ἥκα<supplied reason="lost">σιν</supplied></w>

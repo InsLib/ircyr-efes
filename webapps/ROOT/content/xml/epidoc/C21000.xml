@@ -134,7 +134,7 @@
                     <lb n="5"/><persName type="attested" key="lgpn:V1-60843"><name nymRef="Ἄλεξις">Ἄλεξ<unclear>ι</unclear><supplied reason="lost">ς</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="6"/><persName type="attested"><name nymRef="Φίλων">Φίλων</name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="7"/><persName type="attested"><name nymRef="Φιλόκωμος">Φιλόκω<supplied reason="lost">μος</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="8"/><persName type="attested"><name nymRef="Βαρκαῖος">Βαρκ<supplied reason="lost">αῖος</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="8"/><persName type="attested" key="lgpn:V1-63383"><name nymRef="Βαρκαῖος">Βαρκ<supplied reason="lost">αῖος</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="9"/><persName type="attested"><name nymRef="Φι-"><seg part="I">Φ<unclear>ι</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="9a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>

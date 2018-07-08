@@ -126,7 +126,7 @@
                     <lb n="2"/><w>Ἱάρεαι</w> <w>τᾶς</w> <persName type="divine" key="hera"><name nymRef="Ἥρα">Ἥρας</name></persName>
                     <lb n="3"/><persName type="attested"><name nymRef="Μεγώ">Μεγὼ</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Φιλόξενος">Φιλοξένω</name></persName></persName>
                     <lb n="4"/><persName type="attested"><name nymRef="Δαμοκλήτα">Δαμοκλήτα</name> <persName type="attested"><name nymRef="Ξοῦθος">Ξούθω</name></persName></persName>
-                    <lb n="5"/><persName type="attested"><name nymRef="Βερενίκα">Βερενίκα</name> <persName type="attested"><name nymRef="Πραξιάδας">Πραξιάδα</name></persName></persName>
+                    <lb n="5"/><persName type="attested" key="lgpn:V1-63403"><name nymRef="Βερενίκα">Βερενίκα</name> <persName type="attested"><name nymRef="Πραξιάδας">Πραξιάδα</name></persName></persName>
                     <lb n="6"/><persName type="attested" key="lgpn:V1-62963"><name nymRef="Ἀπία">Ἀπία <g ref="symbols.xml#dash"/> </name>
                         <persName type="attested"><name nymRef="Πτολεμαῖος">Πτολεμαίω</name></persName></persName>
                     <lb n="7"/><persName type="attested"><name nymRef="Ζευξίππα"><supplied reason="lost">Ζ</supplied>ευξίππα</name> <persName type="attested" key="lgpn:V1-63375"><name nymRef="Βαρκαῖος">Βαρκαίω</name></persName></persName>
@@ -137,7 +137,7 @@
                     <lb n="11"/><persName type="attested"><orig>ιλυλδιω</orig> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Λῦσις">Λύσιος</name></persName></persName>
                     <lb n="12"/><persName type="attested"><name nymRef="Φρονίμα">Φρονίμα</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Φιλόξενος">Φιλοξένω</name></persName></persName>
                     <lb n="13"/><persName type="attested"><name nymRef="Εἰρήνα">Εἰρήνα</name> <persName type="attested"><name nymRef="Τελεσίστρατος">Τελεσιστράτω</name></persName></persName>
-                    <lb n="14"/><persName type="attested"><name nymRef="Βερνίκα">Βερνίκα</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Φιλίννας">Φιλίννα</name></persName></persName>
+                    <lb n="14"/><persName type="attested" key="lgpn:V1-63407"><name nymRef="Βερνίκα">Βερνίκα</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Φιλίννας">Φιλίννα</name></persName></persName>
                     <lb n="15"/><persName type="attested"><name nymRef="Καλλιβώλα"><supplied reason="lost">Κ</supplied>αλ<unclear>λ</unclear>ιβώλ<unclear>α</unclear></name> 
                     <persName type="attested"><name nymRef="Κλέαρχος">Κ<unclear>λ</unclear>ε<unclear>ά</unclear>ρχω</name></persName></persName>
                     <lb n="16"/><persName type="attested"><name nymRef="Μνάστα">Μνάστα</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Φιλύτας">Φιλύ<supplied reason="lost">τ</supplied>α</name></persName></persName>

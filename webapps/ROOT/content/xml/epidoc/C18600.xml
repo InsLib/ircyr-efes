@@ -145,7 +145,7 @@
                    <name nymRef="Μαρκελλιανός">Μαρ<lb n="5" break="no"/>κελλιανὸς</name></persName> <w>ἀνθυ<lb n="6" break="no"/>πατος</w>
                <w lemma="ἀφιερόω">ἀφιέρωσεν</w>
                     <lb n="7"/><w lemma="διά">διὰ</w> <w>ἱερέος</w>
-               <persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></name>
+               <persName type="attested" key="lgpn:V1-63395"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></name>
                     <name nymRef="Κλαύδιος"><expan><abbr>Κλ</abbr><ex>αυδίου</ex></expan></name>
                     <lb n="8"/><name nymRef="Βάττος">Βάττου</name></persName>
                     <lb n="9"/><w>παραϲτήσαντοϲ</w> <w lemma="λίτρα"><expan><abbr>λ</abbr><ex>ίτρας</ex></expan></w> 
@@ -217,9 +217,9 @@
                     <lb n="32"/><persName type="attested"><name nymRef="Σηστία">Ϲηϲτία</name> <name nymRef="Φαυστίλλα">Φαυϲτίλλα</name></persName> 
                     <space quantity="3" unit="character"/><w><expan><abbr>ὀ<supplied reason="lost">γ</supplied></abbr><ex>κίας</ex></expan></w> 
             <num value="5"><unclear>ε</unclear></num> 
-                    <lb n="33"/><persName type="attested"><name nymRef="Βελυδρία">Βελυδρία</name></persName><space quantity="10" unit="character"/>
+                    <lb n="33"/><persName type="attested" key="lgpn:V1-63401"><name nymRef="Βελυδρία">Βελυδρία</name></persName><space quantity="10" unit="character"/>
                <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="10"><unclear>ι</unclear></num> 
-                    <lb n="34"/><persName type="attested"><name nymRef="Βάττος">Βάττοϲ</name></persName>
+                    <lb n="34"/><persName type="attested" key="lgpn:V1-63395"><name nymRef="Βάττος">Βάττοϲ</name></persName>
                <w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="ὁ">τῆϲ</w> <w lemma="πόλις">πόλεωϲ</w> <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w>
                     <num value="6"><unclear>ς</unclear></num>
                     <lb n="35"/><persName type="attested" key="lgpn:V1-62504"><name nymRef="Ἅβρολλα">Ἅβρο<unclear>λλ</unclear>α</name></persName>
