@@ -235,7 +235,7 @@
                     <lb n="33"/><gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name nymRef="Ἰούλιος"><supplied reason="lost">Ἰο</supplied>ύλιος</name> 
                     <name nymRef="Λιβερᾶλις">Λιβερᾶλις</name></persName><!-- check -->
                     <space quantity="5" unit="character"/> 
-                    <persName type="attested" key="lgpn:V1-63426"><name nymRef="Γάϊς">Γάϊς<</name>
+                    <persName type="attested" key="lgpn:V1-63426"><name nymRef="Γάϊς">Γάϊς</name>
                         <persName type="attested"><name nymRef="Μέμμιος">Μεμμίω</name></persName></persName> 
                     <lb n="34"/><persName type="attested"><gap reason="lost" quantity="4" unit="character"/><name><seg part="F">ος</seg></name>
                         <name nymRef="Βλαίσιος">Βλαίσιος</name> <name nymRef="Νίγερ">Νιγερ</name></persName> 
