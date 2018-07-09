@@ -214,7 +214,7 @@
                             <lb n="38"/> <persName type="attested"><name nymRef="Καλλίμαχος">Καλλίμαχος</name> <persName type="attested" key="lgpn:V1-62757"><name nymRef="Ἄλεξις">Ἀλέξιος</name></persName></persName>
                             <lb n="39"/> <persName type="attested"><name nymRef="Τίμαρχος">Τίμαρχος</name> <persName type="attested" key="lgpn:V1-62757"><name nymRef="Ἄλεξις">Ἀλέξιος</name></persName></persName>
                             <lb n="40"/> <persName type="attested"><name nymRef="Ἰούλιος">Ἰούλιος</name> <persName type="attested"><name nymRef="Ἰησοῦς">Ἰησοῦτος</name></persName></persName>
-                            <lb n="41"/> <persName type="attested"><name nymRef="Δαμόκριτος">Δαμόκριτος</name> <persName type="attested"><name nymRef="Σωγένης">Σωγένευς</name></persName></persName>
+                            <lb n="41"/> <persName type="attested" key="lgpn:V1-63481"><name nymRef="Δαμόκριτος">Δαμόκριτος</name> <persName type="attested"><name nymRef="Σωγένης">Σωγένευς</name></persName></persName>
                             <lb n="42"/> <persName type="attested"><name nymRef="Φιλοκλῆς">Φιλοκλῆς</name> <persName type="attested"><name nymRef="Λυσανίας">Λυσανία</name></persName></persName>
                             <lb n="43"/> <persName type="attested"><name nymRef="Διονύσιος">Διονύσιος</name> <persName type="attested"><name nymRef="Φιλοκλῆς">Φ<supplied reason="lost">ι</supplied>λοκλεῦς</name></persName></persName>
                             <lb n="44"/> <persName type="attested"><name nymRef="Δημήτριος"><unclear>Δημήτρι</unclear>ο<supplied reason="lost">ς</supplied></name> 

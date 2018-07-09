@@ -129,6 +129,18 @@
                     <num value="16">ιϛ</num> </date>
             </ab>
          </div>
+         
+         <div type="apparatus">
+            <head>Apparatus</head>
+            <listApp>
+               <app loc="1-2">
+                  <lem>
+                  <rdg resp="#oliverioDAI">Δαμορόδα</rdg><note>, whence LGPN VI-6384</note>
+               </app>
+               
+            </listApp>
+         </div>
+         
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div type="translation" xml:lang="it" source="#oliverioDAI"><p>Damoroda, di anni 16</p></div>
             <div  type="translation" source="#gl-jmr1983" xml:lang="de"><p>Damo des Rhodas, 16 (Jahre)</p></div>
