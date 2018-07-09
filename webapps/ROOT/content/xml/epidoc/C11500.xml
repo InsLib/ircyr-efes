@@ -39,7 +39,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Second century; lines3,4,6 <height>0.02</height>; lines 5, 7-14, <height>0.015</height>; lines13-45, <height>0.007</height>; lines 51-52; <height>0.02</height>; line  53, <height>0.035</height>.</handNote>
+                     <handNote>Second century; lines 3,4,6 <height>0.02</height>; lines 5, 7-14, <height>0.015</height>; lines 13-45, <height>0.007</height>; lines 51-52; <height>0.02</height>; line  53, <height>0.035</height>.</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -122,15 +122,15 @@
             </bibl>, whence  
                 <bibl><ptr target="robertBE"/> <citedRange>1962.363</citedRange></bibl>, 
                 and a revised version by J. M. Reynolds, <bibl n="seg">
-                    <title>SEG</title> <citedRange>20.742</citedRange></bibl>
+                    <title>SEG</title> <citedRange>20.742</citedRange></bibl><!-- check SEG.JMR text, create apparatus, note LGPN VI-63531 -->
                 </p>
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
              <ab> <lb n="1"/><supplied reason="lost"><space quantity="7" unit="character"/><persName type="divine" nymRef="Τύχη" key="tyche"><name nymRef="Τύχη">Τύχα</name>
                         <w>ἀγαθὰ</w></persName><space quantity="7" unit="character"/></supplied> 
-                    <lb n="2"/><supplied reason="lost" cert="low"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <w>τῶ</w></supplied> <w lemma="καί"><supplied reason="lost">κ</supplied>αὶ</w> <num value="1"><unclear>α</unclear></num> 
+                    <lb n="2"/><supplied reason="lost" cert="low"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied>
+                        <gap extent="unknown" unit="character" reason="lost"/><supplied reason="lost" cert="low"><w>τῶ</w></supplied> <w lemma="καί"><supplied reason="lost">κ</supplied>αὶ</w> <num value="1"><unclear>α</unclear></num> 
                     <persName type="emperor" key="marcusaurelius"><w lemma="αὐτοκράτωρ"><supplied reason="lost">Αὐτοκρατόρων</supplied> </w>
                     <lb n="3"/><name nymRef="Καῖσαρ"><supplied reason="lost">Καῖσαρ</supplied>ων</name> 
                         <name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκω</ex></expan></name> 
@@ -141,8 +141,8 @@
                     <lb n="5"/><w lemma="ἐπί"><supplied reason="lost">ἐ</supplied><unclear>π</unclear>ὶ</w> <w>ἱαρέος</w> <w>τῶ</w>
                     <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName> 
                     <persName type="attested"><name nymRef="Πόπλιος"><expan><abbr>Π</abbr><ex>οπλίω</ex></expan></name> 
-                    <lb n="6"/><name nymRef="Ἀγχαρῆνος"><supplied reason="lost">Ἀ</supplied>γχαρήνω</name><!-- check -->
-                    <name nymRef="Σέκονδος">Σεκονδω</name></persName> <w>ἐφηβαρχος</w> 
+                    <lb n="6"/><name nymRef="Ἀχαρῆνος"><supplied reason="lost">Ἀ</supplied>χαρήνω</name><!-- check -->
+                    <name nymRef="Σέκονδος">Σεκόνδω</name></persName> <w>ἐφηβαρχος</w> 
                     <lb n="7"/><w><supplied reason="lost">τ</supplied><unclear>ρ</unclear>ιακατιάρχας</w> 
                     <persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>άιος</ex></expan></name>
                         <name nymRef="Βαλέριος">Βαλέριος</name> 
@@ -157,7 +157,7 @@
                     <lb n="12" break="no"/><supplied reason="lost">τρό</supplied>δωρος</name></persName> <w>ἀκαδήμαρχος</w>
                     <persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>άιος</ex></expan></name> 
                     <lb n="13"/><name nymRef="Φλάβιος"><supplied reason="lost">Φλ</supplied>άβιος</name> <name nymRef="Φλαβιανός">Φλαβιανός</name></persName> <g ref="symbols.xml#leaf"/> <lb n="13"/><space quantity="7" unit="character"/><w>Ἔφηβοι</w><space quantity="7" unit="character"/> 
-                    <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/><!-- check allignment -->
+                    <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/><!-- check alignment -->
                  <persName type="attested"><name nymRef="Φιλήμων">Φιλήμων</name></persName> 
                     <space quantity="5" unit="character"/> <persName type="attested" key="lgpn:V1-62967"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> 
                     <name nymRef="Οὐαλέριος">Οὐαλέριος</name> <name nymRef="Ἀπολινάρις">Ἀπολινάρις</name></persName>  
@@ -249,7 +249,7 @@
                         <persName type="attested"><name nymRef="Φρόντων">Φρόντωνος</name></persName></persName> 
                     <lb n="37"/><gap reason="lost" quantity="1" unit="character"/> <persName type="attested" key="lgpn:V1-62791"><name nymRef="Οὔλπιος"><supplied reason="lost">Ο</supplied>ὔλπιος</name>
                     <name nymRef="Ἀμμώνιος">Ἀμμώνιος</name></persName> <space quantity="5" unit="character"/> 
-                    <persName type="attested"><name nymRef="Ἐπίκουρος">Ἐπίκουρος</name> <persName type="attested"><name nymRef="Δημήτριος">Δημητρίω</name></persName></persName> 
+                    <persName type="attested"><name nymRef="Ἐπίκουρος">Ἐπίκουρος</name> <persName type="attested" key="lgpn:V1-63532"><name nymRef="Δημήτριος">Δημητρίω</name></persName></persName> 
                     <lb n="38"/><persName type="attested"><name nymRef="Κλαύδιος">Κλαύδιος</name> <name nymRef="Βορρίων">Βορρίων</name><!-- check --></persName> 
                     <space quantity="5" unit="character"/> <persName type="attested"><name nymRef="Λόγγος">Λόγγος</name>
                         <persName type="attested"><name nymRef="Λόγγος">Λογγου</name></persName></persName> 
