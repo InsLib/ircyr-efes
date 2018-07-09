@@ -155,7 +155,7 @@
                     </ab></div><div subtype="column" n="3" type="textpart"><ab>
                         
                         <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                        <lb n="1"/><persName type="attested" key="lgpn:V1-63956"><name nymRef="Φιλίσκος">Φίλ<unclear>ι</unclear>σκον</name> <persName type="attested"><name nymRef="Δαχις">Δ<unclear>ά</unclear>χιος</name></persName></persName>
+                        <lb n="1"/><persName type="attested" key="lgpn:V1-63956"><name nymRef="Φιλίσκος">Φίλ<unclear>ι</unclear>σκον</name> <persName type="attested" key="lgpn:V1-63508"><name nymRef="Δαχις">Δ<unclear>ά</unclear>χιος</name></persName></persName>
                         <lb n="2"/><persName type="attested"><name nymRef="Φιλόξενος">Φιλόξενον</name> <persName type="attested" key="lgpn:V1-62704"><name nymRef="Ἀλέξανδρος">Ἀλεξάνδρω</name></persName></persName>
                         <lb n="3"/><persName type="attested"><name nymRef="Φιλόδαμος">Φιλόδαμον</name> <persName type="attested"><name nymRef="Φιλόδαμος">Φιλοδάμω</name></persName></persName>
                         <lb n="4"/><persName type="attested"><name nymRef="Φίλων">Φίλωνα</name> <persName type="attested" key="lgpn:V1-63230"><name nymRef="Ἀριστώνυμος">Ἀριστωνύμω</name></persName></persName>

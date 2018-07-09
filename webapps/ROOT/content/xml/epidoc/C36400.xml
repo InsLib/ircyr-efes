@@ -121,7 +121,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">ου</w> <w>καὶ</w> <persName type="attested"><name nymRef="Δέκμος">Δέκμος</name> <persName type="attested"><name nymRef="Σα-"><seg part="I">Σα</seg></name></persName></persName>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">ου</w> <w>καὶ</w> <persName type="attested" key="lgpn:V1-63515"><name nymRef="Δέκμος">Δέκμος</name> <persName type="attested"><name nymRef="Σα-"><seg part="I">Σα</seg></name></persName></persName>
    <lb n="2" break="no"/><gap reason="lost" extent="unknown" unit="character"/><w><unclear>τ</unclear>οῦ</w> 
                     <persName type="attested"><name nymRef="Σώσανδρος">Σωσ<unclear>άν</unclear>δρου</name></persName>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">ου</w>
