@@ -146,7 +146,7 @@
                     <lb n="8"/><persName type="attested"><name nymRef="Νείκιππα">Νείκιππα</name> <persName type="attested" key="lgpn:V1-63069"><name nymRef="Ἀρίσταρχος">Ἀριστάρχ<unclear>ω</unclear></name></persName> </persName>
                     <lb n="9"/><persName type="attested" key="lgpn:V1-65211"><name nymRef="Ὀλυμπιάς">Ὀλυνπιὰς</name> <persName type="attested"><name nymRef="Κλέαρχος">Κλεάρχω</name></persName> </persName>
                     <lb n="10"/><persName type="attested"><name nymRef="Ζευξώ">Ζευξὼ</name> <persName type="attested"><name nymRef="Θεύχρηστος">Θευχρήστω</name></persName></persName>
-                    <lb n="11"/><persName type="attested"><name nymRef="Καλλιβώλα">Καλλιβώλα</name> <persName type="attested"><name nymRef="Δαμοφάνης"><unclear>Δα</unclear>μοφάνευς</name></persName></persName> 
+                    <lb n="11"/><persName type="attested"><name nymRef="Καλλιβώλα">Καλλιβώλα</name> <persName type="attested" key="lgpn:V1-63489"><name nymRef="Δαμοφάνης"><unclear>Δα</unclear>μοφάνευς</name></persName></persName> 
                     <lb n="12"/><persName type="attested"><name nymRef="Ἐπαγώ">Ἐπαγὼ</name> <persName type="attested"><name nymRef="Ἰσοκράτης">Ἰσοκράτους</name></persName></persName>
                     <lb n="13"/><persName type="attested"><name nymRef="Κυδιμάχα">Κυδιμάχα</name> <persName type="attested"><name nymRef="Κλέαρχος">Κλεάρχω</name></persName> </persName>
                     <lb n="14"/><persName type="attested"><name nymRef="Εὐρυκλήτα">Εὐρυκλήτα</name> <persName type="attested" key="lgpn:V1-62644"><name nymRef="Αἰγλάνωρ">Αἰγλάνορος</name></persName></persName>
