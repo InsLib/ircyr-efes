@@ -121,7 +121,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><space quantity="1" unit="character"/>  
-                    <w lemma="ἔτος">ἔτου<supplied reason="lost">ς</supplied></w> <num value="6">ζ</num> 
+                    <w lemma="ἔτος">ἔτου<supplied reason="lost">ς</supplied></w> <num value="7">ζ</num> 
                             <lb n="2"/><rs type="month" key="Φαωφί"><w lemma="Φαωφί">Φαωφὶ</w></rs> <num value="29"><unclear>θκ</unclear></num>
                     <persName type="attested"><name nymRef="Ἐπάγαθος">Ἐ<lb n="3" break="no"/>πάγα<unclear>θ</unclear>ος</name></persName> 
                     <w>ἐ<lb n="4" break="no"/>ποίησεν</w> 
@@ -131,7 +131,7 @@
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 6, Phaophi 29: Epagathos made a tomb for himself and his children</p></div>
+            <p>Year 7, Phaophi 29: Epagathos made a tomb for himself and his children</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>Lines 4-5 were elided in the publication</p><p/>

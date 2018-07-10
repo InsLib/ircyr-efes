@@ -126,7 +126,7 @@
                     <lb n="6"/><persName type="attested" key="lgpn:V1-62228"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name></persName></persName> 
                     <lb n="7"/><date type="life-span" dur="P18Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="18">ιη</num> </date>
                      <lb n="7a"/><space unit="line" extent="2"></space>
-                    <lb n="8"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="16">ιϝ</num> <w>ἐπὶ</w> <persName type="attested"><name nymRef="Νικόστρατος">Νεικοστράτου</name></persName> 
+                    <lb n="8"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="16">ις</num> <w>ἐπὶ</w> <persName type="attested"><name nymRef="Νικόστρατος">Νεικοστράτου</name></persName> 
                     <lb n="9"/><persName type="attested" key="lgpn:V1-62203"><name nymRef="Βρισηΐς">Βρεισηὶς</name> <persName type="attested" key="lgpn:V1-62219"><name nymRef="Εὐάγγελος">Εὐανγέ<lb n="10" break="no"/>λου</name></persName></persName> 
                      <date type="life-span" dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="45">με</num> </date>
                 </ab>

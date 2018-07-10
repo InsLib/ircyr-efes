@@ -295,7 +295,7 @@
                       <lb n="20"/> <persName type="attested"><name nymRef="Σώδαμος"><unclear>Σ</unclear>ώδαμος</name>
                       <lb n="21"/> <persName type="attested"><name nymRef="Εὐκλείδας">Εὐκ<unclear>λ</unclear>έι<supplied reason="lost">δα</supplied></name></persName></persName>
                       <lb n="22"/> <w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                      <num value="54">εν</num> <space quantity="12" unit="character"/><persName type="attested"><name nymRef="Πρωτόμαχος"><expan><abbr>Πρωτόμ</abbr><ex>αχος</ex></expan></name></persName>
+                      <num value="55">εν</num> <space quantity="12" unit="character"/><persName type="attested"><name nymRef="Πρωτόμαχος"><expan><abbr>Πρωτόμ</abbr><ex>αχος</ex></expan></name></persName>
                       <lb n="23"/><w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                       <num value="54">νε</num><space quantity="12" unit="character"/><persName type="attested"><name nymRef="Φιλῖνος">Φιλῖνος</name>
                           <persName type="attested" key="lgpn:V1-62997"><name nymRef="Ἀπολλώνιος">Ἀ<lb n="24" break="no"/>πολλωνίω</name></persName></persName> 

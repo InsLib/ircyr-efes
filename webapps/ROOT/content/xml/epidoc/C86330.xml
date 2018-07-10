@@ -116,12 +116,12 @@
                     <lb n="0"/> <gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἔτους</ex></expan></w> <num value="152">ρβν</num>
                     <lb n="2"/><w>θΟΝΡΒ</w>
-                    <lb n="3"/><space extent="unknown" unit="character"/><date type="life-span" dur="P50Y"><w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="55">εο</num> </date>
+                    <lb n="3"/><space extent="unknown" unit="character"/><date type="life-span" dur="P50Y"><w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="75">εο</num> </date>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>?Year 152. ?THONRB ?aged 85 (Trans: Reynolds)</p></div>
+            <p>?Year 152. ?THONRB ?aged 75 (Trans: Reynolds)</p></div>
          <div type="commentary">
             <head><note> If line 1 is a date, it should be 152 of the Actian era, so 121 C.E. The final line  (3) looks very like an age at death.
                Line 2, however, makes no sense, and might possibly indicate the use of the Greek alphabet for a non-Greek language.</note></head>

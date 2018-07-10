@@ -126,15 +126,15 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="6">ς</num> <rs type="month" key="Μεσορή"><w>Μεσο<lb n="2" break="no"/>ρὴ</w></rs> <num value="4">δ</num> <persName type="attested"><name nymRef="Ἀνδροσθένης">Ἀνδρ<lb n="3" break="no"/>οσθένης</name> 
                     <lb n="4"/><persName type="attested"><name nymRef="Λῦσις">Λύσιος</name></persName></persName> <date type="life-span" dur="P68Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
-                    <num value="68">ζη</num> </date>
+                    <num value="68">ξη</num> </date>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 6, Pharmouthi 11, Androsthenes <supplied reason="subaudible">son</supplied> of Lysis, aged 60.</p></div>
+            <p>Year 6, Mesore 4, Androsthenes <supplied reason="subaudible">son</supplied> of Lysis, aged 68.</p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>L2: Year 6, Mesore 4. L4: Aged 68.</p>
+            <p>L2: . L4: Aged 68.</p>
          </div>
          
       </body>

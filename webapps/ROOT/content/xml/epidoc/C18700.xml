@@ -138,7 +138,7 @@
                     <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="110">ρι</num> <g ref="symbols.xml#stop"/> <persName type="attested"><name nymRef="Εὐφράνωρ">Εὐφράνωρ</name> <g ref="symbols.xml#stop"/> <persName type="attested" key="lgpn:V1-62940"><name nymRef="Ἀντίπατρος">Ἀντιπάτρω</name></persName></persName>
                     <lb n="3"/><space quantity="1" unit="character"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-            <num value="200">σ</num>, <num value="6">θ</num> <persName type="emperor" key="marcusaurelius"><name nymRef="Ἀντωνῖνος">Ἀντωνείνου</name> <w lemma="ὁ">τοῦ</w> <w lemma="κύριος">κυρίου</w></persName>
+            <num value="200">σ</num>, <num value="9">θ</num> <persName type="emperor" key="marcusaurelius"><name nymRef="Ἀντωνῖνος">Ἀντωνείνου</name> <w lemma="ὁ">τοῦ</w> <w lemma="κύριος">κυρίου</w></persName>
                     <lb n="4"/><space quantity="3" unit="character"/><persName type="attested" key="lgpn:V1-62751"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>άϊοϲ</ex></expan></name> <name nymRef="Κοράνιος">Κοράνιοϲ</name> <name nymRef="Ἄλεξις">Ἄλεξιϲ</name> <surplus>Ι</surplus>
                     
                     <name  nymRef="Αἰλιανός">Αἰλιανός</name>
