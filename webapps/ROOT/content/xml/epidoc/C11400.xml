@@ -182,8 +182,8 @@
                             <lb n="6"/> <persName type="attested"><name nymRef="Ἴασις">Ἴασις</name> <persName type="attested"><name nymRef="Ἐτέαρχος">Ἐτεάρχω</name></persName></persName>
                             <lb n="7"/> <persName type="attested" key="lgpn:V1-65584"><name nymRef="Σεραπίων">Σεραπίων</name> <persName type="attested"><name nymRef="Κλέαρχος">Κλεάρχω</name></persName></persName>
                             <lb n="8"/> <persName type="attested"><name nymRef="Θεύχρηστος">Θεύχρηστος</name> <persName type="attested"><name nymRef="Ἠρίλοχος">Ἠριλόχω</name></persName></persName>
-                            <lb n="9"/> <persName type="attested" key="lgpn:V1-62561"><name nymRef="Ἁγησαρχος">Ἁγησαρχος</name> <persName type="attested"><name nymRef="Διοκλῆς">Διοκλεῦς</name></persName></persName> 
-                            <lb n="10"/> <persName type="attested" key="lgpn:V1-63176"><name nymRef="Ἀριστοτέλης">Ἀριστοτέλης</name> <persName type="attested"><name nymRef="Διοκλῆς">Διοκλεῦς</name></persName></persName> 
+                            <lb n="9"/> <persName type="attested" key="lgpn:V1-62561"><name nymRef="Ἁγησαρχος">Ἁγησαρχος</name> <persName type="attested" key="lgpn:V1-63573"><name nymRef="Διοκλῆς">Διοκλεῦς</name></persName></persName> 
+                            <lb n="10"/> <persName type="attested" key="lgpn:V1-63176"><name nymRef="Ἀριστοτέλης">Ἀριστοτέλης</name> <persName type="attested" key="lgpn:V1-63573"><name nymRef="Διοκλῆς">Διοκλεῦς</name></persName></persName> 
                             <lb n="11"/> <persName type="attested"><name nymRef="Σαραπίων">Σαραπίων</name> <persName type="attested"><name nymRef="Σαραπίων">Σαραπίωνος</name></persName></persName>
                             <lb n="12"/> <persName type="attested" key="lgpn:V1-62828"><name nymRef="Ἀμφιμήδης">Ἀμφιμήδης</name> <persName type="attested" key="lgpn:V1-63386"><name nymRef="Βάρκιος">Βαρκίω</name></persName></persName>
                             <lb n="13"/> <persName type="attested"><name nymRef="Λέων">Λέων</name> <persName type="attested"><name nymRef="Λέων">Λεόντος</name></persName></persName>
@@ -217,7 +217,7 @@
                             <lb n="41"/> <persName type="attested" key="lgpn:V1-63481"><name nymRef="Δαμόκριτος">Δαμόκριτος</name> <persName type="attested"><name nymRef="Σωγένης">Σωγένευς</name></persName></persName>
                             <lb n="42"/> <persName type="attested"><name nymRef="Φιλοκλῆς">Φιλοκλῆς</name> <persName type="attested"><name nymRef="Λυσανίας">Λυσανία</name></persName></persName>
                             <lb n="43"/> <persName type="attested"><name nymRef="Διονύσιος">Διονύσιος</name> <persName type="attested"><name nymRef="Φιλοκλῆς">Φ<supplied reason="lost">ι</supplied>λοκλεῦς</name></persName></persName>
-                            <lb n="44"/> <persName type="attested"><name nymRef="Δημήτριος"><unclear>Δημήτρι</unclear>ο<supplied reason="lost">ς</supplied></name> 
+                            <lb n="44"/> <persName type="attested" key="lgpn:V1-63546"><name nymRef="Δημήτριος"><unclear>Δημήτρι</unclear>ο<supplied reason="lost">ς</supplied></name> 
                             <persName type="attested" key="lgpn:V1-62542"><name nymRef="Ἀγέμαχος"><supplied reason="lost">Ἀ</supplied>γ<unclear>ε</unclear>μάχω</name></persName></persName>
                         </ab>
                </div>
@@ -319,7 +319,7 @@
                       <num value="79"><unclear>ξ</unclear>θ</num> <persName type="attested" key="lgpn:V1-65585"><name nymRef="Σεραπίων">Σεραπί<lb n="38" break="no"/>πίων</name></persName>
                       <lb n="39"/> <w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                       <num value="54">νε</num> <persName type="attested"><name nymRef="Λύκος">Λύκος</name>
-                      <lb n="40"/> <persName type="attested"><name nymRef="Δημήτριος">Δημητρίο<supplied reason="omitted">υ</supplied></name></persName></persName>
+                      <lb n="40"/> <persName type="attested" key="lgpn:V1-63543"><name nymRef="Δημήτριος">Δημητρίο<supplied reason="omitted">υ</supplied></name></persName></persName>
                          <lb n="41"/><orig>μα</orig>
                          <lb n="42"/> <persName type="attested"><name nymRef="Λεωνίδας">Λε<unclear>ω</unclear>νίδα</name></persName>                 
                         </ab></div></div><div subtype="column" n="b" type="textpart"><ab>
@@ -381,7 +381,7 @@
                      <persName type="attested"><name nymRef="Ὡρίων">Ὡρίωνος</name></persName>
                   </persName>
                             <lb n="20"/> 
-                  <persName type="attested">
+                  <persName type="attested" key="lgpn:V1-63575">
                      <name nymRef="Διοκλῆς">Διοκλῆς</name> 
                      <persName type="attested"><name nymRef="Διόφαντος">Διοφάντω</name></persName>
                   </persName>
@@ -424,7 +424,7 @@
                   <space quantity="3" unit="character"/>
                   <orig>ι</orig> 
                   <space quantity="3" unit="character"/>
-                  <persName type="attested"><name nymRef="Διοκλῆς">Διοκλῆς</name></persName>
+                  <persName type="attested" key="lgpn:V1-63574"><name nymRef="Διοκλῆς">Διοκλῆς</name></persName>
                             <lb n="31"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                             <num value="55">νε</num> 
                   <persName type="attested">

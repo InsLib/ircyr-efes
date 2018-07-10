@@ -139,7 +139,7 @@
                     <lb n="5"/><persName type="attested" key="lgpn:V1-62969"><name nymRef="Ἀπολλόδωρος">Ἀπολλόδωρος</name> <space quantity="1" unit="character"/> <persName
                         type="attested" key="lgpn:V1-62985"><name type="patronymic" nymRef="Ἀπολλωνίδης">Ἀπολλωνίδα</name></persName></persName>
                     
-                    <lb n="6"/><persName type="attested"><name nymRef="Διόδωρος">Διόδωρος</name> <space quantity="1" unit="character"/> <persName
+                    <lb n="6"/><persName type="attested" key="lgpn:V1-63565"><name nymRef="Διόδωρος">Διόδωρος</name> <space quantity="1" unit="character"/> <persName
                         type="attested" key="lgpn:V1-62979"><name type="patronymic" nymRef="Ἀπολλοφάνης">Ἀπολλοφάνευς</name></persName></persName>
                     
                     <lb n="7"/><persName type="attested" key="lgpn:V1-63075"><name nymRef="Ἀριστέας">Ἀριστέας</name> <space quantity="1" unit="character"/> <persName

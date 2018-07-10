@@ -159,7 +159,7 @@
                     <div type="textpart" subtype="graphito" n="IV">
                       <ab>
                          <lb n="1"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-            <num value="30">λ</num> <space quantity="22" unit="character"/><persName type="attested" key="lgpn:V1-63535"><name nymRef="Δημήτριος">Δημήτριος</name></persName> 
+            <num value="30">λ</num> <space quantity="22" unit="character"/> <persName type="attested" key="lgpn:V1-63535"><name nymRef="Δημήτριος">Δημήτριος</name></persName> 
                       </ab>
                     </div>
             
