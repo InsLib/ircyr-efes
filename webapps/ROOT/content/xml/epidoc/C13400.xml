@@ -44,7 +44,7 @@
                <history>
                   <origin>
                      <origPlace>Findspot</origPlace>
-                     <origDate notAfter="-0010" notBefore="-0012" cert="low" precision="low" evidence="titulature">12-10 B.C. </origDate>
+                     <origDate notAfter="-0010" notBefore="-0012" cert="low" precision="low" evidence="titulature">12-10 B.C.E. </origDate>
                   </origin>
                   <provenance type="found">
                            <p>
@@ -154,7 +154,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>line 1 In or after 12 B.C. The selection of this one title here and in the contemporary <ref type="inscription">C26400</ref>, line 1. might suggest that it  was recently conferred when they were cut. </p>
+            <p>line 1 In or after 12 B.C.E. The selection of this one title here and in the contemporary <ref type="inscription">C26400</ref>, line 1. might suggest that it  was recently conferred when they were cut. </p>
             <p> line 2 Q(uintus) Lucanius Proculus: De Laet, 230; also in <ref type="inscription">C26400</ref>, line 2, but not otherwise known. </p>
             <p> line 3 Oliverio proposed to connect the work with the Marmaric War ending in 3 C.E., see <ref type="inscription">C27400</ref>, line 1; Romanelli, more cautiously, relates it to the Marmaric danger in general.</p>
          </div>

@@ -41,13 +41,13 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>, perhaps first century B.C.: <height atLeast="0.021" atMost="0.022">0.021 - 0.022</height>.</handNote><handNote/>
+                     <handNote>, perhaps first century B.C.E.: <height atLeast="0.021" atMost="0.022">0.021 - 0.022</height>.</handNote><handNote/>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace>Findspot.</origPlace>
-                     <origDate evidence="lettering" notAfter="-0001" notBefore="-0100" precision="low">Probably first century B.C.</origDate>
+                     <origDate evidence="lettering" notAfter="-0001" notBefore="-0100" precision="low">Probably first century B.C.E.</origDate>
                   </origin>
                   
                      

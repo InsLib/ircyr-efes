@@ -40,13 +40,13 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Dated by Ferri not later than second century B.C.</handNote>
+                     <handNote>Dated by Ferri not later than second century B.C.E.</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace>Unknown</origPlace>
-                     <origDate notAfter="-0101" notBefore="-0001" precision="low" evidence="lettering">Dated by Ferri not later than second century B.C.</origDate>
+                     <origDate notAfter="-0101" notBefore="-0001" precision="low" evidence="lettering">Dated by Ferri not later than second century B.C.E.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
                      <placeName type="monuList" ref="http://www.slsgazetteer.org/1238">Bu Darag</placeName>, in Wadi Bu Nabeh. Recorded by Ferri, but not seen by us.</p>

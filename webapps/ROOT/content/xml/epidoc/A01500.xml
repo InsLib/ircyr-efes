@@ -40,13 +40,13 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote><height unit="metre">0.01</height>; first century B.C.</handNote>
+                     <handNote><height unit="metre">0.01</height>; first century B.C.E.</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace>Unknown.</origPlace>
-                     <origDate notBefore="-0100" notAfter="-0001"  precision="low" evidence="lettering">First century B.C.</origDate>
+                     <origDate notBefore="-0100" notAfter="-0001"  precision="low" evidence="lettering">First century B.C.E.</origDate>
                   </origin>
                   
                      
@@ -156,7 +156,7 @@
          <div type="commentary">
             <head>Commentary</head>
             <p>Almost certainly Cn. Cornelius Lentulus Marcellinus, Pompey's <foreign xml:lang="la">legatus pro praetore</foreign>
-                    in the Libyan Sea in 67 B.C., see PW IV, col. 1389 nos. 228, 229, MRRP II, p.
+                    in the Libyan Sea in 67 B.C.E., see PW IV, col. 1389 nos. 228, 229, MRRP II, p.
                     148; also in five other Cyrenaican inscriptions discussed with this one by
                     Reynolds in JRS 52, four of them from Cyrene
                     (<ref type="inscription">C11600</ref>, <ref type="inscription">C21300</ref>, 
@@ -165,8 +165,8 @@
             <p>The decree was apparently concerned with a dispute between Cyrene and Apollonia,
                     by now an independent city, whose occurrence is one indication of the public
                     insecurity in Cyrenaica during the period between the death of the last king
-                    Ptolemy in 96 B.C. and the imposition of formal Roman control which was ordered
-                    in 74 B.C. but probably not effectively organised until 67 (see Badian, <title level="j">JRS</title> 55<!--link to http://www.jstor.org/stable/297434-->).
+                    Ptolemy in 96 B.C.E. and the imposition of formal Roman control which was ordered
+                    in 74 B.C.E. but probably not effectively organised until 67 (see Badian, <title level="j">JRS</title> 55<!--link to http://www.jstor.org/stable/297434-->).
                     Pompey's interest in the establishment of peace here in the context of his
                     activities against piracy in this area of the Mediterranean is easily
                     understood. For piratical activities along the Libyan coast see J.M.

@@ -41,13 +41,13 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>First century B.C.: ave. <height atLeast="0.02" atMost="0.025">0.02-0.025</height>.</handNote>
+                     <handNote>First century B.C.E.: ave. <height atLeast="0.02" atMost="0.025">0.02-0.025</height>.</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace>Unknown.</origPlace>
-                     <origDate notBefore="-0100" notAfter="0001" evidence="lettering">First century B.C.</origDate>
+                     <origDate notBefore="-0100" notAfter="0001" evidence="lettering">First century B.C.E.</origDate>
                   </origin>
                   
                      
@@ -175,14 +175,14 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>Franz ap. CIG proposed to date between 96 B.C. and the provincialisation of 
+            <p>Franz ap. CIG proposed to date between 96 B.C.E. and the provincialisation of 
                     Cyrene; it seems unlikely that the description of Romans as common
-                    benefactors referred to the suppression of the pirates in 67 B.C., but it seems to 
+                    benefactors referred to the suppression of the pirates in 67 B.C.E., but it seems to 
                     occur earlier elsewhere, see IG XII, Supplement, 692, lines13-14. Another Cyrenean
                     honoured locally (but probably not by the city) for his favourable attitude to 
                     Rome appears in <ref type="inscription">C42900</ref>.</p>
             <!--  <p> cf. also (fr.LR) ath. Mith 72 (1925) 243, no. 65 line 20, 
-                        second quarter of the second cent. B.C. (only?) It's hard to envisage Cyrenaean
+                        second quarter of the second cent. B.C.E. (only?) It's hard to envisage Cyrenaean
                         passing this sort of decree during Ptolemy's reign. </p>-->
          </div>
          

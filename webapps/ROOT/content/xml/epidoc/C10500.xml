@@ -39,13 +39,13 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>First century B.C. - Augustan: <height>0.03</height>.</handNote>
+                     <handNote>First century B.C.E. - Augustan: <height>0.03</height>.</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace>Unknown.</origPlace>
-                     <origDate notAfter="-0008" notBefore="-0008" evidence="titulature">8 B.C.</origDate>
+                     <origDate notAfter="-0008" notBefore="-0008" evidence="titulature">8 B.C.E.</origDate>
                   </origin>
                   
                      
@@ -146,7 +146,7 @@
          <div type="commentary">
             <head>Commentary</head>
             <p/>
-            <p> Augustus in 8 B.C. For Tiberius' victory over the Sygambri see Dio LV.6. Since the acclamation appears to be the only title given the 
+            <p> Augustus in 8 B.C.E. For Tiberius' victory over the Sygambri see Dio LV.6. Since the acclamation appears to be the only title given the 
                monument was perhaps erected to celebrate the victory.</p>
             <p> The dedicators to these gods are likely to have been ephebes.</p>
          </div>

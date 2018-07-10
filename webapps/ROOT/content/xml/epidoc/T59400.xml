@@ -50,7 +50,7 @@
                <history>
                   <origin>
                      <origPlace>Findspot.</origPlace>
-                     <origDate notAfter="-0005" notBefore="-0005" precision="high" evidence="lettering internal-date">February 2, 5 B.C.</origDate>
+                     <origDate notAfter="-0005" notBefore="-0005" precision="high" evidence="lettering internal-date">February 2, 5 B.C.E.</origDate>
                   </origin>
                   
                      
@@ -139,7 +139,7 @@
          
          <div type="translation" xml:space="preserve">
             <head>Translation</head>
-            <div type="translation" source="#jmr1983" xml:lang="en"><p>Year 25 , Mechir 7 <note>February 2, 5 B.C.</note>, Hagemona <supplied reason="subaudible">daughter</supplied> of ?, aged 14.</p></div></div>
+            <div type="translation" source="#jmr1983" xml:lang="en"><p>Year 25 , Mechir 7 <note>February 2, 5 B.C.E.</note>, Hagemona <supplied reason="subaudible">daughter</supplied> of ?, aged 14.</p></div></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>February 1 <!-- check -->; since the hand indicates a first century date, the regnal year must refer to Augustus.</p>

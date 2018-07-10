@@ -47,7 +47,7 @@
                <history>
                   <origin>
                      <origPlace>Findspot.</origPlace>
-                     <origDate notAfter="-0004" notBefore="-0004" evidence="internal-date">January 13, 4 B.C.</origDate>
+                     <origDate notAfter="-0004" notBefore="-0004" evidence="internal-date">January 13, 4 B.C.E.</origDate>
                   </origin>
                   
                      
@@ -131,11 +131,11 @@
                 </ab>
 </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head><p>Year 26, Tybi 18 <note>January 13, 4 B.C.</note>, 
+         <div type="translation" xml:space="preserve"><head>Translation</head><p>Year 26, Tybi 18 <note>January 13, 4 B.C.E.</note>, 
                     Cassius <supplied reason="subaudible">son</supplied> of Cassius, aged 15.</p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>l. 2, year 26 is too high for a regnal year so must be 26 of the Actian era, Tybi 18 = January 13, 5 B.C.</p>
+            <p>l. 2, year 26 is too high for a regnal year so must be 26 of the Actian era, Tybi 18 = January 13, 5 B.C.E.</p>
          </div>
          
       </body>

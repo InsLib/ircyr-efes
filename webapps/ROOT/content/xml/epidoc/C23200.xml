@@ -40,13 +40,13 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>First century B.C. <height>0.025</height>.</handNote>
+                     <handNote>First century B.C.E. <height>0.025</height>.</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace>Unknown.</origPlace> 
-                     <origDate notAfter="0100" notBefore="0001" precision="low" evidence="lettering prosopography">First century B.C.</origDate>
+                     <origDate notAfter="0100" notBefore="0001" precision="low" evidence="lettering prosopography">First century B.C.E.</origDate>
                   </origin>
                   
                      
@@ -145,7 +145,7 @@
          <div type="commentary">
             <head>Commentary</head>
                         <p>The text is identical to <ref type="inscription">C21300</ref>; the same man appears also in <ref type="inscription">C21300</ref>, <ref type="inscription">C42900</ref> and perhaps <ref type="inscription">C11600</ref></p>
-            <p> Marcellinus was Pompey's legate in 67 B.C. (see PW IV, col. 1389, no. 228); see Reynolds, art. cit.</p>
+            <p> Marcellinus was Pompey's legate in 67 B.C.E. (see PW IV, col. 1389, no. 228); see Reynolds, art. cit.</p>
          </div>
          
       </body>

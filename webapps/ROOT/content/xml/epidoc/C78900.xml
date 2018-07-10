@@ -38,13 +38,13 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Perhaps first century B.C.-Augustan: <height>0.04</height>.</handNote>
+                     <handNote>Perhaps first century B.C.E.-Augustan: <height>0.04</height>.</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace>Unknown</origPlace>
-                     <origDate notBefore="-0100" notAfter="0014" precision="low" cert="low" evidence="lettering">Perhaps first century B.C. to Augustan</origDate>
+                     <origDate notBefore="-0100" notAfter="0014" precision="low" cert="low" evidence="lettering">Perhaps first century B.C.E. to Augustan</origDate>
                   </origin>
                   
                      

@@ -48,7 +48,7 @@
                <history>
                   <origin>
                      <origPlace>Findspot.</origPlace>
-                     <origDate notBefore="-0016" notAfter="-0016" precision="high" evidence="internal-date">5 August, 16 B.C.</origDate>
+                     <origDate notBefore="-0016" notAfter="-0016" precision="high" evidence="internal-date">5 August, 16 B.C.E.</origDate>
                   </origin>
                   
                      
@@ -140,7 +140,7 @@
          
          <div type="commentary">
             <head>Commentary</head>
-            <p> Line 2: The date is probably calculated by the Actian era, see on <ref type="inscription">T47000</ref>, i.e. 16/15 B.C. ? 17/16 B.C. making the date August 5, 16 BC.</p>
+            <p> Line 2: The date is probably calculated by the Actian era, see on <ref type="inscription">T47000</ref>, i.e. 16/15 B.C.E. ? 17/16 B.C.E. making the date August 5, 16 BC.</p>
          </div>
          
       </body>

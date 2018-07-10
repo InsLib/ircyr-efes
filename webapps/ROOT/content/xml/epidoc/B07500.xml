@@ -33,13 +33,13 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>?First century B.C.; <height>0.015</height>; lunate epsilon and sigma, cursive omega.</handNote>
+                     <handNote>?First century B.C.E.; <height>0.015</height>; lunate epsilon and sigma, cursive omega.</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace>Findspot.</origPlace>
-                     <origDate notAfter="-0001" notBefore="-0100" precision="low" evidence="grave-goods">First century B.C.</origDate>
+                     <origDate notAfter="-0001" notBefore="-0100" precision="low" evidence="grave-goods">First century B.C.E.</origDate>
                   </origin>
                   
                      

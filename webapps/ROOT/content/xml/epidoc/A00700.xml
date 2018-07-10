@@ -42,13 +42,13 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>First century B.C.- first century C.E.; <height>0.03</height>.</handNote>
+                     <handNote>First century B.C.E.- first century C.E.; <height>0.03</height>.</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace>Unknown.</origPlace>
-                     <origDate notBefore="-0100" notAfter="0100"  precision="low" evidence="lettering">First century B.C. to first century C.E.</origDate>
+                     <origDate notBefore="-0100" notAfter="0100"  precision="low" evidence="lettering">First century B.C.E. to first century C.E.</origDate>
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/373732, http://www.slsgazetteer.org/911"

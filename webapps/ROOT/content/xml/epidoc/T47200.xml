@@ -49,7 +49,7 @@
                <history>
                   <origin>
                      <origPlace>Findspot.</origPlace>
-                     <origDate notBefore="-0007" notAfter="-0007" precision="high" evidence="internal-date">12 August, 7 B.C.</origDate>
+                     <origDate notBefore="-0007" notAfter="-0007" precision="high" evidence="internal-date">12 August, 7 B.C.E.</origDate>
                   </origin>
                   
                      
@@ -153,12 +153,12 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 10, Mesore - . - di Magio -</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 24, Mesore 19 <note>7 B.C. August 12</note>, . . . , aged 15.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p>Year 24, Mesore 19 <note>7 B.C.E. August 12</note>, . . . , aged 15.</p></div>
        </div>
          
          <div type="commentary">
             <head>Commentary</head>
-            <p>Lines 1-2. The date must be by the Actian era, see on <ref type="inscription">T47000</ref> i.e. 7/6 B.C. ? 8/7 B.C.</p>
+            <p>Lines 1-2. The date must be by the Actian era, see on <ref type="inscription">T47000</ref> i.e. 7/6 B.C.E. ? 8/7 B.C.E.</p>
             
          </div>
          

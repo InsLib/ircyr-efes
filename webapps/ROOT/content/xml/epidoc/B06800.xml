@@ -49,7 +49,7 @@
                <history>
                   <origin>
                      <origPlace>Unknown.</origPlace>
-                     <origDate notAfter="-0006" notBefore="-0008" precision="low" evidence="lettering internal-date">8-6 B.C.</origDate>
+                     <origDate notAfter="-0006" notBefore="-0008" precision="low" evidence="lettering internal-date">8-6 B.C.E.</origDate>
                   </origin>
                   
                      
@@ -299,7 +299,7 @@
                   <note>Of the year of the Actian era part of the digit remains, read either as 3 or 5, 
                     with traces of the preceding figure which could be interpreted as <foreign xml:lang="grc">
                         <num value="20">κ</num></foreign> = 20. 
-                    If this is correct, the date is 9/8 or 7/6 B.C., but Roux
+                    If this is correct, the date is 9/8 or 7/6 B.C.E., but Roux
                     regarded it as more prudent to leave it open <foreign xml:lang="fr">'dans les trente années qui ont
                     précedé l'ère chrétienne ou le siècle suivant'</foreign>. Phamenoth 5.</note>
                </app>

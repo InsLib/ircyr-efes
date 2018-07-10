@@ -38,13 +38,13 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Standard forms, perhaps first century B.C.</handNote>
+                     <handNote>Standard forms, perhaps first century B.C.E.</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace>Unknown.</origPlace>
-                     <origDate notBefore="-0100" notAfter="0100" precision="low" evidence="prosopography">First century B.C. to first century C.E.</origDate>
+                     <origDate notBefore="-0100" notAfter="0100" precision="low" evidence="prosopography">First century B.C.E. to first century C.E.</origDate>
                   </origin>
                   
                      
@@ -173,7 +173,7 @@
             <head>Commentary</head>
             <p>For other lists of priestesses of Hera, see <ref type="inscription">C08500</ref>, <ref type="inscription">C11300</ref>, <ref type="inscription">C37900</ref>
             </p>
-            <p>CIG suggests that the date is Ptolemaic but prosopography suggests that it is probably I century. B.C. - 1 century C.E.. 
+            <p>CIG suggests that the date is Ptolemaic but prosopography suggests that it is probably I century. B.C.E. - 1 century C.E.. 
                <!-- line 10 Perhaps also in 1001
                line 16 Perhaps also in 696, line 12 --></p>
          </div>

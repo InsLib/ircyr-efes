@@ -47,7 +47,7 @@
                <history>
                   <origin>
                       <origPlace>Findspot.</origPlace>
-                     <origDate notBefore="-0001" notAfter="-0001" precision="high" evidence="internal-date">4 February, 1 B.C.</origDate>
+                     <origDate notBefore="-0001" notAfter="-0001" precision="high" evidence="internal-date">4 February, 1 B.C.E.</origDate>
                   </origin>
                   
                      
@@ -129,7 +129,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>line 1. 29 of the Actian era = 2/1 B.C.,Mecheir 10 (February 4).</p>
+            <p>line 1. 29 of the Actian era = 2/1 B.C.E.,Mecheir 10 (February 4).</p>
             <p>l.2. Aged 2, 12 or a multiple of 10 + 2.</p>
          </div>
          

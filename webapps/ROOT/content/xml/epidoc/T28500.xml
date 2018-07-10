@@ -43,13 +43,13 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>First century B.C. - first century C.E.; <height>0.035</height>; <!-- ε,(insert unicode),ω; -->; L for ἔτους, ἐτῶν.</handNote>
+                     <handNote>First century B.C.E. - first century C.E.; <height>0.035</height>; <!-- ε,(insert unicode),ω; -->; L for ἔτους, ἐτῶν.</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                       <origPlace>Findspot.</origPlace>
-                     <origDate notBefore="-0001" notAfter="0100" precision="low" evidence="lettering">First century B.C. - first century A.D</origDate>
+                     <origDate notBefore="-0001" notAfter="0100" precision="low" evidence="lettering">First century B.C.E. - first century A.D</origDate>
                   </origin>
                   
                      
