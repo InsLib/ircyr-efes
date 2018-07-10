@@ -193,7 +193,7 @@
             <div subtype="section" n="6a" type="textpart">
                                        <ab>
                                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                                          <num value="50">ν</num> <rs type="month" key="Ἀθύρ"><w lemma="Ἀθύρ">Ἁ<unclear>θ</unclear><supplied reason="lost">ὺρ</supplied><gap reason="lost" quantity="1" unit="character"/>
+                                          <num value="50">ν</num> <rs type="month" key="Ἁθύρ"><w lemma="Ἁθύρ">Ἁ<unclear>θ</unclear><supplied reason="lost">ὺρ</supplied><gap reason="lost" quantity="1" unit="character"/>
                                           </w></rs><lb n="2"/><persName type="attested"><name nymRef="Τίμαρχος">Τίμαρχος</name></persName>
                                           <lb n="3"/><persName type="attested"><name nymRef="Σῖμος">Σίμου</name></persName> <date type="life-span" dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                                                       <num value="30"><unclear>λ</unclear></num> </date></ab></div><div subtype="section" n="6b" type="textpart"><ab><lb n="1"/><w lemma="ἔτος"><expan><ex>ἔτους</ex></expan></w> <num value="92">ϙβ</num> <lb n="2"/><persName type="attested"><name nymRef="Τίμαρχος">Τίμαρχος</name></persName><lb n="2a"/><gap reason="lost" extent="unknown" unit="character"/></ab></div>
@@ -213,7 +213,7 @@
             
          </div>
          <div type="translation" xml:space="preserve">
-            <p><note>1a.</note> Year 16, Me<supplied reason="lost">cheir</supplied> or 
+            <div type="translation" source="#edd" xml:lang="en"><p><note>1a.</note> Year 16, Me<supplied reason="lost">cheir</supplied> or 
                Me<supplied reason="lost">sore</supplied> 1. Timarchos <gap reason="lost" quantity="5" unit="character"/> aged 5.</p>
             <p><note>1b</note> Year 83, Mesore 6. Timarchos (<supplied reason="subaudible">son</supplied> of) P <gap reason="lost" extent="unknown" unit="character"/> aged 10+</p>
             <p><note>2a</note> Year 108, Thothy 18. Timarchos <supplied reason="subaudible">son</supplied> of Didymos, aged 78.</p>
@@ -227,7 +227,7 @@
             <p><note>6a</note> Year 50, Hathyr <gap reason="lost" atLeast="1" atMost="2" unit="character"/> Timarchos <supplied reason="subaudible">son</supplied> of Simos aged 30.</p>
             <p><note>6b</note> Year 92, Timarchos <gap reason="lost" extent="unknown" unit="character"/></p>
             <p><note>6c</note> <gap reason="lost" extent="unknown" unit="character"/> Soteimos <supplied reason="subaudible">son</supplied> of Eukleides, aged 8 <!--CHECK--></p>
-            <p><note>7</note> <gap reason="lost" extent="unknown" unit="character"/> of Arimmas aged 65.</p>
+            <p><note>7</note> <gap reason="lost" extent="unknown" unit="character"/> of Arimmas aged 65.</p></div>
          </div>
          <div type="commentary">
             <head>Commentary</head>
