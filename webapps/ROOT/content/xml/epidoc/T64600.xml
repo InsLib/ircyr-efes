@@ -142,7 +142,7 @@
 <ab>
                     <lb n="1"/><space quantity="1" unit="character"/> 
                         <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <lb n="2"/><num value="11" xml:lang="grc">ια</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιὰκ</w></rs> 
+                    <lb n="2"/><num value="11" xml:lang="grc">ια</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιὰκ</w></rs> 
                         <num value="10" xml:lang="grc">ι</num>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60663"><name nymRef="Μαρία">Μαρία</name> 
                     <lb n="4"/><persName type="attested" key="lgpn:V1-60664"><name nymRef="Ἰούλιος">Ἰουλίο<unclear>υ</unclear></name></persName></persName>

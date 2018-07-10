@@ -126,7 +126,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10">ι</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιαχὶ</w></rs>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10">ι</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιαχὶ</w></rs>
                     <lb n="2"/><num value="16">ςι</num> <persName type="attested" key="lgpn:V1-61226"><name nymRef="Δόρκα"><unclear>Δ</unclear>όρκα</name> 
                         <space quantity="1" unit="character"/>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-61369"><name nymRef="Ἰώσηπος">Ἰωϲήπω</name></persName></persName>

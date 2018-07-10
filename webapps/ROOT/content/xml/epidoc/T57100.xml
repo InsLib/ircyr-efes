@@ -122,7 +122,7 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="10"><unclear>ι</unclear></num>
-                    <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιά<lb n="2" break="no"/><unclear>χ</unclear><supplied reason="lost">ι</supplied></w></rs>
+                    <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιά<lb n="2" break="no"/><unclear>χ</unclear><supplied reason="lost">ι</supplied></w></rs>
                     <lb n="2a"/><gap reason="lost" extent="unknown" unit="line"/>
                     
                 </ab>

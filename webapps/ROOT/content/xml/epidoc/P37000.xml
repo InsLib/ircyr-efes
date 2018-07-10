@@ -135,7 +135,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                   <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="8">η</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιάχ<supplied reason="lost">ι</supplied></w></rs> <gap reason="lost" quantity="1" unit="character"/>
+                   <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="8">η</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιάχ<supplied reason="lost">ι</supplied></w></rs> <gap reason="lost" quantity="1" unit="character"/>
                    <persName type="attested" key="lgpn:V1-61367"><name nymRef="Ἰωάννης"><supplied reason="lost">Ἰ</supplied><unclear>ω</unclear>άνης</name> 
                     <persName type="attested"  key="lgpn:V1-61274"><name nymRef="Εὐφράνωρ">Εὐφρά<lb n="2" break="no"/>νοροϲ</name></persName></persName> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <gap reason="lost" quantity="1" unit="character"/> 
                     <space quantity="1" unit="character"/> <persName type="attested" key="lgpn:V1-61679"><name nymRef="Φιλήμων">Φιλήμων</name></persName> <date type="life-span" dur="P27Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="27">κζ</num> </date>
