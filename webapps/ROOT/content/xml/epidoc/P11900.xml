@@ -286,12 +286,12 @@
                </div>
             <div subtype="part" n="2" type="textpart"><ab>
                     <lb n="1"/><w lemma="multus">Mu<supplied reason="lost">lt</supplied>is</w>
-                    <lb n="2"/><num value="30">xx<supplied reason="lost">x</supplied></num>
+                    <lb n="2"/><num value="30">XX<supplied reason="lost">X</supplied></num>
                 </ab>
                 </div>
             <div subtype="part" n="3" type="textpart"><ab>
                     <lb n="1"/><w lemma="uotum"><supplied reason="lost">uot</supplied>is</w>
-                    <lb n="2"/><supplied reason="lost"><num value="20">xx</num> </supplied>
+                    <lb n="2"/><supplied reason="lost"><num value="20">XX</num> </supplied>
                 </ab>
                 </div>
          </div>

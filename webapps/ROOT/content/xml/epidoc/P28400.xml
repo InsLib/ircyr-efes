@@ -113,22 +113,19 @@
          <change when="2009-02-24" who="GB">mailmerged: created from template</change>
       </revisionDesc>
    </teiHeader><facsimile><graphic url="JMR_443" decls="#photograph"><desc>Face a (Joyce Reynolds, Tolmeita I.59)</desc></graphic>
-      <graphic url="Photos_0280" decls="#photograph"><desc>Face a (1961-5-26, Joyce Reynolds, III.9)</desc></graphic><!--Dept.--><!--
-                    --><!--
-                    --><!--
-                --></facsimile>
+      <graphic url="Photos_0280" decls="#photograph"><desc>Face a (1961-5-26, Joyce Reynolds, III.9)</desc></graphic></facsimile>
    <text>
       <body>
          <div type="bibliography">
             <head>Bibliography</head>
             <p/>
          </div>
-         
+         <!-- check -->
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="a" type="textpart"><ab>
                         <lb n="1"/><w><expan><abbr>Μ</abbr><ex>ι</ex><abbr>ν</abbr><ex>αι</ex></expan></w> <num value="2">β</num>
                     </ab></div><div subtype="fragment" n="b" type="textpart"><ab>
                         <!-- the () bracket around the XI ?? -->
-                        <lb n="1"/><num value="11">ΧΙ</num> <w>Δ</w>
+                        <lb n="1"/><num value="11">XI</num> <orig>Δ</orig>
                     </ab>
 </div>
 </div>

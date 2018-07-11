@@ -127,7 +127,7 @@
                             <num value="12">ιβ</num>
                         </ab></div><div subtype="section" n="ii" type="textpart"><ab>
                             <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <gap reason="lost" quantity="1" unit="character"/> <rs type="month" key="Τυβί"><w lemma="Τυβί"><unclear>Τυ</unclear>βὶ</w></rs>
-                            <lb n="2"/><num value="19">15</num> <persName type="attested" key="lgpn:V1-60097"><name nymRef="Διόδωρος"><unclear>Δι</unclear>όδω<unclear>ρ</unclear><lb n="2" break="no"/>οϲ</name> 
+                            <lb n="2"/><num value="15">ιε</num> <persName type="attested" key="lgpn:V1-60097"><name nymRef="Διόδωρος"><unclear>Δι</unclear>όδω<unclear>ρ</unclear><lb n="2" break="no"/>οϲ</name> 
                                <persName type="attested" key="lgpn:V1-60096"><name nymRef="Ξεῖνος"><unclear>Ξ</unclear>είνω</name></persName></persName>
                             <lb n="2"/><date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                             <num value="40">μ</num> </date>
@@ -162,7 +162,7 @@
 <p>ii. Year ? Tybi 15 <note>January 10</note>, Diodoros <supplied reason="subaudible">son</supplied> of Xeinos aged 40.</p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>L1: Year 12. L3: Pacho's TO perhaps masks ΤΘ, year 19; Tybi 15, (January 10); the year would imply the reign of Augustus or Tiberius in 1st cent or of Hadrian, Pius or Marcus in 2nd cent. L5: Aged 40.</p>
+            <p>L1: Year 12. L3: Pacho's TO perhaps masks ΤΘ, year 19;<!-- check  --> Tybi 15, (January 10); the year would imply the reign of Augustus or Tiberius in 1st cent or of Hadrian, Pius or Marcus in 2nd cent. L5: Aged 40.</p>
          </div>
          
       </body>

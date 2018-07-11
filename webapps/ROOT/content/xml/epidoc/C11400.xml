@@ -324,7 +324,7 @@
                          <lb n="42"/> <persName type="attested"><name nymRef="Λεωνίδας">Λε<unclear>ω</unclear>νίδα</name></persName>                 
                         </ab></div></div><div subtype="column" n="b" type="textpart"><ab>
                            <lb n="1"/> <w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                      <num value="54">νε</num> <persName type="attested"><name nymRef="Εὐμένης">Εὐμέ<lb n="2" break="no"/>νης</name> <persName type="attested"><name nymRef="Ὀνόμαρχος">Ὀν<unclear>ο</unclear><lb n="3" break="no"/>μά<unclear>ρ</unclear>χου</name></persName></persName>
+                      <num value="55">νε</num> <persName type="attested"><name nymRef="Εὐμένης">Εὐμέ<lb n="2" break="no"/>νης</name> <persName type="attested"><name nymRef="Ὀνόμαρχος">Ὀν<unclear>ο</unclear><lb n="3" break="no"/>μά<unclear>ρ</unclear>χου</name></persName></persName>
                            </ab>
                         </div>
         
@@ -396,8 +396,7 @@
                   </persName>
                      <lb n="23"/> 
                   <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                            <num value="54">
-                     <unclear>ν</unclear>δ</num> 
+                            <num value="54"><unclear>ν</unclear>δ</num> 
                   <persName type="attested">
                      <name nymRef="Ἐτέαρχος">Ἐτήαρχος</name>
                                <lb n="24"/>

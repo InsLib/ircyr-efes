@@ -259,8 +259,8 @@
                   <lb/>
                   <lb n="72"/><persName type="emperor" key="augustus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name> <space quantity="1" unit="character"/> <name nymRef="Σεβαστός">Σεβαστὸς</name></persName> 
                   <w>ἀρχιερεὺς</w> <w>μέγιστος</w> 
-                  <lb n="73"/><w>δημαρχικῆς</w> <w>ἐξουσίας</w> <space quantity="3" unit="character"/> <num value="18">
-                     <num value="19"><hi rend="supraline">ιθ</hi></num> </num> <space quantity="1" unit="character"/><w>λέγει</w>· 
+                  <lb n="73"/><w>δημαρχικῆς</w> <w>ἐξουσίας</w> <space quantity="3" unit="character"/> 
+                  <num value="19"><hi rend="supraline">ιθ</hi></num>  <space quantity="1" unit="character"/><w>λέγει</w>· 
                     <lb n="73a"/><space quantity="1" unit="line"/>
                   <lb n="74"/><w>δόγμα</w> <w>συνκλήτου</w> <w>τὸ</w> <w>ἐπὶ</w> <persName type="attested"><name nymRef="Γάϊος">Γαΐου</name> 
                      <name nymRef="Καλουίσιος">Καλουισίου</name></persName> <w>καὶ</w> <persName type="attested"><name nymRef="Λεύκιος">Λευκίου</name>
