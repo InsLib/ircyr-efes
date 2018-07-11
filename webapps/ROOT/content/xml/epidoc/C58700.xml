@@ -149,7 +149,7 @@
             <persName type="attested"><name nymRef="Κλαύδια">Κλαύδια</name>
             <lb n="10"/><space extent="4" unit="character"/><name nymRef="Ῥουφίλλα">Ῥουφίλλα</name></persName> 
             <date type="life-span" dur="P36Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
-                    <num value="36">λϝ</num> </date>
+                    <num value="36">λς</num> </date>
                     <lb n="11"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
             <num value="133">ρλγ</num> <rs type="month" key="Θώθ"><w lemma="Θώθ">Θώθυ</w></rs> <num value="27">κζ</num> <persName type="attested"><name nymRef="Πόπλιος"><expan><abbr>Π</abbr><ex>όπλιος</ex></expan></name>
                <lb n="12"/><name nymRef="Ἑρέννιος">Ἑρέννιος</name> <name nymRef="Καπίτων">Καπίτων</name></persName>

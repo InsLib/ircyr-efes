@@ -122,7 +122,7 @@
                   <num value="84">πδ</num> <persName type="attested"><name nymRef="Τελεσώ"><corr cert="low">Τ</corr>ελέσω</name>
                          <lb n="2"/><persName type="attested"><name nymRef="Ἀριστέας">Ἀρισστέα</name></persName></persName> <note>sic</note>
                          <date type="life-span" dur="P36Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
-                            <num value="36">λϛ</num> </date>
+                            <num value="36">λς</num> </date>
                      </ab>
             </div>
 </div>

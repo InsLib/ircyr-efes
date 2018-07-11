@@ -168,21 +168,18 @@
                 </listApp>
             <listApp>
                <app loc="6">
-                  <lem>κδ</lem><note>, 24, it is possible that <foreign xml:lang="grc">Ρ</foreign> has been added above the line, giving 124.</note>
+                  <lem>κδ</lem><note>, 24, it is possible that Ρ has been added above the line, giving 124.</note>
                </app>
             </listApp>
             <listApp>
                     <app loc="8">
-                  <rdg resp="#oliverioDAI">
-                     <seg part="I">στρατευσίμου</seg>
-                  </rdg>
+                  <rdg resp="#oliverioDAI">στρατευσίμου</rdg>
                   <note>, so SEG.</note>
                </app>
                 </listApp>
             <listApp>
                     <app loc="9">
-                       <rdg resp="#oliverioDAI">το<supplied reason="lost">ῖς</supplied> 
-                            <unclear>α</unclear>υτοῖς</rdg>
+                       <rdg resp="#oliverioDAI">το[ῖς] <unclear>α</unclear>υτοῖς</rdg>
                   <note>, so SEG.</note>
                </app>
                 </listApp>

@@ -112,7 +112,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><space quantity="3" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="100">ρ</num> <rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs> <num value="28">κθ</num> <space quantity="3" unit="character"/> 
+                    <lb n="1"/><space quantity="3" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="100">ρ</num> <rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs> <num value="29">κθ</num> <space quantity="3" unit="character"/> 
                     <lb n="2"/><persName type="attested"><name nymRef="Δαμοκράτης">Δαμοκράτης</name> <persName type="attested"><name nymRef="Ἄλεξις">Ἀλέξεις</name></persName></persName>
             <date type="life-span" dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="5">ε</num> </date>
                     <lb n="3"/><persName type="attested"><name nymRef="θεύδωρος">θεύδωρος</name> <persName type="attested"><name nymRef="Ἁγησίστρατος">Ἁγησιστράτω</name></persName></persName> 
@@ -126,7 +126,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>line 1 100 of the Actian Era, Hathur 28 = C.E. 69, November 24th. </p>
+            <p>line 1 100 of the Actian Era, Hathur 28 = C.E. 69, November 24th. </p><!-- check photo for numeral -->
             <p> line 2 Aged 5. </p>
             <p> line 3 Aged 12.</p>
          </div>
