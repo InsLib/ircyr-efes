@@ -136,7 +136,7 @@
                     <lb n="2"/><space quantity="1" unit="character"/> <name nymRef="Καπίτων">Κα <g ref="symbols.xml#leaf"/> πίτωνοϲ</name></persName>
                 </ab></div>
             <div subtype="section" n="b" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6">ς</num> 
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6">ϛ</num> 
                         <rs type="month" key="Παχών"><w>Πα<unclear>χ</unclear><supplied reason="lost">ὼ</supplied>ν</w></rs> <num value="7">ζ</num> 
                         <persName type="attested" key="lgpn:V1-61492"><name nymRef="Καρτιλία">Καρ<lb n="2" break="no"/>τιλία</name>
                         <name nymRef="Μυρτώ">Μυ<unclear>ρ</unclear><lb n="3" break="no"/><supplied reason="lost">τ</supplied>ὼ</name> </persName>

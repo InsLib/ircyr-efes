@@ -127,7 +127,7 @@
                             <persName type="attested"><name nymRef="Πόπλιος">Πόπλιος</name></persName>
                         </ab></div>
          </div><div subtype="part" n="b" type="textpart"><ab>
-                      <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6" xml:lang="grc">ς</num>                   
+                      <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6" xml:lang="grc">ϛ</num>                   
                       <lb n="2"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἰου-"><seg part="I">Ἰου</seg></name><space quantity="1" unit="character"/>                     
                       <lb n="3"/><orig><unclear>π</unclear></orig></persName><space quantity="3" unit="character"/> 
                       <lb n="3a"/><space extent="unknown" unit="line"/> 

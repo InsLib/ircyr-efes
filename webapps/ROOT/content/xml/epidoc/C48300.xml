@@ -138,7 +138,7 @@
                     <lb n="9"/><space extent="7" unit="character"/><persName type="attested"><name nymRef="Εἰρήνα">Εἰρήνα</name> <persName type="attested"><name nymRef="Φιλόϲτρατοϲ">Φιλοστράτω</name></persName></persName> 
                     <lb n="10"/><date type="life-span" dur="P11Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="11">ια</num> </date><space extent="5" unit="character"/> 
                     <lb n="11"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
-                    <num value="66">ξς</num> <rs type="month" key="Φαωφί"><w>Φαωφὶ</w></rs> <num value="20">κ</num> 
+                    <num value="66">ξϛ</num> <rs type="month" key="Φαωφί"><w>Φαωφὶ</w></rs> <num value="20">κ</num> 
                     <lb n="12"/><persName type="attested"><name nymRef="Θευκλήα">Θευκλήα</name> 
                     <lb n="13"/><persName type="attested"><name nymRef="Καλλικράτηϲ">Καλλικράτου</name></persName></persName> 
                     <lb n="14"/><space extent="3" unit="character"/><date type="life-span" dur="P4Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="4">δ</num> </date> <space extent="5" unit="character"/>

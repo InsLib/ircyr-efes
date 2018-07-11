@@ -131,7 +131,7 @@
                     <lb n="4"/><persName type="attested"><name nymRef="Βιε-">Βιε<gap reason="lost" quantity="3" unit="character"/><unclear>αρ</unclear>ιος</name></persName> 
                     <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="5"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
-                    <num value="16">ις</num> <orig><unclear>ηιπαρεη</unclear></orig><gap reason="lost" quantity="1" unit="character"/><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr> 
+                    <num value="16">ιϛ</num> <orig><unclear>ηιπαρεη</unclear></orig><gap reason="lost" quantity="1" unit="character"/><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr> 
                     <persName type="attested"><name nymRef="Ἀπολλωνίδης"><supplied reason="lost">Ἀπο</supplied>λλω<unclear>ν</unclear><supplied reason="lost">ί</supplied><space quantity="3" unit="character"/>δης</name></persName>
                 </ab>
 </div>

@@ -127,7 +127,7 @@
                             <space extent="unknown" unit="character"/>
                     </ab></div><div subtype="part" n="ii" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                            <num value="6" xml:lang="grc">ς</num>
+                            <num value="6" xml:lang="grc">ϛ</num>
                         <lb n="2"/><persName type="attested"><name nymRef="Τίτος"><expan><abbr><unclear>Τ</unclear></abbr><ex>ίτος</ex></expan></name>
                          <name nymRef="Φλαμίνιος"><unclear>Φλαμίν</unclear><lb n="3" break="no"/><unclear>ι</unclear><supplied reason="lost">ος</supplied></name> 
                             <name nymRef="Ῥοῦφος">Ῥοῦφος</name></persName>

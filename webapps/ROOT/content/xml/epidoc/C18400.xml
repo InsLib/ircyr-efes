@@ -160,7 +160,7 @@
                     <lb n="23"/><name nymRef="Κλαύδιος">Κλαυδίω</name> <name nymRef="Κλέαρχος">Κλεάρχω</name></persName> 
                     <lb n="24"/><w>ἀρχιερέος</w> <w lemma="υἱός">υἱὸς</w> 
                         <lb n="25"/><space quantity="3" unit="character"/><name nymRef="Καρνήδας">Καρνήδας</name></persName><space quantity="1" unit="character"/> 
-                    <lb n="26"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="106">ρς</num> 
+                    <lb n="26"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="106">ρϛ</num> 
                     <persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> 
                     <name nymRef="Κλαύδιος">Κλαύδιος</name> <persName type="attested" key="lgpn:V1-63959"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></name>
                     <lb n="27"/><name nymRef="Κλαύδιος">Κλαυδίου</name> <name nymRef="Ἴστρος	">Ἴστρου</name></persName> <w lemma="υἱός">υἱ<lb n="8" break="no"/>ὸς</w> <name nymRef="Φιλίσκος">Φίλισκος</name></persName> <g ref="symbols.xml#barley-ear"/>

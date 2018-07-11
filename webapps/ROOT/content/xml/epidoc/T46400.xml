@@ -128,7 +128,7 @@
                        <persName type="attested" key="lgpn:V1-60041"><name nymRef="Ἀριστοκράτης">Ἀρισ<lb n="4" break="no"/>τ<unclear>ο</unclear>κράτους</name></persName></persName> 
                     <lb n="5"/><space quantity="3" unit="character"/> 
                     <date type="life-span" dur="P26Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
-                    <num value="26">κς</num> </date>
+                    <num value="26">κϛ</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

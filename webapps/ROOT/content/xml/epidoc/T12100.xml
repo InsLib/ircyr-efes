@@ -141,12 +141,12 @@
                             <persName type="attested"><name nymRef="Τήλεφος">Τηλέφω</name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="part" n="iii" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="56">νς</num> 
+                        <num value="56">νϛ</num> 
                         <persName type="attested"><name nymRef="Ἀμμώνιος">Ἀμμώνιος</name> 
                             <persName type="attested"><name nymRef="Ἀέροπος">Ἀερόπ<supplied reason="lost">ω</supplied></name></persName></persName>
                     </ab></div><div subtype="part" n="iv" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="56">νς</num> 
+                        <num value="56">νϛ</num> 
                         <persName type="attested"><name nymRef="Δίοφαντος">Δίοφαντος</name> 
                             <persName type="attested"><name nymRef="Δωσίθεος">Δωσιθέου</name></persName></persName>
                     </ab></div><div subtype="part" n="v" type="textpart"><ab>
