@@ -316,7 +316,7 @@
                       <lb n="35"/> <persName type="attested"><name nymRef="Φίλων">Φίλων</name>
                       <lb n="36"/> <persName type="attested"><name nymRef="Φιλοθάλης">Φιλοθάλου</name></persName></persName>
                       <lb n="37"/> <w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                      <num value="79"><unclear>ξ</unclear>θ</num> <persName type="attested" key="lgpn:V1-65585"><name nymRef="Σεραπίων">Σεραπί<lb n="38" break="no"/>πίων</name></persName>
+                      <num value="69"><unclear>ξ</unclear>θ</num> <persName type="attested" key="lgpn:V1-65585"><name nymRef="Σεραπίων">Σεραπί<lb n="38" break="no"/>πίων</name></persName>
                       <lb n="39"/> <w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                       <num value="55">νε</num> <persName type="attested"><name nymRef="Λύκος">Λύκος</name>
                       <lb n="40"/> <persName type="attested" key="lgpn:V1-63543"><name nymRef="Δημήτριος">Δημητρίο<supplied reason="omitted">υ</supplied></name></persName></persName>
