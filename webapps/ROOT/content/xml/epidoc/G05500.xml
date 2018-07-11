@@ -117,7 +117,7 @@
              
             <div subtype="section" n="1a" type="textpart">
                <ab>
-                  <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="16">ι<unclear>ς</unclear></num>
+                  <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="16">ι<unclear>ϛ</unclear></num>
                   <rs type="month"><w part="I">Με</w><gap reason="lost" extent="unknown" unit="character"/></rs>
                   <lb n="2"/><num value="1"><unclear>α</unclear></num> <persName type="attested"><name nymRef="Τίμαρχος">Τίμαρχος</name>
                   <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><persName type="attested"><name><seg part="M"><unclear>λιμ</unclear></seg></name></persName></persName><gap reason="lost" quantity="1" unit="character"/>

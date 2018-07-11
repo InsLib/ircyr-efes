@@ -117,7 +117,7 @@
                     <lb n="2"/><orig>γιοο</orig> <persName type="attested"><name nymRef="Ῥοῦφος"><unclear>Ῥ</unclear>οῦφο<supplied reason="lost">ς</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><g ref="symbols.xml#leaf"/><orig>ει</orig><g ref="symbols.xml#monogram"/><g ref="symbols.xml#leaf"/> <lb n="4"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> <num value="17">ιζ</num> 
                     <persName type="attested" key="lgpn:V1-61311"><name nymRef="Θεόδωρος">θεό<supplied reason="lost">δ</supplied><unclear>ω</unclear><lb n="5" break="no"/>ρος</name></persName> 
-                    <lb n="6"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied><num value="16">ϛ</num> 
+                    <lb n="6"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied><num value="16"><supplied reason="lost">ι</supplied>ϛ</num> 
                     <persName type="attested" key="lgpn:V1-61047"><name nymRef="Ἀμμώνιος">Ἀμ<unclear>μών</unclear>ιος</name> 
                     <lb n="7"/><persName type="attested" key="lgpn:V1-61362"><name nymRef="Ἰτθαννύρας"><supplied reason="lost">Ἰτ</supplied><unclear>Θα</unclear>ννύρα</name></persName></persName>
                 </ab>
