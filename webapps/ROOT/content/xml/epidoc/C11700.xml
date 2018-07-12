@@ -101,9 +101,7 @@
          <change when="2009-11-08" who="Pietro">tokenized</change>
          <change when="2008-07-21" who="...">created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_700front" decls="#photograph"><desc>Face (Department of Antiquities, F. 375)</desc></graphic><!--
-                    --><!--
-             --></facsimile>
+   </teiHeader><facsimile><graphic url="JMR_700front" decls="#photograph"><desc>Face (Department of Antiquities, F. 375)</desc></graphic></facsimile>
    <text>
       <body>
          
@@ -116,7 +114,7 @@
 <ab>
                     <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/> <gap reason="lost" extent="unknown" unit="character"/>
-                    <w part="I" lemma="Augustus"><abbr><unclear>AVG</unclear><am><unclear>GG</unclear></am></abbr></w>
+                    <persName type="emperor"><abbr><name nymRef="Augustus"><expan><abbr>Aug<unclear>gg</unclear></abbr><ex>ust- tr-</ex></expan></name></abbr></persName>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/> <gap reason="lost" extent="unknown" unit="character"/> 
                     <w part="I"><abbr>RIP<am>P</am></abbr></w> <gap reason="lost" extent="unknown" unit="character"/>

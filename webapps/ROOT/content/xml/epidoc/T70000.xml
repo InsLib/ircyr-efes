@@ -13,7 +13,7 @@
          <publicationStmt>
             <authority>Centre for Computing in the Humanities, King's College London</authority>
             <idno type="filename">T70000</idno>
-            <idno type="JMR">1971. 1</idno>
+            <idno type="JMR">1971.1</idno>
             <idno type="Excel">1556</idno>
             <availability>
                <p>Creative Commons licence Attribution UK 2.0
@@ -37,7 +37,8 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="scalpro">Inscribed</rs> within a panel defined by a plain moulding on three sides (die, <dimensions><width>0.155</width><height>0.18</height></dimensions>).</layout>
+                        <layout><rs type="execution" key="scalpro">Inscribed</rs> within a panel defined by a plain moulding on three sides 
+                           (die, <dimensions><width>0.155</width><height>0.18</height></dimensions>).</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
@@ -122,11 +123,11 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="16" xml:lang="grc">ι<unclear>ϛ</unclear></num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοάχι</w></rs>
                     <lb n="2"/><num value="4" xml:lang="grc">δ</num> 
-                        <persName type="attested"><name nymRef="Τιμαίνετος">Τιμαίνετ<lb n="3" break="no"/><unclear>ος</unclear></name> 
+                        <persName type="attested"><name nymRef="Τιμαίνετος">Τιμαίνετ<lb n="3" break="no"/><unclear>οϲ</unclear></name> 
                         <persName type="attested"><name nymRef="Ἀγάθαρχος">Ἀγαθάρχ<lb n="4" break="no"/><unclear>ω</unclear></name></persName></persName> 
                         <date type="life-span" dur="P70Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                         <num value="70" xml:lang="grc"><unclear>ο</unclear></num> </date> <persName type="attested"><name nymRef="Καλλώ">Καλλὼ</name>
-                    <lb n="5"/><persName type="attested"><name nymRef="Νίκων">Νίκωνος</name></persName></persName> 
+                    <lb n="5"/><persName type="attested"><name nymRef="Νίκων">Νίκωνοϲ</name></persName></persName> 
                     <lb n="6"/><space quantity="1" unit="character"/> 
                         <date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                         <num value="60" xml:lang="grc">ξ</num> </date>
@@ -138,7 +139,7 @@
                Kallo <supplied reason="subaudible">daughter</supplied> of Nikon aged 60.</p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>l. 4, the reading of 70 is very uncertain.</p>
+            <p>Line 4: the reading of 70 is very uncertain.</p>
          </div>
          
       </body>

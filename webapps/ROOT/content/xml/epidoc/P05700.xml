@@ -41,7 +41,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>ll. 1,9, not measurable; lines 2,3, <height unit="metre">0.04</height>; line  4, <height unit="metre">0.035</height>; lines 5-8, <height unit="metre">0.03</height>; superscript bar above the abbreviated praenomen in line  3</handNote>
+                     <handNote>Λινεσ 1,9, not measurable; lines 2, 3, <height unit="metre">0.04</height>; line 4, <height unit="metre">0.035</height>; lines 5-8, <height unit="metre">0.03</height>; superscript bar above the abbreviated praenomen in line  3</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -149,10 +149,7 @@
                </app>
             <app loc="2">
                   <rdg resp="#applebaum1950">
-                     <gap reason="lost" extent="unknown" unit="character"/>
-                     <orig>εμο</orig>
-                     <gap reason="lost" extent="unknown" unit="character"/>
-                  </rdg>
+                     . . . ]ΕΜΟ[ . . .</rdg>
                </app>
             <app loc="3">
                   <rdg resp="#applebaum1950">
