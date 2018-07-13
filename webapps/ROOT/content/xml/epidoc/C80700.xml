@@ -127,7 +127,7 @@
                     <lb n="1"/> <persName type="emperor" key="vespasianus"><w><expan><abbr><supplied reason="lost">I</supplied>mp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar">Caesar</name>
                     <lb n="2"/><name nymRef="Vespasianus">Vespasianus</name>
                     <lb n="3"/><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName> <expan><w><abbr>pont</abbr><ex>ifex</ex></w> <w><abbr>max</abbr><ex>imus</ex></w></expan>
-                    <lb n="4"/><expan><w><abbr>tribunic</abbr><ex>ia</ex></w> 
+                    <lb n="4"/><expan><w><abbr>tribunic</abbr><ex>ia</ex></w>  
                     <w><abbr>pot</abbr><ex>estate</ex></w></expan> <num value="3">III</num>
                     <lb n="5"/><w><expan><abbr><supplied reason="lost">I</supplied>mp</abbr><ex>erator</ex></expan></w>
                     <num value="8">VIII</num> <expan><w lemma="pater"><abbr>p</abbr><ex>ater</ex></w> <w lemma="patria"><abbr>p</abbr><ex>atriae</ex></w></expan> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>

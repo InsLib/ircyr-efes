@@ -108,7 +108,7 @@
                         <div type="textpart" n="a" xml:lang="la">
                     <lb n="1"/><ab><persName type="emperor" key="vespasianus"><w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar">Caesar</name>
                     <lb n="2"/><name nymRef="Vespasianus">V<supplied reason="lost">e</supplied>sp<supplied reason="lost">a</supplied>sianu<supplied reason="lost">s</supplied></name>
-                    <lb n="3" break="no"/><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName> <expan><w><abbr>pont</abbr><ex>ifex</ex></w>
+                    <lb n="3" break="no"/><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName> <expan><w><abbr>pont</abbr><ex>ifex</ex></w> 
                     <w><abbr>ma<supplied reason="lost">x</supplied></abbr><ex>imus</ex></w></expan>
                     <lb n="4"/><expan><w><abbr>trib</abbr><ex>unicia</ex></w>
                     <w><abbr>pot</abbr><ex>estate</ex></w></expan> <num value="3">II<supplied reason="lost">I</supplied></num>

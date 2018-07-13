@@ -127,17 +127,17 @@
                <ab>
                     <lb n="1"/><persName type="emperor" key="vespasianus"><w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> 
                     <name nymRef="Caesar">Caisar</name> <name nymRef="Vespasianus">Vesp<supplied reason="lost">a</supplied><lb n="2" break="no"/>sianus</name> <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName>
-                    <w><expan><abbr>pont</abbr><ex>ifex</ex></expan></w> <w><expan><abbr>max</abbr><ex>imus</ex></expan></w>
-                    <lb n="3"/><w><expan><abbr><unclear>t</unclear>rib</abbr><ex>unicia</ex></expan></w>
-                    <w><expan><abbr>pot</abbr><ex>estate</ex></expan></w> <num value="5">V</num>
+                  <expan>  <w><abbr>pont</abbr><ex>ifex</ex></w> <w><abbr>max</abbr><ex>imus</ex></w></expan>
+                    <lb n="3"/><expan><w><abbr><unclear>t</unclear>rib</abbr><ex>unicia</ex></w>
+                    <w><abbr>pot</abbr><ex>estate</ex></w></expan> <num value="5">V</num>
                     <w><expan><abbr>imp</abbr><ex>erator</ex></expan></w>
-                    <num value="10">X</num> <w><expan><abbr>p</abbr><ex>ater</ex></expan></w> 
-                    <w><expan><abbr>p</abbr><ex>atriae</ex></expan></w> 
+                    <num value="10">X</num> <expan><w><abbr>p</abbr><ex>ater</ex></w> 
+                    <w><abbr>p</abbr><ex>atriae</ex></w></expan> 
                     <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w> <num value="5">V</num>
                     <lb n="4"/><w lemma="per">per</w> <persName type="attested"><name nymRef="Quintus"><expan><abbr>Q</abbr><ex>uintum</ex></expan></name> <name nymRef="Paconius">Paconium</name> <name nymRef="Agrippinus">Agrippi
                     <lb n="5" break="no"/>nu<unclear>m</unclear></name></persName> <w><expan><abbr>leg</abbr><ex>atum</ex></expan></w> <w lemma="suus">suum</w> <w lemma="ager">agrum</w>
-                    <lb n="6"/><w lemma="regius">regium</w> <w><expan><abbr>p</abbr><ex>opulo</ex></expan></w> 
-                    <placeName type="ethnic"><w lemma="Romanus"><expan><abbr>R</abbr><ex>omano</ex></expan></w></placeName> <w lemma="restituo">restituit</w>
+                    <lb n="6"/><w lemma="regius">regium</w> <expan><w><abbr>p</abbr><ex>opulo</ex></w> 
+                    <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></expan></placeName> <w lemma="restituo">restituit</w>
                </ab>
                <ab xml:lang="grc">
                     <lb n="7"/><persName type="emperor" key="vespasianus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name> 

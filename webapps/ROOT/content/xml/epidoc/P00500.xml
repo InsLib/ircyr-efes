@@ -139,11 +139,11 @@
                               <name nymRef="Domitianus">Domitiani</name> <name nymRef="Caesar">Cae
                     <lb n="2" break="no"/>saris</name> <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> 
                                <name nymRef="Germanicus"><expan><abbr>Germ</abbr><ex>anici</ex></expan></name> 
-                               <w lemma="pontifex"><expan><abbr>pont</abbr><ex>ificis</ex></expan></w> <w lemma="magnus">m<unclear>a</unclear>
-                    <lb n="3" break="no"/>ximi</w> <w lemma="tribunicius"><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> 
-                               <w lemma="potestas"><expan><abbr>pot</abbr><ex>estate</ex></expan></w> <num value="8">VIII</num>
-                               <w lemma="pater"><expan><abbr>p</abbr><ex>atris</ex></expan></w> 
-                               <w lemma="patria"><expan><abbr>p</abbr><ex>atriae</ex></expan></w> 
+                              <expan><w lemma="pontifex"><abbr>pont</abbr><ex>ificis</ex></w></expan> <w lemma="magnus">m<unclear>a</unclear>
+                    <lb n="3" break="no"/>ximi</w> <expan><w lemma="tribunicius"><abbr>trib</abbr><ex>unicia</ex></w> 
+                               <w lemma="potestas"><abbr>pot</abbr><ex>estate</ex></w></expan> <num value="8">VIII</num>
+                             <expan>  <w lemma="pater"><abbr>p</abbr><ex>atris</ex></w> 
+                               <w lemma="patria"><abbr>p</abbr><ex>atriae</ex></w></expan>
                                <w lemma="consul"><expan><abbr>co</abbr><ex>n</ex><abbr><unclear>s</unclear></abbr><ex>ulis</ex></expan></w>
                                <hi rend="supraline"><num value="14"><unclear>X</unclear><supplied reason="lost">II</supplied>I<unclear>I</unclear></num> </hi>
                     <lb n="4"/><w lemma="censor"><expan><abbr>cens</abbr><ex>oris</ex></expan></w> <w lemma="perpetuus">perpetui</w> </persName>
