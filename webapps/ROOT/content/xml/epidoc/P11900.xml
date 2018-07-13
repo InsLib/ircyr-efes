@@ -262,8 +262,8 @@
                        <placeName nymRef="Pentapolis"><w>Pentapoleos</w></placeName></supplied> 
                     <lb n="4"/><supplied reason="lost" cert="low"><space quantity="3" unit="character"/></supplied>
                     <w><supplied reason="lost">de</supplied>u<supplied reason="lost">otae</supplied></w> 
-                    <supplied reason="lost"><w lemma="numen"><expan><abbr>n</abbr><ex>umini</ex></expan></w></supplied>
-                    <w lemma="maiestas"><expan><abbr>m</abbr><ex>aiestati</ex><abbr>q</abbr><ex>ue</ex></expan></w>
+                  <expan>  <supplied reason="lost"><w lemma="numen"><abbr>n</abbr><ex>umini</ex></w></supplied>
+                    <w lemma="maiestas"><abbr>m</abbr><ex>aiestati</ex><abbr>q</abbr><ex>ue</ex></w></expan>
                     <w>eorum</w> <space quantity="3" unit="character"/> 
             </ab>
             </div>
