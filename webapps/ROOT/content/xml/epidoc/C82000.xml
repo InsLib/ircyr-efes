@@ -126,19 +126,19 @@
             <div subtype="face" n="a" type="textpart" xml:lang="la">
                <ab>
                     <lb n="1"/><persName type="emperor" key="vespasianus"><w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar">Caisar</name> <name nymRef="Vespasianus">Vespa<lb n="2" break="no"/>sianus</name> <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName>
-                    <w><expan><abbr>pont</abbr><ex>ifex</ex></expan></w>
-                    <lb n="3"/><w><expan><abbr>max</abbr><ex>imus</ex></expan></w>
-                    <w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <w><expan><abbr>pot</abbr><ex>estate</ex></expan></w> 
+                    <expan><w><abbr>pont</abbr><ex>ifex</ex></w>
+                    <lb n="3"/><w><abbr>max</abbr><ex>imus</ex></w></expan>
+                    <expan><w><abbr>trib</abbr><ex>unicia</ex></w> <w><abbr>pot</abbr><ex>estate</ex></w></expan> 
                     <num value="5">V</num> <w><expan><abbr>imp</abbr><ex>erator</ex></expan></w>
                     <lb n="4"/><num value="10"><unclear>X</unclear></num>
-                    <w><expan><abbr><unclear>p</unclear></abbr><ex>ater</ex></expan></w> 
-                    <w><expan><abbr><unclear>p</unclear></abbr><ex>atriae</ex></expan></w> 
+                    <expan><w><abbr><unclear>p</unclear></abbr><ex>ater</ex></w> 
+                    <w><abbr><unclear>p</unclear></abbr><ex>atriae</ex></w></expan> 
                     <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w> <num value="5">V</num>
                     <w lemma="per">pe<unclear>r</unclear></w> <persName type="attested"><name nymRef="Quintus"><expan><abbr>Q</abbr><ex>uintum</ex></expan></name> <name nymRef="Paconius">Pa<lb n="5" break="no"/>conium</name> <name nymRef="Agrippinus">Agrip <space quantity="1" unit="character"/> pinu<unclear>m</unclear></name></persName>
                     <lb n="6"/><space quantity="1" unit="character"/>
                     <w><expan><abbr>leg</abbr><ex>atum</ex></expan></w> <w lemma="suus">suum</w> <w lemma="ager">agrum</w>
-                    <lb n="7"/><w><supplied reason="lost">r</supplied><unclear>eg</unclear><supplied reason="lost">i</supplied>um</w> <w><expan><abbr>p</abbr><ex>opulo</ex></expan></w>
-                    <placeName type="ethnic"><w lemma="Romanus"><expan><abbr>R</abbr><ex>omano</ex></expan></w></placeName>
+                    <lb n="7"/><w><supplied reason="lost">r</supplied><unclear>eg</unclear><supplied reason="lost">i</supplied>um</w> <expan><w><abbr>p</abbr><ex>opulo</ex></w>
+                    <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName></expan>
                     <w lemma="restituo">restitu<supplied reason="lost">it</supplied></w>
                  
                </ab>

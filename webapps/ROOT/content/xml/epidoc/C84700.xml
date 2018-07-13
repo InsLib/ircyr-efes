@@ -117,10 +117,10 @@
                     <lb n="2"/><name nymRef="Philippus">Philip<supplied reason="lost">pus</supplied></name> <w><supplied reason="lost">Pius</supplied></w>
                     <w><unclear>Fe</unclear>lix</w> <w lemma="invictus">I<supplied reason="lost">nvictus</supplied></w>
                         <name nymRef="Augustus"><supplied reason="lost"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></supplied></name></persName>
-                    <lb n="3"/><w lemma="pontifex">ponti<supplied reason="lost">fex</supplied></w> <w><supplied reason="lost">maxi</supplied><lb n="4" break="no"/><unclear>mus</unclear></w> <w lemma="tribunicius">t<supplied reason="lost"><expan><abbr>rib</abbr><ex>unicia</ex></expan>
-                        </supplied></w><w><supplied reason="lost"><expan><abbr>pot</abbr><ex>estate</ex></expan></supplied></w><w><supplied reason="lost"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></supplied></w>
+                    <lb n="3"/><w lemma="pontifex">ponti<supplied reason="lost">fex</supplied></w> <w><supplied reason="lost">maxi</supplied><lb n="4" break="no"/><unclear>mus</unclear></w> <expan><w lemma="tribunicius"><abbr>t<supplied reason="lost">rib</supplied></abbr><supplied reason="lost"><ex>unicia</ex></supplied></w>
+                        <supplied reason="lost"><w><abbr>pot</abbr><ex>estate</ex></w></supplied></expan> <supplied reason="lost"><w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w></supplied>
                     <lb n="5"/><w><expan><abbr>proc</abbr><supplied reason="lost"><abbr>o</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></supplied></expan></w>
-                    <lb n="6"/><w><expan><abbr>p</abbr><ex>ater</ex></expan></w> <w><expan><abbr>p</abbr><ex>atriae</ex></expan></w> <w lemma="et">et</w> <persName type="emperor" key="philippus2"><name nymRef="Marcus"><expan><abbr><unclear>M</unclear></abbr><ex>arcus</ex></expan></name>
+                    <lb n="6"/><expan><w><abbr>p</abbr><ex>ater</ex></w> <w><abbr>p</abbr><ex>atriae</ex></w></expan> <w lemma="et">et</w> <persName type="emperor" key="philippus2"><name nymRef="Marcus"><expan><abbr><unclear>M</unclear></abbr><ex>arcus</ex></expan></name>
                     <name nymRef="Iulius"><supplied reason="lost"><expan><abbr>Iul</abbr><ex>ius</ex></expan></supplied></name>
                     <lb n="7"/><name nymRef="Philippus">Phili<supplied reason="lost">ppus</supplied></name> <w><supplied reason="lost">no</supplied><lb n="8" break="no"/>bilis<supplied reason="lost">simus</supplied></w>
                     <lb n="9"/><name nymRef="Caesar">Caes<supplied reason="lost">ar</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>

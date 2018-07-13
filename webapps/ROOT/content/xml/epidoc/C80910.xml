@@ -108,18 +108,18 @@
                         <div type="textpart" n="a" xml:lang="la">
                     <lb n="1"/><ab><persName type="emperor" key="vespasianus"><w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar">Caesar</name>
                     <lb n="2"/><name nymRef="Vespasianus">V<supplied reason="lost">e</supplied>sp<supplied reason="lost">a</supplied>sianu<supplied reason="lost">s</supplied></name>
-                    <lb n="3" break="no"/><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName> <w><expan><abbr>pont</abbr><ex>ifex</ex></expan></w>
-                    <w><expan><abbr>ma<supplied reason="lost">x</supplied></abbr><ex>imus</ex></expan></w> 
-                    <lb n="4"/><w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w>
-                    <w><expan><abbr>pot</abbr><ex>estate</ex></expan></w> <num value="3">II<supplied reason="lost">I</supplied></num>
+                    <lb n="3" break="no"/><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName> <expan><w><abbr>pont</abbr><ex>ifex</ex></w>
+                    <w><abbr>ma<supplied reason="lost">x</supplied></abbr><ex>imus</ex></w></expan>
+                    <lb n="4"/><expan><w><abbr>trib</abbr><ex>unicia</ex></w>
+                    <w><abbr>pot</abbr><ex>estate</ex></w></expan> <num value="3">II<supplied reason="lost">I</supplied></num>
                     <lb n="5"/><w><expan><abbr>im<supplied reason="lost">p</supplied></abbr><ex>erator</ex></expan></w>
-                    <num value="8">VIII</num> <w><expan><abbr>p</abbr><ex>ater</ex></expan></w> 
-                    <w><expan><abbr>p</abbr><ex>atriae</ex></expan></w> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
+                    <num value="8">VIII</num> <expan><w><abbr>p</abbr><ex>ater</ex></w> 
+                    <w><abbr>p</abbr><ex>atriae</ex></w></expan> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
                     <lb n="6"/><num value="3">III</num> <w><expan><abbr>desig</abbr><ex>natus</ex></expan></w> <num value="4">IIII</num>, 
                     <w lemma="per">per</w> 
                      <lb n="7"/><persName type="attested"><name nymRef="Quintus"><expan><abbr>Q</abbr><ex>uintum</ex></expan></name> <name nymRef="Paconius">Paconium</name>
                     <lb n="8" /><name nymRef="Agrippinus">Agrippinum</name></persName> <w><expan><abbr>leg</abbr><ex>atum</ex></expan></w>
-                    <lb n="9"/><w lemma="suus">suum</w> <w><expan><abbr>p</abbr><ex>opulo</ex></expan></w> <placeName type="ethnic"><w lemma="Romanus"><expan><abbr>R</abbr><ex>omano</ex></expan></w></placeName> 
+                    <lb n="9"/><w lemma="suus">suum</w> <expan><w><abbr>p</abbr><ex>opulo</ex></w> <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName></expan> 
                               <w>hortos</w>
                     <lb n="10"/><w><supplied reason="lost">restitui</supplied>t</w> <space quantity="3" unit="character"/> 
                 </ab></div>
