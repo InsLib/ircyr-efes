@@ -154,7 +154,7 @@
                     <w><expan><abbr>put</abbr><ex>estate</ex></expan></w> <num value="3">III</num> <note>sic</note>
                     <lb n="5"/><w><expan><abbr>imp</abbr><ex>erator</ex></expan></w>
                     <num value="8">VIII</num>
-                   <w><expan><abbr>p</abbr><ex>ater</ex></expan></w> <w><expan><abbr>p</abbr><ex>atriae</ex></expan></w>
+                   <expan><w lemma="pater"><abbr>p</abbr><ex>ater</ex></w> <w lemma="patria"><abbr>p</abbr><ex>atriae</ex></w></expan>
                     <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
                     <lb n="6"/><num value="3">III</num> <w><expan><abbr>desig</abbr><ex>natus</ex></expan></w>
                     <num value="4">IV</num> <w lemma="per">per</w>

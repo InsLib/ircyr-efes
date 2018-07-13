@@ -120,8 +120,8 @@
                     <lb n="4"/><w><expan><abbr>max</abbr><ex>imus</ex></expan></w> <w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w>
                     <w><expan><abbr>pot</abbr><ex>estate</ex></expan></w> <num value="4">IIII</num>
                     <lb n="5"/><w><expan><abbr>imp</abbr><ex>erator</ex></expan></w>
-                    <num value="8">VIII</num> <w><expan><abbr>p</abbr><ex>ater</ex></expan></w> 
-                    <w><expan><abbr>p</abbr><ex>atriae</ex></expan></w> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
+                    <num value="8">VIII</num> <expan><w lemma="pater"><abbr>p</abbr><ex>ater</ex></w> 
+                    <w lemma="patria"><abbr>p</abbr><ex>atriae</ex></w></expan> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
                     <num value="4">IIII</num>
                     <lb n="6"/><w lemma="per">per</w> <persName type="attested"><name nymRef="Quintus"><expan><abbr>Q</abbr><ex>uintum</ex></expan></name> <name nymRef="Paconius">Paconi<lb n="7" break="no"/>um</name>
                     <name nymRef="Agrippinus">Agrippinum</name></persName><lb n="8"/><w><expan><abbr>leg</abbr><ex>atum</ex></expan></w>
