@@ -108,10 +108,7 @@
          <change when="2009-05-11" who="GB">mailmerged: created from template</change>
       </revisionDesc>
    </teiHeader><facsimile><graphic url="JMR_686_001" decls="#photograph"><desc>Face a (Department of Antiquities, F 872)</desc></graphic>
-      <graphic url="JMR_686_002" decls="#photograph"><desc>Face b (Department of Antiquities, F 871)</desc></graphic><!--
-                    --><!--
-                    --><!--
-                --></facsimile>
+      <graphic url="JMR_686_002" decls="#photograph"><desc>Face b (Department of Antiquities, F 871)</desc></graphic></facsimile>
    <text>
       <body>
          

@@ -131,7 +131,7 @@
                    <lb n="1"/><persName type="attested"><name nymRef="Caius"><expan><abbr>C</abbr><ex>aio</ex></expan></name> <name nymRef="Pomponius">Pomponio</name> 
                     <lb n="2"/><name nymRef="Cordius">Co<unclear>r</unclear>dio</name></persName> <w lemma="procurator"><expan><abbr>proc</abbr><ex>uratori</ex></expan></w> 
                     <lb n="3"/><persName type="emperor" key="septimiusseverus caracalla geta"><name nymRef="Augustus"><expan><abbr>Aug<am>g<supplied reason="lost">g</supplied></am></abbr><ex>ustorum trium</ex></expan></name></persName>
-            <w lemma="noster"><expan><abbr>n<am>n<supplied reason="lost">n</supplied></am></abbr><ex>ostrorum</ex></expan></w>
+            <w lemma="noster"><expan><abbr>n<am>n<supplied reason="lost">n</supplied></am></abbr><ex>ostrorum trium</ex></expan></w>
                     <lb n="4"/> <persName type="attested"><name nymRef="Valerius">Valerius </name>
                     <lb n="5"/> <name nymRef="Valens">Valens</name></persName> <w lemma="praefectus"><expan><abbr>pr<unclear>a</unclear><supplied reason="lost">e</supplied>f</abbr><ex>ectus</ex></expan></w>
                     <lb n="6"/><w lemma="cohors"><expan><abbr>coh</abbr><ex>ortis</ex></expan></w> <supplied reason="lost"><num value="1">I</num> </supplied> <w><expan><abbr><supplied reason="lost">M</supplied>aced</abbr><ex>onicae</ex></expan></w>

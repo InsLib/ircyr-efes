@@ -119,8 +119,8 @@
                     <lb n="3"/><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name> <name nymRef="Germanicus">Germanicus</name></persName> <w lemma="pontifex"><expan><abbr>p</abbr><ex>ontifex</ex></expan></w>
                      <w lemma="magnus"><expan><abbr>m</abbr><ex>aximus</ex></expan></w> <w lemma="tribunicius"><expan><abbr>tr</abbr><ex>ibunicia</ex></expan></w>
                     <lb n="4"/><w lemma="potestas"><expan><abbr>pot</abbr><ex>estate</ex></expan></w> <num value="4">IIII</num>
-                    <w lemma="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w> <num value="3">III</num> <w lemma="pater"><expan><abbr>p</abbr><ex>ater</ex></expan></w>
-                    <w lemma="patria"><expan><abbr>p</abbr><ex>atriae</ex></expan></w> <w lemma="uia">uiam</w> <w lemma="facio"><expan><abbr>fec</abbr><ex>it</ex></expan></w>
+                    <w lemma="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w> <num value="3">III</num> <expan><w lemma="pater"><abbr>p</abbr><ex>ater</ex></w>
+                    <w lemma="patria"><abbr>p</abbr><ex>atriae</ex></w></expan> <w lemma="uia">uiam</w> <w lemma="facio"><expan><abbr>fec</abbr><ex>it</ex></expan></w>
                     <lb n="5"/><w lemma="per">per</w> <w lemma="tiro">tirones</w> <w lemma="lego">lectos</w> <w lemma="in">in</w> <w lemma="pro">pr<unclear>o</unclear><lb n="6" break="no"/>vincia</w> <placeName type="ethnic"><w lemma="Cyrenensis">Cyrenensi</w></placeName> <space quantity="3" unit="character"/>
                     <lb n="7"/><space quantity="3" unit="character"/> <num value="8">VIII</num> <space quantity="3" unit="character"/>
                 </ab>

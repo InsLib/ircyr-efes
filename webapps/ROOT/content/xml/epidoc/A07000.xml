@@ -224,8 +224,8 @@
                         <w lemma="consul"><expan><abbr>co</abbr><ex>n</ex><abbr><unclear>s</unclear></abbr><ex>ule</ex></expan></w>
                         <supplied reason="lost"><num value="16">XVI</num> <w lemma="censor">censore</w></supplied>
                         <milestone unit="block"/> <w lemma="perpetuus"><unclear>p</unclear>erpe<milestone unit="bay"/><supplied reason="lost">tuo</supplied></w>
-                        <supplied reason="lost"><w lemma="pater"><expan><abbr>p</abbr><ex>atre</ex></expan></w>
-                            <w lemma="patria"><expan><abbr>p</abbr><ex>atriae</ex></expan></w></supplied>
+                        <supplied reason="lost"><expan><w lemma="pater"><abbr>p</abbr><ex>atre</ex></w>
+                            <w lemma="patria"><abbr>p</abbr><ex>atriae</ex></w></expan></supplied>
                         <supplied reason="lost" cert="low"><space quantity="4" unit="character"/></supplied>
                         <milestone unit="bay"/>
                </ab>
