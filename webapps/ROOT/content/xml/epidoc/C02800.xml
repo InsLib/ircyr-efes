@@ -132,7 +132,7 @@
                 <persName type="attested"><name nymRef="Παραιβάτας"><unclear>Π</unclear>α<unclear>ρ</unclear>αιβάτα</name></persName></persName>
                 <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> 
                 <persName type="attested"><name nymRef="Ῥοῦφος"><expan><abbr><supplied reason="lost" cert="low">Ῥο</supplied>ῦφ</abbr><ex>ος</ex></expan></name> 
-                <persName type="attested"><name nymRef="Ῥοῦφος"><expan><abbr>Ῥ<choice><corr>ο</corr><sic>ρ</sic></choice>ύφ</abbr><ex>ου</ex></expan></name></persName></persName>
+                <persName type="attested"><name nymRef="Ῥοῦφος"><expan><abbr>Ῥ<choice><corr>ο</corr><sic>ρ</sic></choice>ύφ</abbr><ex>ου</ex></expan></name></persName></persName><!-- check -->
                 <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F"><supplied reason="lost">ο</supplied>υ</seg></name> 
                 <persName type="attested"><w lemma="ὁ">τοῦ</w> <name><g ref="symbols.xml#slanting-stroke"/></name></persName></persName>
                 <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">αλφις</seg></name> 

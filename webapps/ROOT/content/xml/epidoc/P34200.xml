@@ -124,7 +124,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-            <num value="12">βι</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ"><expan><abbr>Χο</abbr><ex>ι</ex><abbr>αχὶ</abbr></expan></w></rs>
+            <num value="12">βι</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοαχὶ</w></rs> <note>sic</note>
                     <lb n="2"/> <num value="12">βι</num> <persName type="attested" key="lgpn:V1-61278"><name nymRef="Εὐφρίω">Εὐφρίω</name> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-61012"><name nymRef="Ἀθηναγόρας">Ἀθηναγό<lb n="4" break="no"/><space quantity="4" unit="character"/>ρα</name></persName></persName>
             <num value="18">ιη</num>

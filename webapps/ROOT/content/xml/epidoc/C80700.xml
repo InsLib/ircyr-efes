@@ -153,7 +153,7 @@
                     <w>τὸ</w> <num value="4">δ</num> <w>διὰ</w> <persName type="attested"><name nymRef="Κόϊντος"><expan><abbr>Κ</abbr><ex>οΐντου</ex></expan></name>
                        <lb n="11"/> <name nymRef="Πακώνιος	"><supplied reason="lost">Π</supplied>ακωνίου</name>
                     <name nymRef="Ἀγριππῖνος">Ἀγρι<supplied reason="lost">π</supplied><lb n="12" break="no"/><supplied reason="lost">π</supplied>είνου</name></persName> <w>ἰδίου</w> <w><supplied reason="lost">π</supplied><lb n="13" break="no"/><supplied reason="lost">ρ</supplied>εσβευτοῦ</w>
-                    <w><expan><abbr>δ</abbr><ex>ήμῳ</ex></expan></w> <placeName type="ethnic"><w lemma="Ῥωμαῖος"><expan><abbr>Ῥ</abbr><ex>ωμαίων</ex></expan></w></placeName>
+                  <expan><w lemma="δῆμος"><abbr>Δ</abbr><ex>ήμῳ</ex></w> <placeName type="ethnic"><w lemma="Ῥωμαῖος"><abbr>Ῥ</abbr><ex>ωμαίων</ex></w></placeName></expan>
                    <lb n="14"/><w><supplied reason="lost">τὸ</supplied></w> <placeName>Π<supplied reason="lost">το</supplied>λυμαῖο<supplied reason="lost">ν</supplied></placeName>
                    <lb n="15"/><w><supplied reason="lost">ἀπ</supplied>εκ<supplied reason="lost">ατ</supplied>έστησε<supplied reason="lost">ν</supplied></w> 
                 </ab>

@@ -249,7 +249,7 @@
                         <lb n="36"/><w lemma="καί">καὶ</w> <w><unclear>κά</unclear><supplied reason="lost">ϲτρου</supplied></w> <w><supplied reason="lost">τουτέϲ</supplied>τι<supplied reason="lost">ν</supplied></w> 
                         <w lemma="εἰ"><supplied reason="lost">ε</supplied>ἰ</w> <w lemma="μέν">μὲ<supplied reason="lost">ν</supplied></w> 
                         <supplied reason="lost"><w>ἕκατον </w>
-                            <w>εἶεν</w></supplied> <w lemma="ἀνήρ"><expan><abbr><supplied reason="lost">ἄν</supplied>δρ</abbr><ex>εϲ</ex></expan></w> 
+                            <w>εἶεν</w></supplied> <w lemma="ἀνήρ"><expan><abbr><supplied reason="lost">ἄν</supplied>δρ</abbr><ex>εϲ</ex></expan></w> <!-- check -->
                         <lb n="37"/><w lemma="ὁ">τοὺϲ</w> <w>π<supplied reason="lost">ρώτουϲ</supplied></w>
                         <w lemma="πέντε"><supplied reason="lost">πέν</supplied><unclear>τ</unclear>ε</w> 
                         <w lemma="εἰ">εἰ</w> <w lemma="δέ">δὲ</w> <w lemma="καί">κα<supplied reason="lost">ὶ</supplied></w> 
