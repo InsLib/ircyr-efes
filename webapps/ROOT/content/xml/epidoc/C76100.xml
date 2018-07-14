@@ -239,7 +239,7 @@
                  </div>
                  <div subtype="text" n="iv" type="textpart">
                      <ab>
-                                <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Ὀλυμπια-"<seg part="I">Ὀλυμπια</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                                <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Ὀλυμπια-"><seg part="I">Ὀλυμπια</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                      </ab>
                  </div>
              </div>
