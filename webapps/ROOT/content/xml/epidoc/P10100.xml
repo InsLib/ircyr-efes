@@ -136,7 +136,7 @@
             <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>iei</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" quantity="12" unit="character" precision="low"/><w part="F">ssunt</w> <w part="I" lemma="deduco">deduca</w><gap reason="lost" extent="unknown" unit="character"/><w/><persName type="attested"><supplied reason="lost"><name nymRef="Cnaeus"><expan><abbr>Cn</abbr><ex>aeus</ex></expan></name> <name nymRef="Cornelius">Cornelius</name></supplied>
+                    <lb n="2"/><gap reason="lost" quantity="12" unit="character" precision="low"/><w part="F">ssunt</w> <w part="I" lemma="deduco">deduca</w><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><supplied reason="lost"><name nymRef="Cnaeus"><expan><abbr>Cn</abbr><ex>aeus</ex></expan></name> <name nymRef="Cornelius">Cornelius</name></supplied>
                     <lb n="3"/><name nymRef="Lentulus"><supplied reason="lost">Lent</supplied>ulus</name> <name nymRef="Publius"><expan><abbr>P</abbr><ex>ubli</ex></expan></name>
                     <w lemma="filius"><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <name nymRef="Marcelleinus">Marcelleinus</name></persName> <space quantity="1" unit="character"/> <w lemma="legatus">le<supplied reason="lost">gatus</supplied></w> <supplied reason="lost"><w lemma="propraetor">pro 
                         <expan><abbr>pr</abbr><ex>aetore</ex></expan></w></supplied><gap reason="lost" extent="unknown" unit="character"/>
