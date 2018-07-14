@@ -133,8 +133,8 @@
                    <name nymRef="Acilius">Acilium</name> <name nymRef="Strabo">Strabonem</name></persName>
                    <lb n="8"/><w><expan><abbr><supplied reason="lost">l</supplied>egat</abbr><ex>um</ex></expan></w>
                    <w lemma="suus">suum</w> <w lemma="finis">fine<unclear>s</unclear></w> <w><expan><abbr>occupa<unclear>t</unclear></abbr><ex>os</ex></expan></w>
-                   <lb n="9"/><w lemma="ab">a</w> <w lemma="priuatus">priuatis</w> <w><expan><abbr>p</abbr><ex>opulo</ex></expan></w> 
-                   <placeName type="ethnic"><w lemma="Romanus"><expan><abbr>R</abbr><ex>omano</ex></expan></w></placeName> <w lemma="restituo">r<supplied reason="lost">e</supplied>stituit</w>
+                   <lb n="9"/><w lemma="ab">a</w> <w lemma="priuatus">priuatis</w> <expan><w><abbr>P</abbr><ex>opulo</ex></w> 
+                   <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName></expan> <w lemma="restituo">r<supplied reason="lost">e</supplied>stituit</w>
                </ab>
                <ab xml:lang="grc">
                    <lb n="10"/><persName type="emperor" key="nero"><name nymRef="Νέρων">Νέρων</name> 

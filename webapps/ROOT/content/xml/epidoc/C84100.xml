@@ -154,8 +154,8 @@
                     <lb n="7"/><w lemma="per">per</w> <g ref="symbols.xml#stop"/> <persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>ucium</ex></expan></name>
                         <name nymRef="Acilius">Acilium</name> <g ref="symbols.xml#stop"/> <name nymRef="Strabo">Strabonem</name></persName>
                     <lb n="8"/><w><expan><abbr>leg</abbr><ex>atum</ex></expan></w> <w lemma="suus">suum</w> <g ref="symbols.xml#stop"/> <w lemma="finis">fines</w> <g ref="symbols.xml#stop"/> <w lemma="occupo">occu<lb n="9" break="no"/><supplied reason="lost">p</supplied>atos</w> <g ref="symbols.xml#stop"/> <w lemma="ab">a</w> <g ref="symbols.xml#stop"/> <w lemma="priuatus">priuatis</w>
-                    <w><expan><abbr>p</abbr><ex>opulo</ex></expan></w> 
-                    <placeName type="ethnic"><w lemma="Romanus"><expan><abbr>R</abbr><ex>omano</ex></expan></w></placeName>
+                 <expan><w><abbr>P</abbr><ex>opulo</ex></w> 
+                    <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName></expan>
                     <w lemma="res">res<lb n="10" break="no"/><supplied reason="lost">ti</supplied>tuit</w> <space quantity="1" unit="character"/> <g ref="symbols.xml#leaf"/> <space quantity="1" unit="character"/>
                </ab>
                <ab xml:lang="grc">

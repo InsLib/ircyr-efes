@@ -213,11 +213,11 @@
                             <del rend="erasure"><name nymRef="Domitianus">Do<milestone unit="bay"/><supplied reason="lost">mitiano</supplied></name></del>
                             <supplied reason="lost"><milestone unit="block"/> <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usto</ex></expan></name></supplied>
                         </persName>
-                            <milestone unit="bay"/> <w lemma="pontifex"><expan><abbr>pont</abbr><ex>ifice</ex></expan></w>
-                            <supplied reason="lost"><w lemma="magnus"><expan><abbr>max</abbr><ex>imo</ex></expan></w>
-                                <milestone unit="block"/></supplied>
-                        <w lemma="tribunicius"><expan><abbr><supplied reason="lost">t</supplied>rib</abbr><ex>unicia</ex></expan></w>
-                        <milestone unit="bay"/> <w lemma="potestas"><expan><abbr><unclear>pot</unclear></abbr><ex>estate</ex></expan></w>
+                            <milestone unit="bay"/> <expan><w lemma="pontifex"><abbr>pont</abbr><ex>ifice</ex></w>
+                            <supplied reason="lost"><w lemma="magnus"><abbr>max</abbr><ex>imo</ex></w></supplied></expan>
+                                <milestone unit="block"/>
+                      <expan> <w lemma="tribunicius"><abbr><supplied reason="lost">t</supplied>rib</abbr><ex>unicia</ex></w>
+                        <milestone unit="bay"/> <w lemma="potestas"><abbr><unclear>pot</unclear></abbr><ex>estate</ex></w></expan>
                         <num value="11"><hi rend="supraline">XI</hi></num> 
                   <w lemma="imperator"><expan><abbr>I<unclear>mp</unclear></abbr><ex>eratore</ex></expan></w>
                         <milestone unit="block"/> <num value="22"><hi rend="supraline">XXII</hi></num>

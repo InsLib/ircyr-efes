@@ -159,7 +159,7 @@
                     <lb n="6"/><num value="3">III</num> <w><expan><abbr>desig</abbr><ex>natus</ex></expan></w>
                     <num value="4">IV</num> <w lemma="per">per</w>
                     <lb n="7"/><persName type="attested"><name nymRef="Quintus"><expan><abbr>Q</abbr><ex>uintum</ex></expan></name> <name nymRef="Paconius">Paconium</name> <name nymRef="Agrippinus">A<lb n="5" break="no"/>grippeinum</name></persName> <w lemma="legatus">le<lb n="6" break="no"/>gatum</w>
-                    <w lemma="suus">suum</w><lb n="7"/><w lemma="populus">populo</w> <placeName type="ethnic"><w lemma="Romanus"><expan><abbr>R</abbr><ex>omano</ex></expan></w></placeName>
+                    <w lemma="suus">suum</w><lb n="7"/><w lemma="populus">Populo</w> <placeName type="ethnic"><w lemma="Romanus"><expan><abbr>R</abbr><ex>omano</ex></expan></w></placeName>
                     <lb n="8"/><placeName>Ptolmaeum</placeName> <w lemma="restituo">restituit</w>
                 </ab></div><div xml:lang="grc" type="textpart"><ab>
                     <lb n="9"/><persName type="emperor" key="vespasianus"><w><supplied reason="lost">Αὐτοκράτωρ</supplied></w>

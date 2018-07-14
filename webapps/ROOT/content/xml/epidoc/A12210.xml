@@ -137,8 +137,8 @@
                 <name nymRef="Acilius">Acil<supplied reason="lost">ium</supplied></name>
 <lb n="10"/><name nymRef="Strabo">Strabonem</name></persName> <w>l<supplied reason="lost">egatum</supplied></w>
 <lb n="11"/><w lemma="suus">suum</w> <w lemma="finis">fines</w> <w><supplied reason="lost">oc</supplied><lb break="no" n="12"/>cupatos</w> <w lemma="ab">a</w> <w lemma="priuatus">pr<unclear>iu</unclear><supplied reason="lost">atis</supplied></w>
-<lb n="13"/><w><expan><abbr>p</abbr><ex>opulo</ex></expan></w> 
-                <placeName type="ethnic"><w lemma="Romanus"><expan><abbr>R</abbr><ex>omano</ex></expan></w></placeName> 
+<lb n="13"/><expan><w><abbr>P</abbr><ex>opulo</ex></w> 
+                <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName> </expan>
                 <w lemma="restituo">restitui<supplied reason="lost">t</supplied></w>
 <lb n="13a"/><space quantity="1" unit="line"/>
                     </ab>

@@ -118,8 +118,8 @@
             <div type="edition" xml:space="preserve">
         	<div type="textpart" xml:lang="la">
                <ab>
-                    <lb n="1"/><expan><w lemma="dominus"><abbr>D<am>D<supplied reason="lost">D</supplied></am></abbr><ex>ominis</ex></w></expan>  
-                   <expan><w lemma="noster"><expan><abbr><am><supplied reason="lost">N</supplied>NN</am></abbr><ex>nostris tribus</ex></expan></w></expan> 
+                    <lb n="1"/><expan><w lemma="dominus"><abbr>D<am>D<supplied reason="lost">D</supplied></am></abbr><ex>ominis</ex></w> 
+                   <w lemma="noster"><abbr><am><supplied reason="lost">N</supplied>NN</am></abbr><ex>nostris tribus</ex></w></expan> 
                     <lb n="2"/><persName type="emperor" key="constantinus"><name nymRef="Flavius"><expan><abbr>Fl</abbr><ex>avio</ex></expan></name>
                         <name nymRef="Valerius"><expan><abbr>Val</abbr><ex>erio</ex></expan></name>
                         <name nymRef="Constantinus">C<supplied reason="lost">on</supplied>sta<supplied reason="lost">ntino</supplied></name>

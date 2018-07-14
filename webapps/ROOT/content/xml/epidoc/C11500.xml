@@ -199,11 +199,11 @@
                         <persName type="attested" key="lgpn:V1-62699"><name nymRef="Ἀλέξανδρος">Ἀλεξάνδρω</name></persName></persName> 
                     <lb n="24"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name>
                         <name nymRef="Οὔλπιος">Οὔλπιος</name> <name nymRef="Λέων">Λέων</name></persName> 
-                    <space quantity="5" unit="character"/> <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λούκι</abbr><ex>ο</ex><abbr>ς</abbr></expan></name>
+                    <space quantity="5" unit="character"/> <persName type="attested" key="lgpn:V1-64831"><name nymRef="Λούκις">Λούκις</name>
                         <name nymRef="Τελεσίδας">Τελεσίδας</name></persName> 
                     <lb n="25"/><persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name>
                         <name nymRef="Κλαύδιος">Κλαύδιος</name> <name nymRef="Κάνδιδος">Κάνδιδος</name></persName> 
-                    <space quantity="5" unit="character"/> <persName type="attested"><name nymRef="Λούκις"><expan><abbr>Λούκι</abbr><ex>ο</ex><abbr>ς</abbr></expan></name>
+                    <space quantity="5" unit="character"/> <persName type="attested" key="lgpn:V1-64829"><name nymRef="Λούκις">Λούκις</name>
                        <persName type="attested" key="lgpn:V1-62659"><name nymRef="Αἰμίλιος">Αἰνιλίω</name><!-- check --></persName></persName>
                     <lb n="26"/><persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>άιος</ex></expan></name>
                         <name nymRef="Ἰούλιος">Ἰούλιος</name> <name nymRef="Βιτάλις">Βειτάλις</name></persName>
@@ -267,7 +267,7 @@
                         <name nymRef="Κλαύδιος">Κλαύδιος</name></persName> 
                     <persName type="attested"><name nymRef="Πολλίων">Πο<supplied reason="lost">λλ</supplied>ίων</name></persName>
                     <space quantity="5" unit="character"/> 
-                    <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λούκι</abbr><ex>ο</ex><abbr>ς</abbr></expan></name>
+                    <persName type="attested" key="lgpn:V1-64830"><name nymRef="Λούκις">Λούκις</name>
                         <persName type="attested"><name nymRef="Μᾶρκος">Μάρκω</name></persName></persName> 
                     <lb n="43"/><persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>άιος</ex></expan></name>
                         <name nymRef="Σερουίλιος">Σερουίλιος</name>
@@ -297,7 +297,7 @@
          </div>
          
          <div type="translation" xml:space="preserve">
-             <p>. . . </p><p/>
+             <p><!-- line 24 Τελεσίδας lgpn VI 65780 has  Τέλεσις -->. . . </p><p/>
          </div>
          
           <div type="commentary">

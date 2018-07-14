@@ -137,7 +137,7 @@
                     <w lemma="per">pe<unclear>r</unclear></w> <persName type="attested"><name nymRef="Quintus"><expan><abbr>Q</abbr><ex>uintum</ex></expan></name> <name nymRef="Paconius">Pa<lb n="5" break="no"/>conium</name> <name nymRef="Agrippinus">Agrip <space quantity="1" unit="character"/> pinu<unclear>m</unclear></name></persName>
                     <lb n="6"/><space quantity="1" unit="character"/>
                     <w><expan><abbr>leg</abbr><ex>atum</ex></expan></w> <w lemma="suus">suum</w> <w lemma="ager">agrum</w>
-                    <lb n="7"/><w><supplied reason="lost">r</supplied><unclear>eg</unclear><supplied reason="lost">i</supplied>um</w> <expan><w><abbr>p</abbr><ex>opulo</ex></w>
+                    <lb n="7"/><w><supplied reason="lost">r</supplied><unclear>eg</unclear><supplied reason="lost">i</supplied>um</w> <expan><w><abbr>P</abbr><ex>opulo</ex></w>
                     <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName></expan>
                     <w lemma="restituo">restitu<supplied reason="lost">it</supplied></w>
                  
