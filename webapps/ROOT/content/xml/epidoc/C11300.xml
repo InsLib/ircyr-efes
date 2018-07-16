@@ -132,7 +132,7 @@
                     <lb n="5"/> <persName type="attested"><name nymRef="Πρωταρχίς">Πρωταρχὶς</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Ἡρακλείδας">Ἡρακλείδα</name></persName></persName>
                     <lb n="6"/> <persName type="attested"><name nymRef="Νικαρίστα">Νικαρίστα</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Πολιάνθης">Πολιάνθευς</name></persName></persName>
                     <lb n="7"/> <persName type="attested"><name nymRef="Πέλεια">Πέλεια</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-64330"><name nymRef="Ἰάσων">Ἰάσονος</name></persName></persName>
-                    <lb n="8"/> <persName type="attested"><name nymRef="Κριτόλα">Κριτόλα</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Διονύσιος">Διονυσίω</name></persName></persName>
+                    <lb n="8"/> <persName type="attested"><name nymRef="Κριτόλα">Κριτόλα</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-63597"><name nymRef="Διονύσιος">Διονυσίω</name></persName></persName>
                     <lb n="9"/> <persName type="attested" key="lgpn:V1-63136"><name nymRef="Ἀριστοβώλα">Ἀριστοβώλα</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Σωκράτης">Σωκράτευς</name></persName></persName>
                     <lb n="10"/> <persName type="attested"><name nymRef="Καλλιβία">Καλλιβία</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-62665"><name nymRef="Αἰσχίνας">Αἰσχίνα</name></persName></persName>
                     <lb n="11"/> <persName type="attested" key="lgpn:V1-65210"><name nymRef="Ὀλυμπιάς">Ὀλυμπιὰς</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-63141"><name nymRef="Ἀριστόδαμος">Ἀριστοδάμω</name></persName></persName>
@@ -166,7 +166,7 @@
          <div type="commentary">
             <head>Commentary</head>
             <p> For other lists of priestesses of Hera, see <ref type="inscription">C08500</ref>, <ref type="inscription">C12600</ref>, <ref type="inscription">C37900</ref> 
-            </p><!-- <p>A homonym is listed as priestess of Hera in <ref type="inscription">C92800</ref>, line  5, probably
+            </p><!-- <p>A homonym is listed as priestess of Hera in <ref type="inscription">C37900</ref> ???, line  5, probably
                     not identical, however, since different names precede and follow hers there.</p>
             <p> A homonym is listed as priestess of Hera in <ref type="inscription">C08500</ref>, line  16, porbably not
                         identical, however, since different names precede and follow hers there.</p> -->

@@ -145,7 +145,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="13">ιγ</num> <persName type="attested"><name nymRef="Διονύσιος">Διονύσιος</name> <persName type="attested"><name nymRef="Σωτᾶς">Σωτᾶ</name></persName></persName>
+                    <num value="13">ιγ</num> <persName type="attested" key="lgpn:V1-63584"><name nymRef="Διονύσιος">Διονύσιος</name> <persName type="attested"><name nymRef="Σωτᾶς">Σωτᾶ</name></persName></persName>
                     <lb n="2"/><w>ἱερειτεύων</w> <w>τὰν</w> <w>κράναν</w>
                     <lb n="3"/><w>ἐπεσκεύασε</w>
                 </ab>
