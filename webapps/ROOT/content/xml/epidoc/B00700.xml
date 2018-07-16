@@ -47,7 +47,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Lunate epsilon, cursive omega, L for ἔτους.</handNote>
+                     <handNote>Lunate epsilon, cursive omega, L for ἔτους.</handNote><!-- check sigma -->
                   </handDesc>
                </physDesc>
                <history>
@@ -62,7 +62,7 @@
                      leading south to the oasis of Gialo; recorded in <date type="found">1923</date>.</p>
                   </provenance>
                         <provenance type="observed">
-                           <p>Now covered by modern houses.</p>
+                           <p>Last reported <date type="observed">1923</date>; now covered by modern houses.</p>
                         </provenance>
                      
                   
@@ -134,9 +134,11 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p>Year 82 <note>52 C.E.</note> .... of the Apameian cohort came here.</p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>For general introduction see <ref type="inscription">B00400</ref>.</p>
+            <p>For general introduction see on <ref type="inscription">B00400</ref>.</p>
             <p> line 1 82 of the Actian Era. </p>
-            <p> line 3 For the ethnic <foreign xml:lang="grc">Ἀπαμεὺς</foreign> cf. n.3 line 3 and for <foreign xml:lang="grc">ἥκω</foreign> n.3 line 1</p>
+            <p> line 3 For the ethnic <foreign xml:lang="grc">Ἀπαμεὺς</foreign> cf. <ref type="inscription">B00600</ref> line 3 and for <foreign xml:lang="grc">ἥκω</foreign> see <ref type="inscription">B00600</ref>, <ref type="inscription">B00700</ref>, 
+               ?<ref type="inscription">B00800</ref>, <ref type="inscription">B01300</ref>, <ref type="inscription">B01500</ref>, <ref type="inscription">B01900</ref>, 
+               <ref type="inscription">B02400</ref>, <ref type="inscription">B00300</ref>)</p>
          </div>
          
       </body>

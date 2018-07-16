@@ -43,7 +43,7 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="litteris scariphatis">Incised</rs> on the surface (<width>2.50</width>).</layout>
+                        <layout><rs type="execution" key="litteris scariphatis">Incised</rs> on the surface (<width>2.50</width>).<!-- check --></layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
@@ -52,7 +52,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>Findspot.</origPlace>
+                     <origPlace>Last seen <date type="observed">1923</date>; now covered by modern houses.</origPlace>
                      <origDate evidence="context" precision="low" notBefore="0001" notAfter="0100">First century C.E.</origDate>
                   </origin>
                   
@@ -62,7 +62,7 @@
                      leading south to the oasis of Gialo; recorded in <date type="found">1923</date>.</p>
                   </provenance>
                         <provenance type="observed">
-                           <p>Now covered by modern houses.</p>
+                           <p>Last reported <date type="observed">1923</date>; now covered by modern houses.</p>
                         </provenance>
                      
                   
@@ -136,8 +136,8 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p>Pollamon</p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>For general introduction see <ref type="inscription">B00400</ref>.</p>
-            <p>SEG must be right. This name is attested locally, see Index Nominum.</p>
+            <p>For general introduction see on <ref type="inscription">B00400</ref>.</p>
+            <p>SEG must be right. <!-- his name is attested locally, see Index Nominum. -->T</p>
          </div>
          
       </body>

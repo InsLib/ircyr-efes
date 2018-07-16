@@ -62,7 +62,7 @@
                      leading south to the oasis of Gialo; recorded in <date type="found">1923</date>.</p>
                   </provenance>
                         <provenance type="observed">
-                           <p>Findspot.</p>
+                           <p>Last reported <date type="observed">1923</date>; now covered by modern houses.</p>
                         </provenance>
                      
                   
@@ -142,13 +142,13 @@
          
          <div type="translation" xml:space="preserve">
             <p>Year 82 <note>52 C.E.</note>, Mecheir 7 <note>2 February</note>, Magion, <supplied reason="subaudible">son</supplied> of Artemidoros, 
-                    centurion with the Apameian cohort from Syria, I came here.</p>
+                    centurion with the Apameian cohort from Syria <!-- check -->, I came here.</p>
          </div>
          
          <div type="commentary">
             <head>Commentary</head>
-            <p>For general introduction see <ref type="inscription">B00400</ref>.</p>
-            <p> line 1 , 82 of the Actian era, Mecheir 7 (C.E. 52, February 2)</p>
+            <p>For general introduction see on <ref type="inscription">B00400</ref>.</p>
+            <!--  line 1 , 82 of the Actian era, Mecheir 7 (C.E. 52, February 2) --><p></p>
          </div>
          
       </body>

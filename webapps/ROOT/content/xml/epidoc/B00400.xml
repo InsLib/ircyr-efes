@@ -63,7 +63,7 @@
                      leading south to the oasis of Gialo; recorded in <date type="found">1923</date>.</p>
                   </provenance>
                         <provenance type="observed">
-                           <p>?Now covered by modern houses.</p>
+                           <p>Last reported <date type="observed">1923</date>; now covered by modern houses.</p>
                         </provenance>
                      
                   
@@ -127,7 +127,7 @@
                     <lb n="1"/><w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἔτουϲ</ex></expan></w> 
                     <num value="56">νϛ</num> <persName type="attested"><name nymRef="Ὦλος"><expan><abbr><orig><unclear>Ὦ</unclear></orig></abbr><ex>λοϲ</ex></expan></name>
                     <gap reason="lost" quantity="2" unit="character"/><name><seg part="F">ϲτρά<unclear>τ</unclear>ι<lb n="2" break="no"/>οϲ</seg></name> <name nymRef="Λονγεῖνος">Λονγεῖνοϲ</name></persName> 
-                    <lb n="3"/><w>ϲτρατ<unclear>ωρ</unclear></w><gap reason="lost" quantity="2" unit="character"/><orig>ρ<unclear>ο</unclear></orig>
+                    <lb n="3"/><w lemma="στράτωρ">ϲτράτ<unclear>ωρ</unclear></w><gap reason="lost" quantity="2" unit="character"/><orig>ρ<unclear>ο</unclear></orig>
                     <lb n="4"/><gap reason="lost" quantity="6" unit="character"/><orig>τ</orig><gap reason="lost" quantity="3" unit="character"/><orig><unclear>υ</unclear>ν</orig><gap reason="lost" quantity="1" unit="character"/>
                 </ab>
 </div>
@@ -153,29 +153,29 @@
             <head>Commentary</head>
             <p>Items in this series dated with reasonable certainty range from C.E. 15/16
                (<ref type="inscription">B02700</ref><!-- , but XIV may be of B.Caputo 3-2 -->), to C.E. 51/52 (<ref type="inscription">B00600</ref>, 
-               <ref type="inscription">B00700</ref>,V)</p>
-               <p>For the identification of Agedabia with the Corniclanum of the Peutinger Table, see. R. G. Goodchild, JRS XLI (1951) 16; for the importance 
+               <ref type="inscription">B00700</ref>, V)</p>
+               <p>For the identification of Agedabia with the Corniclanum of the Peutinger Table, see R. G. Goodchild, JRS XLI (1951) 16; for the importance 
                   of its wells and its position at the junction of the coast road with a caravan track to Gialo, see also A. Abdussaid, LA, I (1964) 115 and D. 
                   whitehouse RSLS III (1972) 13. The texts indicate the presence of a Roman garrison in the first century C.E.. Goodchild originally conjectured 
-                  that the Roman fort underlay the Fatimad fort, but Abdussaid found no signs of any Roman occupation there; it may in fact have been on or near 
-                  the site of the Fatimid Mosque. See ....  </p>
-            <p> Many of the inscribers record that they were soldiers (<ref type="inscription">B00400</ref>, <ref type="inscription">B00600</ref>, <ref type="inscription">B00700</ref>, 
+                  that the Roman fort underlay the Fatimid fort, but Abdussaid found no signs of any Roman occupation there; it may in fact have been on or near 
+                  the site of the Fatimid Mosque. <!-- See ....  -->  Many of the inscribers record that they were soldiers (<ref type="inscription">B00400</ref>, <ref type="inscription">B00600</ref>, <ref type="inscription">B00700</ref>, 
                <ref type="inscription">B01200</ref>, <ref type="inscription">B01500</ref>, <ref type="inscription">B01900</ref>, <ref type="inscription">B02100</ref>) and a number that they were 
                Syrians (<ref type="inscription">B00900</ref>, <ref type="inscription">B01300</ref>, <ref type="inscription">B02300</ref>) and/or from Antioch (<ref type="inscription">B01000</ref>)
                or Apamea (<ref type="inscription">B00600</ref>, <ref type="inscription">B00700</ref>, <ref type="inscription">B01200</ref>). Since few or none were Roman citizens, 
-               <bibl><author>F. Cumont</author>, <title>Syria VIII (1927) 84</title></bibl> was clearly right to argue that they belonged to 
+               <bibl><author>F. Cumont</author>, <title>Syria VIII (1927) 84</title></bibl>, was clearly right to argue that they belonged to 
                   an auxiliary unit, perhaps recruited in Apamea. Ferri made the attractive suggestion that they first came to the Syrtics with Sulpicius Quirinius for 
-                  the Marmaric War (see introduction...), but for this there is no positive evidence. While it is probable that all the Syrians were soldiers, whether so 
+                  the Marmaric War, <!-- (see introduction...) --> but for this there is no positive evidence. While it is probable that all the Syrians were soldiers, whether so 
                   described or not, there are also inscribers whose names seem to be local (<ref type="inscription">B00500</ref>, <ref type="inscription">B01400</ref>, <ref type="inscription">B01600</ref>). 
                They may be local recruits into the unit; but it is possible that
-                  the site had some significance as a place of pilgrimage (it is near the walls, which may have been sacred to the Nymphs) and so attracted civilians 
-                  as well as military inscriber. The recurrence of the formula ἥκω in the texts (<ref type="inscription">B00600</ref>, <ref type="inscription">B00700</ref>, 
+                  the site had some significance as a place of pilgrimage (it is near the walls <!-- check: perhaps wells? -->, which may have been sacred to the Nymphs) and so attracted civilians 
+                  as well as military inscribers. The recurrence of the formula ἥκω in the texts (<ref type="inscription">B00600</ref>, <ref type="inscription">B00700</ref>, 
                ?<ref type="inscription">B00800</ref>, <ref type="inscription">B01300</ref>, <ref type="inscription">B01500</ref>, <ref type="inscription">B01900</ref>, 
                <ref type="inscription">B02400</ref>, <ref type="inscription">B00300</ref>) would be consonant with this 
                   interpretation. </p>
               
-            <p> <!-- The date and the name are beyond recovery; but  -->Τhe man's Syrian origin seems clear, though neither <foreign xml:lang="grc">Ἀντιοχεὺϲ</foreign>  
-                    nor <foreign xml:lang="grc">Ἀπαμεὺϲ</foreign> quite fit the traces in lines4-5. 
+            <p> <!-- The date and the name are beyond recovery; but  Τhe man's Syrian origin seems clear, though neither <foreign xml:lang="grc">Ἀντιοχεὺϲ</foreign>  
+               nor <foreign xml:lang="grc">Ἀπαμεὺϲ</foreign> quite fit the traces in lines4-5.--></p>
+            <p> 
                     <foreign xml:lang="grc">Ϲτράτωρ</foreign>, if correct, indicates that he was equerry to the commanding officer 
                     and so that his unit should be at the least a <foreign xml:lang="la">cohors equitata</foreign>, if not an <foreign xml:lang="la">ala</foreign>.</p>
          </div>

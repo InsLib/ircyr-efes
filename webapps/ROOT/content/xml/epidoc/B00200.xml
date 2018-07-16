@@ -130,7 +130,7 @@
                     <orig>alii</orig> <gap reason="lost" extent="unknown" unit="character"/> <orig>ao</orig> <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="2"/><gap reason="lost" quantity="6" unit="character" precision="low"/>
                     <w lemma="praeses"><expan><abbr><unclear>p</unclear>r</abbr><ex>a</ex><abbr>esi<supplied reason="lost">de</supplied></abbr></expan></w> <w lemma="idem">eiusde<supplied reason="lost">m</supplied></w> 
-                   <lb n="3"/><w lemma="prouincia"><supplied reason="lost">prou</supplied>inciae</w> <space quantity="2" unit="character"/> <expan><supplied reason="lost"><w><abbr>d</abbr><ex>evoto</ex></w></supplied> <w><abbr>ny</abbr><ex>mine</ex></w> <w><abbr>m</abbr><ex>aiestati</ex></w> <w><abbr>q</abbr><ex>ue</ex></w></expan>
+                   <lb n="3"/><w lemma="prouincia"><supplied reason="lost">prou</supplied>inciae</w> <space quantity="2" unit="character"/> <expan><supplied reason="lost"><w><abbr>d</abbr><ex>evoto</ex></w></supplied> <w lemma="numen"><abbr>ny</abbr><ex>mine</ex></w> <w lemma="maiestas"><abbr>m</abbr><ex>aiestati</ex></w> <w><abbr>q</abbr><ex>ue</ex></w></expan>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="is"><unclear>e</unclear>ius</w> <space quantity="1" unit="character"/>
                 </ab>
 </div>
@@ -140,7 +140,7 @@
                <app loc="2">
                   <lem>eius</lem>
                   <rdg resp="#rgg1952">bius <note>restored as <supplied reason="lost" cert="low">Fla</supplied>bius</note></rdg>
-                  <rdg resp="#AE">INS <note>explained as <foreign xml:lang="la">eius</foreign></note></rdg>
+                  <rdg resp="#AE">INS <note>explained as <foreign xml:lang="la">eius</foreign></note></rdg><!-- check -->
                </app>
                 
             </listApp>
@@ -148,8 +148,8 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>line 1: Presumably  from the name of a governor, probably of Cyrenaica rather than Tripolitania (see on <ref type="inscription">B00100</ref>).</p>
-            <p>l. 3.  a previous reference to the province is implied.</p>
+            <p>Line 1: Presumably from the name of a governor, probably of Cyrenaica rather than Tripolitania (see on <ref type="inscription">B00100</ref>).</p>
+            <p>Line 3: A previous reference to the province is implied.</p>
             <p>On the formula, by this time well-established in abbreviated form, see H. Gundel, <title level="j">Epigraphica</title> XV (1953) 128f.</p>
          </div>
          

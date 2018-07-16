@@ -31,7 +31,7 @@
                      <supportDesc>
                         <support>
                            <p><material>Limestone</material> <objectType>column drum</objectType>, with a stuccoed surface, later plastered over, 
-                              presumaby during a reporganisation of the monumnet (see on <ref type="inscription">B00200</ref>.</p>
+                              presumably during a reorganisation of the monument (see on <ref type="inscription">B00200</ref>).</p>
                         </support>
                      </supportDesc>
                      <layoutDesc>
@@ -116,8 +116,8 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
              <ab>
-                    <lb n="1"/><w lemma="dominus"><supplied reason="lost">Domino</supplied></w> <w lemma="noster">nostro</w> 
-                    <lb n="2"/><persName type="emperor" key="diocletianus"><name nymRef="Diocletianus">Diocletiano</name></persName> <w lemma="imperator"><expan><abbr>imp</abbr><ex>eratori</ex></expan></w>
+                    <lb n="1"/><space quantity="4" unit="character"/><w lemma="dominus"><supplied reason="lost">Domino</supplied></w> <w lemma="noster">nostro</w> 
+                    <lb n="2"/><persName type="emperor" key="diocletianus"><name nymRef="Diocletianus">Diocletiano</name> <w lemma="imperator"><expan><abbr>imp</abbr><ex>eratori</ex></expan></w></persName>
              </ab>
          </div>
           
@@ -134,12 +134,13 @@
           
          <div type="commentary">
             <head>Commentary</head>
-            <p>Derived from one of four columns  adapted to carry statues, probably of the tetrarchs
-                    (cf. the  four columns described by P. Lacau, <title level="j">Annales du Service des Antiquités de l'égypt</title> XXXIV (1934) 17f.) 
-                    and intended as frontier markers (for a parallel see  D. Schlumberger, <title level="j">Syria</title> XX (1939) 43f., which suggests that the imperial names would be in the dative case. </p>
-            <p> On the site see Goodchild. 94f.</p>
-            <p> The language originally suggested that this was a monument of Tripolitania; but it is now known that Latin was common in official texts of early 
-                IV century Ptolemais, so that there is no strong reason against associating it with the much nearer Cyrenaica. </p>
+            <p> On the site see Goodchild, op.cit., 94f. </p>
+            <p>Derived from one of four columns adapted to carry statues, probably of the tetrarchs,  and intended as frontier markers; 
+               for a parallel see  D. Schlumberger, <title level="j">Syria</title> XX (1939) 43f., which suggests that the imperial names would be in the dative case. 
+               For other groups of 4 terarchic columns see Luxor  (P. Lacau, <title level="j">Annales du Service des Antiquités de l'Égypte</title> XXXIV (1934) 17f. <!-- check.  -->)</p>
+           
+            <p> The use of Latin originally suggested that this was a monument of Tripolitania; but it is now known that Latin was common in official texts of early 
+                fourth century Ptolemais, so that there is no strong reason against associating it with the much nearer Cyrenaica. </p>
             <p> The text was plastered over in antiquity, presumably in a post-Diocletianic reorganisation of the monument; cf on <ref type="inscription">B00200</ref>.</p>
          </div>
          
