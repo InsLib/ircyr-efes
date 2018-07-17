@@ -41,17 +41,40 @@
       <xsl:apply-templates select="str[@name='index_numeral_value']"/>
       <xsl:apply-templates select="arr[@name='language_code']"/>
       <xsl:apply-templates select="arr[@name='index_instance_location']" />
+      <xsl:apply-templates select="str[@name='index_symbol_glyph']"/>
     </tr>
   </xsl:template>
-
+  
+  <!-- separate results by language -->
   <xsl:template match="response/result">
-    <table class="index">
+    <table class="index tablesorter"> 
+      <xsl:apply-templates select="/aggregation/index_metadata/tei:div/tei:div[@type='headings']" />
+      <tbody>
+        <xsl:apply-templates select="doc[arr[@name='language_code']='la']" />
+      </tbody>
+    </table>
+    <table class="index tablesorter">
+      <xsl:apply-templates select="/aggregation/index_metadata/tei:div/tei:div[@type='headings']" />
+      <tbody>
+        <xsl:apply-templates select="doc[arr[@name='language_code']='grc']" />
+      </tbody>
+    </table>
+  </xsl:template>
+  
+  
+  <!-- original index result template
+    
+    <xsl:template match="response/result">
+    <table class="index tablesorter"> 
       <xsl:apply-templates select="/aggregation/index_metadata/tei:div/tei:div[@type='headings']" />
       <tbody>
         <xsl:apply-templates select="doc" />
       </tbody>
     </table>
   </xsl:template>
+    
+  
+  -->
 
   <xsl:template match="str[@name='index_abbreviation_expansion']">
     <td>
@@ -119,6 +142,12 @@
     <li>
       <xsl:value-of select="."/>
     </li>
+  </xsl:template>
+  
+  <xsl:template match="str[@name='index_symbol_glyph']">
+    <td>
+      <xsl:value-of select="."/>
+    </td>
   </xsl:template>
 
   <xsl:template match="arr[@name='index_instance_location']/str">

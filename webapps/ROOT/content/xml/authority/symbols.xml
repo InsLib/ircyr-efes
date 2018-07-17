@@ -252,13 +252,23 @@
                     </charProp>
                 </glyph>
                 <glyph xml:id="barley-ear">
-                    <charProp>
+                    <charProp >
                         <localName>glyph-display</localName>
                         <value/>
                     </charProp>
                     <charProp>
                         <localName>text-display</localName>
                         <value>barley-ear</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="centuria">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value>&#x1019b;</value>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>centuria</value>
                     </charProp>
                 </glyph>
             </charDecl>
