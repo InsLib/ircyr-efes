@@ -50,11 +50,11 @@
                      
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1172">South of Berenike</placeName>:
                      in a disused Arab cemetery at <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1243 ">Bir Shathan</placeName> c.20 km South of 
-                     <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1190">Corniclanum/Ajdabia</placeName>;
+                     Corniclanum/Ajdabia;
                               found in <date type="found">1972</date>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p>Ajdabia: in the Resthouse of the Department of Antiquities.</p>
+                           <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1190">Corniclanum/Ajdabia</placeName>: in the Resthouse of the Department of Antiquities.</p>
                         </provenance>
                      
                   
