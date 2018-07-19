@@ -130,25 +130,11 @@
                     <lb n="3"/><placeName type="ethnic"><w lemma="Σύρος">Ϲύροϲ</w></placeName>
                 </ab>
          </div>
-         <div type="apparatus">
-            <head>Apparatus</head><!-- check -->
-            <listApp>
-                    <app loc="1">
-                  <rdg>Διονυ<supplied reason="lost">σι</supplied>ό<supplied reason="lost">δωρο</supplied>ϲ</rdg>
-               </app>
-            <app loc="2">
-                  <rdg>Ἀντιόχου</rdg>
-               </app>
-            <app loc="3">
-                  <rdg>Ϲύροϲ <!--<note>cf. n. 3, line 3</note>-->
-                  </rdg>
-               </app>
-            </listApp>
-         </div>
+        
          
          <div type="translation" xml:space="preserve">
             <head>Translation</head>
-            <p>Dionysodoros son of Antiochos, the Syrian.</p>
+            <p>Dionysodoros son of Antiochos, a Syrian.</p>
          </div>
          
          <div type="commentary">

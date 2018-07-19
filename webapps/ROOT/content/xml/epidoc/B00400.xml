@@ -135,15 +135,13 @@
             <head>Apparatus</head>
             <listApp>
                <app loc="1">
-                  <rdg resp="#ferri1926"><expan><ex>ἔτουϲ</ex></expan>  Ο<gap reason="lost" quantity="1" unit="character"/>
-                     <supplied reason="lost">E</supplied>υϲτρατι </rdg><note> who ignored the first two characters, read ϲ as (ἔτουϲ), then Ο[.] giving 
+                  <rdg resp="#ferri1926">L Ο[ . . .E]ὐϲτράτι</rdg><note> who ignored the first two characters, read ϲ as (ἔτουϲ), then Ο[.] giving 
                         70+ of the Actian era = C.E. 39/40+.</note>
-                  <rdg resp="#SEG"><expan><ex>ἔτουϲ</ex></expan> ΟϹΛΥ ϲτρατι</rdg>
+                  <rdg resp="#SEG">Λ ΟϹΛΥ ϲτρατι</rdg>
                </app>
             <app loc="3">
                   <rdg resp="#ferri1926">ϲτράτον</rdg>
-                  <rdg resp="#SEG"><expan><abbr>ϲτρατ</abbr><ex>ι</ex><abbr>ώ<supplied reason="lost">τηϲ</supplied></abbr></expan> 
-                        <supplied reason="lost">Ϲύ</supplied>ρο<supplied reason="lost">ϲ</supplied></rdg>
+                  <rdg resp="#SEG">ϲτρατ(ι)ώ[τηϲ Ϲύ]ρο[ϲ]</rdg>
                </app>
                 </listApp>
          </div>
@@ -156,7 +154,7 @@
                <ref type="inscription">B00700</ref>, V)</p>
                <p>For the identification of Agedabia with the Corniclanum of the Peutinger Table, see R. G. Goodchild, JRS XLI (1951) 16; for the importance 
                   of its wells and its position at the junction of the coast road with a caravan track to Gialo, see also A. Abdussaid, LA, I (1964) 115 and D. 
-                  whitehouse RSLS III (1972) 13. The texts indicate the presence of a Roman garrison in the first century C.E.. Goodchild originally conjectured 
+                  ϡhitehouse RSLS III (1972) 13. The texts indicate the presence of a Roman garrison in the first century C.E.. Goodchild originally conjectured 
                   that the Roman fort underlay the Fatimid fort, but Abdussaid found no signs of any Roman occupation there; it may in fact have been on or near 
                   the site of the Fatimid Mosque. <!-- See ....  -->  Many of the inscribers record that they were soldiers (<ref type="inscription">B00400</ref>, <ref type="inscription">B00600</ref>, <ref type="inscription">B00700</ref>, 
                <ref type="inscription">B01200</ref>, <ref type="inscription">B01500</ref>, <ref type="inscription">B01900</ref>, <ref type="inscription">B02100</ref>) and a number that they were 
@@ -167,7 +165,7 @@
                   the Marmaric War, <!-- (see introduction...) --> but for this there is no positive evidence. While it is probable that all the Syrians were soldiers, whether so 
                   described or not, there are also inscribers whose names seem to be local (<ref type="inscription">B00500</ref>, <ref type="inscription">B01400</ref>, <ref type="inscription">B01600</ref>). 
                They may be local recruits into the unit; but it is possible that
-                  the site had some significance as a place of pilgrimage (it is near the walls <!-- check: perhaps wells? -->, which may have been sacred to the Nymphs) and so attracted civilians 
+                  the site had some significance as a place of pilgrimage (it is near the wells, which may have been sacred to the Nymphs) and so attracted civilians 
                   as well as military inscribers. The recurrence of the formula ἥκω in the texts (<ref type="inscription">B00600</ref>, <ref type="inscription">B00700</ref>, 
                ?<ref type="inscription">B00800</ref>, <ref type="inscription">B01300</ref>, <ref type="inscription">B01500</ref>, <ref type="inscription">B01900</ref>, 
                <ref type="inscription">B02400</ref>, <ref type="inscription">B00300</ref>) would be consonant with this 
