@@ -19,7 +19,6 @@
   <xsl:template match="/">
     <add>
       <xsl:for-each-group select="//tei:date[@type='life-span'][ancestor::tei:div/@type='edition']" group-by="@dur">
-        <xsl:sort select="@dur" data-type="number"/>
         <doc>
           <field name="document_type">
             <xsl:value-of select="$subdirectory" />

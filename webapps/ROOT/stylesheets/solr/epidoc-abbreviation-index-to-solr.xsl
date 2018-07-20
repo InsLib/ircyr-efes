@@ -36,6 +36,9 @@
                             </xsl:otherwise>
                         </xsl:choose>
                     </field>
+                    <field name="language_code">
+                        <xsl:value-of select="ancestor-or-self::*[@xml:lang][1]/@xml:lang"/>
+                    </field>
                     <field name="index_abbreviation_expansion">
                         <xsl:value-of select=".//text()[not(ancestor::tei:am)]"/>
                     </field>

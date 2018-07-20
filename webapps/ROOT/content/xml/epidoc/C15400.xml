@@ -105,9 +105,7 @@
          <change when="2009-06-09" who="CB">turned to XML and tidied</change>
          <change when="2009-05-11" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_736front_2" decls="#photograph"><desc>View, on the left (Joyce Reynolds, I. 12)</desc></graphic><!--
-                    --><!--
-               --></facsimile>
+   </teiHeader><facsimile><graphic url="JMR_736front_2" decls="#photograph"><desc>View, on the left (Joyce Reynolds, I. 12)</desc></graphic></facsimile>
    <text>
       <body>
          <div type="bibliography">

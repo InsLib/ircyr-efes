@@ -137,7 +137,7 @@
                         <w>ἐφηβαρχούντων</w> <persName type="attested" key="lgpn:V1-61655"><name nymRef="Τιμῶναξ">Τιμωνάκτο<unclear>υ</unclear></name>
                             <lb n="3"/><w lemma="ὁ">τοῦ</w> <persName type="attested" key="lgpn:V1-61500"><name nymRef="Νίκαθλος">Νικά<unclear>θ</unclear>λου</name></persName></persName>, 
                         <persName type="attested" key="lgpn:V1-61213"><name nymRef="Δημήτριος">Δημητρίου</name> <w lemma="ὁ">τοῦ</w> <persName type="attested" key="lgpn:V1-61521"><name nymRef="Νίκων">Νε<unclear>ί</unclear><lb n="4" break="no"/>κωνος</name></persName></persName>, 
-                        <persName type="attested" key="lgpn:V1-61617"><name nymRef="Σῖμος">Σίμου</name> <w lemma="ὁ">τοῦ</w><persName type="attested" key="lgpn:V1-61527"><name nymRef="Ξένων">Ξένωνος</name></persName></persName>, 
+                        <persName type="attested" key="lgpn:V1-61617"><name nymRef="Σῖμος">Σίμου</name> <w lemma="ὁ">τοῦ</w> <persName type="attested" key="lgpn:V1-61527"><name nymRef="Ξένων">Ξένωνος</name></persName></persName>, 
                         <w>γυ<lb n="5" break="no"/>μνασιαρχούνων</w> <persName type="attested" key="lgpn:V1-61313"><name nymRef="Θεόδωρος">θεοδώρου</name> <w lemma="ὁ">τοῦ</w> <persName type="attested" key="lgpn:V1-61504"><name nymRef="Νίκαιος">Ν<supplied reason="lost">ι</supplied><lb n="6" break="no"/>καίου</name></persName> </persName>,
                         <persName type="attested" key="lgpn:V1-61201"><name nymRef="Δεξικράτης">Δεξικ<unclear>ρ</unclear>άτους</name> <w lemma="ὁ">τοῦ</w> <persName type="attested" key="lgpn:V1-61561"><name nymRef="Πολυκλῆς">Πολύκλε<lb n="7" break="no"/>ους</name></persName></persName>, 
                         <persName type="attested" key="lgpn:V1-61653"><name nymRef="Τιμοῦχος">Τιμούχου</name> <w lemma="ὁ">τοῦ</w> <persName type="attested" key="lgpn:V1-61688"><name nymRef="Φιλόκωμος">Φιλοκώμου</name></persName></persName>, <w>ὑπ<supplied reason="lost">η</supplied></w>
@@ -229,10 +229,10 @@
                <note>a.2</note> One of the few clues to the Constitution of Ptolemais <!--, see Introduction--></p>
             <p>
                <!--,  <note> a.9</note> For the Ephebes at Ptolemais see Introduction--></p>
-            <p><note> b.i.13</note> On Ithallamon, see D. Feissel, BCH 107 (1983) 611 n.67
+            <p><note>b.i.13</note>: On Ithallamon, see D. Feissel, BCH 107 (1983) 611 n.67
                (whence <bibl><title>SEG</title> <citedRange>33.1537</citedRange></bibl>)</p>
-            <p>
-               <note> c.</note> Ephebic documents of this type at Cyrene usually conclude with a dedication to Hermes and Herakles as gods of the Gymnasium; 
+            <p><note>b.ii.5</note>: The editors read Ἀλδαμονος; but Masson, in his article on Libyan names in Cyrenaica, gives Αλλαμμονος</p>
+               <p> <note>c.</note> Ephebic documents of this type at Cyrene usually conclude with a dedication to Hermes and Herakles as gods of the Gymnasium; 
                     we have no parallel for what remains here.</p>
          </div>
          

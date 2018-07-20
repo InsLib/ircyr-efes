@@ -38,7 +38,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>1: <height>0.075</height>, lunate sigma; ii: <height>0.09</height>; iii: <height>0.08-0.09</height>; 
+                     <handNote>i: <height>0.075</height>, lunate sigma; ii: <height>0.09</height>; iii: <height>0.08-0.09</height>; 
                         iv: <height>0.08-0.14</height>, lunate sigma, omega; L for ἔτους, square digamma; v: <height>0.02-0.05</height>, lunate sigma, epsilon</handNote>
                   </handDesc>
                </physDesc>
@@ -114,10 +114,10 @@
                     </ab></div>
             <div type="textpart" n="iv"><ab>
                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="96">ϙϛ</num> <persName type="attested"><name nymRef="Καλλίμαχος">Καλλίμαχοϲ</name>
-   <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Αἰάλαν" cert="low"><supplied reason="lost">Αἰα</supplied><unclear>λ</unclear>αντω</name></persName> </persName>
+   <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Αἰάλαν" cert="low"><supplied reason="lost">Αἰα</supplied><unclear>λ</unclear>άντω</name></persName> </persName>
             </ab></div>
             <div type="textpart" n="v"><ab>
-                       <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Σέκονδος"><seg part="I"><unclear>Ϲε</unclear>κονδ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                       <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Σέκονδος"><seg part="I"><unclear>Ϲε</unclear>κό</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
                             
 </div>
@@ -126,9 +126,9 @@
          <div type="commentary">
             <head>Commentary</head>
             <p>None of these texts contain references to soldiers, so that the provisional attribution of the blocks to the fort walls must be treated with reserve; 
-            if correct, it would imply the dismantling of a military building before the construction of the newly excavated building (?late sedond to early third 
+            if correct, it would imply the dismantling of a military building before the construction of the newly excavated building (?late second to early third 
             century C.E.) and might suggest the removal of the garrison by that time.</p>
-            <p>In ii, the man is likely to be local, given the Doric form of his patronymic, which makes a local name such as Αἰάλαν more probable.</p> <p/>
+            <p>In iv, the man is likely to be local, given the Doric form of his patronymic, which makes a local name such as Αἰάλαν more probable.</p> <p/>
          </div>
          
       </body>

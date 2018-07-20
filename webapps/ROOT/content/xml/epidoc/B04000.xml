@@ -35,7 +35,7 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on the face (surviving <dimensions><width>0.48</width> <height>0.035</height></dimensions>).</layout>
+                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on the face (surviving <dimensions><width>0.48</width><height>0.035</height></dimensions>).</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
@@ -119,14 +119,14 @@
          <div type="apparatus">
             <head>Apparatus</head>
             <listApp>
-               <app loc="1"><lem>Τ</lem> <note>might be lunate</note> <rdg>Ϲ</rdg><note>.</note> 
-                  <note><foreign xml:lang="grc">Ταντος =Παντοϲ</foreign></note></app>
+               <app loc="1"><lem>Τ</lem> <note>might be lunate Ϲ.</note> </app>
             </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>It would appear that a monument (? a tomb) erected by a man of whose name only the end of the patronymic survives, was described as due in some way to the skill of the builders – an unprecendentedly sophisticated concept to appear in a country district of Cyrenaica.</p>
+            <p>It would appear that a monument (? a tomb), erected by a man of whose name only the end of the patronymic survives, 
+               was described as due in some way to the skill of the builders – an unprecendentedly sophisticated concept to appear in a country district of Cyrenaica.</p>
          </div>
          
       </body>
