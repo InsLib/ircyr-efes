@@ -108,7 +108,7 @@
       <body>
          <div subtype="editions" type="bibliography">
             <head>Bibliography</head>
-            <p>Unpublished.<!-- check Luni1976, no 9 --></p>
+            <p>Unpublished; mentioned, with no text, <bibl><ptr target="luni1976"/> p.241 no.<citedRange>9bis</citedRange> and footnote 156bis</bibl></p>
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><ab><lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="55"><unclear>ν</unclear>ε</num>
