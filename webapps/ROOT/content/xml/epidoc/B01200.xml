@@ -48,7 +48,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>A square with a point in the middle for omicron in line 1, lunate sigma, cursive omega.</handNote>
+                     <handNote>A square with a point in the middle for the first letter in line 1, lunate sigma, cursive omega.</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -119,7 +119,7 @@
             <head>Bibliography</head>
              <p> <bibl>
                   <ptr target="ferri1926"/>  <citedRange>9</citedRange>
-             </bibl>, whence <bibl>
+             with drawing and photograph</bibl>, whence <bibl>
                 <title>ΑΕ</title> <citedRange>1927.157bis</citedRange></bibl>
                <bibl>
                   <title>SEG</title> <citedRange>9.781</citedRange>
@@ -129,10 +129,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><orig><unclear>θ</unclear>υ<gap reason="lost" quantity="1" unit="character"/>του</orig> 
+                    <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
+   <lb n="1"/><orig><unclear>θ</unclear>υ<gap reason="lost" quantity="1" unit="character"/>του</orig> 
                     <w lemma="καί">καὶ</w> <persName type="attested"><name nymRef="Γάϊος">Γάϊ<unclear>οϲ</unclear></name></persName> 
-                    <lb n="2"/><w lemma="καί">και</w> <persName type="attested"><name nymRef="Ἀγρίπας">Ἀγρίπαϲ</name> <name nymRef="Πι-"><seg part="I">Πι</seg></name></persName>
-                    <lb n="3"/><gap reason="lost" quantity="3" unit="character"/><orig>να</orig><gap reason="lost" quantity="3" unit="character"/><orig><unclear>ο</unclear>υτο<unclear>ι</unclear></orig>
+                    <lb n="2"/><w lemma="καί">καὶ</w> <persName type="attested"><name nymRef="Ἀγρίπας">Ἀγρίπαϲ</name> <name nymRef="Πι-"><seg part="I">Πι</seg></name></persName>
+                    <lb n="3"/><gap reason="lost" quantity="3" unit="character"/><orig>ν<unclear>α</unclear></orig><gap reason="lost" quantity="3" unit="character"/><orig><unclear>ο</unclear>υτο<unclear>ι</unclear></orig>
                     <lb n="4"/><gap reason="lost" quantity="2" unit="character"/><persName type="attested"><name><seg part="F">ργ<unclear>ω</unclear>ν<unclear>οϲ</unclear></seg></name></persName> 
                     <w>κεντυρί<lb n="5" break="no"/>ων</w> <placeName type="ethnic"><w lemma="Ἀπαμεύς">Ἀπαμ<unclear>ε</unclear>ὺϲ</w></placeName> 
                     <w lemma="ὁ"><supplied reason="lost">τ</supplied><unclear>ῶ</unclear>ν</w> 
@@ -141,11 +142,12 @@
 </div>
          <div type="apparatus">
             <head>Apparatus</head>
-            <listApp><app><rdg resp="#ferri1926 #SEG"><note>Above line  1</note><gap reason="lost" quantity="5" unit="character"/></rdg></app>
-               <app loc="1"><lem>οϲ <note>could be ω</note></lem></app>
-               <app loc="2"><rdg resp="#SEG"><expan><abbr>Καί</abbr><ex>λιοϲ</ex></expan></rdg></app>
-               <app loc="3"><lem>οι <note>could be ω</note></lem></app>
-               <app loc="4"><rdg resp="#ferri1926 #SEG"><supplied reason="lost">Λον</supplied>γ<supplied reason="lost">εῖ</supplied>νοϲ</rdg>
+            <listApp>
+               <app loc="1"><note>The first letter might be an omicron (so Ferri, SEG). The final οϲ could be ω</note></app>
+               <app loc="2"><lem>καὶ</lem><rdg resp="#SEG">Καί(λιοϲ)</rdg></app>
+               <app loc="3"><rdg resp="#ferri1926">. . . ν . . . ουτο .</rdg><note>οι could be ω</note></app>
+               <app loc="4"><rdg resp="#ferri1926">[-λον]?γ [εῖ?]νοϲ</rdg>
+                  <rdg resp="#SEG">[Λον?]?γ<unclear>ε</unclear>[ῖ]νοϲ</rdg>
                </app>
             </listApp>
          </div>
@@ -153,9 +155,9 @@
          <div type="commentary">
             <head>Commentary</head>
             <p>For general introduction see <ref type="inscription">B00400</ref>.</p>
-            <p> line 1 Ferri supposed a preceding line lost but the photo seems to show a smooth surface above; his ΓΑΙΟϹ is not entirely clear on the print. </p>
-            <p> ΑΓΡΙΠΑϹ  is clear on the photo; SEG proposed Γάϊοϲ Καί(λιοϲ) Ἀγρίπαϲ, but it is perhaps better to suppose that a group  of friends whose names were linked by καί is recorded.</p>
-            <p> line 4f. Τhere appears to be a separate graffito here;  [Λογ]γε[ῖ]νοϲ κεντυρί/ων Ἀπαμ[εὺϲ] ἀπὸ Ϲυρίαϲ, τhe suggestion of Ferri, does not accord well with the photo.</p>
+            <p>line 1: Ferri supposed a preceding line lost but the photo seems to show a smooth surface above; his ΓΑΙΟϹ is not entirely clear on the print. </p>
+            <p>Line 2: ΑΓΡΙΠΑϹ is clear on the photo; SEG proposed Γάϊοϲ Καί(λιοϲ) Ἀγρίπαϲ, but it is perhaps better to suppose that a group of friends whose names were linked by καί is recorded.</p>
+            <p>Line 4f. Τhere appears to be a separate graffito here;  [Λογ]γε[ῖ]νοϲ κεντυρί/ων Ἀπαμ[εὺϲ τῶν] ἀπὸ [Ϲυρίαϲ], the suggestion of Ferri, does not accord well with the photo.</p>
          </div>
          
       </body>

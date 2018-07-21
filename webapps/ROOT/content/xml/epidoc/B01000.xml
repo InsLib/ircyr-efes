@@ -137,21 +137,17 @@
      
          <div type="apparatus">
             <head>Apparatus</head>
-             <listApp><app loc="1"><rdg resp="#ferri1926"><gap reason="lost" quantity="4" unit="character"/>?ω?ν</rdg>
-                 <rdg resp="#SEG"><gap reason="lost" quantity="2" unit="character"/> 
-                    <lb/><gap reason="lost" quantity="1" unit="character"/> ων</rdg></app>
-                <app loc="2"><rdg resp="#ferri1926"><gap reason="lost" quantity="3" unit="character"/>?μογένου</rdg>
-                 <rdg resp="#SEG #cumont1927"><note>corrected</note></rdg></app>
-                <app loc="3"><rdg resp="#ferri1926"><gap reason="lost" quantity="3" unit="character"/>?τι<gap reason="lost" quantity="1" unit="character"/><supplied reason="lost">ε</supplied>υϲ</rdg>
-                 <rdg resp="#SEG #cumont1927"><note>corrected</note> 
-                    <supplied reason="lost">Ἀ</supplied>ντι<supplied reason="lost">οχ</supplied>εύϲ</rdg></app>
-                <app loc="4"><rdg resp="#ferri1926"><gap reason="lost" quantity="3" unit="character"/>?υοϲ</rdg>
-                 <rdg resp="#SEG #cumont1927"><note>corrected</note> </rdg></app></listApp>
+             <listApp><app loc="1"><rdg resp="#ferri1926">. . . . ?ω?ν</rdg>
+                 <rdg resp="#SEG">.. / . ων</rdg></app>
+                <app loc="2"><rdg resp="#ferri1926"> . . . . ?μογένου</rdg></app>
+                <app loc="3"><rdg resp="#ferri1926">. . . . . ?τι[ .ε]υϲ</rdg></app>
+                <app loc="4"><rdg resp="#ferri1926"> . . . ?υοϲ</rdg></app>
+             </listApp>
          </div>
          
          <div type="translation" xml:space="preserve">
             <head>Translation</head>
-            <p>-on, <supplied reason="subaudible">son</supplied> of Hermogenes, a Syrian from Antioch.</p>
+            <p>-on, <supplied reason="subaudible">son</supplied> of Hermogenes, from Antioch, a Syrian .</p>
          </div>
         
          <div type="commentary">
