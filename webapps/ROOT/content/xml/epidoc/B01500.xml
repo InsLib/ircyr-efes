@@ -44,11 +44,11 @@
                      </supportDesc>
                      <layoutDesc>
                         <layout><rs type="execution" key="litteris scariphatis">Incised</rs> on the surface (<dimensions><width precision="low">3.50</width> <height>1.50</height></dimensions>), 
-                           without a frame.</layout>
+                           without a frame. Line 4 is below and at an acute angle to the text above.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Lunate sigma, cursive omega, ligature in line 2.</handNote>
+                     <handNote>Lunate sigma, cursive omega, ligature of ΗΚ in line 2.</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -115,8 +115,7 @@ w                  </provenance>
       <body>
          <div type="bibliography">
             <head>Bibliography</head>
-            <p><bibl><ptr target="cigiii"/> <citedRange>5364</citedRange></bibl> from a copy obtained from E. Jomard<bibl> <!-- check CIG -->; 
-                  <ptr target="ferri1926"/>  <citedRange>12</citedRange></bibl>, whence
+            <p><bibl> <ptr target="ferri1926"/>  <citedRange>12</citedRange></bibl>, whence
                <bibl><title>SEG</title> <citedRange>9.784</citedRange>
                </bibl>.
             </p>
@@ -124,10 +123,10 @@ w                  </provenance>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ω</unclear>λ<unclear>υκω</unclear></orig>
-                    <lb n="2"/><gap reason="lost" quantity="1" unit="character"/><w>ν</w> <w>ϲτρατιώτηϲ</w> <w><hi rend="ligature">ἤκ</hi><supplied reason="lost">ω</supplied></w>
-                    <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ουλ</unclear></orig><gap reason="lost" quantity="2" unit="character"/><orig><unclear>τ</unclear></orig><gap reason="lost" quantity="4" unit="character"/><orig><unclear>αξ</unclear></orig><gap reason="lost" quantity="4" unit="character"/>
-                    <lb n="4"/><gap reason="lost" quantity="1" unit="character"/><orig>λη</orig> <gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="1"/><gap reason="lost" quantity="10" unit="character"/><persName type="attested"><name nymRef="-ώλυκος"><seg part="F">ωλύ<unclear>κ</unclear>ω</seg></name></persName>
+                    <lb n="2"/><gap reason="lost" quantity="1" unit="character"/><orig>ν</orig> <w>ϲτρατιώτηϲ</w> <w><hi rend="ligature">ἤκ</hi><supplied reason="lost">ω</supplied></w>
+                    <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><orig>ουλ</orig><gap reason="lost" quantity="2" unit="character"/><orig>τ</orig><gap reason="lost" quantity="5" unit="character"/><orig>αξ<unclear>λμ</unclear>Η<unclear>Ι</unclear></orig>
+                    <lb n="4"/><gap reason="lost" quantity="1" unit="character"/><orig>ληϲ</orig> <gap reason="lost" quantity="1" unit="character"/>
                 </ab>
 </div>
          
@@ -135,11 +134,10 @@ w                  </provenance>
             <p>… a soldier <supplied reason="subaudible">son</supplied> of ...olukos: I came here.</p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>l.4 Below and at an acute angle to the above.</p>
             <p>For general introduction see <ref type="inscription">B00400</ref>.</p>
-            <p>line 1 name, patronymic or perhaps ethnic are too damaged for interpretation. </p>
-            <p>l.2 <foreign xml:lang="grc">ϲτρατιώτηϲ ἥκ<supplied reason="lost">ω</supplied>
-               </foreign> cf. 3 line 1.</p>
+            <p>In line 1 a name, patronymic or perhaps ethnic is too damaged for interpretation. </p>
+            <p>Line 2 <foreign xml:lang="grc">ϲτρατιώτηϲ ἥκ<supplied reason="lost">ω</supplied>
+               </foreign> cf. 3 line 1.</p><!-- check -->
             <p> line 3 presumably another name or patronymic, with perhaps <foreign xml:lang="grc">ἥκ<supplied reason="lost">ω</supplied>
                </foreign> at the end.</p>
          </div>
