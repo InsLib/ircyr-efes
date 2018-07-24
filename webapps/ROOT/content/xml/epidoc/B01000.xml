@@ -137,10 +137,11 @@
      
          <div type="apparatus">
             <head>Apparatus</head>
-             <listApp><app loc="1"><rdg resp="#ferri1926">. . . . ?ω?ν</rdg>
-                 <rdg resp="#SEG">.. / . ων</rdg></app>
-                <app loc="2"><rdg resp="#ferri1926"> . . . . ?μογένου</rdg></app>
-                <app loc="3"><rdg resp="#ferri1926">. . . . . ?τι[ .ε]υϲ</rdg></app>
+             <listApp><app loc="1"><rdg resp="#ferri1926">. . . . ?ω?ν</rdg></app>
+                <app loc="2"><rdg resp="#ferri1926"> . . . . ?μογένου</rdg>
+                   <rdg resp="#cumont1927"> . . . Ἔρ]μογένου[ς]</rdg></app>
+                <app loc="3"><rdg resp="#ferri1926">. . . . . ?τι[ .ε]υϲ</rdg>
+                   <rdg resp="#cumont1927"> Ἀν]τι[οχ]εύς</rdg></app>
                 <app loc="4"><rdg resp="#ferri1926"> . . . ?υοϲ</rdg></app>
              </listApp>
          </div>
