@@ -27,9 +27,6 @@
           <field name="index_item_name">
             <xsl:value-of select="concat($base-uri, @ref)" />
           </field>
-          <field name="index_symbol_glyph">
-            <xsl:value-of select="concat($base-uri, @ref)" /> <!-- go look in symbols.xml and get glyph-display -->
-          </field>
           <xsl:apply-templates select="current-group()" />
         </doc>
       </xsl:for-each-group>

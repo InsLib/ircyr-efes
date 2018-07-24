@@ -14,11 +14,11 @@
       <xsl:apply-templates mode="title" select="/aggregation/index_metadata" />
     </kiln:block>
     
-    <kiln:block name="css">
+    <!--<kiln:block name="css">
       <kiln:super />
       <link href="{$kiln:assets-path}/styles/tablesorter.css"
         rel="stylesheet" />
-    </kiln:block>
+    </kiln:block>-->
 
     <kiln:block name="page-heading">
       <kiln:super />

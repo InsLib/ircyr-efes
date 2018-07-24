@@ -60,25 +60,11 @@
     </so:Thing>
   </xsl:template>
   
-  <xsl:template match="tei:glyph[@xml:id]">
+  <xsl:template match="tei:glyph/@xml:id">
     <so:Thing>
       <xsl:call-template name="add-rdf-about-uri" />
-      <xsl:apply-templates />
+      <xsl:value-of select="."/>
     </so:Thing>
-  </xsl:template>
-  
-  <xsl:template match="tei:glyph[@xml:id]/tei:charProp[tei:localName='text-display']/tei:value">
-    <so:name>
-      <xsl:call-template name="add-rdf-about-uri" />
-      <xsl:apply-templates />
-    </so:name>
-  </xsl:template>
-  
-  <xsl:template match="tei:glyph[@xml:id]/tei:charProp[tei:localName='glyph-display']/tei:value">
-    <so:name>
-      <xsl:call-template name="add-rdf-about-uri" />
-      <xsl:apply-templates />
-    </so:name>
   </xsl:template>
   
   <xsl:template match="tei:org[@xml:id]">

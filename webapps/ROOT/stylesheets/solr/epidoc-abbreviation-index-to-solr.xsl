@@ -16,8 +16,8 @@
         <add>
             <xsl:for-each-group select="//tei:expan[ancestor::tei:div/@type='edition'][not(parent::tei:abbr)]" 
                 group-by="concat(string-join(.//tei:abbr, ''),'-',.)">
-                <xsl:sort order="ascending"
-                    select="translate(normalize-unicode(current-grouping-key(),'NFD'),'&#x0301;&#x0313;&#x0314;&#x0342;','')"/>
+                <!--<xsl:sort order="ascending"
+                    select="translate(normalize-unicode(current-grouping-key(),'NFD'),'&#x0301;&#x0313;&#x0314;&#x0342;','')"/>-->
                 <doc>
                     <field name="document_type">
                         <xsl:value-of select="$subdirectory" />
@@ -33,6 +33,16 @@
                             </xsl:when>
                             <xsl:otherwise>
                                 <xsl:value-of select="string-join(.//tei:abbr, '')" />
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </field>
+                    <field name="index_item_sort_name">
+                        <xsl:choose>
+                            <xsl:when test="descendant::tei:g">
+                                <xsl:value-of select="lower-case(translate(normalize-unicode(concat($base-uri, descendant::tei:g/@ref, 'QQQQQ'),'NFD'),'&#x0301;&#x0313;&#x0314;&#x0342;',''))" />
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:value-of select="lower-case(translate(normalize-unicode(string-join(.//tei:abbr, ''),'NFD'),'&#x0301;&#x0313;&#x0314;&#x0342;',''))" />
                             </xsl:otherwise>
                         </xsl:choose>
                     </field>

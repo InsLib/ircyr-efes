@@ -164,7 +164,7 @@
           multiValued="false" required="false" type="string" />
    <field name="origin_date_evidence" required="false" indexed="true"
           multiValued="true" stored="true" type="string" />
-   <field name="index_symbol_glyph" stored="true" indexed="true"
+   <field name="index_item_sort_name" stored="true" indexed="true"
      multiValued="false" required="false" type="string" />
    <!-- Concordance fields. -->
    <field name="concordance_bibliography_ref" stored="true" indexed="true"
