@@ -3,16 +3,16 @@
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P43100" xml:lang="en">
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P43200" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><rs type="textType">Funerary</rs> inscription</title>
+            <title>Uncertain</title>
             <editor>Joyce M. Reynolds</editor>
          </titleStmt>
          <publicationStmt>
             <authority>Centre for Computing in the Humanities, King's College London</authority>
-            <idno type="filename">P43100</idno>
+            <idno type="filename">P43200</idno>
             <availability>
                <p>Creative Commons licence Attribution UK 2.0
                     (<ref>http://creativecommons.org/licenses/by/2.0/uk/</ref>)</p>
@@ -28,35 +28,31 @@
                   <objectDesc>
                      <supportDesc>
                         <support>
-                           <p><material>Limestone</material> <objectType>stele</objectType> with 3 protrusions at the upper edge - a rectangular ‘head’ and triangular ‘shoulders’.
-                               (<dimensions>
-                                  <width>0.31</width>
-                                  <height>0.54</height>
-                               </dimensions>).</p>
+                           <p>No description</p>
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on the face.</layout>
+                        <layout>No description</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>First century C.E.; <height>0.02</height>; freehand, but careful, within well-cut guidelines; lunate epsilon, sigma, omega; L for <foreign xml:lang="grc">ἔτους</foreign>.</handNote>
+                     <handNote>No description</handNote>
                   </handDesc>
                </physDesc>
                <history>
                   <origin>
                      <origPlace>Unknown.</origPlace>
-                     <origDate notBefore="0001" notAfter="0100" evidence="lettering">First century C.E.</origDate>
+                     <origDate>Unknown</origDate>
                   </origin>
                   
                      
                         <provenance type="found">
-                           <p>
-                              <placeName type="ancientFindspot" ref="http://pleiades.stoa.org/places/xxxx">Ptolemais</placeName>: 
-                              <placeName type="monuList" ref="http://www.slsgazetteer.org/953">village</placeName>, by the seashore, near the lighthouse.</p>
+                           <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1181">Barke</placeName>: 
+                              no further indication</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/1096">Tolmeita museum</placeName>, inv. no.406:62.</p>
+                           <p>Unknown</p>
                         </provenance>
                      
                   
@@ -90,40 +86,32 @@
                         <geogName type="modernCountry" key="LY">Libya</geogName>
                     </term>
                <term>
-                  <placeName type="modernFindspot" ref="http://sws.geonames.org/89183">Tolmeita</placeName>
+                  <placeName type="modernFindspot" ref="http://sws.geonames.org/80505">Marj</placeName>
                     </term>
             </keywords>
          </textClass>
-      <creation>Transcription (Reynolds).</creation></profileDesc>
+      <creation>Previous publications (Roueché).</creation></profileDesc>
       <revisionDesc>
-         <change when="2012-11-05" who="GB">moved text-constituted-from to profileDesc/creation</change>
-         <change when="2012-10-16" who="GB">broke provenance events into multiple provenance elements</change>
-         <change when="2012-07-13" who="SS">Created from template</change>
+         <change when="2018-07-25" who="CR">Created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><!--Dept. F. 372.-->
-      <graphic url="JMRSB02_089" decls="#photograph"><desc>Face (Reynolds, SB.II.89)</desc></graphic></facsimile>
+   </teiHeader><facsimile><surface/></facsimile>
    <text>
       <body>
          <div type="bibliography">
             <head>Bibliography</head>
-            <p>
-               <bibl>
-                  <ptr target="bacchielli-jmr1987"/> Catalogo <citedRange>36</citedRange> and fig 7</bibl>, 
-               whence <bibl><ptr target="cdlBE"/> <citedRange>1989.839</citedRange></bibl>, 
-               <bibl><title>SEG</title> <citedRange>37.1720</citedRange>
-               </bibl>
+            <p>Cited, with no further description, 
+               <bibl><ptr target="masson1976"/> <citedRange>p.58</citedRange>, from Reynolds</bibl>
             </p>
          </div>
          
          <div type="edition" xml:space="preserve" xml:lang="grc">
             <ab> 
-            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="7">ζ</num> <rs type="month" key="Μεσορή"><w>Μεσορὴ</w></rs> <num value="22">βκ</num>
-            <lb n="2"/><persName type="attested"><name nymRef="Λύκα"><unclear>Λ</unclear>ύκα</name> <persName type="attested"><name nymRef="Πρ-"><seg part="I">Πρ</seg><gap reason="lost" quantity="2" unit="character"/><seg part="M"><unclear>ρω</unclear></seg></name></persName></persName>
+            <lb n="1"/><persName type="attested" key="lgpn:VI-61742"><name nymRef="Φίλων">Φίλων</name> <persName type="attested" key="lgpn:VI-61730"><name nymRef="Ιαρθας">Ιαρθα</name></persName></persName>
             </ab>
          </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 6, 22nd of the month Mesore: Lukas, <supplied reason="subaudible">son</supplied> of Pr-</p>
+            <p>Philo <supplied reason="subaudible">son</supplied> of Iarhthas</p>
          </div>
          
          <div type="commentary">

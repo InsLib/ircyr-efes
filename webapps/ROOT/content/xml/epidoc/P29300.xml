@@ -107,9 +107,7 @@
          <change when="2009-05-06" who="CB">turned to XML and tidied</change>
          <change when="2009-02-24" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_452" decls="#photograph"><desc>Face (Joyce Reynolds, Tolmeita II. 20)</desc></graphic><!--Dept.--><!--
-                    --><!--
-                --></facsimile>
+   </teiHeader><facsimile><graphic url="JMR_452" decls="#photograph"><desc>Face (Joyce Reynolds, Tolmeita II. 20)</desc></graphic></facsimile>
    <text>
       <body>
          <div type="bibliography">
