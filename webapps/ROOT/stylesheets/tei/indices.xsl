@@ -41,31 +41,45 @@
       <xsl:apply-templates select="str[@name='index_numeral_value']"/>
       <xsl:apply-templates select="arr[@name='language_code']"/>
       <xsl:apply-templates select="arr[@name='index_instance_location']" />
-      <xsl:apply-templates select="str[@name='index_symbol_glyph']"/>
+      <xsl:apply-templates select="str[@name='index_item_sort_name']"/>
     </tr>
   </xsl:template>
   
   <!-- separate results by language -->
   <xsl:template match="response/result">
-    <table class="index tablesorter"> 
+    <xsl:choose>
+      <xsl:when test="doc/arr/@name='language_code'">
+        <table class="index"> 
       <xsl:apply-templates select="/aggregation/index_metadata/tei:div/tei:div[@type='headings']" />
       <tbody>
         <xsl:apply-templates select="doc[arr[@name='language_code']='la']" />
       </tbody>
     </table>
-    <table class="index tablesorter">
+    <table class="index">
       <xsl:apply-templates select="/aggregation/index_metadata/tei:div/tei:div[@type='headings']" />
       <tbody>
         <xsl:apply-templates select="doc[arr[@name='language_code']='grc']" />
       </tbody>
     </table>
+      </xsl:when>
+      <xsl:otherwise>
+        <table class="index"> 
+          <xsl:apply-templates select="/aggregation/index_metadata/tei:div/tei:div[@type='headings']" />
+          <tbody>
+            <xsl:apply-templates select="doc" />
+          </tbody>
+        </table>
+      </xsl:otherwise>
+    </xsl:choose>
+    
   </xsl:template>
   
   
-  <!-- original index result template
+  <!-- 
+    original index result template
     
     <xsl:template match="response/result">
-    <table class="index tablesorter"> 
+    <table class="index"> 
       <xsl:apply-templates select="/aggregation/index_metadata/tei:div/tei:div[@type='headings']" />
       <tbody>
         <xsl:apply-templates select="doc" />
@@ -106,6 +120,20 @@
         </xsl:when>
         <xsl:when test="normalize-space($rdf-name-unmarked)">
           <xsl:value-of select="$rdf-name-unmarked" />
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="."/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </th>
+  </xsl:template>
+  
+  <xsl:template match="str[@name='index_item_sort_name']">
+    <th scope="row">
+      <xsl:variable name="rdf-name" select="/aggregation/index_names/rdf:RDF/rdf:Description[@rdf:about=current()][1]/*[@xml:lang=$language][1]" />
+        <xsl:choose>
+        <xsl:when test="normalize-space($rdf-name)">
+          <xsl:value-of select="lower-case(translate(normalize-unicode($rdf-name,'NFD'),'&#x0301;&#x0313;&#x0314;&#x0342;',''))"/>
         </xsl:when>
         <xsl:otherwise>
           <xsl:value-of select="."/>

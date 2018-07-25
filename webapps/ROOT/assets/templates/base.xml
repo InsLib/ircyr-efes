@@ -40,6 +40,9 @@
       <kiln:block name="body">
         <body>
           <kiln:block name="navigation">
+            <div class="text-center">
+              <h1 id="site-title">IRCyr <!--<img src="{$kiln:assets-path}/images/banner_bg.png" alt="logo"/>--></h1>
+            </div>
             <nav class="top-bar">
               <kiln:block name="main-navigation">
                 <ul class="title-area">

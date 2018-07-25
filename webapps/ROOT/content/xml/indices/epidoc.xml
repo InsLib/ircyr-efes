@@ -27,6 +27,7 @@
           <list>
             <item>Abbreviation</item>
             <item>Expansion</item>
+            <item>Language code</item>
             <item>References</item>
           </list>
         </div>
