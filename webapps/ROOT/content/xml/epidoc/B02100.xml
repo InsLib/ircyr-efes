@@ -100,7 +100,7 @@
                     </term>
             </keywords>
          </textClass>
-         <creation>Previous publications (Reynolds).</creation></profileDesc>
+         <creation>Previous publications and departmental photograph (Reynolds).</creation></profileDesc>
       <revisionDesc>
          <change when="2012-11-05" who="GB">moved text-constituted-from to profileDesc/creation</change>
          <change when="2012-10-16" who="GB">broke provenance events into multiple provenance elements</change>
@@ -116,7 +116,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
              <p><bibl>
-                  <ptr target="ferri1926"/>  <citedRange>18</citedRange></bibl>, whence
+                  <ptr target="ferri1926"/>  <citedRange>18</citedRange>, with photograph and drawing </bibl>, whence
                <bibl>
                   <title>SEG</title> <citedRange>9.790</citedRange></bibl>.
             </p>
@@ -124,10 +124,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ϲιν</orig><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="1"/><gap reason="lost" quantity="2" unit="character"/><orig>ϲ<unclear>ι</unclear>η</orig><gap reason="lost" quantity="6" unit="character"/> 
                     <lb n="2"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><orig>π</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><w>ϲτρατιώτης</w> 
+                    <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><orig>π</orig><gap reason="lost" quantity="8" unit="character"/>
+                    <lb n="4"/><w>ϲτρατιώτηϲ</w> 
                     <lb n="5"/><persName type="attested" key="lgpn:V1-62011"><name nymRef="Σωσθένης">Ϲωϲθένηϲ</name></persName>
                 </ab>
 </div>
@@ -136,16 +136,16 @@
             <listApp>
          <app loc="5">
               <rdg resp="#ferri1926"><gap reason="lost" quantity="2" unit="character"/>ϲθετιηϲ</rdg>
-              <rdg resp="#SEG">υ<gap reason="illegible" quantity="1" unit="character"/>ϲθετιηϲ</rdg>
             <note>but the photograph shows quite clear Ϲωϲθένηϲ</note>
                </app>
             </listApp>
          </div>
-         <div type="translation" xml:space="preserve"><head>Translation</head><p>… a soldier. Sosthenes...</p></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p> . . . ]soldier, Sosthenes</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>For general introduction see <ref type="inscription">B00400</ref>.</p>
-            <p>There appear to be two entries, a ending with ϲτρατιώτηϲ in line 4 and b, beginning in line 5.</p>
+            <p>There appear to be two entries, one ending with ϲτρατιώτηϲ in line 4 and a second beginning in line 5.</p>
          </div>
          
       </body>

@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Fragmentary ?<rs type="textType">presence</rs> inscription</title>
+            <title>Fragmentary <rs type="textType">date</rs></title>
             <editor>Joyce M. Reynolds</editor>
          </titleStmt>
          <publicationStmt>
@@ -47,7 +47,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Perhaps S-shaped digamma, bar above one digit.</handNote>
+                     <handNote>Bar above one digit.</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -114,8 +114,8 @@
       <body>
          <div type="bibliography">
             <head>Bibliography</head>
-             <p>See <ref type="inscription">B00400</ref>, specifically: <bibl>
-                  <ptr target="ferri1926"/>  <citedRange>25</citedRange></bibl>.
+             <p><bibl>
+                  <ptr target="ferri1926"/>  <citedRange>25</citedRange>, with a drawing.</bibl>.
                </p>
          </div>
          
