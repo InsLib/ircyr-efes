@@ -138,10 +138,10 @@
             <lb n="1"/><w>Ἱαρὲς</w> <w>τῶ</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName>
                     <lb n="2"/><space quantity="1" unit="line"/>
                <lb n="3"/><persName type="attested" key="lgpn:V1-63068"><name nymRef="Ἀρίσταρχος">Ἀρίσταρχος</name> <persName type="attested"><name nymRef="Θεύχρηστος">Θευχρήστω</name></persName></persName>
-            <lb n="4"/><persName type="attested"><name nymRef="Θεύχρηστος">Θεύχρηστος</name> <persName type="attested"><name nymRef="Διονύσιος">Διονυσίω</name></persName></persName>
+            <lb n="4"/><persName type="attested"><name nymRef="Θεύχρηστος">Θεύχρηστος</name> <persName type="attested" key="lgpn:V1-63598"><name nymRef="Διονύσιος">Διονυσίω</name></persName></persName>
             <lb n="5"/><persName type="attested"><name nymRef="Φάος">Φάος</name> <persName type="attested"><name nymRef="Κλέαρχος">Κλεάρχω</name>
                <lb n="6"/><w>τῶ</w> <w>φιλοπάτριδος</w></persName></persName>
-            <lb n="7"/><persName type="attested"><name nymRef="Ἴστρος">Ἴστρος</name> <persName type="attested" key="lgpn:V1-62509"><name nymRef="Ἀγαθῖνος">Ἀγαθίνω</name></persName></persName>
+            <lb n="7"/><persName type="attested" key="lgpn:V1-64436"><name nymRef="Ἴστρος">Ἴστρος</name> <persName type="attested" key="lgpn:V1-62509"><name nymRef="Ἀγαθῖνος">Ἀγαθίνω</name></persName></persName>
             <lb n="8"/><persName type="attested" key="lgpn:V1-63301"><name nymRef="Ἀσκληπιάδης">Ἀσκληπιάδης</name> <persName type="attested"><name nymRef="Ἑπικράτης">Ἑπικράτευς</name></persName></persName>
             <lb n="9"/><persName type="attested"><name nymRef="Εὐφάνης">Εὐφάνης</name> <persName type="attested"><name nymRef="Ἰσοκράτης">Ἰσοκράτευς</name></persName></persName>
             <lb n="10"/><persName type="attested"><name nymRef="Πανταλέων">Πανταλέων</name> <persName type="attested"><name nymRef="Πανταλέων">Πανταλέοντος</name></persName></persName>
@@ -154,7 +154,7 @@
             <lb n="17"/><persName type="attested"><name nymRef="Φίλιππος">Φίλιππος</name> <persName type="attested" key="lgpn:V1-63058"><name nymRef="Ἀρίστανδρος">Ἀριστάνδρω</name></persName></persName>
                     <lb n="18"/><space quantity="1" unit="line"/>
             <lb n="19"/><persName type="attested"><name nymRef="Κλέαρχος">Κλέαρχος</name> <persName type="attested"><name nymRef="Εὐφάνης">Εὐφάνευς</name></persName></persName>
-            <lb n="20"/><persName type="attested"><name nymRef="Ἴστρος">Ἴστρος</name> <persName type="attested"><name nymRef="Ἴστρος">Ἴστρω</name> <w>τῶ</w> <persName type="attested" key="lgpn:V1-62509"><name nymRef="Ἀγαθῖνος">Ἀγαθίνω</name></persName></persName></persName>
+            <lb n="20"/><persName type="attested" key="lgpn:V1-64437"><name nymRef="Ἴστρος">Ἴστρος</name> <persName type="attested" key="lgpn:V1-64436"><name nymRef="Ἴστρος">Ἴστρω</name> <w>τῶ</w> <persName type="attested" key="lgpn:V1-62509"><name nymRef="Ἀγαθῖνος">Ἀγαθίνω</name></persName></persName></persName>
                     <lb n="21"/><space quantity="1" unit="line"/>
             <lb n="22"/><persName type="attested"><name nymRef="Πραξιάδας">Πραξιάδας</name> <persName type="attested"><name nymRef="Πραξιάδας">Πραξιάδα</name> <w>τῶ</w>
             <lb n="23"/><persName type="attested"><name nymRef="Φιλίννας"><space quantity="1" unit="character"/>Φιλίννα <space quantity="1" unit="character"/></name></persName></persName></persName>
