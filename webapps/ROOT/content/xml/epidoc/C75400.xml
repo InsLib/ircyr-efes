@@ -127,7 +127,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Τίμαρχος">Τίμαρχος</name> 
-                       <persName type="attested"><name nymRef="Ζευξίμαχος">Ζευξιμάχω</name></persName></persName>
+                       <persName type="attested" key="lgpn:V1-63974"><name nymRef="Ζευξίμαχος">Ζευξιμάχω</name></persName></persName>
                     <lb n="2"/><persName type="divine" key="hermes"><name nymRef="Ἑρμῆς">Ἑρμαι</name></persName>
                <persName type="divine" key="herakles"><name nymRef="Ἡρακλῆς">Ἡρακλεῖ</name></persName>
                 </ab>

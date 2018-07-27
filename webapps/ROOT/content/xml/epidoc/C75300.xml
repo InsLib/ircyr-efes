@@ -139,7 +139,7 @@
                         <persName type="attested"><name nymRef="Λύσιππος"><unclear>Λυσίππω</unclear></name></persName></persName>
                         <lb n="4"/><persName type="attested"><name nymRef="Λύκος"><supplied reason="lost">Λυ</supplied>κ<unclear>ο</unclear>ν</name> 
                         <persName type="attested" key="lgpn:V1-63157"><name nymRef="Ἀριστομένης">Ἀριστο<unclear>μενε</unclear><supplied reason="lost">υς</supplied></name></persName></persName>
-                        <lb n="5"/><persName type="attested"><name nymRef="Ἑκαταῖος">Ἑκαταῖον</name> <persName type="attested"><name nymRef="Ἑκαταῖος"><unclear>Ἑ</unclear>καταί<unclear>ω</unclear></name></persName></persName>
+                        <lb n="5"/><persName type="attested" key="lgpn:V1-63637"><name nymRef="Ἑκαταῖος">Ἑκαταῖον</name> <persName type="attested" key="lgpn:V1-63636"><name nymRef="Ἑκαταῖος"><unclear>Ἑ</unclear>καταί<unclear>ω</unclear></name></persName></persName>
                         <lb n="6"/><persName type="attested"><name nymRef="Φιλοκλῆς"><supplied reason="lost">Φ</supplied>ιλοκλῆν</name> <persName type="attested"><name nymRef="Φιλοκλῆς">Φιλοκλεῦς</name></persName>
                     </persName>
                     </ab></div><div subtype="column" n="2" type="textpart"><ab>
@@ -147,8 +147,8 @@
                         <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                         <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                         <lb n="1"/><persName type="attested" key="lgpn:V1-64298"><name nymRef="Ἰάσων">Ἰάσονα</name> <persName type="attested"><name nymRef="Κάρνις">Κάρνιος</name></persName></persName>
-                        <lb n="2"/><persName type="attested"><name nymRef="Ἰησοῦς">Ἰησουν</name> <persName type="attested" key="lgpn:V1-62952"><name nymRef="Ἀντίφιλος">Ἀντιφίλω</name></persName></persName>
-                        <lb n="3"/><persName type="attested"><name nymRef="Ἰθαννυρας">Ἰθαννυραν</name> <persName type="attested" key="lgpn:V1-62970"><name nymRef="Ἀπολλόδωρος">Ἀπολλοδώρω</name></persName></persName>
+                        <lb n="2"/><persName type="attested" key="lgpn:V1-64381"><name nymRef="Ἰησοῦς">Ἰησουν</name> <persName type="attested" key="lgpn:V1-62952"><name nymRef="Ἀντίφιλος">Ἀντιφίλω</name></persName></persName>
+                        <lb n="3"/><persName type="attested" ey="lgpn:V1-64385"><name nymRef="Ἰθαννυρας">Ἰθαννυραν</name> <persName type="attested" key="lgpn:V1-62970"><name nymRef="Ἀπολλόδωρος">Ἀπολλοδώρω</name></persName></persName>
                         <lb n="4"/><persName type="attested"><name nymRef="Ὠρίων">Ὠρίωνα</name> <persName type="attested"><name nymRef="Ὠρίων">Ὠρίωνος</name></persName></persName>
                         
                     
@@ -159,7 +159,7 @@
                         <lb n="2"/><persName type="attested"><name nymRef="Φιλόξενος">Φιλόξενον</name> <persName type="attested" key="lgpn:V1-62704"><name nymRef="Ἀλέξανδρος">Ἀλεξάνδρω</name></persName></persName>
                         <lb n="3"/><persName type="attested"><name nymRef="Φιλόδαμος">Φιλόδαμον</name> <persName type="attested"><name nymRef="Φιλόδαμος">Φιλοδάμω</name></persName></persName>
                         <lb n="4"/><persName type="attested"><name nymRef="Φίλων">Φίλωνα</name> <persName type="attested" key="lgpn:V1-63230"><name nymRef="Ἀριστώνυμος">Ἀριστωνύμω</name></persName></persName>
-                        <lb n="5"/><persName type="attested"><name nymRef="Φίλων">Φίλωνα</name> <persName type="attested"><name nymRef="Εἰρηναῖος">Εἰρηναίω</name></persName></persName>
+                        <lb n="5"/><persName type="attested"><name nymRef="Φίλων">Φίλωνα</name> <persName type="attested" key="lgpn:V1-63628"><name nymRef="Εἰρηναῖος">Εἰρηναίω</name></persName></persName>
                     
                     </ab></div><div subtype="column" n="4" type="textpart"><ab>
                         
@@ -170,9 +170,9 @@
                         <lb n="2"/><persName type="attested"><name nymRef="Φίλων">Φίλωνα</name>
                           <persName type="attested"><name nymRef="Θε-"><seg part="I">Θε</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3"/><persName type="attested"><name nymRef="Χαρίτιμος">Χαρίτιμον</name>
-                           <persName type="attested"><name nymRef="Εὐρυ-"><seg part="I">Εὐρυ</seg><!--  πτολέμω--></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="4"/><persName type="attested"><name nymRef="Χαρτάδας">Χαρτάδαν</name>
-                           <persName type="attested"><name nymRef="Θαλι-"><seg part="I">Θαλι</seg><!-- άρχω --></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                           <persName type="attested" key="lgpn:V1-63886"><name nymRef="Εὐρυπτόλεμος">Εὐρυ<supplied reason="lost">πτολέμω</supplied></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="4"/><persName type="attested" key="lgpn:V1-66168"><name nymRef="Χαρτάδας">Χαρτάδαν</name>
+                           <persName type="attested" key="lgpn:V1-64067"><name nymRef="Θαλίαρχος">Θαλι<supplied reason="lost">άρχω</supplied><supplied reason="lost">άρχω</supplied></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="5"/><persName type="attested"><name nymRef="Ὠρίων">Ὠρίωνα</name>
                            <name nymRef="Φᾶμος">Φαμου</name></persName><!-- <unclear>τ</unclear> --><gap reason="lost" extent="unknown" unit="character"/>
                      
