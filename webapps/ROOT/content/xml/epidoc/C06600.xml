@@ -148,7 +148,7 @@
             <lb n="11"/><persName type="attested"><name nymRef="Ἰσοκράτης"><supplied reason="lost">Ἰ</supplied>σοκράτης</name> <persName type="attested" key="lgpn:V1-62610"><name nymRef="Ἀγχίστρατος">Ἀγχιστράτω</name></persName></persName>
             <lb n="12"/><persName type="attested"><name nymRef="Φιλόξενος"><supplied reason="lost">Φιλ</supplied>όξενος</name> <persName type="attested" key="lgpn:V1-63953"><name nymRef="Φιλίσκος">Φιλίσκω</name>
                <lb n="13"/> <space quantity="1" unit="character"/> <w>φυσί</w> <w>δὲ</w> <persName type="attested"><name nymRef="Εὐφάνης">Εὐφάνευς</name></persName></persName></persName>
-            <lb n="14"/><persName type="attested" key="lgpn:V1-62632"><name nymRef="Αἰγλάνωρ">Αἰγλάνωρ</name> <persName type="attested"><name nymRef="Πτολεμαῖος">Πτολεμαίω</name></persName></persName>
+            <lb n="14"/><persName type="attested" key="lgpn:V1-62632"><name nymRef="Αἰγλάνωρ">Αἰγλάνωρ</name> <persName type="attested" key="lgpn:V1-65526"><name nymRef="Πτολεμαῖος">Πτολεμαίω</name></persName></persName>
             <lb n="15"/><persName type="attested"><name nymRef="Φάος">Φάος</name> <persName type="attested"><name nymRef="Καρνήδας">Καρνήδα</name></persName></persName>
                     <lb n="16"/><space quantity="1" unit="line"/>
             <lb n="17"/><persName type="attested"><name nymRef="Φίλιππος">Φίλιππος</name> <persName type="attested" key="lgpn:V1-63058"><name nymRef="Ἀρίστανδρος">Ἀριστάνδρω</name></persName></persName>
@@ -160,7 +160,7 @@
             <lb n="23"/><persName type="attested"><name nymRef="Φιλίννας"><space quantity="1" unit="character"/>Φιλίννα <space quantity="1" unit="character"/></name></persName></persName></persName>
             <lb n="24"/><persName type="attested"><name nymRef="Εὐκλειδας">Εὐκλειδας</name> <persName type="attested"><name nymRef="Εὐκλειδας">Εὐ<add place="overstrike">κλ</add>είδα</name> <w>τῶ</w> 
             <persName type="attested"><name nymRef="Εὐκλειδας"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Εὐκλείδα</ex></expan></name></persName></persName></persName>
-            <lb n="25"/><persName type="attested"><name nymRef="Σεραπίων">Σεραπ<del rend="erasure">σ</del>ίων</name> <persName type="attested" key="lgpn:V1-63058"><name nymRef="Ἀρίστανδρος">Ἀριστάνδρω</name></persName></persName>
+            <lb n="25"/><persName type="attested" key="lgpn:V1-65560"><name nymRef="Σεραπίων">Σεραπ<del rend="erasure">σ</del>ίων</name> <persName type="attested" key="lgpn:V1-63058"><name nymRef="Ἀρίστανδρος">Ἀριστάνδρω</name></persName></persName>
             <lb n="26"/><persName type="attested"><name nymRef="Ζηνίων">Ζηνίων</name> <persName type="attested"><name nymRef="Σῶσος">Σώσου</name></persName></persName>
             <lb n="27"/><persName type="attested"><name nymRef="Κλέαρχος">Κλέαρχος</name> <persName type="attested"><name nymRef="Καρνήδας">Καρνήδα</name></persName></persName>
             <lb n="28"/><persName type="attested"><name nymRef="Μᾶρκος">Μᾶρκος</name> <name nymRef="Κλέαρχος">Κλέαρχος</name>                                     
