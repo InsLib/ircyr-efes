@@ -127,7 +127,7 @@
                         <lb n="3"/><persName type="attested"><name nymRef="Ἰσίδωρος">Ἰσιδωρο<supplied reason="lost">ς</supplied></name> <persName type="attested"><name nymRef="Ἐτέαρχος"><supplied reason="lost">Ἐ</supplied>τεάρχω</name></persName></persName>
                         <lb n="4"/><persName type="attested"><name nymRef="Κλητόμαχος">Κλητόμα<supplied reason="lost">χος</supplied></name> <persName type="attested"><name nymRef="Κλητόμαχος"><supplied reason="lost">Κ</supplied>λητομάχω</name></persName></persName>
                     <lb n="5"/><persName type="attested"><name nymRef="Νίκιππος">Νίκιππος</name> <persName type="attested" key="lgpn:V1-63133"><name nymRef="Ἀριστόβουλος">Ἀριστοβούλω</name></persName></persName>
-                    <lb n="6"/><persName type="attested"><name nymRef="Εὔνικος">Εὔνικος</name> <persName type="attested"><name nymRef="Εὔιππος">Εὐίππω</name></persName></persName>
+                    <lb n="6"/><persName type="attested" key="lgpn:V1-63863"><name nymRef="Εὔνικος">Εὔνικος</name> <persName type="attested"><name nymRef="Εὔιππος">Εὐίππω</name></persName></persName>
                     <lb n="7"/><persName type="attested" key="lgpn:V1-63413"><name nymRef="Βίων">Βίων</name> <persName type="attested"><name nymRef="Ἰσόγονος">Ἰσογόνω</name></persName> </persName>
                     <lb n="8"/><persName type="attested"><name nymRef="Ἡλιοδωρος">Ἡλιοδωρος</name> <persName type="attested"><name nymRef="Ἡλιοδωρος">Ἡλιοδώρω </name></persName></persName>
                     <lb n="9"/><w>Γραμματές</w>
