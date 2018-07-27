@@ -127,7 +127,7 @@
 <ab>
                     <lb n="1"/> <persName type="divine" key="apollo"><w>θεός</w></persName> <persName type="divine" key="agathetyche"><name nymRef="Τύχη">Τύχα</name> <w>ἀγαθά</w></persName>
                     <lb n="2"/> <w>Ἱάρεαι</w> <w>τᾶς</w> <persName type="divine" key="hera"><name nymRef="Ἥρα">Ἥρας</name></persName>
-                    <lb n="3"/> <persName type="attested"><name nymRef="Μεγώ">Μεγὼ</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Εἰδόκριτος">Εἰδοκρίτω</name></persName></persName>
+                    <lb n="3"/> <persName type="attested"><name nymRef="Μεγώ">Μεγὼ</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-63264><name nymRef="Εἰδόκριτος">Εἰδοκρίτω</name></persName></persName>
                     <lb n="4"/> <persName type="attested"><name nymRef="Λαβράμεα">Λαβράμεα</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-63362"><name nymRef="Βάκαλ">Βάκαλος</name></persName></persName>
                     <lb n="5"/> <persName type="attested"><name nymRef="Πρωταρχίς">Πρωταρχὶς</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Ἡρακλείδας">Ἡρακλείδα</name></persName></persName>
                     <lb n="6"/> <persName type="attested"><name nymRef="Νικαρίστα">Νικαρίστα</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Πολιάνθης">Πολιάνθευς</name></persName></persName>
@@ -136,7 +136,7 @@
                     <lb n="9"/> <persName type="attested" key="lgpn:V1-63136"><name nymRef="Ἀριστοβώλα">Ἀριστοβώλα</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Σωκράτης">Σωκράτευς</name></persName></persName>
                     <lb n="10"/> <persName type="attested"><name nymRef="Καλλιβία">Καλλιβία</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-62665"><name nymRef="Αἰσχίνας">Αἰσχίνα</name></persName></persName>
                     <lb n="11"/> <persName type="attested" key="lgpn:V1-65210"><name nymRef="Ὀλυμπιάς">Ὀλυμπιὰς</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-63141"><name nymRef="Ἀριστόδαμος">Ἀριστοδάμω</name></persName></persName>
-                    <lb n="12"/> <persName type="attested"><name nymRef="Μνάστα">Μνάστα</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Φιλύτας	">Φιλύτα</name></persName></persName>
+                    <lb n="12"/> <persName type="attested" key="lgpn:V1-65048"><name nymRef="Μνάστα">Μνάστα</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-66060"><name nymRef="Φιλύτας	">Φιλύτα</name></persName></persName>
                     <lb n="13"/> <persName type="attested"><name nymRef="Ἐρώτιον">Ἐρώτιον</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-63556"><name nymRef="Δίδυμος">Διδύμω</name></persName></persName>
                     <lb n="14"/> <persName type="attested"><name nymRef="Κλεαρίστα">Κλεαρίστα</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Εὐκλῆς">Εὐκλεῦς</name></persName></persName>
                     <lb n="15"/> <persName type="attested"><name nymRef="Καλλιβία">Καλλιβία</name><space extent="4" unit="character"/> <persName type="attested"><name nymRef="Θρασυκλῆς">Θρασυκλεῦς</name></persName></persName>

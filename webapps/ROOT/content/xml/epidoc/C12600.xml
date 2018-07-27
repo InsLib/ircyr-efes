@@ -124,27 +124,27 @@
             <ab>
                     <lb n="1"/><persName type="divine"><w lemma="θεός">θεὸς</w></persName> <persName type="divine" key="tyche"><name nymRef="Τύχη">Τύχα</name> <w>ἀγαθά</w></persName>
                     <lb n="2"/><w>Ἱάρεαι</w> <w>τᾶς</w> <persName type="divine" key="hera"><name nymRef="Ἥρα">Ἥρας</name></persName>
-                    <lb n="3"/><persName type="attested"><name nymRef="Μεγώ">Μεγὼ</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Φιλόξενος">Φιλοξένω</name></persName></persName>
-                    <lb n="4"/><persName type="attested" key="lgpn:V1-63478"><name nymRef="Δαμοκλήτα">Δαμοκλήτα</name> <persName type="attested"><name nymRef="Ξοῦθος">Ξούθω</name></persName></persName>
-                    <lb n="5"/><persName type="attested" key="lgpn:V1-63403"><name nymRef="Βερενίκα">Βερενίκα</name> <persName type="attested"><name nymRef="Πραξιάδας">Πραξιάδα</name></persName></persName>
+                    <lb n="3"/><persName type="attested" key="lgpn:V1-64947"><name nymRef="Μεγώ">Μεγὼ</name> <g ref="symbols.xml#dash"/> <persName type="attested" key="lgpn:V1-66030"><name nymRef="Φιλόξενος">Φιλοξένω</name></persName></persName>
+                    <lb n="4"/><persName type="attested" key="lgpn:V1-63478"><name nymRef="Δαμοκλήτα">Δαμοκλήτα</name> <persName type="attested" key="lgpn:V1-65195"><name nymRef="Ξοῦθος">Ξούθω</name></persName></persName>
+                    <lb n="5"/><persName type="attested" key="lgpn:V1-63403"><name nymRef="Βερενίκα">Βερενίκα</name> <persName type="attested" key="lgpn:V1-65426"><name nymRef="Πραξιάδας">Πραξιάδα</name></persName></persName>
                     <lb n="6"/><persName type="attested" key="lgpn:V1-62963"><name nymRef="Ἀπία">Ἀπία <g ref="symbols.xml#dash"/> </name>
-                        <persName type="attested"><name nymRef="Πτολεμαῖος">Πτολεμαίω</name></persName></persName>
-                    <lb n="7"/><persName type="attested"><name nymRef="Ζευξίππα"><supplied reason="lost">Ζ</supplied>ευξίππα</name> <persName type="attested" key="lgpn:V1-63375"><name nymRef="Βαρκαῖος">Βαρκαίω</name></persName></persName>
-                    <lb n="8"/><persName type="attested"><name nymRef="Εὐρυκλήτα">Εὐρυκλήτα</name> 
+                        <persName type="attested" key="lgpn:V1-65518"><name nymRef="Πτολεμαῖος">Πτολεμαίω</name></persName></persName>
+                    <lb n="7"/><persName type="attested" key="lgpn:V1-63981"><name nymRef="Ζευξίππα"><supplied reason="lost">Ζ</supplied>ευξίππα</name> <persName type="attested" key="lgpn:V1-63375"><name nymRef="Βαρκαῖος">Βαρκαίω</name></persName></persName>
+                    <lb n="8"/><persName type="attested" key="lgpn:V1-63883"><name nymRef="Εὐρυκλήτα">Εὐρυκλήτα</name> 
                         <persName type="attested" key="lgpn:V1-63291"><name nymRef="Ἄσκλαπος">Ἀσκ<unclear>λάπω</unclear></name></persName></persName>
-                    <lb n="9"/><persName type="attested"><name nymRef="Ζευξώ">Ζευξὼ</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Φείδιμος">Φειδίμω</name></persName></persName>
-                    <lb n="10"/><persName type="attested"><name nymRef="Επαγώ">Επαγὼ</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Καρνήδας">Καρνήδα</name></persName></persName>
-                    <lb n="11"/><persName type="attested"><orig>ιλυλδιω</orig> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Λῦσις">Λύσιος</name></persName></persName>
-                    <lb n="12"/><persName type="attested"><name nymRef="Φρονίμα">Φρονίμα</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Φιλόξενος">Φιλοξένω</name></persName></persName>
-                    <lb n="13"/><persName type="attested"><name nymRef="Εἰρήνα">Εἰρήνα</name> <persName type="attested"><name nymRef="Τελεσίστρατος">Τελεσιστράτω</name></persName></persName>
-                    <lb n="14"/><persName type="attested" key="lgpn:V1-63407"><name nymRef="Βερνίκα">Βερνίκα</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Φιλίννας">Φιλίννα</name></persName></persName>
-                    <lb n="15"/><persName type="attested"><name nymRef="Καλλιβώλα"><supplied reason="lost">Κ</supplied>αλ<unclear>λ</unclear>ιβώλ<unclear>α</unclear></name> 
-                    <persName type="attested"><name nymRef="Κλέαρχος">Κ<unclear>λ</unclear>ε<unclear>ά</unclear>ρχω</name></persName></persName>
-                    <lb n="16"/><persName type="attested"><name nymRef="Μνάστα">Μνάστα</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Φιλύτας">Φιλύ<supplied reason="lost">τ</supplied>α</name></persName></persName>
-                    <lb n="17"/><persName type="attested"><name nymRef="Νικαρίστα">Νικαρίστ<unclear>α</unclear></name> 
-                       <persName type="attested"><name nymRef="Θρασυκλῆς">Θρασυκλεῦ<supplied reason="lost">ς</supplied></name></persName></persName>
-                    <lb n="18"/><persName type="attested" key="lgpn:V1-63017"><name nymRef="Ἀράτα">Ἀράτα</name> <g ref="symbols.xml#dash"/> <persName type="attested"><name nymRef="Φιλώτας">Φιλώτα</name></persName></persName>
-                    <lb n="19"/><gap reason="lost" extent="10" unit="character"/> <persName type="attested"><name nymRef="Φιλύτας">Φιλύτα</name></persName>
+                    <lb n="9"/><persName type="attested" key="lgpn:V1-63984"><name nymRef="Ζευξώ">Ζευξὼ</name> <g ref="symbols.xml#dash"/> <persName type="attested" key="lgpn:V1-65881"><name nymRef="Φείδιμος">Φειδίμω</name></persName></persName>
+                    <lb n="10"/><persName type="attested" key="lgpn:V1-63670"><name nymRef="Επαγώ">Επαγὼ</name> <g ref="symbols.xml#dash"/> <persName type="attested" key="lgpn:V1-64562"><name nymRef="Καρνήδας">Καρνήδα</name></persName></persName>
+                    <lb n="11"/><persName type="attested" key="lgpn:V1-66057"><name><supplied>Φ</supplied>ιλυλ<unclear>λ</unclear>ιὼ</> <g ref="symbols.xml#dash"/> <persName type="attested" key="lgpn:V1-64883"><name nymRef="Λῦσις">Λύσιος</name></persName></persName>
+                    <lb n="12"/><persName type="attested" key="lgpn:V1-66127"><name nymRef="Φρονίμα">Φρονίμα</name> <g ref="symbols.xml#dash"/> <persName type="attested" key="lgpn:V1-66029"><name nymRef="Φιλόξενος">Φιλοξένω</name></persName></persName>
+                    <lb n="13"/><persName type="attested" key="lgpn:V1-63626"><name nymRef="Εἰρήνα">Εἰρήνα</name> <persName type="attested" key="lgpn:V1-65781"><name nymRef="Τελεσίστρατος">Τελεσιστράτω</name></persName></persName>
+                    <lb n="14"/><persName type="attested" key="lgpn:V1-63407"><name nymRef="Βερνίκα">Βερνίκα</name> <g ref="symbols.xml#dash"/> <persName type="attested" key="lgpn:V1-65913"><name nymRef="Φιλίννας">Φιλίννα</name></persName></persName>
+                    <lb n="15"/><persName type="attested" key="lgpn:V1-64465"><name nymRef="Καλλιβώλα"><supplied reason="lost">Κ</supplied>αλ<unclear>λ</unclear>ιβώλ<unclear>α</unclear></name> 
+                    <persName type="attested" key="lgpn:V1-64640"><name nymRef="Κλέαρχος">Κ<unclear>λ</unclear>ε<unclear>ά</unclear>ρχω</name></persName></persName>
+                    <lb n="16"/><persName type="attested" key="lgpn:V1-65048"><name nymRef="Μνάστα">Μνάστα</name> <g ref="symbols.xml#dash"/> <persName type="attested" key="lgpn:V1-66060"><name nymRef="Φιλύτας">Φιλύ<supplied reason="lost">τ</supplied>α</name></persName></persName>
+                    <lb n="17"/><persName type="attested" key="lgpn:V1-65133"><name nymRef="Νικαρίστα">Νικαρίστ<unclear>α</unclear></name> 
+                       <persName type="attested" key="lgpn:V1-64271"><name nymRef="Θρασυκλῆς">Θρασυκλεῦ<supplied reason="lost">ς</supplied></name></persName></persName>
+                    <lb n="18"/><persName type="attested" key="lgpn:V1-63017"><name nymRef="Ἀράτα">Ἀράτα</name> <g ref="symbols.xml#dash"/> <persName type="attested" key="lgpn:V1-66117"><name nymRef="Φιλώτας">Φιλώτα</name></persName></persName>
+                    <lb n="19"/><gap reason="lost" extent="10" unit="character"/> <persName type="attested" key="lgpn:V1-66060"><name nymRef="Φιλύτας">Φιλύτα</name></persName>
                 </ab>
          </div>
          
@@ -155,9 +155,7 @@
                   <note>It is not quite clear whether the dashes printed in CIG record marks on the stone, or some kind of uncertainty</note>
                </app>
                <app loc="11">
-                  <note>CIG suggests <foreign xml:lang="grc">Μυλατώ</foreign> but the name is not otherwise
-                     known at Cyrene. Perhaps <foreign xml:lang="grc">Μνασώ</foreign>
-                  </note>
+                  <note>ΙΛΥΛΔΙΩ</note>
                </app>
                <app loc="15">
                   <note>ΑΛΔΙΒΩΛΔΚΑΕΛΡΧΩ</note>
@@ -173,7 +171,8 @@
             <head>Commentary</head>
             <p>For other lists of priestesses of Hera, see <ref type="inscription">C08500</ref>, <ref type="inscription">C11300</ref>, <ref type="inscription">C37900</ref>
             </p>
-            <p>CIG suggests that the date is Ptolemaic but prosopography suggests that it is probably I century. B.C.E. - 1 century C.E.. 
+            <p>CIG suggests that the date is Ptolemaic but prosopography suggests that it is probably I century. B.C.E. - 1 century C.E.</p>
+            <p> Line 11: <note>CIG suggested <foreign xml:lang="grc">Μυλατώ</foreign>; for this reading see LGPN, citing RPhil (1983), 185 ff. 
                <!-- line 10 Perhaps also in 1001
                line 16 Perhaps also in 696, line 12 --></p>
          </div>
