@@ -109,10 +109,10 @@
          <change when="2008-08-20" who="VA">turned to XML and tidied</change>
          <change when="2008-08-18" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMRNS09_032" decls="#photograph"><desc><ref type="inscription">Τ59000</ref> to the left, 
-      <ref type="inscription">Τ59100</ref> to the right, <ref type="inscription">Τ59200</ref> above (Reynolds NS.IX.32)</desc></graphic>
-      <graphic url="JMRNS09_033" decls="#photograph"><desc><ref type="inscription">Τ59200</ref>, with <ref type="inscription">Τ59000</ref> below to the left, 
-         <ref type="inscription">Τ59100</ref> below to the right (Reynolds NS.IX.33)</desc></graphic></facsimile>
+   </teiHeader><facsimile><graphic url="JMRNS09_032" decls="#photograph"><desc><ref type="inscription">T59000</ref> to the left, 
+      <ref type="inscription">T59100</ref> to the right, <ref type="inscription">T59200</ref> above (Reynolds NS.IX.32)</desc></graphic>
+      <graphic url="JMRNS09_033" decls="#photograph"><desc><ref type="inscription">T59200</ref>, with <ref type="inscription">T59000</ref> below to the left, 
+         <ref type="inscription">T59100</ref> below to the right (Reynolds NS.IX.33)</desc></graphic></facsimile>
    <text>
       <body>
          <div type="bibliography">
