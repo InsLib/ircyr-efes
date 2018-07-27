@@ -149,7 +149,7 @@
                     <lb n="13"/><w lemma="υἱός">υἱὸς</w> <space quantity="3" unit="character"/>
                     <lb n="14"/><name nymRef="Ἀρίστανδρος">Ἀριστάν<space quantity="1" unit="character"/> 
                     <lb n="15" break="no"/>δρος</name></persName> <space quantity="3" unit="character"/> 
-                    <lb n="16"/><persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name> <space quantity="1" unit="character"/> 
+                    <lb n="16"/><persName type="attested" key="lgpn:V1-64441"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name> <space quantity="1" unit="character"/> 
                     <lb n="17"/> <name nymRef="Ἴστρος">Ἴστρος</name> <persName type="attested"><name nymRef="Φίλισκος">Φιλίσκου</name></persName></persName>
                     <lb n="18"/><persName type="attested" key="lgpn:V1-63296"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name> <space quantity="1" unit="character"/> 
                     <lb n="19"/><name nymRef="Ἄσκλαπος">Ἄσκλαπος</name> <persName type="attested"><name nymRef="Φίλισκος">Φιλίσκου</name></persName></persName> 
