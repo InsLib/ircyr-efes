@@ -109,8 +109,8 @@
          <change when="2008-08-20" who="VA">turned to XML and tidied</change>
          <change when="2009-03-16" who="CB">turned to XML and tidied</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMRNS09_030" decls="#photograph"><desc><ref type="inscription">Τ59500</ref>, <ref type="inscription">Τ59600</ref> 
-      <ref type="inscription">Τ59600</ref>, <ref type="inscription">Τ59700</ref>, <ref type="inscription">Τ59800</ref> and <ref type="inscription">Τ59900</ref> 
+   </teiHeader><facsimile><graphic url="JMRNS09_030" decls="#photograph"><desc><ref type="inscription">T59500</ref>, <ref type="inscription">T59600</ref> 
+      <ref type="inscription">T59600</ref>, <ref type="inscription">T59700</ref>, <ref type="inscription">T59800</ref> and <ref type="inscription">T59900</ref> 
       (Reynolds NS.IX.30)</desc></graphic></facsimile>
    <text>
       <body>
