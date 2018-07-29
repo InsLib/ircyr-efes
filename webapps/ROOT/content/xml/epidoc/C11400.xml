@@ -157,7 +157,7 @@
                             <lb n="4" break="no"/>βαστῶ</name></persName> 
                     <persName type="attested" key="lgpn:V1-64961"><name nymRef="Μελάνιππος">Μελανίππω</name> <w lemma="ὁ">τῶ</w> <persName type="attested" key="lgpn:V1-64854"><name nymRef="Λυσανίας">Λυσανία</name></persName></persName>
                     <lb n="5"/> <space extent="4" unit="character"/><w>τριακατιαρχέντας</w>
-                    <lb n="6"/> <persName type="attested" key="lgpn:V1-64436"><name nymRef="Ἴστρος"><choice><sic>Ἴστρον</sic><corr>Ἴστρω</corr></choice></name>
+                    <lb n="6"/> <persName type="attested" key="lgpn:V1-64436"><name nymRef="Ἴστρος"><choice><sic>Ἴστρον</sic><corr>Ἴστρω</corr></choice></name><!-- checkk for dfather and son, key="lgpn:V1-64437" -->
                     <w lemma="ὁ">τῶ</w> <persName type="attested" key="lgpn:V1-62509"><name nymRef="Ἀγαθῖνος">Ἀγαθίνω</name></persName></persName>
                     <lb n="7"/> <persName type="attested" key="lgpn:V1-64376"><name nymRef="Ἰγίσαν">Ἱγίσαντα</name> <persName type="attested" key="lgpn:V1-65221"><name nymRef="Ὀνόμαρχος">Ὀνομάρχω</name></persName></persName>
                     <lb n="8"/> <persName type="attested" key="lgpn:V1-63282"><name nymRef="Ἄρχιππος">Ἄρχιππον</name> <persName type="attested" key="lgpn:V1-63281"><name nymRef="Ἄρχιππος">Ἀρχίππω</name></persName></persName>
@@ -252,7 +252,7 @@
                             <lb n="27"/> <persName type="attested" key="lgpn:V1-64187"><name nymRef="Θευκρίσιος">Θευκρίσιος</name> <persName type="attested" key="lgpn:V1-65279"><name nymRef="Πάτρων">Πάτρωνος</name></persName></persName>
                             <lb n="28"/> <persName type="attested" key="lgpn:V1-64146"><name nymRef="Θεύδοτος">Θεύδοτος</name> <persName type="attested" key="lgpn:V1-64145"><name nymRef="Θεύδοτος">Θευδότω</name></persName></persName>
                      <lb n="29"/> <persName type="attested" key="lgpn:V1-63590"><name nymRef="Διονύσιος">Διονύσιος</name> <persName type="attested"><name nymRef="Ὄλυμπος">Ὀλύμπω</name></persName></persName>
-                            <lb n="30"/> <persName type="attested"><name nymRef="Βαρθυβᾶς" key="lgpn:V1-63368">Βαρθυβᾶς</name> <persName type="attested"><name nymRef="Βαρθυβᾶς" key="lgpn:V1-63367">Βαρθυβᾶ</name></persName></persName>
+                            <lb n="30"/> <persName type="attested" key="lgpn:V1-63368"><name nymRef="Βαρθυβᾶς">Βαρθυβᾶς</name> <persName type="attested"><name nymRef="Βαρθυβᾶς" key="lgpn:V1-63367">Βαρθυβᾶ</name></persName></persName>
                             <lb n="31"/> <persName type="attested" key="lgpn:V1-63644"><name nymRef="Ἐλάζαρ">Ἐλάσζαρ</name> <persName type="attested" key="lgpn:V1-63639"><name nymRef="Ἐλάζαρ">Ἐλάζαρος</name></persName></persName>
                             <lb n="32"/> <persName type="attested" key="lgpn:V1-62521"><name nymRef="Ἀγαθοκλῆς">Ἀγαθοκλῆς</name> <persName type="attested" key="lgpn:V1-63639"><name nymRef="Ἐλάζαρ">Ἐλάζαρος</name></persName></persName>
                             <lb n="33"/> <persName type="attested" key="lgpn:V1-65219"><name nymRef="Ὀνόμαρχος">Ὀνόμαρχος</name> <persName type="attested" key="lgpn:V1-64810"><name nymRef="Λεωνίδας">Λεωνίδα</name></persName></persName>
@@ -533,7 +533,7 @@
                    </p>
             <p>2.a.12, It is possible that a Φίλων Φιλοκώμου appears as a priest of Apollo in the undated but quite early text [802] - perhaps this boy's father.  
                </p>
-                    <p>2.a.14, Perhaps to be connected with Ἥγισαν Βωλακλεῦς in the genealogy of Antionia Mego [844a, lines 18-19]. 
+                    <p>2.a.14, Perhaps to be connected with Ἥγισαν Βωλακλεῦς in the genealogy of Antonia Mego [844a, lines 18-19]. 
                     </p>
             <p>3.a.24, Possibly a <supplied reason="subaudible">son</supplied> of the Βαρκαῖος Ἐτεάρχω who wrote his name on an ephabic mnument in 18 B.C.E., see 668b, line 1. 
             </p>
