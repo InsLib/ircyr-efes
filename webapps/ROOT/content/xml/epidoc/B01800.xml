@@ -115,8 +115,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
              <p><bibl>
-                  <ptr target="ferri1926"/>  <citedRange>15</citedRange>
-            </bibl>, on which
+                  <ptr target="ferri1926"/>  <citedRange>15</citedRange>, with a drawing</bibl>, on which
                 <bibl><ptr target="cumont1927"/></bibl> whence
                <bibl>
                   <title>SEG</title> <citedRange>9.787</citedRange></bibl>.
@@ -135,12 +134,10 @@
          <div type="apparatus">
             <head>Apparatus</head>
            <listApp>
-               <app loc="2"><rdg><note>perhaps</note> Ἀντι<supplied reason="lost">μ</supplied>ά<supplied reason="lost">χ</supplied>ης</rdg>
-                   <rdg resp="#ferri1926">Ἀντί<supplied reason="lost">ο</supplied>χ<supplied reason="lost">ος</supplied></rdg>
-                  <rdg resp="#cumont1927">Ἀντι<supplied reason="lost">π</supplied>ά<supplied reason="lost">τρου</supplied></rdg>
-                   <rdg resp="#SEG"><note>corrected</note></rdg></app>
-              <app loc="3"><rdg resp="#ferri1926">ἥ<supplied reason="lost">κω</supplied></rdg>
-                  <rdg resp="#SEG"><note>corrected</note></rdg> <note>but a patronymic seems to be wanted</note>
+               <app loc="2"><rdg><note>perhaps Ἀντι[μ]ά[χ]ης</note></rdg>
+                   <rdg resp="#ferri1926">Ἀντί[ο]χ[ος]</rdg>
+                  <rdg resp="#cumont1927">Ἀντι[π]ά[τ]ρου</rdg></app>
+              <app loc="3"><rdg resp="#ferri1926">ἥ[κω . . ?]</rdg>
                </app>
             </listApp>
          </div>

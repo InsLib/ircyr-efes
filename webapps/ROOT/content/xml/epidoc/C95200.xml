@@ -127,10 +127,10 @@
 	 <lb n="2" break="no"/>ους</w> <w>εἰς</w> <w>τὴν</w> <w>ἐπιοῦσαν</w> <w>ἐκκλησίαν</w> <w>χρηματίσαι</w> <w>περὶ</w> <w>τούτων</w></supplied> <w>γνώμην</w> <w>δὲ</w> <w>ξυ<unclear>ν</unclear>
 	 <lb n="3" break="no"/><supplied reason="lost"></supplied>βάλλεσθαι</w> <!-- check --><w>τῆς</w> <w>βουλῆς</w> <w>τῶν</w> <w>ἑξακοσίων</w> <w>εἰς</w> <supplied reason="lost"><w>τὸν</w></supplied> <w><unclear>δῆμ</unclear>ον</w>, <w>ὅτι</w> <w>δοκῖ</w> <w>τῇ</w> <w>βουλῇ</w> <w>ἐπαι
 	 <lb n="4" break="no"/><supplied reason="lost">νέσαι</supplied></w> 
-                  <persName type="attested"><name nymRef="Φιλόξενος"><supplied reason="lost">Φιλόξενον</supplied></name> 
-                     <persName type="attested"><name nymRef="Φίλισκος"><supplied reason="lost">Φιλίσκου</supplied></name></persName> 
+                  <persName type="attested" key="lgpn:V1-66026"><name nymRef="Φιλόξενος"><supplied reason="lost">Φιλόξενον</supplied></name> 
+                     <persName type="attested" key="lgpn:V1-65953"><name nymRef="Φίλισκος"><supplied reason="lost">Φιλίσκου</supplied></name></persName> 
                      <supplied reason="lost"><w>φύσει</w> <w>δὲ</w></supplied> 
-                     <persName type="attested"><name nymRef="Εὐφάνης"><supplied reason="lost">Εὐφά</supplied>νου</name></persName></persName>
+                     <persName type="attested" key="lgpn:V1-63906"><name nymRef="Εὐφάνης"><supplied reason="lost">Εὐφά</supplied>νου</name></persName></persName>
 	        <placeName type="ethnic"><w lemma="̈Κυρηναῖος">Κυρηναῖον</w></placeName> <w>ἐφ᾽</w><w>ᾗ</w> <w>ἔχι</w> <w>πρὸς</w> <w>τὴν</w> 
            <lb n="5"/><supplied reason="lost"><w>πόλιν</w> <w>τῶν</w> <placeName type="ethnic"><w>Ἀθηναίων</w></placeName></supplied> <supplied reason="lost" cert="low"><w>ἐν</w> <w>παντὶ</w> <w>καίρῳ</w> <w>αἱρέσει</w></supplied>  <w>στεφανῶσαι</w> <w>δ᾽</w><w>αὐτὸν</w> <w>χρυσῷ</w> <w>σ<unclear>τ</unclear>
            <lb n="6" break="no"/><supplied reason="lost">εφάνῳ</supplied></w> <supplied reason="lost" cert="low"><w>μετὰ</w> <w>ταινιδίου</w> <w>φοινικιοῦ</w></supplied> 
@@ -228,8 +228,8 @@
             used for fixing Ptolemaios's will (IGCyr112) along the sustaining wall of the Fountain Terrace in the Sanctuary of Apollo.</p> <!-- <rs type="inscription" target="igcyr:112">IGCyr 112</rs>, suggested by GB, does not validate ! -->
             <p>Ll. 2-3, this probouleutic formula, along with some linguistic features, points to Athens as the city which issued this decree. This would be the latest instance
             of the fromula attested up to now. The precision 'council of the 600', often omitted, is here necessary on behalf of the space available.</p>
-            <p>At lines4 and 10. the honorand may be identified with <foreign xml:lang="grc">Φιλόξενος Φιλίσκω φύσ̣ι̣ δὲ Εὐφάνευς</foreign>, on record in a list of priests of Apollo from Cyrene 
-             of Augustan period (<ref type="inscription">IRCyrC.66</ref>), whereas other members of this prominent family are on record in the 1st cent. C.E. as eponymous magistrates in Cyrene.</p>
+            <p>At lines 4 and 10. the honorand may be identified with <foreign xml:lang="grc">Φιλόξενος Φιλίσκω φύσ̣ι̣ δὲ Εὐφάνευς</foreign>, on record in a list of priests of Apollo from Cyrene 
+             of Augustan period (<ref type="inscription">C06600</ref>), whereas other members of this prominent family are on record in the 1st cent. C.E. as eponymous magistrates in Cyrene.</p>
             <p>At line 7. The mention of <foreign xml:lang="grc">Πτολεμαῖον</foreign> has been debated. From the beginning, it was thought by Gasperini, Luni and Paci (in 1986) that this was the the name 
             (otherwise unknown) of the place where the stone was found, i.e. the Hellenistic gymnasium that preceded the Roman Caesareum. However the multiple honors decreted seem to be followed by the 
             dedication of several portraits or statues, both at Cyrene and at Athens. For the latter, a gymnasium named <foreign xml:lang="grc">Πτολεμαῖον</foreign> is attested. So the question should remain open

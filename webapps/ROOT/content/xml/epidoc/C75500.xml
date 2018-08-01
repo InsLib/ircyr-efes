@@ -133,8 +133,8 @@
             
             <div type="textpart" subtype="graphito" n="I">
                       <ab>
-                         <lb n="1"/> <persName type="attested"><name nymRef="Νικαολος">Νικα<unclear>ο</unclear>λος</name> 
-                            <persName type="attested"><name nymRef="Λεώνιας">Λεωνία</name></persName>
+                         <lb n="1"/> <persName type="attested" key="lgpn:V1-65104"><name nymRef="Νίκαθλος">Νίκα<unclear>θ</unclear>λος</name> 
+                            <persName type="attested" key="lgpn:V1-64809"><name nymRef="Λεωνίδας">Λεωνίδ<supplied reason="lost">α</supplied></name></persName>
                          </persName>                      
                       </ab>
                     </div>
@@ -142,17 +142,18 @@
             <div type="textpart" subtype="graphito" n="II">
                       <ab>
                          <lb n="1"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-            <num value="55">νε</num> <persName type="attested"><name nymRef="Χαρίτιμος">Χαριτίμω</name> 
-            <w>κα<unclear>ὶ</unclear></w> <persName type="attested"><name nymRef="Οἶνις">Οἶνις</name> 
-                         <w>τῶν</w> <lb n="2"/><persName type="attested"><name nymRef="Εὐρυπτόλεμος">Εὐρυπτόλ<lb break="no" n="3"/><space quantity="27" unit="character"/>εμω</name></persName></persName></persName>
+            <num value="55">νε</num> <persName type="attested" key="lgpn:V1-66160"><name nymRef="Χαρίτιμος">Χαριτίμω</name> 
+            <w>κα<unclear>ὶ</unclear></w> <persName type="attested" key="lgpn:V1-65206"><name nymRef="Οἶνις">Οἶνις</name> 
+                         <w>τῶν</w> <lb n="2"/><persName type="attested" key="lgpn:V1-63886"><name nymRef="Εὐρυπτόλεμος">Εὐρυπτόλ
+                            <lb break="no" n="3"/><space quantity="27" unit="character"/>εμω</name></persName></persName></persName>
                       </ab>
             </div>
             
             <div type="textpart" subtype="graphito" n="III">
                       <ab>
                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-            <num value="55">νε</num> <persName type="attested"><name nymRef="Χαρίτιμος">Χαριτίμω</name> 
-            <w>τῶ</w> <lb n="2"/><persName type="attested"><name nymRef="Χαρίτιμος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Χαριτίμω</ex></expan></name></persName></persName>
+            <num value="55">νε</num> <persName type="attested" key="lgpn:V1-66159"><name nymRef="Χαρίτιμος">Χαριτίμω</name> 
+            <w>τῶ</w> <lb n="2"/><persName type="attested" key="lgpn:V1-66160"><name nymRef="Χαρίτιμος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Χαριτίμω</ex></expan></name></persName></persName>
                       </ab>
                </div>
                     
@@ -172,7 +173,7 @@
             
             <div type="textpart" subtype="graphito" n="VI">
                       <ab>
-                         <lb n="1"/><persName type="attested"><name nymRef="Λυσάνιας">Λυσάνιας</name> 
+                         <lb n="1"/><persName type="attested" key="lgpn:V1-64849"><name nymRef="Λυσάνιας">Λυσάνιας</name> 
                             <persName type="attested" key="lgpn:V1-62891"><name nymRef="Ἁνίοχος">Ἁνιόχω</name></persName></persName>
                       </ab>
             </div>
@@ -180,7 +181,7 @@
             <div type="textpart" subtype="graphito" n="VII">
                       <ab>
                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-            <num value="55">νε</num> <space quantity="22" unit="character"/> <persName type="attested"><name nymRef="Θόας">Θόας</name> 
+            <num value="55">νε</num> <space quantity="22" unit="character"/> <persName type="attested" key="lgpn:V1-64268"><name nymRef="Θόας">Θόας</name> 
                          <persName type="attested" key="lgpn:V1-64609"><name nymRef="Καρτισθένης"><unclear>Κ</unclear>αρ<unclear>τ</unclear>ισθένεoς</name></persName></persName> 
                       </ab>
             </div>
@@ -189,21 +190,21 @@
                       <ab>
                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="54">νδ</num>
-                         <lb n="2"/><persName type="attested"><name nymRef="Ποσειδώνις">Ποσειδώνεις</name> 
-                         <lb n="3"/><persName type="attested"><name nymRef="Φιλόκωμος">Φιλοκώμω</name></persName></persName> 
+                         <lb n="2"/><persName type="attested" key="lgpn:V1-65424"><name nymRef="Ποσειδώνις">Ποσειδώνεις</name> 
+                         <lb n="3"/><persName type="attested" key="lgpn:V1-66004"><name nymRef="Φιλόκωμος">Φιλοκώμω</name></persName></persName> 
                       </ab>
             </div>
             
             <div type="textpart" subtype="graphito" n="IX">
                     <ab>
                          <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
-                         <persName type="attested"><name nymRef="Εὐρυπτόλεμος">Ἐυρυπτόλεμον</name>
-                            <w><supplied reason="lost">τ</supplied>ῶ</w> <persName type="attested"><name nymRef="Χαρίτιμος">Χαριτίμω</name></persName></persName>
+                         <persName type="attested" key="lgpn:V1-63887"><name nymRef="Εὐρυπτόλεμος">Ἐυρυπτόλεμον</name>
+                            <w><supplied reason="lost">τ</supplied>ῶ</w> <persName type="attested" key="lgpn:V1-66160"><name nymRef="Χαρίτιμος">Χαριτίμω</name></persName></persName>
                        <gap reason="lost" quantity="2" unit="character"/> <orig>πος</orig>
                         <lb n="2"/><gap reason="lost" quantity="2" unit="character"/> <orig>υ</orig> 
-                           <persName type="attested" key="lgpn:V1-62535"><name nymRef="Χαρίτιμος"><unclear>Χ</unclear>αρί<supplied reason="lost">τι</supplied><unclear>μ</unclear>ο<unclear>ς</unclear></name>
+                           <persName type="attested" key="lgpn:V1-62535, lgpn:V1-66158"><name nymRef="Χαρίτιμος"><unclear>Χ</unclear>αρί<supplied reason="lost">τι</supplied><unclear>μ</unclear>ο<unclear>ς</unclear></name>
                         <name nymRef="Ἀγαλλις">Ἀγαλλις</name> <w>τῶ</w> 
-                        <persName type="attested"><name nymRef="Πάμφιλος">Παμφίλω</name></persName></persName> 
+                        <persName type="attested" key="lgpn:V1-65233"><name nymRef="Πάμφιλος">Παμφίλω</name></persName></persName> 
                    </ab>
             </div>
             
@@ -211,7 +212,7 @@
                       <ab>
                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="55">εν</num>
-                         <lb n="2"/><persName type="attested"><name nymRef="Εὐφράνωρ">Εὐφρά<lb break="no" n="3"/><expan><abbr>ν</abbr><ex>ωρ</ex></expan></name></persName>
+                         <lb n="2"/><persName type="attested" key="lgpn:V1-63918"><name nymRef="Εὐφράνωρ">Εὐφρά<lb break="no" n="3"/><expan><abbr>ν</abbr><ex>ωρ</ex></expan></name></persName>
                       </ab>
             </div>
             
@@ -231,9 +232,9 @@
             <div type="textpart" subtype="graphito" n="XIII">
                       <ab>
                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w><gap reason="lost" quantity="1" unit="character"/> 
-                         <persName type="attested"><name nymRef="Φίλιος">Φιλί<unclear>ω</unclear></name> </persName>
+                         <persName type="attested" key="lgpn:V1-65926"><name nymRef="Φίλιος">Φιλί<unclear>ω</unclear></name> </persName>
             <persName type="attested" key="lgpn:V1-63553"><name nymRef="Δημήτριος">Δημήτριος</name> 
-               <lb n="2"/><name nymRef="Ἰμαλύλο">Ἰμαλύλος</name></persName> <!-- check -->
+               <lb n="2"/><name nymRef="Ἰμαλύλο">Ἰμαλύλος</name></persName> <!-- check ψφ key="lgpn:V1-64921"-->
             <w>ἱερεύς</w> <orig>ιαω</orig><gap reason="lost" unit="character" extent="unknown"/><orig><unclear>χ</unclear>ον</orig> 
                       </ab>
             </div>
@@ -242,7 +243,7 @@
                       <ab>
                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="13">ιγ</num> <space quantity="10" unit="character"/>
-                         <persName type="attested"><name nymRef="Καλλίμαχος"><unclear>Καλ</unclear>λίμ<unclear>αχο</unclear>ς</name></persName>
+                         <persName type="attested" key="lgpn:V1-64488"><name nymRef="Καλλίμαχος"><unclear>Καλ</unclear>λίμ<unclear>αχο</unclear>ς</name></persName>
                       </ab>
              </div>
             
@@ -250,8 +251,8 @@
                       <ab>
                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="21">κα</num> 
-                         <persName type="attested"><name nymRef="Λῦσις">Λῦσις</name> 
-            <persName type="attested"><name nymRef="Λύσιππος">Λυσίππω</name></persName></persName>
+                         <persName type="attested" key="lgpn:V1-64882"><name nymRef="Λῦσις">Λῦσις</name> 
+            <persName type="attested" key="lgpn:V1-64872"><name nymRef="Λύσιππος">Λυσίππω</name></persName></persName>
                       </ab>
              </div>
             
@@ -260,7 +261,7 @@
                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <lb n="2"/><num value="21">κα</num> 
                          <persName type="attested" key="lgpn:V1-62916"><name nymRef="Ἀντίγονος"><expan><abbr>Ἀντίγονο</abbr><ex>ς</ex></expan></name> 
-                        <persName type="attested"><name nymRef="Νίκαιος">Νικαίω</name></persName></persName>
+                        <persName type="attested" key="lgpn:V1-65105"><name nymRef="Νίκαιος">Νικαίω</name></persName></persName>
                       </ab>
             </div>
             
@@ -268,7 +269,7 @@
                       <ab>
                          <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
              <num atLeast="11"><gap reason="lost" quantity="1" unit="character"/>α</num> <space quantity="15" unit="character"/>
-            <persName type="attested"><name nymRef="Νείκας">Νεικ<unclear>ᾶ</unclear>ς</name> <space quantity="10" unit="character"/>
+            <persName type="attested" key="lgpn:V1-65135"><name nymRef="Νικᾶς">Νεικ<unclear>ᾶ</unclear>ς</name> <space quantity="10" unit="character"/>
             <persName type="attested"><name nymRef="Καρνεάδας">Καρ<unclear>ν</unclear><supplied reason="lost" cert="low">εαδα</supplied></name></persName></persName>
                       </ab>
             </div>

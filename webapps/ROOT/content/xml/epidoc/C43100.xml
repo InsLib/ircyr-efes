@@ -189,8 +189,8 @@
                <w lemma="ὅπλον"><supplied reason="lost">ὅ</supplied><lb n="5" break="no"/>πλον</w>
                     <w lemma="ἐπίχρυσος">ἐπίχρυσον</w> <w>ἔ<supplied reason="lost">χοντα</supplied></w>
                <w lemma="ἐπί"><supplied reason="lost">ἐπὶ</supplied></w> 
-                    <lb n="6"/><w>γρα<supplied reason="lost">φά</supplied>ς</w> <persName type="attested"><name nymRef="Φάος">Φάον</name>
-                       <persName type="attested"><name nymRef="Κλέαρχος">Κλεά<supplied reason="lost">ρχω</supplied></name></persName></persName>
+                    <lb n="6"/><w>γρα<supplied reason="lost">φά</supplied>ς</w> <persName type="attested" key="lgpn:V1-65875"><name nymRef="Φάος">Φάον</name>
+                       <persName type="attested" key="lgpn:V1-64636"><name nymRef="Κλέαρχος">Κλεά<supplied reason="lost">ρχω</supplied></name></persName></persName>
                     <w><supplied reason="lost">τῶ</supplied></w>
                <w><supplied reason="lost">φι</supplied><lb n="7" break="no"/>λοπάτριδος</w> <w>ἀρετᾶς</w> 
                    <w lemma="καί"><supplied reason="lost">καὶ</supplied></w> <w><supplied reason="lost">τᾶς</supplied></w> 

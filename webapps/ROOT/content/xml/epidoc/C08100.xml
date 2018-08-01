@@ -138,7 +138,7 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="15">ιε</num> <w>ἐπὶ</w> <w>ἱρέ<space quantity="1" unit="character"/>ως</w>
-                    <lb n="2"/><persName type="attested" key="lgpn:V1-63953"><name nymRef="Φιλίσκος">Φιλίσκω</name> <persName type="attested" key="lgpn:V1-63908"><name nymRef="Εὐφάνης">Εὐφάνευς</name></persName></persName>
+                    <lb n="2"/><persName type="attested" key="lgpn:V1-65953"><name nymRef="Φιλίσκος">Φιλίσκω</name> <persName type="attested" key="lgpn:V1-63908"><name nymRef="Εὐφάνης">Εὐφάνευς</name></persName></persName>
                     <lb n="3"/><persName type="emperor" key="augustus"><w>Αὐτοκρατορος</w> <w>δὲ</w> <name nymRef="Καῖσαρ">Καίσα
                         <lb n="4" break="no"/>ρος</name> <w>Θεῶι</w> <w>υἱῷ</w> <name nymRef="Σεβαστός">Σεβαστῷ</name></persName>
                     <lb n="5"/><persName type="attested" key="lgpn:V1-63374"><name nymRef="Βαρκαῖος">Βαρκαίω</name> <w>τῶ</w> <persName type="attested"><name nymRef="Θεόχρηστος">Θεοχρήστω</name></persName></persName>

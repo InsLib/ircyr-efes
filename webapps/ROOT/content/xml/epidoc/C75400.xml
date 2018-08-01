@@ -108,9 +108,8 @@
          <change when="2009-06-17" who="Pietro">turned to XML and tidied</change>
          <change when="2009-05-11" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_923abc_front_2" decls="#photograph"><desc>Face, showing <ref type="inscription">C75300</ref>, <ref type="inscription">C75400</ref> and <ref type="inscription">C75500</ref>  (Department of Antiquities, E 294)</desc></graphic><!--
-                    --><!--
-                --></facsimile>
+   </teiHeader><facsimile><graphic url="JMR_923abc_front_2" decls="#photograph"><desc>Face, showing <ref type="inscription">C75300</ref>, 
+      <ref type="inscription">C75400</ref> and <ref type="inscription">C75500</ref>  (Department of Antiquities, E 294)</desc></graphic></facsimile>
    <text>
       <body>
          
@@ -120,14 +119,14 @@
                <bibl><ptr target="gpc1961"/> <citedRange>6</citedRange>, p. 19</bibl>, whence 
                <bibl><title>SEG</title> <citedRange>20.740</citedRange></bibl>, 
                <bibl><ptr target="robertBE"/> <citedRange>1962.363</citedRange>, p. 218</bibl>;
-                 <bibl><ptr target="gl-jmr1983"/> <citedRange>6</citedRange></bibl>. 
+               <bibl><ptr target="gl-jmr1983"/> <citedRange>6</citedRange></bibl>. Discussed, <bibl> <ptr target="gasperini1985"/> <citedRange>174</citedRange></bibl>
             </p>
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Τίμαρχος">Τίμαρχος</name> 
-                       <persName type="attested"><name nymRef="Ζευξίμαχος">Ζευξιμάχω</name></persName></persName>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-658074"><name nymRef="Τίμαρχος">Τίμαρχος</name> 
+                       <persName type="attested" key="lgpn:V1-63974"><name nymRef="Ζευξίμαχος">Ζευξιμάχω</name></persName></persName>
                     <lb n="2"/><persName type="divine" key="hermes"><name nymRef="Ἑρμῆς">Ἑρμαι</name></persName>
                <persName type="divine" key="herakles"><name nymRef="Ἡρακλῆς">Ἡρακλεῖ</name></persName>
                 </ab>

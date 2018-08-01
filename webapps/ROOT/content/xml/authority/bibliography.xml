@@ -346,7 +346,7 @@
                     
                     <bibl xml:id="cumont1927"><author>François <name type="surname">Cumont</name></author>,<date>1927</date>
                     <title level="a">Soldats Syriens dans l'armee romaine de Cyrenaique</title>, <title level="j">Syria</title> 
-                        <biblScope unit="issue">8</biblScope>, <biblScope unit="pp">84</biblScope>, 
+                        <biblScope unit="issue">8</biblScope>, <biblScope unit="pp">84</biblScope>; 
                         <note>available at Persée, <ref target="http://www.persee.fr/web/revues/home/prescript/article/syria_0039-7946_1927_num_8_1_8137"></ref></note></bibl>
                     
                     <bibl xml:id="cigiv"><author>E. <name type="surname">Curtius</name></author> and <author>A. <name type="surname">Kirchhoff</name></author>
@@ -377,7 +377,7 @@
                     <bibl xml:id="devisscher1939"><author>Fernand <name type="surname">De Visscher</name></author>, 
                         <date>1939</date>, <title level="a">Le régime des liturgies des nouveaux citoyens romains, d'après l'édit III de Cyrène</title>, <title level="s"
                             >Comptes rendus des séances de l'Académie des Inscriptions et Belles-Lettres</title>
-                        <biblScope unit="issue">83.1</biblScope>, <biblScope>111-120</biblScope>, 
+                        <biblScope unit="issue">83.1</biblScope>, <biblScope>111-120</biblScope>; 
                         available at Persée, <ref target="www.persee.fr/doc/crai_0065-0536_1939_num_83_1_77142"/></bibl>
                     
                     <bibl xml:id="devisscher1940"><author>Fernand <name type="surname">De Visscher</name></author>, 
