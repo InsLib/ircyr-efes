@@ -107,9 +107,8 @@
          <change when="2009-04-23" who="CB">turned to XML and tidied</change>
          <change when="2009-02-24" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_476front" decls="#photograph"><desc>Text (Joyce Reynolds, Tolmeita I (NB V). 50)</desc></graphic><!--Dept.--><!--
-                    --><!--
-                --></facsimile>
+   </teiHeader><facsimile><graphic url="JMR_476front" decls="#photograph"><desc>Text (Joyce Reynolds, Tolmeita I (NB V). 50)</desc></graphic>
+      <!--Dept.--></facsimile>
    <text>
       <body>
      

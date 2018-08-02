@@ -103,9 +103,8 @@
          <change when="2010-01-10" who="CMR">tagged description, corrected text</change>
          <change when="2008-07-14" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_475" decls="#photograph"><desc>Face (Joyce Reynolds, Tolmeita I. 89)</desc></graphic><!--
-                        --><!--
-                    --></facsimile>
+   </teiHeader><facsimile><graphic url="JMR_475" decls="#photograph"><desc>Face (Joyce Reynolds, Tolmeita I. 89)</desc>
+   </graphic></facsimile>
    <text>
       <body>
        
