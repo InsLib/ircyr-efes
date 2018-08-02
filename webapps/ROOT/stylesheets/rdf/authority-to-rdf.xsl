@@ -60,12 +60,13 @@
     </so:Thing>
   </xsl:template>
   
-  <xsl:template match="tei:glyph/@xml:id">
+  <xsl:template match="tei:glyph[@xml:id]">
     <so:Thing>
       <xsl:call-template name="add-rdf-about-uri" />
-      <xsl:value-of select="."/>
+      <xsl:apply-templates />
     </so:Thing>
   </xsl:template>
+  
   
   <xsl:template match="tei:org[@xml:id]">
     <so:Organization>
