@@ -134,8 +134,10 @@
          </div>
          
          <div type="translation" xml:space="preserve">
-            <head>Translation</head><p>Perhaps a reference to Androsthenes (as in <ref type="inscription" n="T42400">T.452</ref>, <ref type="inscription">T429500</ref>, 
-               <ref type="inscription" n="T42900">T.457</ref></p><p/></div>
+            <head>Translation</head>
+            <p>Perhaps a reference to Androsthenes (as in <ref type="inscription" n="T42400">T.452</ref>, <ref type="inscription">T429500</ref>, 
+               <ref type="inscription" n="T42900">T.457</ref></p>
+         </div>
          <div type="commentary">
             <head>Commentary</head>
             <p/>

@@ -32,7 +32,7 @@
                      <supportDesc>
                         <support>
                            <p><objectType>Wall</objectType> of a <material>rock</material>-cut <objectType>tomb</objectType> chamber,
-                              with <ref type="inscription" n="C83400">M.273</ref>, <ref type="inscription" n="C83410">M.274</ref>, <ref type="inscription">C83500</ref>.</p>
+                              with <ref type="inscription" n="C83400">M.273</ref>, <ref type="inscription" n="C83410">M.274</ref>, <ref type="inscription" target="GVCyr038">GVCyr 38</ref>.</p>
                         </support>
                      </supportDesc>
                      <layoutDesc>
@@ -129,7 +129,7 @@
          <div type="apparatus">
             <head>Apparatus</head>
             <listApp><app loc="2"></app><!-- <
-                  <rdg><note>check Possibbly a cutter's error for Σάμφω Δίωνος, see also <ref type="inscription">C83500</ref>, line 3; the name appears to be formed on a semiotic root.</note>
+                  <rdg><note>check Possibbly a cutter's error for Σάμφω Δίωνος, see also <ref type="inscription" target="GVCyr038">GVCyr 38</ref>, line 3; the name appears to be formed on a semiotic root.</note>
                   </rdg>
                </app> -->
                
