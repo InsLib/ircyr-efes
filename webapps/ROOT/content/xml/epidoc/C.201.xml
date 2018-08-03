@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C16900" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><rs type="textType">Imperial</rs> <rs type="textType">honours</rs> for Antoninus Pius</title>
+            <editor>Joyce M. Reynolds</editor>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Centre for Computing in the Humanities, King's College London</authority>
+            <idno type="filename">C.201</idno>
+            <idno type="ircyr2012">C16900</idno>
+            <idno type="JMR">759</idno>
+            <idno type="Excel">1223</idno>
+            <availability>
+               <p>Creative Commons licence Attribution UK 2.0
+                    (<ref>http://creativecommons.org/licenses/by/2.0/uk/</ref>)</p>
+               <p>All reuse or distribution of this work must contain somewhere a link back to the
+                    URL <ref>http://inslib.kcl.ac.uk/</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier><msName>n/a</msName></msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <p>Fragment of a <material>marble</material> <objectType>panel</objectType> 
+                              (<dimensions><width>0.58</width><height>0.40</height><depth>0.07</depth></dimensions>)</p>
+                        </support>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on one face.</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>Second century: line 1, <height>0.07</height>; lines 2,3, <height>0.05</height>; line 4, <height>0.04</height>.</handNote>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>Unknown.</origPlace>
+                     <origDate notAfter="0200" notBefore="0101" precision="low" evidence="lettering">Second century C.E.</origDate>
+                  </origin>
+                  
+                     
+                        <provenance type="found">
+                           <p>
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1024">Valley Street</placeName>, north side, near the modern Post Office, in the same area as <ref type="inscription" n="C72300">C.202</ref>; 
+                              found in <date type="found">1959</date>.</p>
+                        </provenance>
+                        <provenance type="observed">
+                           <p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
+                        </provenance>
+                     
+                  
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Marked-up according to the EpiDoc Guidelines version 8</p>
+      <classDecl><taxonomy><category xml:id="photograph"><catDesc>Digital or digitized photographs</catDesc></category><category xml:id="representation"><catDesc>Digitized other representations</catDesc></category></taxonomy></classDecl></encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="ar">Arabic</language>
+            <language ident="en">English</language>
+            <language ident="fr">French</language>
+            <language ident="de">German</language>
+            <language ident="grc">Ancient Greek</language>
+            <language ident="grc-Latn">Transliterated Greek</language>
+            <language ident="el">Modern Greek</language>
+            <language ident="he">Hebrew</language>
+            <language ident="it">Italian</language>
+            <language ident="la">Latin</language>
+         </langUsage>
+         <textClass/>
+         <textClass>
+            <keywords scheme="IRCyr">
+               <term>
+                        <geogName type="ancientRegion" key="Cyrene">Cyrenaica</geogName>
+                    </term>
+               <term>
+                        <geogName type="modernCountry" key="LY">Libya</geogName>
+                    </term>
+               <term>
+                        <placeName type="modernFindspot" ref="http://sws.geonames.org/82972">Shahat</placeName>
+                    </term>
+            </keywords>
+         </textClass>
+      <creation>Transcription (Reynolds).</creation></profileDesc>
+      <revisionDesc>
+         <change when="2012-11-05" who="GB">moved text-constituted-from to profileDesc/creation</change>
+         <change when="2012-10-16" who="GB">broke provenance events into multiple provenance elements</change>
+         <change when="2010-11-30" who="Pietro">metadata</change>
+         <change when="2010-08-04" who="GB">Converted from TEI P4 (EpiDoc DTD v. 6) to P5 (EpiDoc RNG schema v. 8)</change>
+         <change when="2009-11-19" who="CB">turned to XML and tidied</change>
+         <change when="2009-06-12" who="Pietro">turned to XML and tidied</change>
+         <change when="2009-05-11" who="GB">mailmerged: created from template</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile>
+      <graphic url="JMR_759_002" decls="#photograph"><desc>Face (Reynolds VI.3)</desc></graphic>
+      <graphic url="JMR_759_001" decls="#photograph"><desc>View (1961, Joyce Reynolds, II.73)</desc></graphic>
+   </facsimile>
+   <text>
+      <body>
+         <div type="bibliography">
+            <head>Bibliography</head>
+            <p/>
+         </div>
+         
+         <div type="edition" xml:lang="la" xml:space="preserve">
+            <ab>
+               <lb n="1"/><persName type="emperor"><w><supplied reason="lost"><expan><abbr>Imp</abbr><ex>erator</ex></expan></supplied></w>
+                     <name><supplied reason="lost">Caesar</supplied></name> <persName type="emperor"><w><supplied reason="lost">divi</supplied></w> 
+               <name><supplied reason="lost">Hadriani</supplied></name></persName>
+                    <w><expan><abbr>fil</abbr><ex>ius</ex></expan></w> 
+                  <persName type="emperor"><supplied reason="lost"><w>diui</w></supplied> <name><supplied reason="lost">Traiani</supplied></name>
+                    <lb n="2"/><name><supplied reason="lost">Parthici</supplied></name></persName> <w><supplied reason="lost"><expan><abbr>nep</abbr><ex>os</ex></expan></supplied></w>
+                       <persName type="emperor"><w><supplied reason="lost">diui</supplied></w> <name><supplied reason="lost">Ner</supplied>uae</name></persName>
+                       <w><expan><abbr>pron</abbr><supplied reason="lost"><abbr>ep</abbr><ex>os</ex></supplied></expan></w> 
+                    <name><supplied reason="lost"><expan><abbr>T</abbr><ex>itus</ex></expan></supplied></name> 
+                  <name><supplied reason="lost">Aelius</supplied></name>
+                   <lb n="3"/><name><supplied reason="lost">Antoninus</supplied></name> <name><supplied reason="lost">Pius</supplied></name> 
+                  <name><supplied reason="lost"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></supplied></name></persName> 
+                        <w><supplied reason="lost"><expan><abbr>pont</abbr><ex>ifex</ex></expan></supplied></w> 
+                  <w><expan><abbr><supplied reason="lost">m</supplied>ax</abbr><ex>imus</ex></expan></w>
+                    <w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> 
+                  <w><expan><abbr>p</abbr><supplied reason="lost"><abbr>ot</abbr><ex>estate</ex></supplied></expan></w>
+                    <w><supplied reason="lost"><expan><abbr>imp</abbr><ex>erator</ex></expan></supplied></w> <num value="2"><supplied reason="lost">II</supplied></num>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/>
+                       <supplied reason="lost"><space quantity="1" unit="character"/> 
+                        <w>per</w></supplied> <persName type="attested"><name><supplied reason="lost"><expan><abbr>Q</abbr><ex>uintum</ex></expan></supplied></name>
+                     <gap reason="lost" extent="unknown" unit="character"/><name><w part="F">m</w></name> 
+                    <name>Potitu<supplied reason="lost">m</supplied></name></persName> <w><supplied reason="lost"><expan><abbr>proco</abbr><ex>n</ex><abbr>s</abbr><ex>ulem</ex></expan></supplied></w>
+                </ab>
+         </div>
+         
+         <div type="translation" xml:space="preserve">
+            <p></p>
+         </div>
+         
+         <div type="commentary">
+            <head>Commentary</head>
+
+            <p>In this restoration, the use of the accusative case for the name of the proconsul strongly suggests that the text records a gift made by the emperor 
+                    through the agency of the proconsul; hence the restoration of the nominative case for the emperor's name. 
+                    In line 3, <foreign xml:lang="la">IMP II</foreign> is rightly added - and the spacing seems to require it - from 142. 
+                    In line 4 of the restoration, probably <foreign xml:lang="la">Q. Iulius</foreign>, or <foreign xml:lang="la">Iulius Potitus</foreign> is mentioned as also in C689=631. But he is not otherwise known.  
+                    At the beginning  of this line there may have been a description of the object given, or a reference to the recipients, 
+                    but there is hardly room for the normal <foreign xml:lang="la">ciuitate Cyrenensium</foreign>.</p>
+         </div>
+         <!-- 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>fil</orig>
+                    <g ref="symbols.xml#leaf"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><orig><unclear>v</unclear>ae</orig></w> 
+                    <g ref="symbols.xml#leaf"/> <w part="I"><orig>pron</orig></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><orig>ax</orig></w> 
+                    <orig>trib</orig> <w part="I"><unclear>p</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><orig>m</orig></w> 
+                    <w part="I"><orig>potitu</orig></w><gap reason="lost" extent="unknown" unit="character"/> -->
+         
+      </body>
+   </text>
+</TEI>
