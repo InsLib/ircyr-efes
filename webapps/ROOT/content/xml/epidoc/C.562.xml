@@ -149,7 +149,7 @@
                     <lb n="4"/><persName type="attested"><name nymRef="Μουσαῖος">Μο<unclear>υ</unclear>σα<supplied reason="lost">ί</supplied><unclear>ω</unclear></name></persName> </persName>
                     <lb n="5"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="109">ρθ</num> <w>τοῦ</w> <w>καὶ</w> <num value="8">η</num>
-                    <lb n="6"/> <persName type="attested" key="lgpn:V1-60937"><name nymRef="Ῥοδόκλεια">Ῥοδόκλεια</name> <persName type="attested"><name nymRef="Θρασύμαχος">Θρα<lb n="7" break="no"/>ϲυμάχω</name></persName></persName> 
+                    <lb n="6"/> <persName type="attested" key="lgpn:V1-60937"><name nymRef="Ῥοδόκλεια">Ῥοδόκλεια</name> <persName type="attested" key="lgpn:V1-64275"><name nymRef="Θρασύμαχος">Θρα<lb n="7" break="no"/>ϲυμάχω</name></persName></persName> 
             <date type="life-span" dur="P55Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="55">νε</num> </date>
                     <lb n="8"/><g ref="symbols.xml#leaf"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <gap reason="lost" quantity="1" unit="character"/><num value="109">ρθ</num> <w>τοῦ</w> <w>κ<supplied reason="lost">αὶ</supplied></w> 
