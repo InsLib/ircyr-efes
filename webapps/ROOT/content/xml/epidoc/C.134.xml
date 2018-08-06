@@ -105,9 +105,8 @@
          <change when="2009-06-11" who="MR">turned to XML and tidied</change>
          <change when="2009-05-11" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_701front" decls="#photograph"><desc>Face and head of a statue (1919, Department of antiquities, F. 373)</desc></graphic><!--Dept. f. 378.--><!--
-                    --><!--
-                --></facsimile>
+   </teiHeader><facsimile><graphic url="JMR_701front" decls="#photograph"><desc>Face and head of a statue 
+      (1919, Department of antiquities, F. 373)</desc></graphic><!--Dept. f. 378.--></facsimile>
    <text>
       <body>
          
@@ -139,7 +138,7 @@
                         <lb n="13"/><w>ἁμῶν</w> <w lemma="καί">καὶ</w> <w>ἰδίαι</w> <w lemma="ἕκαστος">ἕκαστον</w> <w lemma="ὁ">τῶ<supplied reason="lost">ν</supplied>
                         </w><gap reason="lost" extent="unknown" unit="character"/> 
                         <lb n="14"/><w lemma="ὁ">τὰ</w> <w>δ’</w>  <w>ἄλλειματα</w> <w lemma="ὅς">ἅ</w> <w lemma="τε">τε</w> <w>ἀὶ</w><!-- Pietro: ? --> 
-                        <w>αὐτ</w><gap reason="lost" extent="unknown" unit="character"/>
+                        <w part="I">αὐτ</w><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="15"/><w>των</w> <w>ταὶ</w> <w>ποτιδέξηται</w> <w>ἁ</w> <w lemma="πόλις">πόλις</w>
                         <w>Ι</w><gap reason="lost" extent="unknown" unit="character"/> 
                         <lb n="16"/><w lemma="καθώς">καθὼς</w> <w lemma="ὁ">τὸ</w> <w>προγεγράμμενον</w>
@@ -175,7 +174,7 @@
             <head>Commentary</head>
             <p>line 1 The text contains parts of decrees praising and rewarding an A. Pompeius M[...], probably a Cyrenaian, for his benefactions to the city. </p>
             <p> line 3 perhaps the phrase τοῖς ἀγαθοῖς τῶν ἄνδρων stood here, cf. IGRR IV, 1302, lines 20, 21. </p>
-            <p> for the restoration of lines 4,5 cf. 1028, lines 19-22. </p>
+            <p> for the restoration of lines 4,5 cf. <ref type="inscription" n="C.416">C.416</ref>, lines 19-22. </p>
             <p> line 8 possibly to be compared with the sentences in IGRR II 738 referring to the governor's approval of honorary decrees, e.g. section III, line 99 τετειμῆσθαι αὐτὸν συνκατέθετο καὶ ὁ κράτιστος ἡγεμὼν Τρέβιος Μάξιμος δι'ἧς γέγραφφεν ἐπιστολῆς.  </p>
             <p> line 10 lines 9-10 appear to have contained instructions to the appropriate officials to inscribe the decree and display it. </p>
             <p> lines 11-12 must be restored on the following lines: ἐπεὶ Αὖλος Πομπήϊος Μ[..?..ἀεὶ εὐεργετῶν διατελεῖ τὰν πόλιν] ἀμῶν καὶ ι]δίαι ἕκαστον τῶ[ν πολίτων ...]. </p>
