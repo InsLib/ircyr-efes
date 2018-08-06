@@ -121,7 +121,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Λύκος">Λύκοϲ</name> <persName type="attested" key="lgpn:V1-64352"><name nymRef="Ἰάσων">Ἰάϲονοϲ</name></persName></persName> 
-                    <lb n="2"/><persName type="attested"><name nymRef="Παραιβάτας">Παραιβάταϲ</name> <persName type="attested"><name nymRef="Θαλίαρχος">Θαλιάρχω</name></persName></persName>
+                    <lb n="2"/><persName type="attested"><name nymRef="Παραιβάτας">Παραιβάταϲ</name> <persName type="attested" key="lgpn:V1-64079"><name nymRef="Θαλίαρχος">Θαλιάρχω</name></persName></persName>
                     <lb n="3"/><persName type="attested"><name nymRef="Εἰσσαιγας">Εἰϲϲαίγαϲ</name></persName> 
                     <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="50">ν</num> <persName type="attested"><name nymRef="Πρᾶξις">Πρᾶξιϲ</name> <persName type="attested" key="lgpn:V1-64299"><name nymRef="Ἰάσων">Ἰάϲ<surplus>ι</surplus>ονοϲ</name></persName></persName> 
                     <lb n="5"/><persName type="attested" key="lgpn:V1-64353"><name nymRef="Ἰάσων">Ἰάϲων</name> <persName type="attested"><name nymRef="Μενίβιος" key="lgpn:V1-65014">Μενιβίω</name></persName></persName> 

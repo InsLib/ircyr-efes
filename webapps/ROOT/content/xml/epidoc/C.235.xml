@@ -128,7 +128,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίῳ</ex></expan></name> 
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-64131"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίῳ</ex></expan></name> 
                     <name nymRef="Κλαύδιος">Κλ<unclear>αυ</unclear>δ<unclear>ί</unclear>ῳ</name>
                     <lb n="2"/><space extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τιβ</abbr><ex>ερίω</ex></expan></name></persName>
                     <lb n="3"/><name nymRef="Θεόφραστος">Θεοφράστῳ</name></persName>

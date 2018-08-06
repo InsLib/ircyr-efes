@@ -344,6 +344,12 @@
                         <title level="j">Quaderni di archeologia della Libia</title> <biblScope unit="issue">16</biblScope> 
                         <biblScope unit="pp">321-5</biblScope></bibl>
                     
+                    <bibl xml:id="comparetti1914"><author>D. <name type="surname">Comparetti</name></author>,
+                        <title level="a">Iscrizione Cristian di Cirene</title>
+                        <title level="j">Annuario della Regia Scuola Archeologica di Atene</title> <biblScope unit="issue">I</biblScope> 
+                        <date>1914</date> <biblScope unit="page">161-167</biblScope>; 
+                        available at Scuola di Atene <ref target="https://www.scuoladiatene.it/images/documents/Estratti%201914/7.%20Comparetti%203.pdf"/></bibl>
+                    
                     <bibl xml:id="cumont1927"><author>François <name type="surname">Cumont</name></author>,<date>1927</date>
                     <title level="a">Soldats Syriens dans l'armee romaine de Cyrenaique</title>, <title level="j">Syria</title> 
                         <biblScope unit="issue">8</biblScope>, <biblScope unit="pp">84</biblScope>; 

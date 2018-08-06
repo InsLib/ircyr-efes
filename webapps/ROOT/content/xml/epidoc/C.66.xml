@@ -120,7 +120,7 @@
             <p>
                <bibl><ptr target="jmr1960"/> <citedRange>5.a</citedRange></bibl>, 
                whence <bibl><ptr target="robertBE"/> <citedRange>1961.835</citedRange></bibl>, 
-               <bibl><title>SEG</title> <citedRange>18.746</citedRange></bibl>; republished
+               <bibl><title>SEG</title> <citedRange>18.746.a</citedRange></bibl>; republished
                <bibl><ptr target="jmr1980"/> <citedRange>p.148, A.i</citedRange></bibl>. 
                whence <bibl><title>SEG</title> <citedRange>30.1785.1.a</citedRange></bibl>; republished
                <bibl><ptr target="jmr-jbwp-rgg2003"/><citedRange>172.1a</citedRange></bibl>; <bibl><ptr target="venturini2013"/> no. <citedRange>59.a</citedRange></bibl>
@@ -131,7 +131,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><w>εὐτυχῶς</w> <persName type="attested"><name nymRef="Ἠσύχιος">Ἠσυχίῳ</name></persName> <w>ἐν</w>
+                    <lb n="1"/><w>εὐτυχῶς</w> <persName type="attested" key="lgpn:V1-64058"><name nymRef="Ἠσύχιος">Ἠσυχίῳ</name></persName> <w>ἐν</w>
                         <persName type="divine" key="kyrios"><w>θεῷ</w></persName> <w>διὰ</w> <w>πάντος</w> <w>αὔξη</w> <w>βίου</w>
                 </ab>
          </div>
