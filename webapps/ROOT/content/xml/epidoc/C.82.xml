@@ -125,7 +125,7 @@
                        <persName type="attested"><name nymRef="Καλλίμαχος">Καλλιμάχου</name></persName></persName> 
                     <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="55">νε</num> <persName type="attested"><name nymRef="Σωγένης">Σωγένης</name> 
-               <persName type="attested"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name></persName></persName> 
+               <persName type="attested" key="lgpn:V1-63919"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name></persName></persName> 
                     <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="55">νε</num> <persName type="attested"><name nymRef="Ἐπικράτης">Ἐπικράτης</name></persName> 
                     <lb n="4"/><orig>λ</orig><space extent="3" unit="character"/> <orig>γ</orig><space extent="3" unit="character"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>

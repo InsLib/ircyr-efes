@@ -1138,6 +1138,12 @@
                         <title>The collection of Ancient Greek Inscriptions in the British Museum</title>,
                         <pubPlace>Oxford</pubPlace> <biblScope unit="volume">IV.ii</biblScope>.</bibl>
                     
+                    <bibl xml:id="masson1965"><author>Olivier <name type="surname"
+                        >Masson</name></author>, <date>1965</date>, <title level="a">Trois Questions de Dialectologie Grecque</title>,
+                        <title level="j">Glotta</title>
+                        <biblScope unit="issue">43</biblScope>, <biblScope unit="pp"
+                            >217-234</biblScope>, available at JSTOR <ref target="www.jstor.org/stable/40265969"/></bibl>
+                    
                     <bibl xml:id="masson1974"><author>Olivier <name type="surname"
                         >Masson</name></author>, <date>1974</date>, <title level="a">L'inscription généalogique 
                             de Cyrène (SGDI 4859)</title>,
