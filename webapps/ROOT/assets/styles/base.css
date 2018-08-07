@@ -31,20 +31,20 @@ ul.index-instances { }
 
 #site-title {
   overflow: hidden;
-  background: #747474 url(../images/banner_bg.png) center no-repeat;
+  background: #c1b7ae /*url(../images/DSC04838_1.JPG) left*/ no-repeat; 
   font-variant: small-caps;
-  font-size: 35px;
+  font-size: 45px;
   color: #F8F8F8;
   height: 100px;
   position: relative;
   margin-top: -1px;
   margin-bottom: -1px;
-  padding-top: 38px;
+  /*padding-top: 38px;*/
   width: 100%
 }
 
 nav.top-bar, nav.top-bar ul.right li, nav.top-bar ul.left * {
-    background-color: #747474;
+    background-color: #c1b7ae;
 }
 
 nav.top-bar {
@@ -69,7 +69,7 @@ h1 {
 }
 
 a:link, a:visited, a:active { color: #637893; }
-a:hover { color: #45658B; }
+a:hover { color: #45658B; } 
 
 body{
     background: url(../images/body_bg.png) -7px top repeat-y;
