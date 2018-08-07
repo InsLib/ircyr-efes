@@ -134,7 +134,7 @@
                     <num value="90">ϙ</num> 
                     <w>καὶ</w> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="91">ϙα</num> 
-                    <lb n="2"/><w lemma="ἐν">ἐν</w> <w>ἱερει</w> <persName type="attested"><name nymRef="Ἴστρος">Ἴστρῳ</name></persName>
+                    <lb n="2"/><w lemma="ἐν">ἐν</w> <w>ἱερει</w> <persName type="attested" key="lgpn:V1-64441"><name nymRef="Ἴστρος">Ἴστρῳ</name></persName>
                <w lemma="εἰς">ἐς</w> 
                     <lb n="3"/><w>ἱερεα</w> <persName type="attested" key="lgpn:V1-63296"><name nymRef="Ἄσκλαπος">Ἄσκλαπον</name> <w lemma="ὁ">τοὺς</w>
                       <persName type="attested" key="lgpn:V1-63954"><name nymRef="Φιλίσκος">Φι

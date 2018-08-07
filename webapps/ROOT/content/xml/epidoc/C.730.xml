@@ -117,13 +117,13 @@
       <body>
          <div type="bibliography">
             <head>Bibliography</head>
-            <p><bibl><ptr target="SECir"/> <citedRange>90c</citedRange> p.266</bibl>.</p>
+            <p><bibl><ptr target="SECir"/> <citedRange>90.c</citedRange> p.266</bibl>.</p>
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Φιλόστρατος">Φιλόϲτρατοϲ</name>
-                    <lb n="2"/><persName type="attested"><name nymRef="Θρασύμαχος">Θραϲυμάχω</name></persName></persName>
+                    <lb n="2"/><persName type="attested" key="lgpn:V1-64278"><name nymRef="Θρασύμαχος">Θραϲυμάχω</name></persName></persName>
                     <lb n="3"/><space extent="5" unit="character"/><date type="life-span" dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="7">ζ</num> </date><space extent="3" unit="character"/>
                 </ab>
 </div>
