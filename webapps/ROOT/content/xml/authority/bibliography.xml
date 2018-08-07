@@ -362,7 +362,7 @@
                     
                     <bibl xml:id="damerau1934"> <author>Paul <name type="surname">Damerau</name></author>
                         <date>1934</date>, <title level="m">Faiser Cklaudiys II Goticus (268-270 n. Chr.)</title>,  
-                        <pubPlace>Leipzig</pubPlace></bibl>
+                        <pubPlace>Leipzig</pubPlace></bibl><!-- check -->
                     
                     <bibl xml:id="dellacella1819"><author>Paolo <name type="surname">Della
                     Cella</name></author> <date>1819</date>, 

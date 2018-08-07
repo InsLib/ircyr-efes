@@ -130,8 +130,8 @@
                     <lb n="2"/> <w>Ἱάρεαι</w> <w>τᾶς</w> <persName type="divine" key="hera"><name nymRef="Ἥρα">Ἥρας</name></persName>
                     <lb n="3"/> <persName type="attested" key="lgpn:V1-64951"><name nymRef="Μεγώ">Μεγὼ</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-63624"><name nymRef="Εἰδόκριτος">Εἰδοκρίτω</name></persName></persName>
                     <lb n="4"/> <persName type="attested" key="lgpn:V1-64760"><name nymRef="Λαβράμεα">Λαβράμεα</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-63362"><name nymRef="Βάκαλ">Βάκαλος</name></persName></persName>
-                    <lb n="5"/> <persName type="attested" key="lgpn:V1-65503">><name nymRef="Πρωταρχίς">Πρωταρχὶς</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-64031"><name nymRef="Ἡρακλείδας">Ἡρακλείδα</name></persName></persName>
-                    <lb n="6"/> <persName type="attested" key="lgpn:V1-65134"><name nymRef="Νικαρίστα">Νικαρίστα</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-65336">><name nymRef="Πολιάνθης">Πολιάνθευς</name></persName></persName>
+                    <lb n="5"/> <persName type="attested" key="lgpn:V1-65503"><name nymRef="Πρωταρχίς">Πρωταρχὶς</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-64031"><name nymRef="Ἡρακλείδας">Ἡρακλείδα</name></persName></persName>
+                    <lb n="6"/> <persName type="attested" key="lgpn:V1-65134"><name nymRef="Νικαρίστα">Νικαρίστα</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-65336"><name nymRef="Πολιάνθης">Πολιάνθευς</name></persName></persName>
                     <lb n="7"/> <persName type="attested" key="lgpn:V1-65300"><name nymRef="Πέλεια">Πέλεια</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-64330"><name nymRef="Ἰάσων">Ἰάσονος</name></persName></persName>
                     <lb n="8"/> <persName type="attested" key="lgpn:V1-64733"><name nymRef="Κριτόλα">Κριτόλα</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-63597"><name nymRef="Διονύσιος">Διονυσίω</name></persName></persName>
                     <lb n="9"/> <persName type="attested" key="lgpn:V1-63136"><name nymRef="Ἀριστοβώλα">Ἀριστοβώλα</name><space extent="4" unit="character"/> <persName type="attested" key="lgpn:V1-65682"><name nymRef="Σωκράτης">Σωκράτευς</name></persName></persName>
@@ -148,7 +148,7 @@
                     <lb n="20"/> <persName type="attested" key="lgpn:V1-64696"><name nymRef="Κληνάτα">Κληνάτα</name><space extent="4" unit="character"/> 
                         <persName type="attested" key="lgpn:V1-64736"><name nymRef="Κρίτων">Κρίτω<supplied reason="lost">νος</supplied></name></persName></persName>
                     <lb n="21"/> <persName type="attested" key="lgpn:V1-62843"><name nymRef="Ἀναξιδίκα">Ἀναξιδίκα</name><space extent="4" unit="character"/> 
-                        <persName type="attested" key="lgpn:V1-65542">><name nymRef="Πτολεμαῖος">Πτο<supplied reason="lost">λεμαίω</supplied></name></persName></persName>
+                        <persName type="attested" key="lgpn:V1-65542"><name nymRef="Πτολεμαῖος">Πτο<supplied reason="lost">λεμαίω</supplied></name></persName></persName>
                     <lb n="22"/> <persName type="attested" key="lgpn:V1-65820"><name nymRef="Τίμασσα">Τίμασσα</name></persName>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="23"/> <gap reason="lost" extent="unknown" unit="character"/>

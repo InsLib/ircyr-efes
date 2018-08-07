@@ -131,8 +131,7 @@
       <body>
 
          <div type="bibliography">
-            <p><bibl><ptr target="vattier1850"/>
-                  <citedRange>586</citedRange></bibl>.</p>
+            <p><bibl><ptr target="vattier1850"/> <citedRange>586</citedRange></bibl>.</p>
             <p>For the tomb, <bibl><ptr target="cassels1955"/>
                   <citedRange>N.66</citedRange>, cf. 417</bibl>, <bibl><ptr
                      target="thorn2009"/>
@@ -153,7 +152,7 @@
             <date type="life-span" dur="P55Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="55">νε</num> </date>
                     <lb n="8"/><g ref="symbols.xml#leaf"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <gap reason="lost" quantity="1" unit="character"/><num value="109">ρθ</num> <w>τοῦ</w> <w>κ<supplied reason="lost">αὶ</supplied></w> 
-                        <supplied reason="lost"><num value="8">η</num> </supplied> <persName type="attested"><name nymRef="Κλευπάτρα">Κλευπάτρα</name>
+                        <supplied reason="lost"><num value="8">η</num> </supplied> <persName type="attested" key="lgpn:V1-64679"><name nymRef="Κλευπάτρα">Κλευπάτρα</name>
                     <lb n="9"/><persName type="attested"><name nymRef="Λῦσις">Λύσιδ<unclear>ο</unclear>ς</name></persName></persName> 
             <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num atLeast="40">μ</num> </date> <g ref="symbols.xml#leaf"/> <lb n="10"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
