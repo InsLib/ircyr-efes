@@ -115,7 +115,7 @@
                <bibl><ptr target="rousselBE"/> <citedRange>1930, p.216</citedRange>
                </bibl>, whence 
                  <bibl><title>SEG</title> <citedRange>9.118</citedRange></bibl>;
-                discussed by <bibl><ptr target="marengo1991"/> <citedRange>496-500</citedRange></bibl>, 
+                discussed by <bibl><ptr target="marengo1991"/> <citedRange>496-500</citedRange></bibl><!-- check -->, 
                   whence <bibl><ptr target="cdlBE"/> <citedRange>1992.584</citedRange></bibl>, 
                <bibl><title>SEG</title> <citedRange>41.1697</citedRange></bibl>
             </p>
@@ -123,8 +123,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Αἰγλάνωρ">Αἰγλάνωρ</name> <name nymRef="Α-"><seg part="I">Α</seg></name><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><name nymRef="Καρνήδας">Καρνήδα</name></persName> <w part="I">ἱερατ<supplied reason="lost">ευ</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name nymRef="Αἰγλάνωρ">Αἰγλάνωρ</name> <persName type="attested"><name nymRef="Α-"><seg part="I">Α</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><persName type="attested" key="lgpn:V1-64555"><name nymRef="Καρνήδας">Καρνήδα</name></persName> <w part="I">ἱερατ<supplied reason="lost">ευ</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          <div type="apparatus">

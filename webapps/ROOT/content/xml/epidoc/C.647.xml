@@ -115,7 +115,7 @@
             </ab></div>
             <div type="textpart" n="2"><ab>
                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="13">ιγ</num> 
-               <persName type="attested"><name nymRef="Καλλίμαχος">Καλλιμάχω</name> <w>τῶ</w> <persName type="attested" key="lgpn:V1-64143"><name nymRef="Θευδόσιος">Θευδοσίω</name></persName></persName>
+               <persName type="attested" key="lgpn:V1-64477"><name nymRef="Καλλίμαχος">Καλλιμάχω</name> <w>τῶ</w> <persName type="attested" key="lgpn:V1-64143"><name nymRef="Θευδόσιος">Θευδοσίω</name></persName></persName>
                
             </ab></div>
             <div type="textpart" n="3"><ab>
@@ -128,8 +128,9 @@
             </ab></div>
          </div>
          
-         <!-- check: JMR saw Ἀπολλοφάνης: this appears to be C02600 -->
+         <!-- check: JMR saw Ἀπολλοφάνης, 62982: this appears to be C02600 -->
          <!-- check: JMR saw Ἀριστώνυμος, 3 times, lgpn:V1-63225, 6, 7. This appears to be C.52 -->
+         <!-- cf. also C.56 -->
          <div type="translation" xml:space="preserve"><head>Translation</head>
             <p><!--  ...--></p></div>
          <div type="commentary">

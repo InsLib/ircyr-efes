@@ -120,7 +120,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
              
             <ab>
-               <lb n="1"/><persName type="attested" key="lgpn:V1-64435"><name nymRef="Ἴστρος">Ἴστρος</name> <persName type="attested"><name nymRef="Σεραπίων">Σεραπίωνος</name></persName></persName> 
+               <lb n="1"/><persName type="attested" key="lgpn:V1-64435"><name nymRef="Ἴστρος">Ἴστρος</name> <persName type="attested" key="lgpn:V1-65582"><name nymRef="Σεραπίων">Σεραπίωνος</name></persName></persName> 
                <lb n="2"/><persName type="divine" key="hermes"><name nymRef="Ἑρμῆς">Ἑρμαῖ</name></persName> 
                <persName type="divine" key="herakles"><name nymRef="Ἡρακλῆς">Ἡρακλεῖ</name></persName>
             </ab>

@@ -141,7 +141,7 @@
                     <lb n="11"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
                     <num value="66">ξϛ</num> <rs type="month" key="Φαωφί"><w>Φαωφὶ</w></rs> <num value="20">κ</num> 
                     <lb n="12"/><persName type="attested" key="lgpn:V1-64186"><name nymRef="Θευκλήα">Θευκλήα</name> 
-                    <lb n="13"/><persName type="attested"><name nymRef="Καλλικράτηϲ">Καλλικράτου</name></persName></persName> 
+                    <lb n="13"/><persName type="attested" key="lgpn:V1-64475"><name nymRef="Καλλικράτηϲ">Καλλικράτου</name></persName></persName> 
                     <lb n="14"/><space extent="3" unit="character"/><date type="life-span" dur="P4Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="4">δ</num> </date> <space extent="5" unit="character"/>
                     <lb n="15"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
                     <num value="71">οα</num> <space extent="5" unit="character"/>

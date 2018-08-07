@@ -114,13 +114,13 @@
       <body>
          <div subtype="editions" type="bibliography">
             <head>Bibliography</head>
-            <p>Unpublished.</p>
+            <p>Unpublished; mentioned, with no text, <bibl><ptr target="luni1976"/> p.241 no.<citedRange>9</citedRange></bibl></p>
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                             <lb n="1"/><w lemma="εὐτυχής"><supplied reason="lost">ε</supplied>ὐτυχῶς</w> 
-                            <persName type="attested"><name nymRef="Βενοῦστος">Βενούστῳ</name></persName> 
+                            <persName type="attested" key="lgpn:V1-63402"><name nymRef="Βενοῦστος">Βενούστῳ</name></persName> 
                             <w lemma="ὁ">τῷ</w> <w>ἀρχιερ<supplied reason="omitted">ε</supplied>ῖ</w>         <note>sic</note>
                             </ab>
 </div>
