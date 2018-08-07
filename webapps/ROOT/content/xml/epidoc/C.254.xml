@@ -134,7 +134,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> 
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-64630"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> 
                     <name nymRef="Κλαύδιος"><expan><abbr>Κλ</abbr><ex>αύδιος</ex></expan></name> <name nymRef="Κλέαρχος">Κλέαρχος</name>
                     <lb n="2"/><name nymRef="Ῥοῦφος">Ῥοῦφος</name> <name nymRef="Μᾶγνος">Μᾶ<lb n="3" break="no"/>γνος</name></persName>
                     <w lemma="ὁ">τ<supplied reason="lost">ὸν</supplied></w>

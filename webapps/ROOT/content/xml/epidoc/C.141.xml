@@ -118,7 +118,7 @@
                <bibl><title>SGDI</title> <citedRange>4846</citedRange></bibl>,
             <bibl><title>IGRR</title> <citedRange>I.1029</citedRange></bibl>;
                <bibl><ptr target="oliverioDAI"/> <citedRange>64</citedRange> (57) pl. XII, fig 20</bibl>, whence 
-               <bibl><title>SEG</title> <citedRange> </citedRange></bibl>; see <bibl><ptr target="laronde1987a"/> <citedRange>475</citedRange></bibl>.</p><p/>
+               <bibl><title>SEG</title> <citedRange>9.184</citedRange></bibl>; see <bibl><ptr target="laronde1987a"/> <citedRange>475</citedRange></bibl>.</p><p/>
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
@@ -131,8 +131,8 @@
                     <lb n="3a"/><space quantity="1" unit="line"/>
                     <lb n="4"/><persName type="attested" key="lgpn:V1-63944"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἀσίνιος">Ἀσίνιος</name> 
                         <persName type="attested"><name nymRef="Φίλων">Φίλων<unclear>ο</unclear><supplied reason="lost"  evidence="previouseditor">ς</supplied></name></persName>
-                    <lb n="5"/><w>υἱὸς</w> <name nymRef="Εὐφράνωρ">Εὐφράνωρ</name></persName> <g ref="symbols.xml#leaf"/> <lb n="6"/><persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name>
-                        <persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίω</ex></expan></name> <name nymRef="Κλαύδιος">Κλ<supplied reason="lost">αυδίω</supplied></name>
+                    <lb n="5"/><w>υἱὸς</w> <name nymRef="Εὐφράνωρ">Εὐφράνωρ</name></persName> <g ref="symbols.xml#leaf"/> <lb n="6"/><persName type="attested" key="lgpn:V1-64585"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name>
+                        <persName type="attested" key="lgpn:V1-64648"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίω</ex></expan></name> <name nymRef="Κλαύδιος">Κλ<supplied reason="lost">αυδίω</supplied></name>
                     <lb n="7"/><name nymRef="Κλέαρχος">Κλεάρχω</name> <w>ἀρχιερέο<supplied reason="lost"  evidence="previouseditor">ς</supplied></w></persName>
                     <lb n="8"/><space quantity="1" unit="character"/> <w>υἱὸς</w> <name nymRef="Καρνήδας">Καρνήδα<unclear>ς</unclear></name></persName> <g ref="symbols.xml#leaf"/> <lb n="8a"/><space quantity="1" unit="line"/>
                     <lb n="9"/><w><supplied reason="lost"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></supplied></w> 

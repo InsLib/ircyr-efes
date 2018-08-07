@@ -201,7 +201,7 @@
                     </persName> <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="3">γ</num>
                     <lb n="26"/><persName type="attested"><name nymRef="Φλαβία">Φλαβία</name> <name nymRef="Κυδιμάχη">Κυδι<space quantity="2" unit="character"/>μάχη</name></persName>
                <space quantity="3" unit="character"/><w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="4">δ</num>
-                    <lb n="27"/><persName type="attested"><name nymRef="Ἰουλία">Ἰουλία</name> <name nymRef="Κλεομήδα">Κλεομ<space quantity="2" unit="character"/>ήδα</name></persName>
+                    <lb n="27"/><persName type="attested" key="lgpn:V1-64652"><name nymRef="Ἰουλία">Ἰουλία</name> <name nymRef="Κλεομήδα">Κλεομ<space quantity="2" unit="character"/>ήδα</name></persName>
                <space quantity="3" unit="character"/><w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="10">ι</num> 
                     <lb n="28"/><persName type="attested"><name nymRef="Μεγώ">Μεγὼ</name>
                        <persName type="attested"><name nymRef="Εὔβουλος">Εὐβούλου</name></persName></persName><space quantity="6" unit="character"/>
