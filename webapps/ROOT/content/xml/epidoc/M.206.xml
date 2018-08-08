@@ -117,7 +117,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Κότυς">Κότυς</name> <persName type="attested" key="lgpn:V1-63146"><name nymRef="Ἀριστοκλίδας">Ἀριστοκλίδα</name></persName></persName>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-64720"><name nymRef="Κότυς">Κότυς</name> <persName type="attested" key="lgpn:V1-63146"><name nymRef="Ἀριστοκλίδας">Ἀριστοκλίδα</name></persName></persName>
                 </ab>
 </div>
          

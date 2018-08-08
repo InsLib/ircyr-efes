@@ -171,7 +171,7 @@
                     <lb n="32"/><persName type="attested" key="lgpn:V1-63143"><name nymRef="Ἀριστοδίκα">Ἀριστοδίκα</name> <persName type="attested" key="lgpn:V1-64429"><name nymRef="Ἰσοκράτης">Ἰσοκρά<unclear>τ</unclear>ευς</name></persName></persName> 
                     <lb n="33"/><persName type="attested" key="lgpn:V1-64952"><name nymRef="Μεγώ">Μεγὼ</name> <persName type="attested"><name nymRef="Ἀρίσταρχος">Ἀριστάρχω</name></persName></persName> 
                     <lb n="34"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="92">ϙβ</num> <persName type="attested" key="lgpn:V1-64742"><name nymRef="Φαβία">Φαβία</name> <name nymRef="Κυδιμάχα">Κυδιμάχα</name>
+                    <num value="92">ϙβ</num> <persName type="attested" key="lgpn:V1-64742, lgpn:V1-64742"><name nymRef="Φαβία">Φαβία</name> <name nymRef="Κυδιμάχα">Κυδιμάχα</name>
                     <lb n="35"/><space quantity="3" unit="character"/><persName type="attested" key="lgpn:V1-65878"><name nymRef="Φάος">Φαώι</name></persName></persName> <space quantity="3" unit="character"/> 
                     <lb n="36"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="133">ρλγ</num> <w lemma="ὁ">τοῦ</w> <w lemma="καί">καὶ</w> <num value="6">ϛ</num>  
