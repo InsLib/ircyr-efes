@@ -127,7 +127,7 @@
                     <lb n="1"/><w lemma="ἔτος">ἔτους</w> <num value="1">α</num> 
                     <persName type="emperor" key="diocletianus"><name nymRef="Διοκλητιανός">Δ<supplied reason="lost">ι</supplied>ο<unclear>κ</unclear>λητιανοῦ</name></persName>
                     <lb n="2"/><w lemma="ἐπί">ἐπὶ</w> <w lemma="ἱερεύς">ἱερέ<unclear>ω</unclear>ς</w>
-                    <persName type="attested"><name nymRef="Λυσανίας">Λοισανίου</name>
+                    <persName type="attested" key="lgpn:V1-64852"><name nymRef="Λυσανίας">Λοισανίου</name>
                     <w lemma="νέος">νέο<supplied reason="lost">υ</supplied></w></persName> 
                     <lb n="3"/><w>θω</w><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ν</unclear>ο</orig> <w><supplied reason="lost">εἰ</supplied><unclear>σῆλθ</unclear><supplied reason="lost">εν</supplied></w>
                     <supplied reason="lost"><w lemma="εἰς">εἰς</w></supplied> <gap reason="lost" quantity="1" unit="character"/>

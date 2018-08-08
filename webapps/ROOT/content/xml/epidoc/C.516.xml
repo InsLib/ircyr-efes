@@ -134,10 +134,10 @@
                            <div subtype="fragment" n="1" type="textpart"><ab> 
                             <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>δρα</orig><gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div><div subtype="fragment" n="2" type="textpart"><ab>  
-                            <lb n="1"/><persName type="attested"><name nymRef="Λέων">Λέων</name></persName>
+                            <lb n="1"/><persName type="attested" key="lgpn:V1-64806"><name nymRef="Λέων">Λέων</name></persName>
                         </ab></div>
                            <div subtype="section" n="c" type="textpart"><ab>
-                        <lb n="1"/><persName type="attested"><name nymRef="Λαβρομεία">Λαβρομείαϲ</name></persName>
+                        <lb n="1"/><persName type="attested" key="lgpn:V1-64761"><name nymRef="Λαβρομεία">Λαβρομείαϲ</name></persName>
                     </ab>
 </div>
                         <div subtype="section" n="d" type="textpart"><ab> 
