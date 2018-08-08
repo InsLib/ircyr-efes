@@ -137,6 +137,9 @@
     <owl:Class rdf:about="{$gn_ns}alternateName">
       <rdfs:subClassOf rdf:resource="{$so_ns}name" />
     </owl:Class>
+    <owl:Class rdf:about="{$gn_ns}Thing">
+      <rdfs:subClassOf rdf:resource="{$so_ns}Thing" />
+    </owl:Class>
   </xsl:template>
 
 </xsl:stylesheet>
