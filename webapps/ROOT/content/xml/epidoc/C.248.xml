@@ -112,9 +112,7 @@
          <change when="2009-05-11" who="GB">mailmerged: created from template</change>
       </revisionDesc>
    </teiHeader><facsimile>
-      <graphic url="JMR_836" decls="#photograph"><desc>Face with <ref type="inscription" n="C74300">C.394</ref> (Department of Antiquities, F. 426)</desc></graphic><!--
-                    --><!--
-                --></facsimile>
+      <graphic url="JMR_836" decls="#photograph"><desc>Face with <ref type="inscription" n="C74300">C.394</ref> (Department of Antiquities, F. 426)</desc></graphic></facsimile>
    <text>
       <body>
          <div type="bibliography">
@@ -133,7 +131,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Καρνήδας">Καρνήδας</name> <name nymRef="Α-"><seg part="I">Α</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-64551"><name nymRef="Καρνήδας">Καρνήδας</name> <name nymRef="Α-"><seg part="I">Α</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><w>ἱερατεύων</w> <supplied reason="lost"><w lemma="ἀνατίθημι">ἀνέθηκεν</w></supplied>
                 </ab>
 </div>

@@ -118,7 +118,7 @@
                <bibl>
                   <ptr target="jmr1960"/> <citedRange>5.d</citedRange></bibl>, 
                whence <bibl><ptr target="robertBE"/> <citedRange>1961.835</citedRange></bibl>, 
-               <bibl><title>SEG</title> <citedRange>18.746</citedRange></bibl>; republished
+               <bibl><title>SEG</title> <citedRange>18.746.d</citedRange></bibl>; republished
                <bibl><ptr target="jmr1980"/> <citedRange>p.149, A.iv</citedRange></bibl>. 
                whence <bibl><title>SEG</title> <citedRange>30.1785.1.d</citedRange></bibl>; republished
                <bibl><ptr target="jmr-jbwp-rgg2003"/><citedRange>172.1d</citedRange></bibl>; <bibl><ptr target="venturini2013"/> no. <citedRange>60.2</citedRange></bibl>
@@ -129,7 +129,7 @@
 <ab>
                     <lb n="1"/><persName type="divine" key="kyrios"><w>Θεὸς</w> </persName>
                     <lb n="2"/><w>βοηθὸς</w> 
-                    <lb n="3"/><persName type="attested"><name nymRef="Ἡσύχιος">Ἡσυχίῳ </name></persName>
+                    <lb n="3"/><persName type="attested" key="lgpn:V1-64058"><name nymRef="Ἡσύχιος">Ἡσυχίῳ </name></persName>
                     <lb n="4"/><w>διὰ</w> <w>πάν<lb n="5" break="no"/>τος</w>
                 </ab>
 </div>

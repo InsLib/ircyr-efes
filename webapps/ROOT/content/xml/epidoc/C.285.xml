@@ -116,8 +116,7 @@
                <bibl>
                   <ptr target="oliverio1916"/>  <citedRange>184</citedRange>, fig 4
                </bibl>; whence <bibl>
-                       <title>SEG</title> 
-                  <citedRange>9.115</citedRange>.
+                       <title>SEG</title> <citedRange>9.115</citedRange>.
                     </bibl>, 
                     <bibl>
                   <ptr target="ferri1923"/>  <citedRange>6</citedRange>
@@ -131,7 +130,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
                     <lb n="1"/><persName type="divine" key="artemis"><w>θεᾶι</w> <name nymRef="Ἄρτεμις">Ἀρτάμιδι</name></persName> 
-                    <lb n="2"/><w lemma="ἐπί">ἐπὶ</w> <w>ἱαρέος</w> <persName type="attested"><name nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτω</ex></expan></name>
+                    <lb n="2"/><w lemma="ἐπί">ἐπὶ</w> <w>ἱαρέος</w> <persName type="attested" key="lgpn:V1-64395"><name nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτω</ex></expan></name>
                     <name nymRef="Φλάβιος">Φλαβίω</name> <name nymRef="Ἱππίας">Ἱππία</name> 
                     <lb n="3"/><persName type="attested"><name nymRef="Μελίωρ">Μελίορος</name> </persName></persName>
                     <lb n="4"/><persName type="attested"><name nymRef="Βεττιήνα">Βεττιήνα</name> <name nymRef="Ἀπωνία">Ἀπωνία</name> 

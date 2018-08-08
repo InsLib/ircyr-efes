@@ -161,7 +161,7 @@
                         <lb n="6"/><persName type="attested" key="lgpn:V1-62116"><name nymRef="Μᾶρκος">Μᾶρκος</name> 
                             <persName type="attested"><name nymRef="Σ-"><seg part="I">Σ</seg></name></persName></persName> 
                        <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="30"><unclear>λ</unclear></num> <persName type="attested"><name nymRef="Εὐφράνωρ">Εὐφράνωρ</name></persName>
+                        <num value="30"><unclear>λ</unclear></num> <persName type="attested" key="lgpn:V1-63917"><name nymRef="Εὐφράνωρ">Εὐφράνωρ</name></persName>
                         <lb n="7"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="35"><unclear>λ</unclear>ε</num> 
                        <persName type="attested" key="lgpn:V1-62047"><name nymRef="Βαρκαῖος">Βαρκαῖος</name>

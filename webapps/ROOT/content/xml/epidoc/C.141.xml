@@ -129,10 +129,10 @@
                     <lb n="3"/><persName type="attested" key="lgpn:V1-63061"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> 
                     <name nymRef="Κλαύδιος">Κλαύδιος</name> <name nymRef="Ἀρίστανδρος">Ἀρίστα<unclear>ν</unclear><supplied reason="lost"  evidence="previouseditor">δρος</supplied></name></persName>
                     <lb n="3a"/><space quantity="1" unit="line"/>
-                    <lb n="4"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἀσίνιος">Ἀσίνιος</name> 
+                    <lb n="4"/><persName type="attested" key="lgpn:V1-63944"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἀσίνιος">Ἀσίνιος</name> 
                         <persName type="attested"><name nymRef="Φίλων">Φίλων<unclear>ο</unclear><supplied reason="lost"  evidence="previouseditor">ς</supplied></name></persName>
-                    <lb n="5"/><w>υἱὸς</w> <name nymRef="Εὐφράνωρ">Εὐφράνωρ</name></persName> <g ref="symbols.xml#leaf"/> <lb n="6"/><persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name>
-                        <persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίω</ex></expan></name> <name nymRef="Κλαύδιος">Κλ<supplied reason="lost">αυδίω</supplied></name>
+                    <lb n="5"/><w>υἱὸς</w> <name nymRef="Εὐφράνωρ">Εὐφράνωρ</name></persName> <g ref="symbols.xml#leaf"/> <lb n="6"/><persName type="attested" key="lgpn:V1-64585"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name>
+                        <persName type="attested" key="lgpn:V1-64648"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίω</ex></expan></name> <name nymRef="Κλαύδιος">Κλ<supplied reason="lost">αυδίω</supplied></name>
                     <lb n="7"/><name nymRef="Κλέαρχος">Κλεάρχω</name> <w>ἀρχιερέο<supplied reason="lost"  evidence="previouseditor">ς</supplied></w></persName>
                     <lb n="8"/><space quantity="1" unit="character"/> <w>υἱὸς</w> <name nymRef="Καρνήδας">Καρνήδα<unclear>ς</unclear></name></persName> <g ref="symbols.xml#leaf"/> <lb n="8a"/><space quantity="1" unit="line"/>
                     <lb n="9"/><w><supplied reason="lost"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></supplied></w> 

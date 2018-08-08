@@ -148,8 +148,8 @@
                                 type="patronymic" nymRef="Μαρσύας"><ex
                                 cert="low">Μαρσύα</ex></name></expan></persName></persName></persName>
                     
-                    <lb n="4"/><persName type="attested"><name nymRef="Καρτισθένης">Καρτισθένης</name> <persName
-                        type="attested"><name nymRef="Καρτισθένης"><expan><abbr><am><g 
+                    <lb n="4"/><persName type="attested" key="lgpn:V1-64607"><name nymRef="Καρτισθένης">Καρτισθένης</name> <persName
+                        type="attested" key="lgpn:V1-64606"><name nymRef="Καρτισθένης"><expan><abbr><am><g 
                         ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Καρτισθένευς</ex></expan></name> <w>τῶ</w> <persName type="attested">
                             <name nymRef="Νῖκις">Νίκιο<hi rend="sling-above small ">ς</hi></name></persName></persName></persName>
                     

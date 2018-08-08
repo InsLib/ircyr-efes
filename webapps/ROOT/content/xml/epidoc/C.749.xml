@@ -116,12 +116,13 @@
             <p>
                <bibl>
                   <ptr target="oliverio1916"/> <citedRange>187</citedRange></bibl>;
-               <bibl><title>SEG</title> <citedRange>9.70</citedRange></bibl>, and again <bibl><title>SEG</title> <citedRange>9.768</citedRange></bibl>, where it is wrongly said to have come from Berenice.</p>
+               <bibl><title>SEG</title> <citedRange>9.70</citedRange></bibl>, and again <bibl><title>SEG</title> <citedRange>9.768</citedRange></bibl>, where it is wrongly said to have come from Berenice, 
+               whnce LGPN VI-61911, 61912.</p>
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested" key="lgpn:V1-61911, lgpn:V1-61912"><name nymRef="Ἡσύχιος">Ἡσύχιος</name>, <name nymRef="Θεόδωρος">Θεόδωρος</name></persName>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-64059, lgpn:V1-64123"><name nymRef="Ἡσύχιος">Ἡσύχιος</name>, <name nymRef="Θεόδωρος">Θεόδωρος</name></persName>
                 </ab>
 </div>
          
@@ -129,7 +130,7 @@
          
          <div type="commentary">
             <head>Commentary</head>
-            <p>Perhaps to be connected with the family of <!--<ref type="inscription">-->690<!--</ref>--> q.v., or even with that of Synesios whose eldest son was called Hesychios. 
+            <p>Perhaps to be connected with the family of <!--<ref type="inscription">-->C.70 etc.<!--</ref>--> q.v., or even with that of Synesios whose eldest son was called Hesychios. 
                See also <ref type="inscription" n="C02200">C.43</ref>, <ref type="inscription" n="C07100">C.65</ref>, <ref type="inscription" n="C07300">C.74</ref>, <ref type="inscription" n="C69700">C.73</ref>
             </p>
          </div>

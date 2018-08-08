@@ -122,7 +122,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Παγκλῆς">Παγκλῆς</name> <name nymRef="Ἰούλιος">Ἰούλιος</name></persName>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-64391"><name nymRef="Παγκλῆς">Παγκλῆς</name> <name nymRef="Ἰούλιος">Ἰούλιος</name></persName>
                 </ab>
 </div>
          

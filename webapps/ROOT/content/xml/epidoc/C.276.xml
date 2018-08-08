@@ -157,7 +157,7 @@
                     <persName type="attested"><name nymRef="Πανταλέων">Πάντα<supplied reason="lost">λεοντος</supplied></name></persName> <w>ἱέρεως</w> 
                     <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων"><supplied reason="lost">Ἀπόλλωνος</supplied></name></persName> 
                     <lb n="6"/><w lemma="ἐπεί"><supplied reason="lost">ἐ</supplied>πεὶ</w> <persName type="attested" key="lgpn:V1-63374"><name nymRef="Βαρκαῖος">Βαρκαῖος</name> 
-                   <persName type="attested"><name nymRef="Θεύχρηστος">Θευχρήστωι</name></persName> </persName>
+                   <persName type="attested" key="lgpn:V1-64220"><name nymRef="Θεύχρηστος">Θευχρήστωι</name></persName> </persName>
                     <w>μετάλλ<supplied reason="lost">αχε</supplied></w> 
                     <supplied reason="lost"><w lemma="ὁ">τὸν</w> <w lemma="βίος">βίον</w> <w lemma="καί">καὶ</w></supplied> 
                     <lb n="7"/><w><unclear>κ</unclear>αταλέλοιπε</w> <w>συντηρήσαν</w> 
@@ -222,7 +222,7 @@
                     <w>ἀνδριάντ<supplied reason="lost">α</supplied></w> 
                     <supplied reason="lost"><w lemma="ἐπίχρυσος">ἐπίχρυσον</w> <w>ἔχοντας</w></supplied> 
                     <lb n="24"/><w lemma="ὁ">τὰς</w> <w>ἐπιγραφάς</w> <persName type="attested" key="lgpn:V1-63374"><name nymRef="Βαρκαῖος">Βαρκαῖον</name>
-                    <persName type="attested"><name nymRef="Θεύχρηστος">Θευχρή<supplied reason="lost">στω</supplied></name></persName></persName>
+                    <persName type="attested" key="lgpn:V1-64220"><name nymRef="Θεύχρηστος">Θευχρή<supplied reason="lost">στω</supplied></name></persName></persName>
                     <supplied reason="lost"><w lemma="ὁ">τὰς</w> <w>ποτὶ</w> 
                         <w>τὰν</w></supplied> 
                     <lb n="25"/><w lemma="πόλις">πόλιν</w> <w>ἐκτενέας</w> <w lemma="χάρις">χάριν</w> <w>ἀρετᾶς</w>
@@ -231,7 +231,7 @@
                     <lb n="26"/><w>ἀνθέμεν</w> <w lemma="δέ">δὲ</w> <w lemma="αὐτός">αὐτῶ</w> <w lemma="καί">καὶ</w> 
                     <w lemma="εἰς">ἐς</w> <w lemma="ὁ">τὸ</w> <w>γυμνα<unclear>σ</unclear><supplied reason="lost">ιον</supplied></w> <supplied reason="lost"><w lemma="ὅπλον">ὅπλον</w> <w lemma="ἐπίχρυσος">ἐπίχρυσον</w></supplied> 
                     <lb n="27"/><w lemma="ἔχω">ἔχον</w> <w>ἐπιγραφάν</w> <persName type="attested" key="lgpn:V1-63374"><name nymRef="Βαρκαῖος">Βαρκαῖον</name> 
-                    <persName type="attested"><name nymRef="Θεύχρηστος">Θευχρή<supplied reason="lost">στω</supplied></name></persName></persName> 
+                    <persName type="attested" key="lgpn:V1-64220"><name nymRef="Θεύχρηστος">Θευχρή<supplied reason="lost">στω</supplied></name></persName></persName> 
                     <supplied reason="lost"><w>τᾶς</w> <w>ποτὶ</w> <w>τὰν</w></supplied> 
                     <w lemma="πόλις"><supplied reason="lost">πό</supplied><lb n="28" break="no"/>λιν</w> 
                     <w>ἐκτενέας</w> <w lemma="χάρις">χάριν</w> <w>ἀρετᾶς</w> <w lemma="ἕνεκα">ἕνεκα</w> 
@@ -252,7 +252,7 @@
                         <w>τὸς</w> <w>ἱαρὲς</w></supplied> 
                    <lb n="33"/><w lemma="ὁ">τῶι</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Απόλλωνος</name></persName> <space quantity="1" unit="character"/> <persName type="attested" key="lgpn:V1-63374"><name nymRef="Βαρκαῖος">Βαρκ<supplied reason="lost">αίω</supplied></name></persName> <space quantity="1" unit="character"/> 
                     <lb n="34"/><w lemma="ὁ">τὸν</w> <w>καταλελειμμένον</w> <w lemma="ὑπό">ὑπὸ</w> 
-                    <persName type="attested" key="lgpn:V1-63374"><name nymRef="Βαρκαῖος">Βαρκαίω</name> <supplied reason="lost"><persName type="attested"><name nymRef="Θεύχρηστος">Θευχρήστω</name></persName></supplied></persName> 
+                    <persName type="attested" key="lgpn:V1-63374"><name nymRef="Βαρκαῖος">Βαρκαίω</name> <supplied reason="lost"><persName type="attested" key="lgpn:V1-64220"><name nymRef="Θεύχρηστος">Θευχρήστω</name></persName></supplied></persName> 
                    <lb n="35"/><w>ἀγρὸν</w> <w lemma="ὁ">τὸ</w> <persName type="attested"><name nymRef="Ἐπίστρατος">Ἐπιστράτω</name></persName> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνι</name></persName> 
                     <w lemma="καί">κ<unclear>α</unclear><supplied reason="lost">ὶ</supplied></w> <supplied reason="lost"><persName type="divine" key="artemis"><name nymRef="Ἄρτεμις">Ἀρτάμιτι</name></persName> <w>θεοῖς</w></supplied> 
                     <w><supplied reason="lost">δα</supplied><lb n="36" break="no"/>μοτελέσιν</w> 

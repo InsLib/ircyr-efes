@@ -132,11 +132,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
                <ab>   
-                  <lb n="1"/><persName type="attested"><name nymRef="Κλέαρχος">Κλέαρχος</name>
-                  <lb n="2"/><persName type="attested"><name nymRef="Κλέαρχος">Κλεάρχω</name></persName></persName>,
-                  <lb n="3"/><persName type="attested"><name nymRef="Κλέαρχος">Κλέαρχος</name>
-                  <lb n="4"/><persName type="attested"><name nymRef="Κλέαρχος">Κλεάρχω</name></persName></persName>,
-                  <lb n="5"/><persName type="attested"><name nymRef="Κλέαρχος">Κλέαρχος</name>
+                  <lb n="1"/><persName type="attested" key="lgpn:V1-64644"><name nymRef="Κλέαρχος">Κλέαρχος</name>
+                  <lb n="2"/><persName type="attested" key="lgpn:V1-64627"><name nymRef="Κλέαρχος">Κλεάρχω</name></persName></persName>,
+                  <lb n="3"/><persName type="attested" key="lgpn:V1-64627"><name nymRef="Κλέαρχος">Κλέαρχος</name>
+                  <lb n="4"/><persName type="attested" key="lgpn:V1-64650"><name nymRef="Κλέαρχος">Κλεάρχω</name></persName></persName>,
+                  <lb n="5"/><persName type="attested" key="lgpn:V1-64650"><name nymRef="Κλέαρχος">Κλέαρχος</name>
                   <lb n="6"/><persName type="attested"><name nymRef="Παρευβάτας">Παρευβάτ<unclear>α</unclear></name></persName></persName>,
                      <lb n="7"/><persName type="attested"><name nymRef="Παρευβάτας">Παρευβάτας</name>
                   <lb n="8"/><persName type="attested"><name nymRef="Φιλόξενος">Φιλοξένω<supplied reason="undefined">υ</supplied></name></persName></persName>,

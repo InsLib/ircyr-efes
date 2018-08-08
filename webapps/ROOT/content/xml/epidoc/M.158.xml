@@ -112,28 +112,28 @@
             <p>
                <bibl>
                   <ptr target="SECir"/>  <citedRange>102</citedRange> p.272, fig.80 (from T.XVII 17)</bibl>, whence <bibl>
-                  <title>SEG</title> 
-                  <citedRange>20.758</citedRange>
+                  <title>SEG</title> <citedRange>20.758</citedRange>
                </bibl>
             </p>
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Κασσία">Καϲϲία</name> 
-                    <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><name><seg part="F">νοῦ</seg></name> <name nymRef="Κλισία">Κλιϲία</name></persName> <g ref="symbols.xml#leaf"/> </ab>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-64618"><name nymRef="Κασσιανός">Καϲϲία 
+                    <lb n="2" break="no"/><gap reason="lost" quantity="2" unit="character"/>νοῦ</name> <persName type="attested" key="lgpn:V1-64651"><name nymRef="Κλεισίας">Κλιϲία</name></persName></persName> <g ref="symbols.xml#leaf"/> </ab>
 </div>
          <div type="apparatus">
             <listApp>
+               <app loc="1">
+                  <rdg resp="#SECir">Κασσία</rdg>
+               </app>
                   <app loc="2">
-                  <rdg resp="#SEG">
-                     Νουκλισία <!-- check -->
-                  </rdg>
+                  <rdg resp="#SECir">Νουκλισία <!-- check --></rdg>
                </app>
             </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Cassia, <supplied reason="subaudible">daughter</supplied> of -nos, Clisia.</p></div>
+            <p><supplied reason="subaudible">Tomb</supplied> of Kassianos, <supplied reason="subaudible">son</supplied> of Klisias.</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p/>

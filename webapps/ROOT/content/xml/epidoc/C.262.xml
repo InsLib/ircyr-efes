@@ -149,7 +149,7 @@
                   <citedRange>5145c</citedRange> and p.1241</bibl><!-- check -->, from which <bibl><title>IGRR</title>
                   <citedRange>I.1031c</citedRange></bibl>, and see also <bibl><ptr target="pernier1935"/>
                   <citedRange>p.93f</citedRange></bibl>; 
-               <bibl><ptr target="SECir"/> <citedRange>2a</citedRange>, and fig. 1</bibl> (from T.XI 2).</p>
+               <bibl><ptr target="SECir"/> <citedRange>2.a</citedRange>, and fig. 1</bibl> (from T.XI 2).</p>
          </div>
 
          <div type="edition" xml:lang="grc" xml:space="preserve">
@@ -160,7 +160,7 @@
                         <supplied reason="lost"><num value="103">ργ</num> </supplied> <w><supplied reason="lost">τοῦ</supplied></w> <w><supplied reason="lost">κα</supplied>ὶ</w> <num value="3">γ</num> <persName type="emperor" key="vespasianus"><name nymRef="Οὐεσπασιανός">Οὐεσπασιανοῦ</name></persName>
                     <lb n="3"/><gap reason="lost" quantity="8" unit="character" precision="low"/><persName type="attested" key="lgpn:V1-65586"><name nymRef="Σεραπίων"><supplied reason="lost">Σ</supplied>εραπίωνος</name></persName> <w>υἱός</w>
                     <lb n="3a"/><space quantity="1" unit="line"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Κλέαρχος">Κλεάρχωι</name></persName>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-64634"><name nymRef="Κλέαρχος">Κλεάρχωι</name></persName>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" key="lgpn:V1-62604"><name nymRef="Ἀγχίστρατος"><supplied reason="lost">Ἀ</supplied><unclear>γ</unclear>χιστράτου</name></persName>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F"/>άτης</name></persName>
                     <lb n="6a"/><gap reason="lost" extent="unknown" unit="line"/>

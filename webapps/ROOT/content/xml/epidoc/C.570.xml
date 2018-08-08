@@ -135,11 +135,11 @@
 <div type="textpart" n="i"><ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Ἰάσων"><unclear>Ἰ</unclear>άϲω<unclear>ν</unclear></name></persName> <del rend="erasure"><orig><unclear>ιε</unclear>ναρηϲ</orig></del>
                     <lb n="1a"/><space quantity="1" unit="line"/>
-                    <lb n="2"/><persName type="attested"><name nymRef="Μνασίαρχος">Μνάϲιαρχος</name> <name nymRef="Ἴασις">Ἴασις</name></persName></ab></div>
-             <div type="textpart" n="ii"><ab><lb n="1"/><persName type="attested"><name nymRef="Κληνάτα">Κληνάτα</name> <persName type="attested" key="lgpn:V1-63193"><name nymRef="Ἀριστοτέλης">Ἀριϲτοτέλευϲ</name></persName></persName>
+                    <lb n="2"/><persName type="attested"><name nymRef="Μνασίαρχος">Μνάϲιαρχος</name> <persName type="attested" key="lgpn:V1-64288"><name nymRef="Ἴασις">Ἴασις</name></persName></persName></ab></div>
+             <div type="textpart" n="ii"><ab><lb n="1"/><persName type="attested" key="lgpn:V1-64694"><name nymRef="Κληνάτα">Κληνάτα</name> <persName type="attested" key="lgpn:V1-63193"><name nymRef="Ἀριστοτέλης">Ἀριϲτοτέλευϲ</name></persName></persName>
                     <lb n="2"/><space quantity="5" unit="character"/><w>ἱάρεια</w> <persName type="divine" key="hera"><name nymRef="Ἤρα">Ἥρας</name></persName></ab></div>
                     <div n="iii" type="textpart"><ab>
-                       <lb n="1"/><persName type="attested"><name nymRef="Κυδιμάχα">Κυδιμάχα</name> <persName type="attested"><name nymRef="Θεύχρηστος">θευχρήστω</name></persName></persName>
+                       <lb n="1"/><persName type="attested"><name nymRef="Κυδιμάχα">Κυδιμάχα</name> <persName type="attested" key="lgpn:V1-64237"><name nymRef="Θεύχρηστος">θευχρήστω</name></persName></persName>
                     <lb n="2"/><space quantity="4" unit="character"/> <w>ἱάρεια</w>
                     <lb n="2a"/><space quantity="1" unit="line"/></ab></div>
                     <div type="textpart" n="iv"><ab>
@@ -161,7 +161,7 @@
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div type="translation" source="#oliverioDAI" xml:lang="it"><p>- di -. Clenata di Aristotile, sacerdotessa; Mnesarco di Aristotile; 
             Cidimaca di Teocresto, sacerdotessa. Completo (il loculo)</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i. Iason -ares. Mnasarchos Iasis.</p>
+            <div type="translation" source="#edd" xml:lang="en"><p>i. Iason -ares. Mnasarchos ?<supplied reason="subaudible">son</supplied> of Iasis.</p>
                <p>ii. Klenata <supplied reason="subaudible">daughter</supplied> of Artistoteles,
                priestess of Hera</p>
                <p>iii. Kυdimacha <supplied reason="subaudible">daughter</supplied> of 

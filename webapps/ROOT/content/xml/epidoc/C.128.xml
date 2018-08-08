@@ -119,7 +119,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="122">ρκβ</num> <persName type="attested" key="lgpn:V1-64441"><name nymRef="Τιβέριος"><expan><abbr>Τ</abbr><ex>ιβέριος</ex></expan></name> <name nymRef="Κλαύδιος"><del rend="erasure">Κλαύδιος</del></name><name nymRef="Ἴστρος"><del rend="erasure">Ἰστ</del><supplied reason="lost">ρο</supplied></name>
+                    <num value="122">ρκβ</num> <persName type="attested" key="lgpn:V1-64440"><name nymRef="Τιβέριος"><expan><abbr>Τ</abbr><ex>ιβέριος</ex></expan></name> <name nymRef="Κλαύδιος"><del rend="erasure">Κλαύδιος</del></name><name nymRef="Ἴστρος"><del rend="erasure">Ἰστ</del><supplied reason="lost">ρο</supplied></name>
                     <lb n="2"/> <name nymRef="Ἴστρος">Ἴστ<supplied reason="lost">ρος</supplied></name></persName>
                 </ab>
 </div>

@@ -121,7 +121,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
              <lb n="1"/><persName type="attested" key="lgpn:V1-65873"><name nymRef="Φάος">Φάου</name> <w>υἱοῦ</w>
-                 <persName type="attested" key="lgpn:V1-64546"><name nymRef="Καρνεάδης">Καρνεάδο<supplied reason="lost">υ</supplied></name></persName></persName>
+                 <persName type="attested" key="lgpn:V1-64568"><name nymRef="Καρνεάδης">Καρνεάδο<supplied reason="lost">υ</supplied></name></persName></persName>
             </ab>
          </div>  
           
@@ -132,7 +132,7 @@
           
          <div type="commentary">
             <head>Commentary</head>
-             <p>The formula is not standard, and either translation is possible: Robinson, followed by LGPN, assumed the first.</p>
+            <p>The formula is not standard, and either translation is possible: Robinson, followed by LGPN V1-64546, assumed the first.</p>
          </div>
       </body>
    </text>

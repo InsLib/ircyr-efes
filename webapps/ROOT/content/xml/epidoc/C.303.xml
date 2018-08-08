@@ -125,7 +125,7 @@
 <ab>
                     <lb n="1"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="49">θμ</num> <rs type="month" key="Μεχίρ"><w>Μεχεὶ<lb n="2" break="no"/>ρ</w></rs> <num value="28">κη</num> <w>ἐπὶ</w> 
-                    <lb n="3"/><w>Θεο<lb n="4" break="no"/>χρήστο<lb n="5" break="no"/>υ</w>
+                    <lb n="3"/><persName type="attested" key="lgpn:V1-64134"><!-- also LGPN 64221, Θεύχ- --><name nymRef="Θεόχρηστος">Θεο<lb n="4" break="no"/>χρήστο<lb n="5" break="no"/>υ</name></persName>
                 </ab>
 </div>
          

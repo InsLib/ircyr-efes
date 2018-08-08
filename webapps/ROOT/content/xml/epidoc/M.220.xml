@@ -110,7 +110,7 @@
             <p><bibl>
                <ptr target="SECir"/> 
                <citedRange>276</citedRange>
-            </bibl>; see <bibl><ptr target="laronde1987a"/> <citedRange>482</citedRange></bibl></p>
+            </bibl>; see <bibl><ptr target="laronde1987a"/> <citedRange>482</citedRange></bibl></p><!-- check readings -->
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
@@ -118,10 +118,10 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="9">θ</num> <!-- check -->
                     <lb n="2"/><w>ἐπὶ</w> <w>ἱερείος</w> 
                     <lb n="3"/><persName type="attested"><name nymRef="Φίλων">Φίλωνος</name> <w>το<supplied reason="lost">ῦ</supplied></w> 
-                    <lb n="4"/><persName type="attested"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name></persName></persName> 
+                    <lb n="4"/><persName type="attested" key="lgpn:V1-63922"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name></persName></persName> 
                     <lb n="5"/><rs type="month" key="Μεσορή"><w lemma="Μεσορή">Μεσορὴ</w></rs> <num value="20">κ</num> 
                     <lb n="6"/><persName type="attested" key="lgpn:V1-62712"><name nymRef="Ἀλέξανδρος">Ἀλέξανδρο<supplied reason="lost">ς</supplied></name> 
-                    <lb n="7"/><persName type="attested"><name nymRef="Νικόδοτος">Νικοδότου</name></persName></persName> <date type="life-span" dur="P3Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="3">γ</num> </date>
+                    <lb n="7"/><persName type="attested" key="lgpn:V1-64050"><name nymRef="Ἡρόδοτος">Ἡροδότου</name></persName></persName> <date type="life-span" dur="P3Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="3">γ</num> </date>
                 </ab>
 </div>
          <div type="apparatus">
@@ -129,7 +129,8 @@
                <app loc="1">
                   <rdg resp="#SECir">
                      ξθ
-                     <note>This provided a date of 38/39 C.E., (whence Laronde, and Reynolds in LGPN) but the reading is not secure.</note></rdg>
+                     <note>This provided a date of 38/39 C.E., (whence Laronde, and 
+                        Reynolds in LGPN) but the reading is not secure.</note></rdg>
                </app>
                <app loc="2">
                   <rdg resp="#SECir">
@@ -141,9 +142,7 @@
                      το<supplied reason="lost">ῦ</supplied> om.
                   </rdg>
                </app>
-               <app loc="7">
-                  <rdg resp="#SECir"> Ἡροδότου</rdg><note>, whence LGPN</note>
-               </app>
+               
             </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
