@@ -117,7 +117,7 @@
                     <lb n="4"/><persName type="attested"><name nymRef="Σωγένης">Σωγένης</name>
                     <lb n="5"/><persName type="attested"><name nymRef="Σωγένης">Σωγένου</name></persName></persName>                    
                     <lb n="6"/><date type="life-span" dur="P15Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="15">ιε</num> </date>
-                    <lb n="7"/><persName type="attested"><name nymRef="Κοϊντιλία"><supplied reason="lost">Κ</supplied><unclear>ο</unclear>ειντιλία</name>
+                    <lb n="7"/><persName type="attested" key="lgpn:V1-64706"><name nymRef="Κοϊντιλία"><supplied reason="lost">Κ</supplied><unclear>ο</unclear>ειντιλία</name>
                     <lb n="8"/><persName type="attested"><name nymRef="Φίλων">Φί<unclear>λ</unclear>ωνος</name></persName></persName> 
             <date type="life-span" dur="P13Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="13">ιγ</num> </date>
                 </ab>
