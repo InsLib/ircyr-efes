@@ -36,13 +36,13 @@
       </div>
     </kiln:block>
     
-    <kiln:block name="end-js">
+    <!--<kiln:block name="end-js">
       <kiln:super />
       <script src="{$kiln:assets-path}/scripts/jquery.tablesorter.js" />
       <script>
         <xsl:text>$(document).ready(function() {$(".tablesorter").tablesorter();});</xsl:text>
       </script>
-    </kiln:block>
+    </kiln:block>-->
   </kiln:child>
 
 </kiln:root>

@@ -4,7 +4,7 @@
                 xmlns:xsl="http://www.w3.org/1999/XSL/Transform">
 
   <xsl:template match="response" mode="text-index">
-    <table class="tablesorter">
+    <table class="index"><!-- tablesorter -->
       <thead>
         <tr>
           <!-- Let us assume that all texts have a filename, ID, and
