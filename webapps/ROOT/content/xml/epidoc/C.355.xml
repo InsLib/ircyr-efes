@@ -119,7 +119,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Μαρκιανός">Μαρκιανός</name></persName>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-64931"><name nymRef="Μαρκιανός">Μαρκιανός</name></persName>
                     <lb n="2"/><w lemma="καί">καὶ</w> 
                     <persName type="attested" key="lgpn:V1-62501"><name nymRef="Ἀβάσκαντος">Ἀβάσχα<unclear>ν</unclear><lb n="3" break="no"/><supplied reason="lost">τ</supplied>ος</name></persName>
                     <gap reason="lost" extent="unknown" unit="character"/>

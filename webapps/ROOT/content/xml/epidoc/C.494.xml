@@ -119,7 +119,7 @@
             </div>
              <div type="textpart" subtype="side2">
             <ab>
-               <lb n="1"/><persName type="attested"><name nymRef="Λύων"><seg part="I">Λύοντ</seg></name></persName>
+               <lb n="1"/><persName type="attested" key="lgpn:V1-64916"><name nymRef="Λύων"><seg part="I">Λύοντ</seg></name></persName>
             </ab>
              </div>
              <div type="textpart" subtype="side3">
@@ -145,8 +145,8 @@
             <head>Apparatus</head>
             <listApp>
                <app loc="1-2">
-                  <rdg resp="#ghislanzoni1915">[Πρά]ξων Λύοντος Δή[μητρι | καὶ Κ]όραι</rdg>
-                  <note> But there is insufficient space.</note>
+                  <rdg resp="#ghislanzoni1915">[Πρά]ξων Λύοντος Δή[μητρι | καὶ Κ]όραι</rdg> <note> whence LGPN VI-65452;
+                  But there is insufficient space.</note>
                </app>
                <app><rdg resp="fabbricotti2007">[Λ]έων | Λύοντ|ος Δή[μ|ητρι | Κ]όραι</rdg></app>
             </listApp>

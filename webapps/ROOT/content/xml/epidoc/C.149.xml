@@ -142,8 +142,8 @@
                     
                     <lb n="2"/><persName type="attested" key="lgpn:V1-62992"><name nymRef="Ἀπολλώνιος">Ἀπολλώνιος</name> <persName type="attested" key="lgpn:V1-63243"><name nymRef="Ἁρμόδιος">Ἁρμοδί<supplied reason="lost">ω</supplied></name></persName></persName>
                     
-                    <lb n="3"/><handShift new="b"/><persName type="attested"><name nymRef="Μαρσύας">Μαρσύας</name> <persName
-                        type="attested"><name nymRef="Μαρσύας">Μαρσύα</name> <persName
+                    <lb n="3"/><handShift new="b"/><persName type="attested" key="lgpn:V1-64938"><name nymRef="Μαρσύας">Μαρσύας</name> <persName
+                        type="attested" key="lgpn:V1-64937"><name nymRef="Μαρσύας">Μαρσύα</name> <persName
                             type="attested"><expan><abbr><am><g ref="symbols.xml#line"/></am></abbr><w><ex cert="low">τῶ</ex></w> <name
                                 type="patronymic" nymRef="Μαρσύας"><ex
                                 cert="low">Μαρσύα</ex></name></expan></persName></persName></persName>
