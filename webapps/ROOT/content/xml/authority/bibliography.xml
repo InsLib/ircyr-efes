@@ -1438,11 +1438,12 @@
                     <bibl xml:id="SECir"><author>G. <name type="surname"
                                 >Oliverio</name></author>, <author>G. <name type="surname"
                                 >Pugliese-Carratelli</name></author> and <author>D. <name
-                                type="surname">Morelli</name></author>, <date>1963</date>, <!-- or 1961 ?? -->
+                                type="surname">Morelli</name></author>, <date>1961-1962</date>,
                         <title level="a">Supplemento Epigrafico Cirenaico</title>, in <title
                             level="j">Annuario della Scuola italiana di Archeologia di
                         Atene</title>, <biblScope unit="issue">39-40</biblScope> (= N.S. 23-24),
-                            <biblScope unit="pp">219-375</biblScope></bibl>
+                        <biblScope unit="pp">219-375</biblScope>; available at ASAA, 
+                        <ref target="https://www.scuoladiatene.it/dal-1961-al-1970/1961-1962.html"/></bibl>
                     
                     <bibl xml:id="ottone2002"><author><name type="surname">Ottone</name>,
                         G.</author> (ed.), <date>2002</date>, <title level="m">Libyka:
