@@ -60,8 +60,7 @@
                      
                         <provenance type="found">
                            <p>
-                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">
-                                 Cyrene</placeName>: Excavated in <date type="found">1971</date> in the
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: Excavated in <date type="found">1971</date> in the
                               <placeName type="monuList" ref="http://www.slsgazetteer.org/1381">Sanctuary of Demeter and Kore</placeName>; 71-801, D12/13, B, 1 and 2 . 
                            </p>
                         </provenance>

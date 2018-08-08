@@ -198,11 +198,17 @@
 
   <xsl:template match="text()" mode="facet_mentioned_people" />
 
-  <xsl:template match="tei:placeName[@ref]" mode="facet_found_provenance">
+  <xsl:template match="tei:placeName[@type='ancientFindspot']" mode="facet_found_provenance">
+    <field name="found_provenance">
+      <xsl:value-of select=".[1]" />
+    </field>
+  </xsl:template>
+  
+  <!-- <xsl:template match="tei:placeName[@ref]" mode="facet_found_provenance">
     <field name="found_provenance">
       <xsl:value-of select="@ref" />
     </field>
-  </xsl:template>
+  </xsl:template> -->
 
   <xsl:template match="tei:placeName[@ref] | tei:geogName[@ref]" mode="facet_mentioned_places">
     <field name="mentioned_places">
@@ -239,7 +245,7 @@
   </xsl:template>
 
   <xsl:template name="field_found_provenance">
-    <xsl:apply-templates mode="facet_found_provenance" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:history/tei:provenance[@type='found']" />
+    <xsl:apply-templates mode="facet_found_provenance" select="//tei:teiHeader/tei:fileDesc/tei:sourceDesc/tei:msDesc/tei:history/tei:provenance[@type='found']//tei:placeName[@type='ancientFindspot'][1]" />
   </xsl:template>
 
   <xsl:template name="field_lemmatised_text">
