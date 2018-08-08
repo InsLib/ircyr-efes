@@ -145,7 +145,7 @@
                     <name  nymRef="Αἰλιανός">Αἰλιανός</name>
                     <lb n="5"/><space quantity="3" unit="character"/><w lemma="ἱερεύς">ἱερεὺς</w> <w lemma="καλλιέτης">καλλιέτηϲ</w>
                     <lb n="6"/><space quantity="3" unit="character"/><persName type="attested"><name nymRef="Φιλόξενος">Φιλοξένου</name></persName></persName>
-                    <lb n="7"/><w lemma="ἐπί">ἐπὶ</w> <persName type="attested"><name nymRef="Λούκιος">Λουκίω</name>
+                    <lb n="7"/><w lemma="ἐπί">ἐπὶ</w> <persName type="attested" key="lgpn:V1-64827"><name nymRef="Λούκιος">Λουκίω</name>
                     <lb n="8"/><space quantity="1" unit="character"/><persName type="attested" key="lgpn:V1-62752"><name nymRef="Ἄλεξις">Ἀλεξίδοϲ</name></persName></persName>
                 </ab>
 </div>

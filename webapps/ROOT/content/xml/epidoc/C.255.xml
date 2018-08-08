@@ -125,7 +125,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><orig>ϲ</orig><gap extent="unknown" unit="character" reason="lost"/>
-                       <lb n="2"/><persName type="attested" key="lgpn:V1-64305"><name nymRef="Ἰάσων">Ἰάϲ<supplied reason="lost">ων</supplied></name><gap reason="lost" extent="unknown" unit="character"/> 
+                       <lb n="2"/><persName type="attested" key="lgpn:V1-64305, lgpn:V1-64781"><name nymRef="Ἰάσων">Ἰάϲ<supplied reason="lost">ων</supplied></name><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="3"/><name nymRef="Λεοκράτης">Λεοκ<supplied reason="lost">ρ</supplied>άτι<lb n="4" break="no"/>ϲ</name></persName> <w lemma="ὁ">τὸν</w> <w lemma="κίων">κείονα</w>
                     <lb n="5"/><w lemma="ἐκ"><unclear>ἐ</unclear>κ</w> <w lemma="ὁ">τῶν</w> <w lemma="ἴδιος">ἰδίων</w>
                 </ab>
