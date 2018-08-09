@@ -182,7 +182,7 @@
                           <lb n="8"/><persName type="attested"><name nymRef="Κάλλιππος">Κάλλιππος</name></persName> <w>ὁ<surplus>υ</surplus></w> <w>ἀνὴρ</w> <w>αὐτῆς</w> <w>κὲ</w>
                           <lb n="9"/><w><surplus>κε</surplus></w> <w>ὑι<unclear>ὸς</unclear></w> <w>αὐτοῦ</w> <persName type="attested"><name nymRef="Γάϊος">Γάϊος</name></persName>
                           <w>κὲ</w> <w>γαμ<lb n="10" break="no"/>βρε<unclear>ό</unclear><supplied reason="lost">ς</supplied></w> 
-                          <w>αὐτου</w> <persName type="attested"><name nymRef="Πολύβουλος">Π<unclear>ο</unclear>λύβουλος</name></persName>
+                          <w>αὐτου</w> <persName type="attested" key="lgpn:V1-65361"><name nymRef="Πολύβουλος">Π<unclear>ο</unclear>λύβουλος</name></persName>
                           <lb n="11"/><persName type="divine" key="kyrios"><w><expan><abbr>Κ</abbr><ex>ύρι</ex><abbr>ε</abbr></expan></w></persName> <w>μνησθήτω</w> <w>τὸν</w> <w>ἐντὸ<supplied reason="lost">ς</supplied></w> <w>σπελέ<lb n="12" break="no"/>ου</w> <w>τούτου</w>.
                     </ab>
 </div>

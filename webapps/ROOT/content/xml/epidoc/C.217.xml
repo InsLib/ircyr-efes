@@ -136,7 +136,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἰούλιος">Ἰούλιος</name> <name nymRef="Κοκκηιανός">Κοκκηιανὸς</name> <name nymRef="Πειθαγόρας">Πειθαγόρας</name> 
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-65290, lgpn:V1-65316"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἰούλιος">Ἰούλιος</name> <name nymRef="Κοκκηιανός">Κοκκηιανὸς</name> <name nymRef="Πειθαγόρας">Πειθαγόρας</name> 
                     <name nymRef="Πλάτων">Πλάτων</name></persName> <w lemma="ὁ">τοὺς</w> <persName type="divine" key="dioscuri"><name nymRef="Διοσκοῦρος"><!-- check -->Διο<lb n="2" break="no"/>σκούρους</name></persName>
                     <w lemma="σύν">σὺν</w> <w lemma="ὁ">τῷ</w> <w>ναιδίῳ</w> <w lemma="ἐκ">ἐκ</w> <w lemma="ὁ">τῶν</w> <w lemma="ἴδιος">ἰδίων</w> <w lemma="ἀνατίθημι">ἀνέθηκεν</w>
                 </ab>

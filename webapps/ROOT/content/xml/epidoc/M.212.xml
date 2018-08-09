@@ -114,7 +114,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Πεφαμος">Πεφαμος</name></persName>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-65307"><name nymRef="Πήσαμος" cert="low">Πήσαμος</name></persName>
                         <lb n="2"/><persName type="attested"><name nymRef="Στράτων">Στράτων</name></persName> <w>ἥκοσι</w>
                             <lb n="3"/><persName type="attested" key="lgpn:V1-63404"><name nymRef="Βερενίκη">Βερενίκη</name></persName>
                     <lb n="4"/><persName type="attested" key="lgpn:V1-62721"><name nymRef="Ἀλέξανδρος">Ἀλέξανδρος</name></persName>
@@ -129,7 +129,7 @@
                   <note>Lines 1-3, and the ends of lines 4 and 5  were read by Ferri; they are no longer visible.</note> <!-- check display -->
                </app>
             <app loc="1">
-               <rdg  resp="#ferri1922">Πησαμος</rdg>
+               <note>Perhaps Πεφαμος</note>
                </app>
             <app loc="2">
                   <note>The reading here is taken from Ferri's drawing, not his published text.</note>

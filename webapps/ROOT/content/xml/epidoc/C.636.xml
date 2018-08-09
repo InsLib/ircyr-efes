@@ -111,12 +111,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Παυσαι-"><seg part="I">Παυσα<unclear>ι</unclear></seg></name></persName>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-65284"><name nymRef="Παυσανίας">Παυσα<unclear>ν</unclear><supplied reason="lost">ίας</supplied></name></persName>
                 </ab>
 </div>
          <div type="apparatus">
             <head>Apparatus</head>
-           <listApp><app> <note>So Pacho; CIG suggests Παυσία.  Παυσαν[ίου] seems another possibility.</note></app></listApp>
+           <listApp><app> <note> ΠΑΥΣΙ Pacho; CIG suggests Παυσία.</note></app></listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">

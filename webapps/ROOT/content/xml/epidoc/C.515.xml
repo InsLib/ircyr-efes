@@ -137,16 +137,16 @@
                   <lb n="3"/><persName type="attested" key="lgpn:V1-64627"><name nymRef="Κλέαρχος">Κλέαρχος</name>
                   <lb n="4"/><persName type="attested" key="lgpn:V1-64650"><name nymRef="Κλέαρχος">Κλεάρχω</name></persName></persName>,
                   <lb n="5"/><persName type="attested" key="lgpn:V1-64650"><name nymRef="Κλέαρχος">Κλέαρχος</name>
-                  <lb n="6"/><persName type="attested"><name nymRef="Παρευβάτας">Παρευβάτ<unclear>α</unclear></name></persName></persName>,
-                     <lb n="7"/><persName type="attested"><name nymRef="Παρευβάτας">Παρευβάτας</name>
-                  <lb n="8"/><persName type="attested"><name nymRef="Φιλόξενος">Φιλοξένω<supplied reason="undefined">υ</supplied></name></persName></persName>,
-                  <lb n="9"/><persName type="attested"><name nymRef="Φιλόξενος">Φιλόξενος</name>
-                  <lb n="10"/><persName type="attested"><name nymRef="Κάλλιππος">Καλλίππω<supplied reason="undefined">υ</supplied></name></persName></persName>,                 
-                  <lb n="11"/><persName type="attested"><name nymRef="Κάλλιππος">Κάλλιππος</name>
-                  <lb n="12"/><persName type="attested"><name nymRef="Ἀλεξίμαχος">Ἀλεξιμάχω<supplied reason="undefined">υ</supplied></name></persName></persName>,
-                  <lb n="13"/><persName type="attested"><name nymRef="Ἀλεξίμαχος">Ἀλεξίμαχο<supplied reason="lost">ς</supplied></name>
-                  <lb n="14"/><persName type="attested"><name nymRef="Ἀλάδδειρ">Ἀλαδδειρο<supplied reason="lost">ς</supplied></name></persName></persName>,
-                  <lb n="15"/><persName type="attested"><name nymRef="Ἀλάδδειρ">Ἀλαδδει<supplied reason="lost">ρ</supplied></name>
+                  <lb n="6"/><persName type="attested" key="lgpn:V1-65267"><name nymRef="Παρευβάτας">Παρευβάτ<unclear>α</unclear></name></persName></persName>,
+                     <lb n="7"/><persName type="attested" key="lgpn:V1-65267"><name nymRef="Παρευβάτας">Παρευβάτας</name>
+                  <lb n="8"/><persName type="attested" key="lgpn:V1-66034"><name nymRef="Φιλόξενος">Φιλοξένω<supplied reason="undefined">υ</supplied></name></persName></persName>,
+                  <lb n="9"/><persName type="attested" key="lgpn:V1-66034"><name nymRef="Φιλόξενος">Φιλόξενος</name>
+                  <lb n="10"/><persName type="attested" key="lgpn:V1-64502"><name nymRef="Κάλλιππος">Καλλίππω<supplied reason="undefined">υ</supplied></name></persName></persName>,                 
+                  <lb n="11"/><persName type="attested" key="lgpn:V1-64502"><name nymRef="Κάλλιππος">Κάλλιππος</name>
+                  <lb n="12"/><persName type="attested" key="lgpn:V1-62746"><name nymRef="Ἀλεξίμαχος">Ἀλεξιμάχω<supplied reason="undefined">υ</supplied></name></persName></persName>,
+                  <lb n="13"/><persName type="attested" key="lgpn:V1-62746"><name nymRef="Ἀλεξίμαχος">Ἀλεξίμαχο<supplied reason="lost">ς</supplied></name>
+                  <lb n="14"/><persName type="attested" key="lgpn:V1-62696"><name nymRef="Ἀλάδδειρ">Ἀλαδδειρο<supplied reason="lost">ς</supplied></name></persName></persName>,
+                  <lb n="15"/><persName type="attested" key="lgpn:V1-62696"><name nymRef="Ἀλάδδειρ">Ἀλαδδει<supplied reason="lost">ρ</supplied></name>
                   <lb n="16"/><persName type="attested" key="lgpn:V1-63396"><name nymRef="Βάττος">Β<supplied reason="lost">ά</supplied><unclear>τ</unclear><supplied reason="lost">τ</supplied><unclear>ω</unclear></name></persName></persName>                          
             </ab>
              </div>

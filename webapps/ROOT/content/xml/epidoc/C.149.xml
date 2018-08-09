@@ -155,7 +155,7 @@
                     <lb n="5"/><persName type="attested"><name nymRef="Πρώταρχος">Πρώταρχος</name> <persName
                         type="attested"><name nymRef="Φίλων">Φίλωνο<hi rend="sling-above small">ς</hi></name></persName></persName>
                     
-                    <lb n="6"/><persName type="attested"><name nymRef="Πρῶρος">Πρῶρος</name><space quantity="1" unit="character"/><del rend="erasure" cert="low"><gap
+                    <lb n="6"/><persName type="attested" key="lgpn:V1-65493"><name nymRef="Πρῶρος">Πρῶρος</name><space quantity="1" unit="character"/><del rend="erasure" cert="low"><gap
                         reason="lost" atLeast="2" atMost="3" unit="character"/></del> <persName 
                         type="attested"><name nymRef="Σώστρατος">Σωστράτω</name></persName></persName>
                     

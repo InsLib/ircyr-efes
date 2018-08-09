@@ -130,9 +130,9 @@
                         <lb n="2"/><persName type="attested"><name nymRef="Σωσίστρατος">Σωσιστράτιος</name></persName> </persName></ab></div>
                     </div>
             <div subtype="column" n="2" type="textpart"><ab>    
-                        <lb n="1"/><persName type="attested"><name nymRef="Δίων">Δίων</name></persName> <w>ἥκω</w>
-                        <lb n="2"/><persName type="attested"><name nymRef="Ἕλιξ">Ἕλιξ</name></persName> <w>ἥκω</w> 
-                        <lb n="3"/><persName type="attested"><name nymRef="Πρόθυμος">Πρόθυμος</name></persName> <w>ἥ<unclear>κω</unclear></w> 
+                        <lb n="1"/><persName type="attested" key="lgpn:V1-63610"><name nymRef="Δίων">Δίων</name></persName> <w>ἥκω</w>
+                        <lb n="2"/><persName type="attested" key="lgpn:V1-63648"><name nymRef="Ἕλιξ">Ἕλιξ</name></persName> <w>ἥκω</w> 
+                        <lb n="3"/><persName type="attested" key="lgpn:V1-65487"><name nymRef="Πρόθυμος">Πρόθυμος</name></persName> <w>ἥ<unclear>κω</unclear></w> 
                         <lb n="4"/><orig><unclear>νν</unclear></orig> <persName type="attested"><name nymRef="Ἀγαθοκλῆς">Ἀγαθοκλῆς</name> 
                         <lb n="5"/><persName type="attested"><name nymRef="Ἀγαθοκλῆς">Ἀγαθοκλέους</name></persName> 
                         <lb n="6"/><placeName type="ethnic"><w lemma="Ἰδουμαῖος">Ἰδουμαῖος</w></placeName> </persName>

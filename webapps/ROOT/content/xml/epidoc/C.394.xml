@@ -142,10 +142,9 @@
          <head>Apparatus</head>
          <listApp><app loc="1">
             <note>Omitted by Robinson, Oliverio</note></app>
-         <app loc="2">
-            <lem>[Τ(ίτου) Φ]λ̣α̣β̣ί̣[ου]</lem>
-            <rdg resp="#SECir">[Σ]α̣β̣εῖν̣ο̣[ς ὑὸς]</rdg>
-         </app>
+         <app loc="2"><lem>[Τ(ίτου) Φ]<unclear>λαβί</unclear>[ου]</lem>
+            <rdg  resp="#SECir">[Σ]<unclear>αβ</unclear>ει<unclear>νο</unclear>[ς ὑὸς]</rdg>
+           </app>
             <app loc="3">
                <lem>Παυσαν</lem>
                <rdg resp="#robinson1913">Παυσ.ν</rdg>

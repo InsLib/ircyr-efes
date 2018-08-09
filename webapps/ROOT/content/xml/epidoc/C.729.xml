@@ -127,7 +127,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><persName type="attested" key="lgpn:V1-62911"><name nymRef="Ἀνταῖοϲ">Ἀνταῖοϲ</name> <persName type="attested"><name nymRef="Πολίανθος">Πολιάνθου</name></persName></persName> 
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-62911"><name nymRef="Ἀνταῖοϲ">Ἀνταῖοϲ</name> <persName type="attested" key="lgpn:V1-65333"><name nymRef="Πολιάνθης">Πολιάνθου</name></persName></persName> 
                     <lb n="2"/><space extent="7" unit="character"/><date type="life-span" dur="P80Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="80">π</num></date><space extent="5" unit="character"/> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-63285"><name nymRef="Ἀρχώ">Ἀρχὼ</name> <persName type="attested" key="lgpn:V1-63381"><name nymRef="Βαρκαῖος">Βαρκαίου</name></persName></persName>
                     <lb n="4"/><space extent="5" unit="character"/><date type="life-span" dur="P70Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="70">ο</num> </date><space extent="4" unit="character"/>
@@ -146,7 +146,7 @@
                     <lb n="15"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
                     <num value="71">οα</num> <space extent="5" unit="character"/>
                     <lb n="16"/><persName type="attested"><name nymRef="Φιλόϲτρατοϲ">Φιλόϲτρατοϲ</name> 
-                    <lb n="17"/><persName type="attested"><name nymRef="Πολίανθος">Πολιάνθου</name></persName></persName>
+                    <lb n="17"/><persName type="attested" key="lgpn:V1-65330"><name nymRef="Πολιάνθης">Πολιάνθου</name></persName></persName>
                     <lb n="18"/><space extent="2" unit="character"/><date type="life-span" dur="P15Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="15">ιε</num> </date><space extent="4" unit="character"/>
                 </ab>
          </div>

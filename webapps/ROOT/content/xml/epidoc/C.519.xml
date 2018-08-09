@@ -146,7 +146,7 @@
                     <lb n="1"/><persName type="attested" key="lgpn:V1-62770"><name nymRef="Ἀλθαιμένης">Ἀλθαιμένευϲ</name>
                     <lb n="2"/><w>τῶ</w> <persName type="attested"><name nymRef="Πρῶρος">Πρώρω</name></persName></persName>
                 </ab></div><div subtype="text" n="ii" type="textpart"><ab>
-                        <lb n="1"/><persName type="attested"><name nymRef="Πρῶρος">Πρώρω</name>
+                        <lb n="1"/><persName type="attested" key="lgpn:V1-65499"><name nymRef="Πρῶρος">Πρώρω</name>
                         <lb n="2"/><w>τῶ</w> <persName type="attested" key="lgpn:V1-62769"><name nymRef="Ἀλθαιμένης">Ἀλθαιμένευϲ</name></persName> </persName>
                     </ab></div>
 </div>

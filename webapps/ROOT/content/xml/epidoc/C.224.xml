@@ -127,7 +127,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἰούλιος">Ἰούλιος</name> <name nymRef="Κοκκειανός">Κοκκειανὸς</name> 
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-65290, lgpn:V1-65316"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἰούλιος">Ἰούλιος</name> <name nymRef="Κοκκειανός">Κοκκειανὸς</name> 
                     <name nymRef="Πειθαγόρας">Π<supplied reason="lost">ειθαγόρας</supplied></name> <name nymRef="Πλάτων"><supplied reason="lost">Πλάτων</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
