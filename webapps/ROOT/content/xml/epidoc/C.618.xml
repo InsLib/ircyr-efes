@@ -115,7 +115,7 @@
       <body>
          <div type="bibliography">
             <head>Bibliography</head>
-            <p><bibl><ptr target="oliverio1916"/> <citedRange>187</citedRange>, fig.8</bibl>; <bibl><title>SEG</title> <citedRange>9.244</citedRange></bibl>.</p>
+            <p><bibl><ptr target="oliverio1916"/> <citedRange>187</citedRange>, fig.8</bibl>, whence <bibl><title>SEG</title> <citedRange>9.244</citedRange></bibl>.</p>
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
@@ -123,7 +123,7 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="144"><unclear>ρ</unclear>μδ</num> 
                     <lb n="2"/><rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παοῖ <lb n="3" break="no"/>νι</w></rs> <num value="2">β</num> 
-                    <lb n="4"/><persName type="attested"><name nymRef="Νικάριν">Νεικάριν</name>
+                    <lb n="4"/><persName type="attested" key="lgpn:V1-65132"><name nymRef="Νικάριν">Νεικάριν</name>
                     <lb n="5"/><persName type="attested" key="lgpn:V1-63847"><name nymRef="Εὐμένης">Εὐμένευς</name></persName></persName> 
             <date type="life-span" dur="P18Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="18">ιη</num> </date>

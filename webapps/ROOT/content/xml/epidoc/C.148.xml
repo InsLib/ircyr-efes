@@ -128,13 +128,13 @@
                 <ab>
                     <lb n="1"/><w>Ἒφοροι</w> <space quantity="1" unit="character"/><w>οἱ</w> <w>ἐφ'</w> <w>ἱαρεῦς</w>
                     
-                    <lb n="2"/><persName type="attested"><name nymRef="Εὐκλῆς">Εὐκλεῦς</name> <w>τῶ</w> <persName
+                    <lb n="2"/><persName type="attested" key="lgpn:V1-63835"><name nymRef="Εὐκλῆς">Εὐκλεῦς</name> <w>τῶ</w> <persName
                         type="attested" key="lgpn:V1-62629"><name type="patronymic" nymRef="Αἰγλάνωρ">Αἰγλάνορος</name></persName></persName>
                     
                     <lb n="3"/><persName type="attested"><name nymRef="Φιλόκωμος">Φιλόκωμος</name> <space quantity="1" unit="character"/><persName
                         type="attested" key="lgpn:V1-63172"><name type="patronymic" nymRef="Ἀριστοτέλης">Ἀριστοτέλευς</name></persName></persName>
                     
-                    <lb n="4"/><persName type="attested"><name nymRef="Νίκαιος">Νίκαιος</name> <space quantity="3" unit="character"/> <persName
+                    <lb n="4"/><persName type="attested" key="lgpn:V1-65107"><name nymRef="Νίκαιος">Νίκαιος</name> <space quantity="3" unit="character"/> <persName
                         type="attested" key="lgpn:V1-63324"><name type="patronymic" nymRef="Αὔξιμος">Αὐξίμω</name></persName></persName>
                     
                     <lb n="5"/><persName type="attested" key="lgpn:V1-62969"><name nymRef="Ἀπολλόδωρος">Ἀπολλόδωρος</name> <space quantity="1" unit="character"/> <persName

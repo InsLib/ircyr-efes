@@ -121,8 +121,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Νικοδάμος" key="lgpn:V1-65166">Νικοδάμος</name> <persName type="attested"><name nymRef="Φιλώτας">Φιλώτα</name></persName></persName> <orig>ισμε</orig>
-                    <lb n="2"/><persName type="attested"><name nymRef="Διονύσιος" key="lgpn:V1-63601">Διονύσιος</name></persName>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-65166"><name nymRef="Νικοδάμος">Νικοδάμος</name> <persName type="attested"><name nymRef="Φιλώτας">Φιλώτα</name></persName></persName> <orig>ισμε</orig>
+                    <lb n="2"/><persName type="attested" key="lgpn:V1-63601"><name nymRef="Διονύσιος">Διονύσιος</name></persName>
                     <lb n="3"/><persName type="attested"><name nymRef="Ἀπολ-"><seg part="I">Ἀπολ</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
                 </ab>
 </div>
@@ -130,7 +130,7 @@
             <head>Apparatus</head>
             <listApp><app loc="3">
                <lem>Ἀπολ</lem>
-               <rdg resp="#SECir">L Λ  Ἀπολον̣ί/Δ̣ίω̣ν̣ Δ̣ιοκλῆς Λ̣Ι̣</rdg>
+               <rdg resp="#SECir">L Λ Ἀπολο<unclear>ν</unclear>ι(ου vel δα)/ <unclear>Δ</unclear>ί<unclear>ων</unclear>? <unclear>Δ</unclear>ιοκλῆς Λ</rdg>
             </app></listApp>
             <p/>
          </div>
