@@ -118,7 +118,7 @@
                <ptr target="pacho1827"/>
                <citedRange>LXVI.1</citedRange>, first and second texts</bibl>, whence <bibl><ptr target="cigiii"/>
                   <citedRange>5157 a, b</citedRange></bibl>; all recorded by Oliverio, whence <bibl>
-                  <ptr target="SECir"/> <citedRange>199</citedRange>i, k, f, g, c, d (from drawings, T.XII 87v-89v)</bibl>; 
+                  <ptr target="SECir"/> <citedRange>199</citedRange> i, k, f, g, c, d (from drawings, T.XII 87v-89v)</bibl>; 
                discussed by <bibl><ptr target="masson1965"/> <citedRange>218-</citedRange></bibl>.</p>
             <p> For the tombs, 
                      <bibl><ptr target="cassels1955"/> <citedRange>S.9</citedRange></bibl>,  
@@ -154,7 +154,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p><!-- check Glotta 45 (1965) 218 --></p>
+            <p><!-- check Masson Glotta 45 (1965) 218 --></p>
          </div>
          
       </body>

@@ -167,12 +167,12 @@
                     <w lemma="πατρίς">πατρίδα</w> <w>φιλόστοργον</w> 
                     <w><unclear>ἀ</unclear><supplied reason="lost">γρὸν</supplied></w> 
                     <supplied reason="lost"><w lemma="ὁ">τὸ</w></supplied> 
-                    <persName type="attested"><name nymRef="Μνασέας"><supplied reason="lost">Μνα</supplied><lb n="9" break="no"/>σέα</name></persName> <persName type="divine" key="hermes"><name nymRef="Ἑρμῆς">Ἑρμᾶι</name></persName> <w lemma="καί">καὶ</w> <persName type="divine" key="herakles"><name nymRef="Ἡρακλῆς">Ἡρακλεῖ</name></persName> 
+                    <persName type="attested" key="lgpn:V1-65037"><name nymRef="Μνασέας"><supplied reason="lost">Μνα</supplied><lb n="9" break="no"/>σέα</name></persName> <persName type="divine" key="hermes"><name nymRef="Ἑρμῆς">Ἑρμᾶι</name></persName> <w lemma="καί">καὶ</w> <persName type="divine" key="herakles"><name nymRef="Ἡρακλῆς">Ἡρακλεῖ</name></persName> 
                     <w lemma="εἰς">ἐς</w> <w lemma="ὁ">τὸ</w> <w lemma="κοινός">κοινὸν</w> 
                     <w>τῶ</w> <w><unclear>δ</unclear><supplied reason="lost">ᾶμω</supplied></w> 
                     <supplied reason="lost"><w>ἄλειμμα</w> <w lemma="καί">καὶ</w></supplied> 
                     <lb n="10"/><w lemma="ἄλλος">ἄλλον</w> <w>ἀγρὸν</w> <w>ἱαρὸν</w> <w lemma="ὁ">τὸ</w>
-                   <persName type="attested"><name nymRef="Ἐπίστρατος">Ἐπιστράτω</name></persName> 
+                   <persName type="attested" key="lgpn:V1-63715"><name nymRef="Ἐπίστρατος">Ἐπιστράτω</name></persName> 
                    <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπό<supplied reason="lost">λλωνι</supplied></name></persName> 
                    <supplied reason="lost">
                        <w lemma="καί">καὶ</w> <persName type="divine" key="artemis"><name nymRef="Ἄρτεμις">Ἀρτάμιτι</name></persName></supplied> 

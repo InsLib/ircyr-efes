@@ -133,9 +133,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <div type="textpart" n="i"><ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Ἰάσων"><unclear>Ἰ</unclear>άϲω<unclear>ν</unclear></name></persName> <del rend="erasure"><orig><unclear>ιε</unclear>ναρηϲ</orig></del>
+                    <lb n="1"/><persName type="attested"><name nymRef="Ἰάσων"><unclear>Ἰ</unclear>άϲω<unclear>ν</unclear></name></persName> <del rend="erasure"><persName type="attested" key="lgpn:V1-64998"><name nymRef="Μενάρης">Μ<unclear>ε</unclear>νάρηϲ</name></persName></del>
                     <lb n="1a"/><space quantity="1" unit="line"/>
-                    <lb n="2"/><persName type="attested"><name nymRef="Μνασίαρχος">Μνάϲιαρχος</name> <persName type="attested" key="lgpn:V1-64288"><name nymRef="Ἴασις">Ἴασις</name></persName></persName></ab></div>
+                    <lb n="2"/><persName type="attested" key="lgpn:V1-65029"><name nymRef="Μνάσαρχος">Μνάϲαρχος</name> <persName type="attested" key="lgpn:V1-64288"><name nymRef="Ἴασις">Ἴασις</name></persName></persName></ab></div>
              <div type="textpart" n="ii"><ab><lb n="1"/><persName type="attested" key="lgpn:V1-64694"><name nymRef="Κληνάτα">Κληνάτα</name> <persName type="attested" key="lgpn:V1-63193"><name nymRef="Ἀριστοτέλης">Ἀριϲτοτέλευϲ</name></persName></persName>
                     <lb n="2"/><space quantity="5" unit="character"/><w>ἱάρεια</w> <persName type="divine" key="hera"><name nymRef="Ἤρα">Ἥρας</name></persName></ab></div>
                     <div n="iii" type="textpart"><ab>
@@ -149,7 +149,7 @@
                    <listApp>
                       <app loc="i.1"><rdg resp="#oliverioDAI">--<unclear>υς</unclear> ?</rdg>
                          <rdg resp="#cassels1955">[----<unclear>α</unclear>ρης]</rdg>
-                         <note>The marked letters have been erased; the name was perhaps Μενάρης or Χενάρης.</note>
+                         <note>The marked letters have been erased; the name was perhaps Χενάρης</note>
                       </app>
                       <app loc="i.2"><rdg resp="#oliverioDAI">Μνάσαρχος (Ἀριστοτέ)λευς</rdg>
                          </app>
@@ -161,8 +161,8 @@
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div type="translation" source="#oliverioDAI" xml:lang="it"><p>- di -. Clenata di Aristotile, sacerdotessa; Mnesarco di Aristotile; 
             Cidimaca di Teocresto, sacerdotessa. Completo (il loculo)</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i. Iason -ares. Mnasarchos ?<supplied reason="subaudible">son</supplied> of Iasis.</p>
-               <p>ii. Klenata <supplied reason="subaudible">daughter</supplied> of Artistoteles,
+            <div type="translation" source="#edd" xml:lang="en"><p>i. Iason ?Menares. Mnasarchos ?<supplied reason="subaudible">son</supplied> of Iasis.</p>
+               <p>ii. Klenata <supplied reason="subaudible">daughter</supplied> of Aristoteles,
                priestess of Hera</p>
                <p>iii. Kυdimacha <supplied reason="subaudible">daughter</supplied> of 
             Theochrestos, priestess.</p>
