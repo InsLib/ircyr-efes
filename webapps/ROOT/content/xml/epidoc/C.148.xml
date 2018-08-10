@@ -131,7 +131,7 @@
                     <lb n="2"/><persName type="attested" key="lgpn:V1-63835"><name nymRef="Εὐκλῆς">Εὐκλεῦς</name> <w>τῶ</w> <persName
                         type="attested" key="lgpn:V1-62629"><name type="patronymic" nymRef="Αἰγλάνωρ">Αἰγλάνορος</name></persName></persName>
                     
-                    <lb n="3"/><persName type="attested"><name nymRef="Φιλόκωμος">Φιλόκωμος</name> <space quantity="1" unit="character"/><persName
+                    <lb n="3"/><persName type="attested" key="lgpn:V1-66003"><name nymRef="Φιλόκωμος">Φιλόκωμος</name> <space quantity="1" unit="character"/><persName
                         type="attested" key="lgpn:V1-63172"><name type="patronymic" nymRef="Ἀριστοτέλης">Ἀριστοτέλευς</name></persName></persName>
                     
                     <lb n="4"/><persName type="attested" key="lgpn:V1-65107"><name nymRef="Νίκαιος">Νίκαιος</name> <space quantity="3" unit="character"/> <persName
@@ -146,8 +146,8 @@
                     <lb n="7"/><persName type="attested" key="lgpn:V1-63075"><name nymRef="Ἀριστέας">Ἀριστέας</name> <space quantity="1" unit="character"/> <persName
                         type="attested" key="lgpn:V1-62771"><name nymRef="Ἁλιόδωρος">Ἁλιοδώρω</name></persName></persName>
                     
-                    <lb n="8"/><persName type="attested"><name nymRef="Φίλιππος">Φίλιππος</name> <space quantity="3" unit="character"/> <persName
-                        type="attested"><name type="patronymic" nymRef="Φίλιππος">Φιλίππω</name></persName></persName>
+                    <lb n="8"/><persName type="attested" key="lgpn:V1-65930"><name nymRef="Φίλιππος">Φίλιππος</name> <space quantity="3" unit="character"/> <persName
+                        type="attested" key="lgpn:V1-65929"><name type="patronymic" nymRef="Φίλιππος">Φιλίππω</name></persName></persName>
                     
                     <lb n="8a"/><space quantity="1" unit="line"/>
                     

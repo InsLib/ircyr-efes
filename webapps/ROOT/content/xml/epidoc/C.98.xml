@@ -143,7 +143,7 @@
                        <lb n="6"/><persName type="attested" key="lgpn:V1-64893"><name nymRef="Λῦσις">Λῦσις</name> <persName type="attested" key="lgpn:V1-63013"><name nymRef="Πόπλιος"><expan><abbr>Π</abbr><ex>οπλίω</ex></expan></name> <name nymRef="Κοϊντίλιος">Κοιντιλίω</name>
                        <name nymRef="Ἀπολλώς">Ἀπολ
                     <lb n="7" break="no"/><space quantity="1" unit="character"/>λῶτος</name></persName></persName> <space quantity="1" unit="character"/> 
-                       <lb n="8"/><persName type="attested"><name nymRef="Ἐλάζαρ">Ἐλάζα<supplied reason="lost">ρ</supplied></name> 
+                       <lb n="8"/><persName type="attested" key="lgpn:V1-63640"><name nymRef="Ἐλάζαρ">Ἐλάζα<supplied reason="lost">ρ</supplied></name> 
                        <persName type="attested" key="lgpn:V1-64320"><name nymRef="Ἰάσων"><supplied reason="lost">Ἰ</supplied>άσονος</name></persName></persName> 
                        <lb n="9"/><persName type="attested" key="lgpn:V1-63429"><name nymRef="Γέμελλος">Γέμε<unclear>λ</unclear><supplied reason="lost">λ</supplied>ος</name> 
                        <persName type="attested" key="lgpn:V1-62783"><name nymRef="Ἀλώπηξ">Ἀλώπεκος</name></persName></persName> 
@@ -154,9 +154,9 @@
                        <space quantity="1" unit="character"/>
                     <lb n="13"/><gap reason="lost" quantity="5" unit="character" precision="low"/><persName type="attested"><name><seg part="F">ος</seg></name> <persName type="attested" key="lgpn:V1-62636"><name nymRef="Αἰγλάνωρ">Αἰγλάνορος</name></persName></persName>
                     <lb n="14"/><gap reason="lost" quantity="7" unit="character" precision="low"/> 
-                        <persName type="attested"><name nymRef="Ὕρατθις">Ὑράτ<supplied reason="lost">θ</supplied>ιος</name></persName>
+                        <persName type="attested" key="lgpn:V1-65860"><name nymRef="Ὕρατθις">Ὑράτ<supplied reason="lost">θ</supplied>ιος</name></persName>
             <lb n="15"/><gap reason="lost" quantity="6" unit="character"/>
-               <persName type="attested"><name nymRef="Τιμῶναξ"><supplied reason="lost">T</supplied>ειμώ<supplied reason="lost">ν</supplied>α
+               <persName type="attested" key="lgpn:V1-65842"><name nymRef="Τιμῶναξ"><supplied reason="lost">T</supplied>ειμώ<supplied reason="lost">ν</supplied>α
                     <lb n="16" break="no"/><supplied reason="lost" cert="low"><space quantity="1" unit="character"/>κτο</supplied>ς</name></persName>
                <space quantity="1" unit="character"/> 
                     <lb n="17"/><gap reason="lost" quantity="4" unit="character"/><persName type="attested" key="lgpn:V1-62533"><name nymRef="Ἀγαθώνεμος"><supplied reason="lost">Ἀγ</supplied>αθωνέ

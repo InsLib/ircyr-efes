@@ -116,7 +116,7 @@
          
          <div type="bibliography">
             <head>Bibliography</head>
-            <p><bibl><ptr target="SECir"/><citedRange>4.b</citedRange> and fig 6 (from T.XI 65).</bibl>.</p>
+            <p><bibl><ptr target="SECir"/> <citedRange>4.b</citedRange> and fig 6 (from T.XI 65).</bibl>.</p>
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
@@ -130,7 +130,7 @@
                <persName type="attested" key="lgpn:V1-64626"><name nymRef="Τιβέριος"><supplied reason="lost"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></supplied></name> 
                     <name nymRef="Κλαύδιος"><supplied reason="lost">Κλα</supplied><unclear>ύ</unclear>διος</name>
                   <name nymRef="Κλέαρχος">Κλέαρχ<supplied reason="lost">ος</supplied></name>
-                    <lb n="3"/><persName type="attested"><name nymRef="Τιβέριος"><supplied reason="lost"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></supplied></name>
+                    <lb n="3"/><persName type="attested" key="lgpn:V1-65880"><name nymRef="Τιβέριος"><supplied reason="lost"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></supplied></name>
                        <name nymRef="Κλαύδιος"><supplied reason="lost">Κλα</supplied>υδίου</name> <name nymRef="Φείδιμος">Φειδίμου</name></persName></persName>
                     <lb n="4"/><supplied reason="lost"><w lemma="υἱός">υἱὸς</w> <w lemma="ἱερεύς">ἱερεὺς</w></supplied>
                <w lemma="καί">καὶ</w> <w lemma="ἀρχιερεύς">ἀρχιερεύς</w>

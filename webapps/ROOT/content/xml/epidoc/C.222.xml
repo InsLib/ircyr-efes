@@ -134,7 +134,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><w><expan><abbr><supplied reason="lost"><am><g ref="symbols.xml#year"/></am></supplied></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="108"><unclear>ρη</unclear></num> <persName type="attested"><name nymRef="Τιμαγένης"><unclear>Τ</unclear>ειμαγένης</name>
+                    <num value="108"><unclear>ρη</unclear></num> <persName type="attested" key="lgpn:V1-65792"><name nymRef="Τιμαγένης"><unclear>Τ</unclear>ειμαγένης</name>
                     <persName type="attested" key="lgpn:V1-64158"><name nymRef="Θεόδωρος">Θεοδώρο<supplied reason="lost">υ</supplied></name></persName></persName>
                     <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="110">ρι</num> <g ref="symbols.xml#stop"/> <persName type="attested" key="lgpn:V1-63927"><name nymRef="Εὐφράνωρ">Εὐφράνωρ</name> <g ref="symbols.xml#stop"/> <persName type="attested" key="lgpn:V1-62940"><name nymRef="Ἀντίπατρος">Ἀντιπάτρω</name></persName></persName>
