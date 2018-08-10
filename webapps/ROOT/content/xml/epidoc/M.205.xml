@@ -114,7 +114,7 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="a" type="textpart"><ab>    
-                        <lb n="1"/><persName type="attested"><name nymRef="Πτολεμαῖος">Πτολε<supplied reason="lost">μαῖος</supplied></name></persName> 
+                        <lb n="1"/><persName type="attested" key="lgpn:V1-65519"><name nymRef="Πτολεμαῖος">Πτολε<supplied reason="lost">μαῖος</supplied></name></persName> 
                         <lb n="2"/><persName type="attested" key="lgpn:V1-63566"><name nymRef="Διόδωρος">Διόδωρος</name></persName>
                         <lb n="3"/><orig>ν</orig> 
                         <lb n="4"/><orig>ις</orig>   

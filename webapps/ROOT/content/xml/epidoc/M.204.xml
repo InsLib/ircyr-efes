@@ -129,12 +129,13 @@
                     <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>λ</unclear>αψ<unclear>ωγ</unclear>ονιε</orig><gap reason="lost" extent="unknown" unit="character"/><orig>γοσ</orig><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/><w>ιδιος</w> <space quantity="1" unit="character"/> 
                     <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/><orig>αιιααιη</orig> 
-                    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><orig>νδαμ</orig><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" key="lgpn:V1-65569"><name nymRef="Σέκονδα"><supplied reason="lost">Σέκο</supplied>νδα</name></persName> <orig>μ</orig><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/><orig>οσ</orig><g ref="symbols.xml#obliquebar"/><!-- guessed --><orig>χ<unclear>α</unclear>ωλ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          <!-- check all these. Note that SEG reads Ἀπρόνιος  for 731. key="lgpn:V1-63011"  734Reads Ἀριμμαν key="lgpn:V1-63036" reads Γ[ρύ]λλος key="lgpn:V1-63439" 
-         733: reads Ἀντιπᾶς-->
+         733: reads Ἀντιπᾶς ?Σενεκιων? key="lgpn:V1-65579"-->
+        
          
          <div type="apparatus">
             <listApp>

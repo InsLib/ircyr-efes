@@ -122,7 +122,7 @@
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Μᾶγνος"><supplied reason="lost">Μᾶ</supplied><unclear>γ</unclear>νοϲ</name></persName>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <space quantity="1" unit="character"/> 
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" key="lgpn:V1-64543"><name nymRef="Καρνεάδης">Καρνεάδη<unclear>ϲ</unclear></name> 
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Πτολεμαῖος"><unclear>Π</unclear>τολεμαίω</name></persName></persName>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-65525"><name nymRef="Πτολεμαῖος"><unclear>Π</unclear>τολεμαίω</name></persName></persName>
                 </ab>
             </div>
          

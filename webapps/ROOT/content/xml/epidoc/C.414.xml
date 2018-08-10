@@ -126,10 +126,10 @@
                     <lb n="7"/><persName type="attested"><name nymRef="Χαιρεσίλαος">Χαιρεσίλα<unclear>ϲ</unclear></name> <persName type="attested"><name nymRef="Εὐφάνης"><supplied reason="lost">Εὐ</supplied><unclear>φ</unclear><supplied reason="lost">ά</supplied>ν<unclear>ε</unclear><supplied reason="lost">υϲ</supplied></name></persName></persName>
                     <lb n="8"/><persName type="attested" key="lgpn:V1-64424"><name nymRef="Ἰούλιος">Ἰόλιοϲ</name> <name nymRef="Ἰσοκράτης">Ἰϲο<supplied reason="lost">κρ</supplied>άτ<unclear>η</unclear>ϲ</name></persName>
                     <lb n="9"/><persName type="attested" key="lgpn:V1-62971"><name nymRef="Κλαύδιος"><expan><abbr>Κλ</abbr><ex>αύδιοϲ</ex></expan></name> <name nymRef="Ἀπολλόδωρος">Ἀπολλόδωροϲ</name></persName>
-                    <lb n="10"/><persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριοϲ</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύ<unclear>δι</unclear>οϲ</name> <name nymRef="Φάος">Φάοϲ</name></persName>
+                    <lb n="10"/><persName type="attested" key="lgpn:V1-65868"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριοϲ</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύ<unclear>δι</unclear>οϲ</name> <name nymRef="Φάος">Φάοϲ</name></persName>
                     <lb n="11"/><persName type="attested" key="lgpn:V1-62878"><name nymRef="Ἀνδροσθένης">Ἀνδρο<unclear>σ</unclear><supplied reason="lost">θ</supplied><unclear>έ</unclear>νηϲ</name> 
-                    <persName type="attested"><name nymRef="Χαιρεσίλαος" key="lgpn:V1-66138">Χαιρεσίλαο<unclear>υ</unclear></name></persName></persName>
-                    <lb n="12"/><persName type="attested"><name nymRef="Φλάβιος">Φλάβιοϲ</name> <name nymRef="Πτολεμαῖος">Πτ<unclear>ο</unclear>λεμαῖοϲ</name></persName>
+                    <persName type="attested" key="lgpn:V1-66138"><name nymRef="Χαιρεσίλαος">Χαιρεσίλαο<unclear>υ</unclear></name></persName></persName>
+                    <lb n="12"/><persName type="attested" key="lgpn:V1-65524"><name nymRef="Φλάβιος">Φλάβιοϲ</name> <name nymRef="Πτολεμαῖος">Πτ<unclear>ο</unclear>λεμαῖοϲ</name></persName>
                     <lb n="13"/><persName type="attested"><gap reason="lost" quantity="1" unit="character"/><name nymRef="Ἀντώνιος"><supplied reason="lost">Ἀν</supplied>τώνιοϲ</name>
                     <name nymRef="Ι-"><seg part="I"><unclear>Ι</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="14"/><persName type="attested"><name nymRef="Ἰούλιος"><supplied reason="lost">Ἰο</supplied><unclear>ύλ</unclear>ιοϲ</name> <name nymRef="Φλ-"><seg part="I">Φλ</seg></name><gap reason="lost" extent="unknown" unit="character"/></persName>

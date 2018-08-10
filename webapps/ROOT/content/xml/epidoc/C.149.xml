@@ -152,7 +152,7 @@
                         ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Καρτισθένευς</ex></expan></name> <w>τῶ</w> <persName type="attested" key="lgpn:V1-65155">
                             <name nymRef="Νῖκις">Νίκιο<hi rend="sling-above small ">ς</hi></name></persName></persName></persName>
                     
-                    <lb n="5"/><persName type="attested"><name nymRef="Πρώταρχος">Πρώταρχος</name> <persName
+                    <lb n="5"/><persName type="attested" key="lgpn:V1-65504"><name nymRef="Πρώταρχος">Πρώταρχος</name> <persName
                         type="attested"><name nymRef="Φίλων">Φίλωνο<hi rend="sling-above small">ς</hi></name></persName></persName>
                     
                     <lb n="6"/><persName type="attested" key="lgpn:V1-65493"><name nymRef="Πρῶρος">Πρῶρος</name><space quantity="1" unit="character"/><del rend="erasure" cert="low"><gap
