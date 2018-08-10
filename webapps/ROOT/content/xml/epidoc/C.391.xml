@@ -123,14 +123,14 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Εὔτυχος">Εὔτυχος</name> <persName type="attested"><name nymRef="Χαιρεσίλαος">Χαιρεσιλάο<supplied reason="lost">υ</supplied></name></persName></persName>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-63902"><name nymRef="Εὔτυχος">Εὔτυχος</name> <persName type="attested" key="lgpn:V1-66139"><name nymRef="Χαιρεσίλαος">Χαιρεσιλάο<supplied reason="lost">υ</supplied></name></persName></persName>
                 </ab>
 </div>
          <div type="apparatus">
             <listApp>
                <app>
                   <rdg>
-                    Εὐτυχ<supplied reason="lost">ῶ</supplied>ς Χαιρεσιλά<supplied reason="lost">ω</supplied>
+                    <name>Εὐτυχ<supplied reason="lost">ῶ</supplied>ς</name> <name>Χαιρεσιλά<supplied reason="lost">ω</supplied></name>
                   </rdg>
                </app>
             </listApp>
