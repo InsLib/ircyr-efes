@@ -145,8 +145,8 @@
                     <persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> <name nymRef="Ἀντώνιος">Ἀν<unclear>τ</unclear><supplied reason="lost">ωνίου</supplied></name>
                     <lb n="9"/><name nymRef="Φλάμμα">Φλάμμα</name> <w>υἱὸς</w> <persName type="attested"><name nymRef="Κασκέλλιος">Κασκέ<supplied reason="lost">λλιος</supplied></name></persName></persName></persName>
                     <lb n="10"/><w><supplied reason="lost"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></supplied></w> 
-                    <num value="101"><supplied reason="lost">ρ</supplied><unclear>α</unclear></num> <persName type="attested"><name nymRef="Κόϊντος"><expan><abbr><unclear>Κ</unclear></abbr><ex>όϊντος</ex></expan></name> 
-                    <name nymRef="Φάβιος">Φάβιος</name> <persName type="attested" key="lgpn:V1-63960"><name nymRef="Φιλίσκος">Φιλίσκου</name> <w>υἱὸς</w> <persName type="attested"><name nymRef="Φίλιππος">Φίλιππος</name></persName></persName></persName>
+                    <num value="101"><supplied reason="lost">ρ</supplied><unclear>α</unclear></num> <persName type="attested"  key="lgpn:V1-65940"><name nymRef="Κόϊντος"><expan><abbr><unclear>Κ</unclear></abbr><ex>όϊντος</ex></expan></name> 
+                    <name nymRef="Φάβιος">Φάβιος</name> <persName type="attested" key="lgpn:V1-63960"><name nymRef="Φιλίσκος">Φιλίσκου</name></persName> <w>υἱὸς</w> <name nymRef="Φίλιππος">Φίλιππος</name></persName>
                 </ab>
 </div>
          <div type="apparatus">

@@ -108,8 +108,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p><bibl>
-               <ptr target="SECir"/> 
-               <citedRange>276</citedRange>
+               <ptr target="SECir"/> <citedRange>276</citedRange>
             </bibl>; see <bibl><ptr target="laronde1987a"/> <citedRange>482</citedRange></bibl></p><!-- check readings -->
          </div>
          
@@ -117,7 +116,7 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="9">θ</num> <!-- check -->
                     <lb n="2"/><w>ἐπὶ</w> <w>ἱερείος</w> 
-                    <lb n="3"/><persName type="attested"><name nymRef="Φίλων">Φίλωνος</name> <w>το<supplied reason="lost">ῦ</supplied></w> 
+                    <lb n="3"/><persName type="attested" key="lgpn:V1-66073"><name nymRef="Φίλων">Φίλωνος</name> <w>το<supplied reason="lost">ῦ</supplied></w> 
                     <lb n="4"/><persName type="attested" key="lgpn:V1-63922"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name></persName></persName> 
                     <lb n="5"/><rs type="month" key="Μεσορή"><w lemma="Μεσορή">Μεσορὴ</w></rs> <num value="20">κ</num> 
                     <lb n="6"/><persName type="attested" key="lgpn:V1-62712"><name nymRef="Ἀλέξανδρος">Ἀλέξανδρο<supplied reason="lost">ς</supplied></name> 

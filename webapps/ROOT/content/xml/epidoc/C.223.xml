@@ -151,7 +151,7 @@
                     <name nymRef="Κλαύδιος">Κλα<lb n="2" break="no"/>υδίου</name> <name nymRef="Κλέαρχος">Κλεά<supplied reason="lost">ρχου</supplied></name></persName></persName>
            <w lemma="υἱός"><supplied reason="lost">υἱὸ</supplied>ς</w> <w lemma="ἱερεύς">ἱερεὺς</w> <persName type="attested"><name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName> 
                     <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="134">ρλδ</num> <persName type="attested"><name nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτος</ex></expan></name> 
+                    <num value="134">ρλδ</num> <persName type="attested" key="lgpn:V1-63814"><name nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτος</ex></expan></name> 
                   <name nymRef="Φλάβιος">Φ<unclear>λ</unclear><supplied reason="lost">άβιο</supplied>ς</name> <name nymRef="Εὐκλείδας">Εὐκλείδας</name> 
                     <lb n="4"/><persName type="attested" key="lgpn:V1-63391"><name nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτου</ex></expan></name> <name nymRef="Φλάβιος">Φλαβίου</name> 
                     <name nymRef="Βάττος">Βά<supplied reason="lost">ττο</supplied>υ</name></persName> <w lemma="υἱός">υἱὸς</w></persName>
@@ -159,7 +159,7 @@
                     <lb n="5"/><persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνο<supplied reason="lost">ς</supplied> </name></persName>
                     <lb n="5a"/><space quantity="1" unit="line"/>
                     <lb n="6"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="135">ρλε</num> <persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name>
+                    <num value="135">ρλε</num> <persName type="attested" key="lgpn:V1-66023"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name>
                <name nymRef="Κλαύδιος">Κλαύδιος</name>  
                     <lb n="7"/><name nymRef="Φιλόξενος">Φιλόξενος</name> <name nymRef="Ἀντωνίανος">Ἀντωνίανος</name></persName> 
                     <lb n="8"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 

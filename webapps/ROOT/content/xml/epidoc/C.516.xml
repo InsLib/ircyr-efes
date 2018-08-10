@@ -129,7 +129,7 @@
                             <lb n="1"/><persName type="attested" key="lgpn:V1-63067"><name nymRef="Ἀρίσταρχος">Ἀρίστ<lb n="2" break="no"/>αρχοϲ</name>
                             <lb n="3"/><persName type="attested" key="lgpn:V1-65239"><name nymRef="Πανταλέων">Πανταλέ<lb n="4" break="no"/>οντο<supplied reason="lost">ϲ</supplied></name></persName></persName> 
                         </ab></div><div subtype="fragment" n="2" type="textpart"><ab>
-                            <lb n="1"/><surplus><orig>φ</orig></surplus> <persName type="attested"><name nymRef="Φιλύτας">Φιλύτα</name></persName>
+                            <lb n="1"/><surplus><orig>φ</orig></surplus> <persName type="attested" key="lgpn:V1-66061"><name nymRef="Φιλύτας">Φιλύτα</name></persName>
                         </ab></div></div><div subtype="section" n="b" type="textpart">
                            <div subtype="fragment" n="1" type="textpart"><ab> 
                             <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>δρα</orig><gap reason="lost" extent="unknown" unit="character"/>

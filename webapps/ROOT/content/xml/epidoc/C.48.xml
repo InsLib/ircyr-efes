@@ -140,7 +140,7 @@
                <lb n="2"/><persName type="attested" key="lgpn:V1-63068"><name nymRef="Ἀρίσταρχος">Ἀρίσταρχος</name> <persName type="attested" key="lgpn:V1-64241"><name nymRef="Θεύχρηστος">Θευχρήστω</name></persName></persName>
             <lb n="3"/><persName type="attested" key="lgpn:V1-64242"><name nymRef="Θεύχρηστος">Θεύχρηστος</name> <persName type="attested" key="lgpn:V1-63598"><name nymRef="Διονύσιος">Διονυσίω</name></persName></persName>
             <lb n="4"/><persName type="attested" key="lgpn:V1-65875"><name nymRef="Φάος">Φάος</name> <persName type="attested" key="lgpn:V1-64636"><name nymRef="Κλέαρχος">Κλεάρχω</name>
-               <lb n="5"/><w>τῶ</w> <w>φιλοπάτριδος</w></persName></persName><!-- check is this a name? so LGPN VI 66048 -->
+               <lb n="5"/><w>τῶ</w> <persName type="attested" key="lgpn:V1-66048"><name nymRef="Φιλόπατρις">Φιλοπάτριδος</name></persName></persName></persName>
             <lb n="6"/><persName type="attested" key="lgpn:V1-64436"><name nymRef="Ἴστρος">Ἴστρος</name> <persName type="attested" key="lgpn:V1-62509"><name nymRef="Ἀγαθῖνος">Ἀγαθίνω</name></persName></persName>
             <lb n="7"/><persName type="attested" key="lgpn:V1-63301"><name nymRef="Ἀσκληπιάδης">Ἀσκληπιάδης</name> <persName type="attested" key="lgpn:V1-63702"><name nymRef="Ἑπικράτης">Ἑπικράτευς</name></persName></persName>
             <lb n="8"/><persName type="attested" key="lgpn:V1-63905"><name nymRef="Εὐφάνης">Εὐφάνης</name> <persName type="attested" key="lgpn:V1-64428"><name nymRef="Ἰσοκράτης">Ἰσοκράτευς</name></persName></persName>
