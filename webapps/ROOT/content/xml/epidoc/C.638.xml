@@ -111,7 +111,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Συμφέρουσα">Συνφέρουσ<supplied reason="lost">α</supplied></name></persName>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-65662"><name nymRef="Συμφέρης">Συνφέρους</name></persName>
                     <lb n="2"/><orig>σϜισ</orig>
                 </ab>
 </div>

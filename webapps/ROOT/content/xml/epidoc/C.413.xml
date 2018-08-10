@@ -117,12 +117,13 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Σωσιμένης">Ϲωϲιμένευϲ</name></persName>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-65712"><name nymRef="Σωσιμένης">Ϲωϲιμένευϲ</name></persName>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
             <p>Of Sosimenes</p></div>
+         
          <div type="commentary">
             <head>Commentary</head>
             <p>The stone appears to be funerary, 

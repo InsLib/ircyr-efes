@@ -108,11 +108,7 @@
       </revisionDesc>
    </teiHeader><facsimile><graphic url="JMR_1126_003" decls="#photograph"><desc>Face, to the right of <ref type="inscription" n="C55800">C.589</ref> (BSR 1264.39)</desc></graphic>
       <graphic url="JMR_1126_002" decls="#photograph"><desc>General view (BSR 1264.36)</desc></graphic>
-      <graphic url="Copy of Copy of JMR_1126_003b" decls="#photograph"><desc>Face (BSR 1264.36)</desc></graphic><!--
-                    --><!--
-                    --><!--
-                --><!--
-            --></facsimile>
+      <graphic url="Copy of Copy of JMR_1126_003b" decls="#photograph"><desc>Face (BSR 1264.36)</desc></graphic></facsimile>
    <text>
       <body>
          
@@ -129,7 +125,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name nymRef="Σίμων">Σ<supplied reason="lost">ί</supplied><unclear>μ</unclear>ων</name> 
+                    <gap reason="lost" quantity="1" unit="character"/> <persName type="attested" key="lgpn:V1-65605"><name nymRef="Σίμων">Σ<supplied reason="lost">ί</supplied><unclear>μ</unclear>ων</name> 
                     <persName type="attested" key="lgpn:V1-63253"><name nymRef="Ἀρτεμίδωρος">Ἀρτ<supplied reason="lost">ε</supplied>μιδώρου</name></persName></persName> 
             <date type="life-span" dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="5">ε</num> </date>
                     <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
@@ -137,7 +133,7 @@
             <date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num atLeast="60">ξ<gap reason="lost" quantity="1" unit="character"/></num> </date> 
                     <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="40"><unclear>μ</unclear></num> <persName type="attested"><name nymRef="Σίμων">Σίμων</name> <persName type="attested"><name nymRef="Σίμων">Σίμωνος</name></persName></persName> 
+                    <num value="40"><unclear>μ</unclear></num> <persName type="attested" key="lgpn:V1-65607"><name nymRef="Σίμων">Σίμων</name> <persName type="attested" key="lgpn:V1-65606"><name nymRef="Σίμων">Σίμωνος</name></persName></persName> 
             <date type="life-span" dur="P39Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="39"><unclear>λ</unclear>θ</num> </date>
                 </ab>

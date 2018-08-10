@@ -130,7 +130,7 @@
                     <lb n="4"/> <date type="life-span" dur="P68Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="68">ξη</num> </date>
                     <lb n="5"/><persName type="attested" key="lgpn:V1-62548"><name nymRef="Ἁγεμόνα">Ἁγεμόνα</name>
-                        <lb n="6"/><persName type="attested"><name nymRef="Σίμων">Σίμωνος</name></persName></persName>
+                        <lb n="6"/><persName type="attested" key="lgpn:V1-65610"><name nymRef="Σίμων">Σίμωνος</name></persName></persName>
                     <lb n="7"/><date type="life-span" dur="P14Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="14">ιδ</num> </date>
                 </ab>

@@ -118,8 +118,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Εἰρηνᾶς">Εἰρηνᾶς</name> 
-                    <lb n="2"/><persName type="attested"><name nymRef="Εἰρηνᾶς">Εἰρηνᾶ</name></persName> </persName>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-63631"><name nymRef="Εἰρηνᾶς">Εἰρηνᾶς</name> 
+                    <lb n="2"/><persName type="attested" key="lgpn:V1-63630"><name nymRef="Εἰρηνᾶς">Εἰρηνᾶ</name></persName> </persName>
                     <lb n="3"/><date type="life-span" dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="20">κ</num> </date>
                 </ab>
 </div>

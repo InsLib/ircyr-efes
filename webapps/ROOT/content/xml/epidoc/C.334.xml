@@ -109,13 +109,13 @@
       <body>
          <div type="bibliography">
             <head>Bibliography</head>
-            <p/>
+            <p>Text give in a footnote on <bibl><ptr target="SECir"/> <citedRange>112</citedRange> (from Oliverio, notebook XV, page 81, dated 30 September, and p. 83)</bibl></p>
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος"><unclear>Κλ</unclear>αύδιος</name>
-                    <persName type="attested"><name nymRef="Σεραπίων">Σεραπίωνο<unclear>ς</unclear></name></persName> <w lemma="υἱός"><unclear>υἱὸς</unclear></w></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-65581"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος"><unclear>Κλ</unclear>αύδιος</name>
+                    <persName type="attested"><name nymRef="Σεραπίων">Ϲεραπίωνο<unclear>ς</unclear></name></persName> <w lemma="υἱός"><unclear>υἱὸϲ</unclear></w></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

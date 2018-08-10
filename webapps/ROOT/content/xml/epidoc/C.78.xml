@@ -124,7 +124,7 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10">ι</num> 
                     <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="55">νε</num> 
-                    <lb n="3"/><persName type="attested"><name nymRef="Φίλιππος">Φίλι<lb n="5" break="no"/>ππ<lb n="6" break="no"/>ος </name></persName>
+                    <lb n="3"/><persName type="attested" key="lgpn:V1-65935"><name nymRef="Φίλιππος">Φίλι<lb n="5" break="no"/>ππ<lb n="6" break="no"/>ος </name></persName>
                     <lb n="4"/><persName type="attested" key="lgpn:V1-64884"><name nymRef="Λῦσις">Λῦσι<lb n="8" break="no"/>ς</name></persName>
                     <lb n="5"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                 </ab>

@@ -111,9 +111,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p>
-               <bibl>
-                  <ptr target="SECir"/>
-                  <citedRange>112</citedRange> (from notebook XV, page 81, dated 30 September, and p. 83)</bibl>, whence 
+               <bibl>Text give in a footnote on <ptr target="SECir"/> <citedRange>112</citedRange> (from notebook XV, page 81, dated 30 September, and p. 83)</bibl>, whence 
                <bibl><ptr target="robertBE"/> <citedRange>1964.568</citedRange></bibl>; see further 
                <bibl><ptr target="mohamed-jmr2002"/> <citedRange>pp. 1656-7</citedRange>, note 6</bibl>,
                 whence <bibl><title>SEG</title> <citedRange>52.1840</citedRange></bibl>.
@@ -132,9 +130,8 @@
             <head>Apparatus</head>
             <listApp><app loc="1">
                <lem><unclear>Μ</unclear>ά<unclear>ξ</unclear><supplied reason="lost">ι</supplied><unclear>μ</unclear>ος</lem>
-               <note>Pugliese-Carratelli prints 
-               [Κ]ασ̣[κελ]λιος but notes that Oliverio read Μάξιμος which was 
-               also read by Goodchild and Reynolds.</note></app></listApp>
+               <note>Pugliese-Carratelli prints [Κ]α<unclear>σ</unclear>[κελ]λιος but cf. the adjacent ?copy <ref type="inscription" n="C27700">C.333</ref> </note>
+            </app></listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>
             <p>Marcus Antonius Maximus, son of Marcus Antonius Gemellus, <supplied reason="subaudible">son</supplied> of Flamma, priest, cleansed (the tank) from the resources of Apollo.</p><p/></div>

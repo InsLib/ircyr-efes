@@ -127,7 +127,7 @@
                         <lb n="2"/><w>ἐ<unclear>π</unclear>ῆλθε</w> <persName type="attested"><name nymRef="Ἄραχος">Ἀράχω</name></persName> </persName>
                         <lb n="3"/><gap reason="illegible" quantity="1" unit="line"/> </ab></div>
                        <div subtype="section" n="c" type="textpart"><ab> <lb n="1"/><orig><unclear>Σ</unclear></orig>  <persName type="attested" key="lgpn:V1-62519"><name nymRef="Ἀγαθόκλεια">Αγαθόκλεα</name>  <orig>Ω</orig> 
-                        <lb n="2"/><persName type="attested"><name nymRef="Σωσίστρατος">Σωσιστράτιος</name></persName> </persName></ab></div>
+                        <lb n="2"/><persName type="attested" key="lgpn:V1-65730"><name nymRef="Σωσίστρατος">Σωσιστράτιος</name></persName> </persName></ab></div>
                     </div>
             <div subtype="column" n="2" type="textpart"><ab>    
                         <lb n="1"/><persName type="attested" key="lgpn:V1-63610"><name nymRef="Δίων">Δίων</name></persName> <w>ἥκω</w>
