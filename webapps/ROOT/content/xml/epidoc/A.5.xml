@@ -39,7 +39,8 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                         <layout> <rs type="execution" key="scalpro">Inscribed</rs> a. on the front face, each entry in a different hand; b on the right face; c. on the left face.</layout>
+                         <layout> <rs type="execution" key="scalpro">Inscribed</rs> a. on the front face, each entry in a different hand; b on the right face, each 
+                             entry in a different hand; c. on the left face.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
@@ -219,32 +220,42 @@
          </div>
          <div type="translation" xml:space="preserve">
              <head>Translations</head>
-            <div type="translation" xml:space="preserve" xml:lang="en" source="#edd"><p>a. <gap reason="lost" extent="unknown" unit="character"/>, Karneades <supplied reason="subaudible">son</supplied> of Agatharchos, Demetrios <supplied reason="subaudible">son</supplied> of Herakleides, Areios <supplied reason="subaudible">son</supplied> of Aristopolis, Ammonios <supplied reason="subaudible">son</supplied> of Ammonios, Demetrios <supplied reason="subaudible">son</supplied> of Aristopolis, Diophantos <supplied reason="subaudible">son</supplied> of Ktesippos, Kartimachos <supplied reason="subaudible">son</supplied> of Jason, Teimonothos <supplied reason="subaudible">son</supplied> of Agatharchos, Euphris <supplied reason="subaudible">son</supplied> of Lysis, Protarchos <supplied reason="subaudible">son</supplied> of Diodoros, Athenaios <supplied reason="subaudible">son</supplied> of Ktesippos, Chariphantos <supplied reason="subaudible">son</supplied> of Achilles, Praxis <supplied reason="subaudible">son</supplied> of Kletomachos, Diodotos <supplied reason="subaudible">son</supplied> of Sosibios, Alexandros <supplied reason="subaudible">son</supplied> of Nikias, Diodotos <supplied reason="subaudible">son</supplied> of Nikias, P(ublius) Co( . . . ) Euphris <supplied reason="subaudible">son</supplied> of Kres<gap reason="lost" extent="unknown" unit="character"/>
-            </p><p>b. <gap reason="lost" extent="unknown" unit="character"/>, 
-                    Ia<gap reason="lost" extent="unknown" unit="character"/>, <expan><abbr>M</abbr><ex>arcus</ex></expan>
-                    <gap reason="lost" extent="unknown" unit="character"/>, 
-                    B<gap reason="lost" extent="unknown" unit="character"/>, <expan><abbr>M</abbr><ex>arcus</ex></expan>
-                    <gap reason="lost" extent="unknown" unit="character"/>, 
-                    N<gap reason="lost" extent="unknown" unit="character"/>, 
-                    R<gap reason="lost" extent="unknown" unit="character"/>, 
-                    C<gap reason="lost" extent="unknown" unit="character"/>
-            </p><p>c. <gap reason="lost" extent="unknown" unit="line"/> of <gap reason="lost" extent="unknown" unit="line"/>os, <gap reason="lost" extent="unknown" unit="line"/> of <gap reason="lost" extent="unknown" unit="line"/>as, <gap reason="lost" extent="unknown" unit="line"/> of <gap reason="lost" extent="unknown" unit="line"/>as, <gap reason="lost" extent="unknown" unit="line"/> of <gap reason="lost" extent="unknown" unit="line"/>es, <gap reason="lost" extent="unknown" unit="line"/> of <gap reason="lost" extent="unknown" unit="line"/>as, <gap reason="lost" extent="unknown" unit="line"/>
+            <div type="translation" xml:space="preserve" xml:lang="en" source="#edd">
+                <p>a. <gap reason="lost" extent="unknown" unit="character"/>, Karneades <supplied reason="subaudible">son</supplied> of Agatharchos, 
+                    Demetrios <supplied reason="subaudible">son</supplied> of Herakleides, Areios <supplied reason="subaudible">son</supplied> of Aristopolis, 
+                    Ammonios <supplied reason="subaudible">son</supplied> of Ammonios, Demetrios <supplied reason="subaudible">son</supplied> of Aristopolis, 
+                    Diophantos <supplied reason="subaudible">son</supplied> of Ktesippos, Kartimachos <supplied reason="subaudible">son</supplied> of Jason, 
+                    Teimonothos <supplied reason="subaudible">son</supplied> of Agatharchos, Euphris <supplied reason="subaudible">son</supplied> of Lysis, 
+                    Protarchos <supplied reason="subaudible">son</supplied> of Diodoros, Athenaios <supplied reason="subaudible">son</supplied> of Ktesippos, 
+                    Chariphantos <supplied reason="subaudible">son</supplied> of Achilles, Praxis <supplied reason="subaudible">son</supplied> of Kletomachos, 
+                    Diodotos <supplied reason="subaudible">son</supplied> of Sosibios, Alexandros <supplied reason="subaudible">son</supplied> of Nikias, 
+                    Diodotos <supplied reason="subaudible">son</supplied> of Nikias, 
+                    P(ublius) Co( . . . ) Euphris <supplied reason="subaudible">son</supplied> of Kres[- . . .</p>
+                <p>b. . . .]  
+                    Ia[- . . . , P[- . . , M(?arcus) [ . . . , 
+                    B[- . . . , M(?arcus) [ . . . , 
+                    N[- . . . , 
+                    R[- . . . , 
+                    K[- . . .
+            </p><p>c. . . . ] of [ . . -]os, [ . . . ] of [ . . . -]as, [ . . . ] of [ . . . -]as, [ . . . ] of [ . . . -]es, 
+                [ . . . ] of [ . . . -]as, [ . . . 
             </p></div></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>Suggesting a running list of eponymous priests of Apollo, see <ref type="inscription" n="A00700">A.3</ref>, n. 2</p>
-            <p>a. line 5: No doubt related to <foreign xml:lang="grc">Ἀριστόπολις Δημητρίου</foreign> in
-                    <ref type="inscription" n="A00700">A.3</ref>, line 12; cf. <ref type="inscription" n="A00700">A.3</ref>, n. 4.</p>
-            <p>a. line 6: No doubt related to <foreign xml:lang="grc">Κτἠσιππος Διοφάντου</foreign> in
+            <p>On both a and b each entry is in a different hand, suggesting a running list of eponymous priests of Apollo; 
+                see commentary on <ref type="inscription" n="A00700">A.3</ref>.</p>
+            <p>a. line 5: No doubt related to Ἀριστόπολις Δημητρίου in
+                    <ref type="inscription" n="A00700">A.3</ref>, line 12, where see commentary.</p>
+            <p>a. line 6: No doubt related to Κτἠσιππος Διοφάντου in
                     <ref type="inscription" n="A01200">A.6</ref>, line 16</p>
-            <p>a. line 14: No doubt related to <foreign xml:lang="grc">Σωσίβιος Διοδότου</foreign> in
+            <p>a. line 14: No doubt related to Σωσίβιος Διοδότου in
                     <ref type="inscription" n="A01200">A.6</ref>.</p>
-            <p>a. line 15: No doubt related to <foreign xml:lang="grc">Νικίας Ἀλεξάνδρου</foreign> in
+            <p>a. line 15: No doubt related to Νικίας Ἀλεξάνδρου in
                     <ref type="inscription" n="A01200">A.6</ref>, line 10.</p>
             <p>a. line 17: Praenomen and nomen were added in the margin; the nomen might be
-                    <foreign xml:lang="grc">Κο(ίντιος), Κο(ιντείλιος)</foreign> 
+                    Κο(ίντιος), Κο(ιντείλιος) 
                     It seems impossible to read the last two letters in the line as anything but ε or lunate sigma, 
-                    which rules out Pugliese's attractive <foreign xml:lang="grc">Εὐφρίσκο[υ]</foreign>.</p>
+                    which rules out Pugliese's attractive Εὐφρίσκο[υ].</p>
             <p>b. The presence of praenomina of Roman citizens shows that this list is of rather
                     later date than the others on this stele.</p>
          </div>

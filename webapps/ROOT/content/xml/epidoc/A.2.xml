@@ -47,7 +47,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>IV-V century; <height>0.018</height>; cursive omega; in a., the first 3 letters in ligature.</handNote>
+                     <handNote>Fourth-fifth century; <height>0.018</height>; cursive omega; in a, the first 3 letters in ligature.</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -55,7 +55,6 @@
                      <origPlace>Possibly <placeName type="monuList" ref="http://www.slsgazetteer.org/914">East Church</placeName>, first building phase.</origPlace>
                      <origDate notBefore="0301" notAfter="0500" cert="low" precision="low" evidence="lettering">Probably fourth to fifth centuries C.E.</origDate>
                   </origin>
-                  
                      
                         <provenance type="found">
                            <p>
@@ -144,12 +143,14 @@
          </div>
           
          <div type="translation" xml:space="preserve"><head>Translations</head>
-            <div type="translation" source="#jmr-jbwp-rgg2003" xml:lang="en"><p><note>a</note>: perhaps a reference to 'temple' - i.e. 'church'</p><p>
-              <note> b</note>:. . . ] ? for ever and ever. Amen.</p></div>
+            <div type="translation" source="#jmr-jbwp-rgg2003" xml:lang="en">
+               <p><note>a</note>: perhaps a reference to 'temple' - i.e. 'church'</p><p>
+              <note>b</note>:. . . ] ? for ever and ever. Amen.</p></div>
             </div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>In the first fragment the church  may be being described as a <foreign xml:lang="grc">naos</foreign>: cf. <ref type="inscription" n="C40600">C.762</ref>
+            <p>In the first fragment the church may be being described as a <foreign xml:lang="grc">naos</foreign>: 
+               cf. <ref type="inscription" n="C40600">C.762</ref>.
             </p>
          </div>
          

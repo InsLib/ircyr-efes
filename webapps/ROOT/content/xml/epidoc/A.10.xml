@@ -40,7 +40,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Fourth-fifth century; line 1, <height unit="metre" precision="low">0.15</height>; line 2., <height>0.12-0.13</height>.</handNote>
+                     <handNote>Fourth-fifth century; line 1, <height unit="metre" precision="low">0.15</height>; line 2, <height>0.12-0.13</height>.</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -112,15 +112,14 @@
       <graphic url="JMRNB02_06_005" decls="#photograph"><desc>Reconstituted (Joyce Reynolds, II.6.5)</desc></graphic>
       <graphic url="JMRNB02_06_001" decls="#photograph"><desc>Fragment b (Joyce Reynolds, II.6.1)</desc></graphic>
       <graphic url="JMRNB02_06_002" decls="#photograph"><desc>Left end block (Joyce Reynolds, II.6.2)</desc></graphic>
-      
        <!--BSR 10423-5.-->
    </facsimile>
    <text>
       <body>
          <div type="bibliography">
             <head>Bibliography</head>
-            <p>
-               <bibl>
+            <p>Described, <bibl><ptr target="oliverio1940"/> <biblScope>418</biblScope></bibl> <!-- check -->; 
+               published <bibl>
                   <ptr target="jmr1976"/><citedRange>12</citedRange> and pl. LXI</bibl>, whence 
                <bibl> <title>SEG</title> <citedRange>27.1137</citedRange></bibl>, 
                <bibl><title>AE</title> <citedRange>1977.842</citedRange></bibl>. Discussed by <bibl> <ptr target="roques1987"/></bibl>, whence 
@@ -129,7 +128,7 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
-            <ab>
+            <ab><!-- add milestones -->
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="ἐπί"><supplied reason="lost">ἐ</supplied>πὶ</w>
                <w lemma="ὁ">τῆς</w> <w>παν<supplied reason="lost">ευδ</supplied>αίμονος</w>
                <w>βασιλ<supplied reason="lost">είας</supplied></w>
@@ -151,29 +150,26 @@
             <head>Apparatus</head>
             <listApp>
                <app loc="2"><note>The second line is particularly badly worn; as a result the initial letters of the title appear, superficially,
-                    to be <foreign xml:lang="grc">ΑΛ</foreign>.</note></app>
+                    to be ΑΛ.</note></app>
                <app loc="2"><rdg><note>At the end of the line, perhaps</note> 
                   <supplied reason="lost">β</supplied>ασιλικῶν</rdg></app>
             </listApp>
          </div>
-         <div type="translation" xml:space="preserve">
-            <p>
-               <gap reason="lost" extent="unknown" unit="character"/> during the wholly happy reign
-                    of <gap reason="lost" extent="unknown" unit="character"/> perpetual Augusti 
-                    <gap reason="lost" extent="unknown" unit="character"/> Flavius Patricius Vitalianus <note><bibl><title>PLRE</title> <citedRange>II, Fl. Patricius Vitalianus</citedRange></bibl></note>, the most 
-                    eminent <supplied reason="lost" cert="low">governor</supplied>
-                    <gap reason="lost" extent="unknown" unit="character"/> ?the imperial 
-                    <gap reason="lost" extent="unknown" unit="character"/>
-            </p></div>
+         <div type="translation" xml:space="preserve"><head>Translations</head>
+            <div type="translation" xml:lang="en" source="edd"><p> . . . ] during the wholly happy reign
+                    of [ . . ? 30-35 . . . ] perpetual Augusti [ . . .] Flavius Patricius Vitalianus <note>PLRE II, Fl. Patricius Vitalianus</note>, 
+               the most eminent [?governor . . . ] ?the imperial [ . . .</p></div>
+            </div>
          <div type="commentary">
             <head>Commentary</head>
-            <p><bibl><ptr target="oliverio1940"/></bibl> 418 wrote as if the stones were part of the structure of the apse, 
+            <p>Oliverio (loc. cit.) wrote as if the stones were part of the structure of the apse, 
                but this is certainly not the case.</p>
-            <p>For the formula cf. OGI 722 <!--xref to PHI # PH219135--> of the joint reign of Valentinian, Valens and Gratian
+            <p>For the formula cf. e.g. OGIS 722, (at PHI <ref target="https://epigraphy.packhum.org/text/219135"/>) of the joint reign of Valentinian,
+               Valens and Gratian
                     (367-378), to which, perhaps, this text also belongs since considerable building
                     activity in Cyrenaica is attested in their time (see, at Ptolemais 
                <ref type="inscription" n="P12800">P.122</ref>, <ref type="inscription" n="P13900">P.136</ref>, 
-               , <ref type="inscription" n="P17800">P.148</ref>, and at Teucheira <ref type="inscription" n="T19500">T.17</ref>, 
+                <ref type="inscription" n="P17800">P.148</ref>, and at Teucheira <ref type="inscription" n="T19500">T.17</ref>, 
                <ref type="inscription" n="T24000">T.115</ref>, <ref type="inscription" n="T24400">T.249</ref>).
                     If their names are restored here 30 letters, or 36 (with the insertion of καἱ
                     twice), are missing before ΟΥ.</p>
