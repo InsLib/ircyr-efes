@@ -34,14 +34,14 @@
                         <support>
                            <p>
                     Part of a <objectType>stele</objectType> of white <material>marble</material>, probably Attic, with traces of moulding above 
-                              (<dimensions><width>0.74</width><height>0.51</height></dimensions>). Originally inscribed with <ref type="inscription" n="A00700">A.3</ref>. 
-                              It was subsequently cut down for reuse first as part of an inscribed panel of the fourth to fifth century C.E. and 
-                              later as an impost block in the sixth century church. Damaged to the right and below.</p>
+                              (<dimensions><width>0.74</width><height>0.51</height></dimensions>). Originally inscribed with <ref type="inscription" n="A00700">A.3</ref>, 
+                              it was subsequently cut down for reuse for this text, and 
+                              later reused again as an impost block in the sixth century church. Damaged to the right and below.</p>
                         </support>
                      </supportDesc>
                      <layoutDesc>
                         <layout> <rs type="execution" key="scalpro">Inscribed</rs> on three faces. 
-                           This inscription is on the reverse face of <ref type="inscription" n="A00700">A.3</ref>. 
+                           This inscription is on the reverse face from <ref type="inscription" n="A00700">A.3</ref>. 
                     Roughly incised <rs type="decoration">palm branches</rs> at the ends of lines 2 and 4.</layout>
                      </layoutDesc>
                   </objectDesc>
@@ -168,20 +168,18 @@
                 </listApp>
          </div>
          <div type="translation" xml:space="preserve">
-            <p>
-               <gap reason="lost" extent="unknown" unit="line"/> lords <supplied reason="lost">of the earth</supplied> under the sun <gap reason="lost" extent="unknown" unit="line"/> fortunate, Augusti <gap reason="lost" extent="unknown" unit="line"/>
-               <supplied reason="lost" cert="low">gave</supplied> to the city to further its prosperity <gap reason="lost" extent="unknown" unit="line"/> of themselves  <gap reason="lost" extent="unknown" unit="line"/>
-               <supplied reason="lost" cert="low">by action of</supplied> the distinguished <supplied reason="lost">governor</supplied>
-            </p></div>
+           <div type="translation" xml:lang="en" source="edd"> <p>. . . ] lords [of the earth] under the sun [ . . . ] fortunate, Augusti [ . . . gave?] to the city to further its prosperity [ . . . ] of themselves [ . . .
+               by action of?  . . .] the distinguished [governor]
+            </p></div></div>
          <div type="commentary">
             <p>The style recalls <ref type="inscription" n="P13900">P.136</ref> of the
                     joint reign of Arcadius and Honorius (395-408) to whom perhaps this text also
                     refers.</p>
-            <p>line 1: For the formula cf. e.g. <title>Aphrodisias in Late Antiquity</title> (2004), 25 <ptr target="http://insaph.kcl.ac.uk/ala2004/inscription/eAla025.html"/>, 
-               26 <ptr target="http://insaph.kcl.ac.uk/ala2004/inscription/eAla026.html"/>, 27 <ptr target="http://insaph.kcl.ac.uk/ala2004/inscription/eAla027.html"/>.</p>
+            <p>line 1: For the formula cf. e.g. <title>Aphrodisias in Late Antiquity</title> (2004), <ref target="http://insaph.kcl.ac.uk/ala2004/inscription/eAla025.html">, 
+               25</ref>, <ref target="http://insaph.kcl.ac.uk/ala2004/inscription/eAla026.html">26</ref>, <ref target="http://insaph.kcl.ac.uk/ala2004/inscription/eAla027.html">27</ref> .</p>
             <p>The emperors had apparently made some gift to the city; and it may be that this
                     should be connected with the embassy of Synesius to Constantinople to ask
-                    Arcadius for imperial aid for the province, cf. <foreign xml:lang="grc">περὶ βασιλείας</foreign> 1100 c for a
+                    Arcadius for imperial aid for the province; cf. <foreign xml:lang="grc">περὶ βασιλείας</foreign> 1100 c for a
                     reference to restoration of buildings. 
                     <!--<xref>Should we have an n xref to the translation, http://www.livius.org/su-sz/synesius/synesius_monarchy_17.html</xref>--></p>
             <p>l.5: The title of the imperial agent, probably the praeses, who carried out the work or dedicated it.</p>

@@ -96,7 +96,8 @@
                         <date>2008</date>, <title level="a">Le ricerche sull'epigrafica greca e romana della Cirenaica nell'ultimo 
                             venticinquennio e nuova edizione del decreto di Philoxenos figlio di Philiskos</title>, 
                         <title level="j">L'Africa romana. Atti del XVII Convegno di studio, Sevilla 14-17 dicembre 2006</title>,
-                        <biblScope unit="pp">2403-2472</biblScope> <ref target="http://eprints.uniss.it/5828/1/Gonz%C3%A1lez_J_Africa_romana_2008_4.pdf"/></bibl>
+                        <biblScope unit="pp">2403-2472</biblScope>; available at University of Sassari: 
+                        <ref target="http://eprints.uniss.it/5828/1/Gonz%C3%A1lez_J_Africa_romana_2008_4.pdf"/></bibl>
                     
                     
                     <bibl xml:id="applebaum1950"><author>Shimon <name type="surname"
@@ -539,7 +540,8 @@
                         <title level="a">Il telesterio Isiaco di Cirene</title>, <title level="j">Studi e
                             Materiali di Storia delle Religioni</title>,
                         <biblScope unit="volume">III</biblScope>, <biblScope unit="pp"
-                            >233-246</biblScope>, available at CISADU <ref target="http://cisadu2.let.uniroma1.it/smsr/issues/1927/pages/#page/233/mode/2up"/>; reissued, <title level="j">Studi classici e orientali</title> 
+                            >233-246</biblScope>, available at CISADU <ref target="http://cisadu2.let.uniroma1.it/smsr/issues/1927/pages/#page/233/mode/2up"/>; 
+                        reissued, <title level="j">Studi classici e orientali</title> 
                         <biblScope unit="volume">12</biblScope> <date>1963</date> <biblScope unit="pp">5-15</biblScope></bibl>
                     
                     
@@ -824,9 +826,9 @@
                             University of Manchester 1955, 1956, 1957</title></bibl>
                     
                     <bibl xml:id="guidi1927"><author>G. <name type="surname">Guidi</name></author>, <date>1927</date>, <title level="a">Le Zeus di Cirene</title>,
-                        <title level="j">Africa Italiana</title> <biblScope unit="issue">I</biblScope>, <biblScope unit="pp">3-40</biblScope>, available at  Biblioteca Nazionale 
-                        Centrale di Roma
-                        <ref target="http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/TO00085564/1927/unico"/></bibl>
+                        <title level="j">Africa Italiana</title> <biblScope unit="issue">I</biblScope>, <biblScope unit="pp">3-40</biblScope>; available at 
+                        Biblioteca Nazionale Centrale di Roma: 
+                        <ref target="http://digitale.bnc.roma.sbn.it/tecadigitale/"/></bibl>
                     
                     <bibl xml:id="guarducci1973"><author>G. <name type="surname">Guarducci</name></author>, <date>1973</date>, 
                         <title level="a">Anastasio e le colombe in un'epigrafe greca di Cirene</title>,
@@ -947,7 +949,8 @@
                     <bibl xml:id="laronde1987a"><author>André <name type="surname">Laronde</name></author>,
                         <date>1987</date>, <title level="a">Prêtres d'Apollon à Cyrène au Ier siècle ap. J.C.</title>, in
                         <title level="j">L'Africa romana. Atti del IV Convegno di studio, Sassari 12-14 dicembre 1986</title>,
-                        <biblScope unit="pp">469-484</biblScope> <ref target="http://eprints.uniss.it/3657/1/Mastino_A_AttiCongresso_1987_Africa_T2.pdf"/></bibl>
+                        <biblScope unit="pp">469-484</biblScope>; available at University of Sassari:
+                        <ref target="http://eprints.uniss.it/3657/1/Mastino_A_AttiCongresso_1987_Africa_T2.pdf"/></bibl>
                     
                     <bibl xml:id="laronde1988"><author>André <name type="surname">Laronde</name></author>,
                         <date>1988</date>, <title level="a">La Cyrénaïque romaine, des origines à la fin des Sévères
@@ -1054,8 +1057,8 @@
                     <bibl xml:id="luni1992"><author>Mario <name type="surname">Luni</name></author>, <date>1992</date>, 
                         <title level="a">Strutture monumentali e documenti èpigrafici nel Foro di Cirene</title>,
                         <title level="j">L'Africa Romana</title>
-                        <biblScope unit="issue">9</biblScope>, <biblScope unit="pp">123-146</biblScope>, 
-                        available at L'Africa Romana <ref target="http://eprints.uniss.it/3239/1/Mastino_A_AttiCongresso_1992_Africa.pdf"/></bibl>
+                        <biblScope unit="issue">9</biblScope>, <biblScope unit="pp">123-146</biblScope>; available at University of Sassari:
+                        <ref target="http://eprints.uniss.it/3239/1/Mastino_A_AttiCongresso_1992_Africa.pdf"/></bibl>
                     
                     <bibl xml:id="luni2002"><author><name type="surname">Luni</name>, M.</author>,
                         <date>2002</date>, <title level="a">Lo Xystos-Portico delle Erme nel
@@ -1129,7 +1132,7 @@
                         <title level="a">Iscrizioni da nuovi scavi a Cirene</title> in
                         <editor>Mario <name type="surname">Luni</name></editor>, 
                         <title level="m">Cirene nell'antichità </title> <biblScope unit="pp"
-                            >139-156</biblScope>, available at Academia, 
+                            >139-156</biblScope>, available at Academia: 
                         <ref target="https://www.academia.edu/12716934/Iscrizioni_da_nuovi_scavi_a_Cirene_in_Cirene_nellantichit%C3%A0_a_cura_di_M._Luni_Roma_2010_pp._139-156"/></bibl>
                     
                     <bibl xml:id="mariani1922">
@@ -1206,7 +1209,8 @@
                         >Michaelides</name></author>, <date>1989</date>, <title level="a">Berenice and the mosaics of Roman Cyrenaica</title>, 
                         <title level="j">Africa Romana</title>
                         <biblScope unit="issue">6</biblScope>, <biblScope unit="pp"
-                            >357-369</biblScope>, available at Univerity of Sassari: <ref target="http://eprints.uniss.it/3216/1/Mastino_A_AttiCongresso_1989_Africa%5BV1%5D.pdf"/></bibl>
+                            >357-369</biblScope>, available at University of Sassari: 
+                        <ref target="http://eprints.uniss.it/3216/1/Mastino_A_AttiCongresso_1989_Africa%5BV1%5D.pdf"/></bibl>
                     
                     <bibl xml:id="mikocki2006"><author>Tomasz <name type="surname">Mikocki</name></author>, 
                         <date>2006</date>, <title level="a">Le campagne di scavo della missione archeologica polacca a Tolemaide, 
@@ -1270,7 +1274,8 @@
                                 >Inscriptions recently discovered in Cyrenaica</title>, <title level="j"
                                     >Africa Romana</title>
                         <biblScope unit="issue">11</biblScope>, <biblScope unit="pp"
-                            >1321-1328</biblScope>, <ref target="http://eprints.uniss.it/5036/1/Khanoussi_M__Africa_romana_1996_3.pdf"/></bibl>
+                            >1321-1328</biblScope>; available at University of Sassari: 
+                        <ref target="http://eprints.uniss.it/5036/1/Khanoussi_M__Africa_romana_1996_3.pdf"/></bibl>
                     
                    <bibl xml:id="mohamed-jmr1997"><author>Fadel Ali <name type="surname"
                             >Mohamed</name></author> and <author>Joyce M. <name type="surname"
@@ -1286,7 +1291,8 @@
                                 >New discoveries in the land of the Giligamae</title>, <title level="j"
                                     >Africa Romana</title>
                         <biblScope unit="issue">12</biblScope>, <biblScope unit="pp"
-                            >135-142</biblScope>, <ref target="http://eprints.uniss.it/6109/1/Africa_romana_12_convegno_1.pdf"/></bibl>
+                            >135-142</biblScope>; available at University of Sassari: 
+                        <ref target="http://eprints.uniss.it/6109/1/Africa_romana_12_convegno_1.pdf"/></bibl>
                     
                     <bibl xml:id="mohamed-jmr2000"><author>Fadel Ali <name type="surname"
                             >Mohamed</name></author> and <author>Joyce M. <name type="surname"
@@ -1294,7 +1300,8 @@
                             >Recently-discovered Christian inscriptions in Cyrenaica</title>, <title
                             level="j">Africa Romana</title>
                         <biblScope unit="issue">13</biblScope>, <biblScope unit="pp"
-                            >1487-1496</biblScope> <ref target="http://eprints.uniss.it/5833/1/Khanoussi_M_Africa_romana_2000_2.pdf"/></bibl>
+                            >1487-1496</biblScope>available at University of Sassari:
+                        <ref target="http://eprints.uniss.it/5833/1/Khanoussi_M_Africa_romana_2000_2.pdf"/></bibl>
                     
                     <bibl xml:id="mohamed-jmr2002"><author>Fadel Ali <name type="surname"
                             >Mohamed</name></author> and <author>Joyce M. <name type="surname"
@@ -1302,14 +1309,16 @@
                             new inscriptions from the territory of Cyrene</title>, <title level="j"
                             >Africa Romana</title>
                         <biblScope unit="issue">14</biblScope>, <biblScope unit="pp"
-                            >1653-1660</biblScope> <ref target="http://eprints.uniss.it/6343/1/Khanoussi_M_Africa_romana_14_vol_3.pdf"/></bibl>
+                            >1653-1660</biblScope>; available at University of Sassari: 
+                        <ref target="http://eprints.uniss.it/6343/1/Khanoussi_M_Africa_romana_14_vol_3.pdf"/></bibl>
                     
                     <bibl xml:id="mohamed-jmr2004"><author>Fadel Ali <name type="surname"
                         >Mohamed</name></author> and <author>Joyce M. <name type="surname"
                             >Reynolds</name></author>, <date>2004</date>, <title level="a">A new Cyrenaican milestone</title>, <title level="j"
                                     >Africa Romana</title>
                         <biblScope unit="issue">15</biblScope>, <biblScope unit="pp"
-                            >1297-1301</biblScope> <ref target="http://eprints.uniss.it/5838/1/Khanoussi_M_Africa_romana_2004_2.pdf"/></bibl>
+                            >1297-1301</biblScope>; available at University of Sassari:
+                        <ref target="http://eprints.uniss.it/5838/1/Khanoussi_M_Africa_romana_2004_2.pdf"/></bibl>
                     
                     <bibl xml:id="mohamed-jmr-cdl2007"><author>Fadel Ali <name type="surname"
                             >Mohamed</name></author>, <author>Joyce M. <name type="surname"
@@ -1318,7 +1327,7 @@
                         <date>2007</date>, <title level="a">Recently discovered inscriptions at
                             Cyrene</title>, in <author>L. <name type="surname"
                             >Gasperini</name></author> and <author>S.<name type="surname"
-                                >Marengo</name></author> edd., <title level="j"> Cirene e la
+                                >Marengo</name></author> edd., <title level="m">Cirene e la
                             Cirenaica nell’antichità </title>
                         <pubPlace>Rome</pubPlace>, <biblScope unit="pp">17-48</biblScope>.</bibl>
                     
@@ -1326,7 +1335,7 @@
                         >Montet</name></author>, <date>1954</date> <title level="a">Égypte et Cyrénaïque : une campagne de fouilles à Apollonia</title>, 
                        <title level="j">Comptes-rendus des séances de l'Académie des Inscriptions et Belles-Lettres</title>, 
                         <biblScope unit="issue">98.3</biblScope>, <biblScope unit="pp">259-
-                            267</biblScope>, available at Persée <ref target="http://www.persee.fr/web/revues/home/prescript/issue/crai_0065-0536_1954_num_98_3"/></bibl>
+                            267</biblScope>; available at Persée: <ref target="http://www.persee.fr/web/revues/home/prescript/issue/crai_0065-0536_1954_num_98_3"/></bibl>
                     
                     <bibl xml:id="moretti1969"><author>L. <name type="surname">Moretti</name></author>,
                         <date>1969</date>, <title level="a">Tiberio Claudio Giasone Magno di Cirene</title>, 
@@ -1381,8 +1390,8 @@
                         >Oliverio</name></author>, <date>1927</date>, <title level="a">Campagna di
                             scavi a Cirene nel 1925: II. Documenti epigrafici del santuario di
                             Apollo</title>, <title level="j">Africa Italiana</title>, <biblScope
-                            unit="issue">1</biblScope>, <biblScope unit="pp">156-158</biblScope>
-                             <ref target="http://periodici.librari.beniculturali.it"/></bibl>
+                            unit="issue">1</biblScope>, <biblScope unit="pp">156-158</biblScope>; available at Biblioteca Nazionale Centrale di Roma:  
+                             <ref target="http://digitale.bnc.roma.sbn.it/tecadigitale/"/></bibl>
                     
                     <bibl xml:id="oliverio1927c"><author>G. <name type="surname"
                         >Oliverio</name></author>, <date>1927</date>, <title level="a">La stele di Augusto rinvenuta nell'Agora di Cirene</title>, 
@@ -1414,21 +1423,22 @@
                         >Oliverio</name></author>, <date>1928</date>, <title level="a">Campagna di
                             scavo a Cirene nell’estate 1926: i principali documenti
                             epigrafici</title>, <title level="j">Africa Italiana</title>, <biblScope
-                            unit="issue">1</biblScope>, <biblScope unit="pp">317-336</biblScope>
-                        <ref target="http://periodici.librari.beniculturali.it/"/></bibl>
+                                unit="issue">1</biblScope>, <biblScope unit="pp">317-336</biblScope>; available at Biblioteca Nazionale Centrale di Roma:
+                        <ref target="http://digitale.bnc.roma.sbn.it/tecadigitale//"/></bibl>
                     
                     <bibl xml:id="oliverio1929"><author>G. <name type="surname"
                         >Oliverio</name></author>, <date>1929</date>, <title level="a">Campagna di
                             scavo a Cirene nell’estate 1927</title>, <title level="j">Africa
                             Italiana</title>, <biblScope unit="issue">2</biblScope>, <biblScope
-                                unit="pp">111-154</biblScope><ref target="http://periodici.librari.beniculturali.it/"/></bibl>
+                                unit="pp">111-154</biblScope>; available at Biblioteca Nazionale Centrale di Roma: 
+                        <ref target="http://digitale.bnc.roma.sbn.it/tecadigitale//"/></bibl>
                     
                     <bibl xml:id="oliverio1930"><author>G. <name type="surname"
                         >Oliverio</name></author>, <date>1930</date>, <title level="a">Campagna di
                             scavi a Cirene nell’estate del 1928</title>, <title level="j">Africa
                             Italiana</title>, <biblScope unit="issue">3</biblScope>, <biblScope
-                            unit="pp">141-229</biblScope>
-                            <ref target="http://periodici.librari.beniculturali.it/"/></bibl>
+                                unit="pp">141-229</biblScope>; available at Biblioteca Nazionale Centrale di Roma: 
+                            <ref target="http://digitale.bnc.roma.sbn.it/tecadigitale//"/></bibl>
                     
                     <bibl xml:id="oliverio1931"><author>G. <name type="surname"
                         >Oliverio</name></author>, <date>1931</date>, <title level="m">Scavi di
@@ -1489,7 +1499,8 @@
                         <title level="m">L'Africa Romana</title>
                         <title level="s">Atti del XVI convegno di studio, Rabat 15-19 dicembre
                             2004</title>, <pubPlace>Sassari</pubPlace>, <biblScope unit="pp"
-                                >1895-1905</biblScope> <ref target="http://eprints.uniss.it/5831/1/Akerraz_A_Africa_romana_2006_3.pdf"/></bibl>
+                                >1895-1905</biblScope>; available at University of Sassari: 
+                        <ref target="http://eprints.uniss.it/5831/1/Akerraz_A_Africa_romana_2006_3.pdf"/></bibl>
                     
                     <bibl xml:id="paci2010"><author>Gianfranco <name type="surname">Paci</name></author>
                         <date>2010</date> <title level="a">L'iscrizione monumentale sull'Architrave del Tempio di Demetra fuori le mura a Cirene</title>,
@@ -1530,8 +1541,8 @@
                             <date>1927</date>, <title level="a">Campagna di scavi a Cirene nel 1925:
                             I. Monumenti nel santuario di Apollo</title>, <title level="j">Africa
                             Italiana</title>, <biblScope unit="issue">1</biblScope>, <biblScope
-                            unit="pp">126-155</biblScope> 
-                           <ref target=" http://periodici.librari.beniculturali.it"/></bibl>
+                                unit="pp">126-155</biblScope>; available at Biblioteca Nazionale Centrale di Roma:  
+                           <ref target=" http://digitale.bnc.roma.sbn.it/tecadigitale/"/></bibl>
                     
                     <bibl xml:id="pernier1928"><author>L. <name type="surname">Pernier</name></author>,
                         <date>1928</date>, <title level="a">Documenti della grandezza di Cirene</title>
@@ -1540,8 +1551,8 @@
                     <bibl xml:id="pernier1931"><author>L. <name type="surname">Pernier</name></author>,
                         <date>1931</date>, <title level="a">L'Artemision di Cirene</title>, <title level="j">Africa
                                 Italiana</title>, <biblScope unit="issue">1V</biblScope>, <biblScope
-                                    unit="pp">173-228</biblScope> 
-                        <ref target=" http://periodici.librari.beniculturali.it"/></bibl>
+                                    unit="pp">173-228</biblScope>; available at Biblioteca Nazionale Centrale di Roma:  
+                        <ref target=" http://digitale.bnc.roma.sbn.it/tecadigitale/"/></bibl>
                     
                     <bibl xml:id="pernier1935"><author>L. <name type="surname">Pernier</name></author>
                         <date>1935</date>, <title level="m">Il tempio e l'altare di Apollo a Cirene.
@@ -1798,7 +1809,8 @@
                         <title level="m">L'Africa Romana</title>
                         <title level="s">Atti del V convegno di studio, Sassari 11-13 dicembre
                             1987</title>, <pubPlace>Sassari</pubPlace>, <biblScope unit="pp"
-                                >167-172</biblScope><ref target="http://eprints.uniss.it/3682/1/Mastino_A_AttiCongresso_1988_Africa.pdf"/></bibl>
+                                >167-172</biblScope>; available at University of Sassari: 
+                        <ref target="http://eprints.uniss.it/3682/1/Mastino_A_AttiCongresso_1988_Africa.pdf"/></bibl>
                     
                     <bibl xml:id="jmr1990"><author>Joyce M. <name type="surname"
                             >Reynolds</name></author>, <date>1990</date>, <title level="a">Some
@@ -1874,7 +1886,8 @@
                         <title level="m">L'Africa Romana</title>
                         <title level="s">Atti del XVI convegno di studio, Rabat 15-19 dicembre
                             2004</title>, <pubPlace>Sassari</pubPlace>, <biblScope unit="pp"
-                                >1907-1912</biblScope> <ref target="http://eprints.uniss.it/5831/1/Akerraz_A_Africa_romana_2006_3.pdf"/></bibl>
+                                >1907-1912</biblScope>; available at University of Sassari: 
+                        <ref target="http://eprints.uniss.it/5831/1/Akerraz_A_Africa_romana_2006_3.pdf"/></bibl>
                    
                     <bibl xml:id="jmr2010"><author>Joyce M. <name type="surname">Reynolds</name></author>, <date>2010</date> <title
                         level="a">A new inscription from Ptolemais in Libya</title>, in

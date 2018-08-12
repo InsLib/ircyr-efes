@@ -101,7 +101,7 @@
          <change when="2009-05-11" who="GB">mailmerged: created from template</change>
       </revisionDesc>
    </teiHeader><facsimile><graphic url="PachoLXIV" decls="#photograph"><desc>Transcription (1827, Pacho, plate LXIV)</desc></graphic>
-      <graphic url="JMRNB09_080" decls="#photograph"><desc>Text 1, first lines of 2 (Reynolds IX.80)</desc></graphic>
+      <graphic url="JMRNB09_080" decls="#photograph"><desc>Text 1a, first lines of 2 (Reynolds IX.80)</desc></graphic>
       <graphic url="JMRNB09_081" decls="#photograph"><desc>Text 1 and 2 (Reynolds IX.81)</desc></graphic>
       <graphic url="JMRNB09_075" decls="#photograph"><desc>Text 2, right end (Reynolds IX.75)</desc></graphic></facsimile>
    <text>
@@ -122,32 +122,41 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="column" n="1" type="textpart">    
                         <div subtype="section" n="a" type="textpart"><lb n="1"/><ab> <persName type="attested" key="lgpn:V1-64323"><name nymRef="Ἰάσων">Ἰάσονος</name></persName>
-                        <lb n="2"/><w>τόπος</w> </ab></div>
+                        <lb n="2"/><w>τόπος</w> </ab>
+                        </div>
                         <div subtype="section" n="b" type="textpart"><lb n="1"/><ab><persName type="attested" key="lgpn:V1-63605"><name nymRef="Διοσκoυρίδης">Διοσκουρίδης</name> 
                         <lb n="2"/><w>ἐ<unclear>π</unclear>ῆλθε</w> <persName type="attested"><name nymRef="Ἄραχος">Ἀράχω</name></persName> </persName>
-                        <lb n="3"/><gap reason="illegible" quantity="1" unit="line"/> </ab></div>
+                        <lb n="3"/><gap reason="illegible" quantity="1" unit="line"/> </ab>
+                        </div>
                        <div subtype="section" n="c" type="textpart"><ab> <lb n="1"/><orig><unclear>Σ</unclear></orig>  <persName type="attested" key="lgpn:V1-62519"><name nymRef="Ἀγαθόκλεια">Αγαθόκλεα</name>  <orig>Ω</orig> 
                         <lb n="2"/><persName type="attested" key="lgpn:V1-65730"><name nymRef="Σωσίστρατος">Σωσιστράτιος</name></persName> </persName></ab></div>
                     </div>
-            <div subtype="column" n="2" type="textpart"><ab>    
-                        <lb n="1"/><persName type="attested" key="lgpn:V1-63610"><name nymRef="Δίων">Δίων</name></persName> <w>ἥκω</w>
+            <div subtype="column" n="2" type="textpart">    
+                        <div subtype="section" n="a" type="textpart">
+                        <ab>   <lb n="1"/><persName type="attested" key="lgpn:V1-63610"><name nymRef="Δίων">Δίων</name></persName> <w>ἥκω</w>
                         <lb n="2"/><persName type="attested" key="lgpn:V1-63648"><name nymRef="Ἕλιξ">Ἕλιξ</name></persName> <w>ἥκω</w> 
-                        <lb n="3"/><persName type="attested" key="lgpn:V1-65487"><name nymRef="Πρόθυμος">Πρόθυμος</name></persName> <w>ἥ<unclear>κω</unclear></w> 
-                        <lb n="4"/><orig><unclear>νν</unclear></orig> <persName type="attested"><name nymRef="Ἀγαθοκλῆς">Ἀγαθοκλῆς</name> 
-                        <lb n="5"/><persName type="attested"><name nymRef="Ἀγαθοκλῆς">Ἀγαθοκλέους</name></persName> 
-                        <lb n="6"/><placeName type="ethnic"><w lemma="Ἰδουμαῖος">Ἰδουμαῖος</w></placeName> </persName>
-                        <lb n="7"/><orig>Α</orig> <space quantity="4" unit="character"/> <orig>Ο</orig> 
-                        <lb n="8"/><w>ἦλ<space quantity="4" unit="character"/>θε</w>
-                    </ab>
+                        <lb n="3"/><persName type="attested" key="lgpn:V1-65487"><name nymRef="Πρόθυμος">Πρόθυμος</name></persName> <w>ἥ<unclear>κω</unclear></w>
+                        <lb n="4"/><persName type="attested" key="lgpn:V1-65552"><name nymRef="ῬῆσοςῬῆσος">Ῥῆσος</name></persName> <w>ἥκω</w> </ab>
+                        </div>
+                        
+               <div subtype="section" n="b" type="textpart"><ab>
+                  <lb n="1"/><orig><unclear>νν</unclear></orig> <persName type="attested"><name nymRef="Ἀγαθοκλῆς">Ἀγαθοκλῆς</name> 
+                        <lb n="2"/><persName type="attested"><name nymRef="Ἀγαθοκλῆς">Ἀγαθοκλέους</name></persName> 
+                        <lb n="3"/><placeName type="ethnic"><w lemma="Ἰδουμαῖος">Ἰδουμαῖος</w></placeName> </persName>
+                        <lb n="4"/><orig>Α</orig> <space quantity="4" unit="character"/> <orig>Ο</orig> 
+                        <lb n="5"/><w>ἦλ<space quantity="4" unit="character"/>θε</w></ab></div>
+                    
 </div>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>The normal sense of this formula in Cyrene is funerary, and Ferri in fact suggested that this chamber had originally been cut as a tomb, 
-               see also <ref type="inscription" n="C67300">M.206</ref>, above; but it is difficult to feel that he is correct, all the more as this text seems to be unrelated to any loculus 
-               or other type of burial place. Ferri's alternative suggestion that Jason was the owner of the site seems more acceptable (as suggested by Bokl <!--???--> for IG XIII.3.1022, 1655 from Thera)</p>
+            <p>Column 1.a: The normal sense of this formula in Cyrene is funerary, and Ferri in fact suggested that this chamber had originally been cut as a tomb, 
+               see also <ref type="inscription" n="C67300">M.206</ref>, above; but it is difficult to feel that he is correct, 
+               all the more as this text seems to be unrelated to any loculus 
+               or other type of burial place. Ferri's alternative suggestion that Jason was the owner of the site seems more acceptable 
+               <!-- (as suggested by Bokl for IG XIII.3.1022, 1655 from Thera) ???-->.</p>
          </div>
          
       </body>

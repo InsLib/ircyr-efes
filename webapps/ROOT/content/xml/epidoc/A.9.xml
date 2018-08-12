@@ -41,8 +41,8 @@
                   <handDesc>
                      <handNote>First
                     century C.E. Cut with broad and shallow trenches, probably through a coat of stucco. a: Line 1: <height unit="metre">0.12</height>;
-                    line 2:<height unit="metre">0.08</height>;
-                        line 3:<height unit="metre">0.06</height>. b: <height unit="metre" precision="low">0.12</height>.</handNote>
+                    line 2: <height unit="metre">0.08</height>;
+                        line 3: <height unit="metre">0.06</height>. b: <height unit="metre" precision="low">0.12</height>.</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -108,7 +108,7 @@
             <p>
                <bibl><ptr target="jmr1976"/><citedRange>11</citedRange></bibl>, whence
                <bibl><title>AE</title> <citedRange>1977.841</citedRange></bibl>, whence
-               <bibl><title>EDH</title> <citedRange>020884</citedRange></bibl>.
+               <bibl><title>EDH</title> <citedRange><ref target="http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD020884">020884</ref></citedRange></bibl>.
             </p>
          </div>
          
@@ -138,7 +138,8 @@
          </div>
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
-            <div  type="translation" xml:space="preserve" xml:lang="en" source="#edd"> <p><note>a</note>. To [ . . . ] Caesar
+            <div  type="translation" xml:space="preserve" xml:lang="en" source="#edd"><p>
+               <note>a</note>. To [ . . . ] Caesar
                     [? son/grandson of] deified Julius [ . . .the city] of the Apolloniates <supplied reason="subaudible">set this
                     up</supplied> when Titus M[- . . . ] 
                     was flamen of <note>?the</note> two colonies [ . . .
@@ -155,9 +156,9 @@
                     date.</p>
             <p>Line 2: Presumably an official responsible for the erection or dedication of the monument
                     and possibly the man whose title seems to appear at the beginning of line 3.</p>
-            <p>`line 3: The only obvious restoration seems to be <foreign xml:lang="la">[fla]mine </foreign>but the identification of the
+            <p>Line 3: The only obvious restoration seems to be <foreign xml:lang="la">[fla]mine</foreign>, but the identification of the
                     two colonies is obscure - they can hardly be local at any likely date for the
-                    text. Applebaum, JJS 2 (1950) 178 f. probably refers to this text which he
+                    text. Applebaum, <title>JJS</title> 2 (1950) 178 f. probably refers to this text which he
                     treats tentatively as evidence for a colony at Apollonia after the Jewish Revolt
                     of C.E. 115; it is certainly too early to be that.</p>
          </div>

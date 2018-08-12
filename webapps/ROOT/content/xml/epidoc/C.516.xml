@@ -37,7 +37,7 @@
                      </supportDesc>
                      <layoutDesc>
                         <layout>First tomb: <rs type="execution" key="scalpro">inscribed</rs> on the internal walls 
-                           a on the left wall: 1 above the entrance to the fourth loculus; 2 above the entrance to the fifth loculus and  
+                           a on the left wall: 1 at the left on entering; 2 above the entrance to the fourth loculus; 3 above the entrance to the fifth loculus.  
                            b on the right wall: 1 above the entrance to the first loculus; 2 between the entrance to the fifth and sixth loculus. Second tomb: 
                            c on the left wall, over the second loculus (<ref type="inscription" target="igcyr07400">IGCyr07400</ref> is cut to the left over the first loculus); 
                            d on the right wall, over the second loculus (<ref type="inscription" target="igcyr07300">IGCyr07300</ref> is cut to the right over the first loculus)..</layout>
@@ -118,19 +118,25 @@
                <ptr target="pacho1827"/>
                <citedRange>LXVI.1</citedRange>, first and second texts</bibl>, whence <bibl><ptr target="cigiii"/>
                   <citedRange>5157 a, b</citedRange></bibl>; all recorded by Oliverio, whence <bibl>
-                  <ptr target="SECir"/> <citedRange>199</citedRange> i, k, f, g, c, d (from drawings, T.XII 87v-89v)</bibl>; 
+                  <ptr target="SECir"/> <citedRange>199</citedRange>a, i, k, f, g, c, d (from drawings, T.XII 87v-89v)</bibl>; 
                discussed by <bibl><ptr target="masson1965"/> <citedRange>218-</citedRange></bibl>.</p>
             <p> For the tombs, 
                      <bibl><ptr target="cassels1955"/> <citedRange>S.9</citedRange></bibl>,  
                      <bibl><ptr target="thorn2009"/> <citedRange>209-10</citedRange></bibl>.</p>
          </div>
          
-         <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="section" n="a" type="textpart"><div subtype="fragment" n="1" type="textpart"><ab>
+         <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="section" n="a" type="textpart">
+            <div subtype="fragment" n="1" type="textpart"><ab>
+                            <lb n="1"/><persName type="attested" key="lgpn:V1-65047"><name nymRef="Μνασίτιμος">Μναϲιτίμω</name> <orig>χ</orig></persName> 
+                        </ab></div>
+            <div subtype="fragment" n="2" type="textpart"><ab>
                             <lb n="1"/><persName type="attested" key="lgpn:V1-63067"><name nymRef="Ἀρίσταρχος">Ἀρίστ<lb n="2" break="no"/>αρχοϲ</name>
                             <lb n="3"/><persName type="attested" key="lgpn:V1-65239"><name nymRef="Πανταλέων">Πανταλέ<lb n="4" break="no"/>οντο<supplied reason="lost">ϲ</supplied></name></persName></persName> 
-                        </ab></div><div subtype="fragment" n="2" type="textpart"><ab>
+                        </ab></div>
+            <div subtype="fragment" n="3" type="textpart"><ab>
                             <lb n="1"/><surplus><orig>φ</orig></surplus> <persName type="attested" key="lgpn:V1-66061"><name nymRef="Φιλύτας">Φιλύτα</name></persName>
-                        </ab></div></div><div subtype="section" n="b" type="textpart">
+                        </ab></div>
+         </div><div subtype="section" n="b" type="textpart">
                            <div subtype="fragment" n="1" type="textpart"><ab> 
                             <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>δρα</orig><gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div><div subtype="fragment" n="2" type="textpart"><ab>  

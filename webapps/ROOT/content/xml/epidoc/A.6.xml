@@ -176,7 +176,7 @@
              <div subtype="column" n="b" type="textpart"><ab>
                         <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                         <lb n="1"/><orig><unclear>ι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><orig>ει</orig><gap reason="lost" quantity="1" unit="character"/><orig>σ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><orig>ει</orig><gap reason="lost" quantity="1" unit="character"/><orig>ϲ</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3"/><orig>λιε</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="4"/><gap reason="lost" quantity="1" unit="character"/><orig>α</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="5"/><gap reason="lost" quantity="1" unit="character"/><orig>δ</orig><gap reason="lost" extent="unknown" unit="character"/>
@@ -226,14 +226,14 @@
                 </listApp>
          </div>
          <div type="translation" xml:space="preserve">
-             <p>a. <gap reason="lost" extent="unknown" unit="line"/> Athenaios <supplied reason="subaudible">son</supplied> of Posidonios, Apollonios son
+             <div  type="translation" xml:lang="en" source="edd"><p>a. <gap reason="lost" extent="unknown" unit="line"/> Athenaios <supplied reason="subaudible">son</supplied> of Posidonios, Apollonios son
                     of Karneades, Jason <supplied reason="subaudible">son</supplied> of Zenion, Alexandros <supplied reason="subaudible">son</supplied> of Theokydes, Zenon <supplied reason="subaudible">son</supplied> of Zenon, Chariphantos
                     <supplied reason="subaudible">son</supplied> of Herakleides, Kletomachos <supplied reason="subaudible">son</supplied> of Kartimachos, Euphris <supplied reason="subaudible">son</supplied> of Kartimachos, Nikias <supplied reason="subaudible">son</supplied> of Alexandros,
                     Ariston <supplied reason="subaudible">son</supplied> of Aristomenes, Apollonios <supplied reason="subaudible">son</supplied> of Theon, Diodoros <supplied reason="subaudible">son</supplied> of Diodoros, Sosibios <supplied reason="subaudible">son</supplied> of Diodotos, 
-                    Athenaios <supplied reason="subaudible">son</supplied> of Athenaios, <supplied reason="lost">Ari</supplied>ston <supplied reason="subaudible">son</supplied> of Diodotos, Ktesippos son
+                    Athenaios <supplied reason="subaudible">son</supplied> of Athenaios, [Ari]ston <supplied reason="subaudible">son</supplied> of Diodotos, Ktesippos son
                     of Diophantos, Ammonios <supplied reason="subaudible">son</supplied> of Ammonios, Sosipatros <supplied reason="subaudible">son</supplied> of Leukias, Sosipatros <supplied reason="subaudible">son</supplied> of
-                    Dio<gap reason="lost" extent="unknown" unit="line"/>
-            </p><p>b. not usefully translatable.</p></div>
+                    Dio[- . . .
+            </p><p>b. not usefully translatable.</p></div></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>Probably a list of eponymous priests of Apollo; see on <ref type="inscription" n="A00700">A.3</ref>.</p>
