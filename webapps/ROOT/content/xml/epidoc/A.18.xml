@@ -40,16 +40,16 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="litteris scariphatis">Graffiti</rs>a on the upper moulding, which is very worn,
-                           and b. on the face which is broken away at the upper right corner and damaged
-                           along all edges; each entry in a different hand. Pugliese reports that Oliverio also drew c. and d. on the moulding
+                        <layout><rs type="execution" key="litteris scariphatis">Graffiti</rs>, <hi rend="italic">a</hi> on the upper moulding, which is very worn,
+                           and <hi rend="italic">b</hi> on the face which is broken away at the upper right corner and damaged
+                           along all edges; each entry in a different hand. Pugliese reports that Oliverio also drew <hi rend="italic">c</hi> and <hi rend="italic">d</hi> on the moulding
                     but these Reynolds was unable to see (the location is possibly a mistaken reference to
-                    b. lines 1-2).</layout>
+                           <hi rend="italic">b</hi>, lines 1-2).</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
                      <handNote>
-                    a. <height>0.03</height>; b. some certainly Augustan to first century C.E., irregularly cut and without proper
+                    a: <height>0.03</height>; b: some certainly Augustan to first century C.E., irregularly cut and without proper
                     alignment, size very various, <height>0.015-0.05.</height>; 
                     L for ἔτους; c. and d. no description.
                 </handNote>
@@ -74,8 +74,7 @@
                      
                   
                </history>
-            </msDesc>
-            <!--check Joyce M. Reynolds , The Inscriptions in J.H. Humphrey (ed.), Apollonia, the port of Cyrene, LibAnt Suppl. 4, Tripoli, 1976, 21.--></sourceDesc>
+            </msDesc></sourceDesc>
       </fileDesc>
       <encodingDesc>
          <p>Marked-up according to the EpiDoc Guidelines version 8</p>
@@ -137,7 +136,7 @@
             <p>
                <bibl><ptr target="SECir"/> <citedRange>208</citedRange>,
                   with illustration, fig. 152</bibl>; <bibl>
-                     <ptr target="jmr1976"/>  <citedRange>21</citedRange> <!-- check -->
+                     <ptr target="jmr1976"/>  <citedRange>21</citedRange> 
                   </bibl>, whence <bibl><title>SEG</title> <citedRange>27.1127</citedRange></bibl>.
             </p>
          </div>
@@ -146,7 +145,8 @@
                         <lb n="1"/><persName type="attested" key="lgpn:V1-62061"><name nymRef="Διονύσιος">Διονύσιος</name></persName>
                         <gap reason="lost" quantity="1" unit="character"/>
                         <orig><unclear>ιι</unclear>ζ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    </ab></div><div n="b" type="textpart"><ab>
+                    </ab></div>
+            <div n="b" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10"><unclear>ι</unclear></num> 
                        <persName type="attested" key="lgpn:V1-62132"><name nymRef="Σωσίβιος">Σωσίβιος</name> </persName>
                         <lb n="2"/><persName type="attested" key="lgpn:V1-62040"><name nymRef="Ἀρίστων">Ἀρίστων</name> <persName type="attested"><name nymRef="Ἱππα-"><seg part="I">Ἱππα</seg></name></persName></persName> 
@@ -166,9 +166,11 @@
                         <num value="35"><unclear>λ</unclear>ε</num> 
                        <persName type="attested" key="lgpn:V1-62047"><name nymRef="Βαρκαῖος">Βαρκαῖος</name>
                             <name nymRef="Κα"><abbr>Κα</abbr></name></persName>
-                    </ab></div><div n="c" type="textpart"><ab>
-                        <lb n="1"/><persName type="attested"><name nymRef="Ἀριστο-">Ἀριστο<gap reason="lost" extent="unknown" unit="character"/>ς</name></persName>
-                    </ab></div><div n="c" type="textpart"><ab>
+                    </ab></div>
+            <div n="c" type="textpart"><ab>
+                        <lb n="1"/><persName type="attested"><name nymRef="Ἀριστο-">Ἀριστο<gap reason="lost" extent="unknown" unit="character"/></name></persName><orig>σ</orig>
+                    </ab></div>
+            <div n="d" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Σωσίβιος"><seg part="I"><unclear>Σωσιβιο</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><orig>λ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
@@ -232,11 +234,11 @@
             <p><note>d</note>. Sosibio[...</p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>The inscription resembles the ephebic graffiti of Cyrene (cf. Annuario 39-40, 164).</p>
+            <p>The inscription resembles the ephebic graffiti of Cyrene.</p>
             <p>line 1: Year 10, but γ'=3 or ρ'=100 are also possible.</p>
             <p>l.3: Year 32 of the Actian era = C.E. 1/2.</p>
             <p>Year 30 of the Actian era = 2/1 B.C.E.</p>
-            <p>l.4: The Libyan name <foreign xml:lang="grc">Ἰτθαλλάμμων</foreign> is completed
+            <p>Line 4: The Libyan name Ἰτθαλλάμμων is completed
                     <foreign xml:lang="la">sinistrorsus</foreign> at the end of the next line.</p>
             <p>l. 5: Year 21, presumably of the Actian era = C.E. 4/5.</p>
          </div>

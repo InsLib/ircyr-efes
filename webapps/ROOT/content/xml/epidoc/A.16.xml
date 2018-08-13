@@ -41,7 +41,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Where legible:<height>0.04</height>; L for <foreign xml:lang="grc">ἔτους</foreign>.</handNote>
+                     <handNote>Where legible, <height>0.04</height>; L for ἔτους.</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -125,16 +125,16 @@
          </div>
          <div type="apparatus">
             <listApp>
-                <app loc="0">
+                <app>
                   <note>There is space above for c. 6 lines, in which isolated letters are visible.</note>
                </app>
                 </listApp>
          </div>
-         <div type="translation" xml:space="preserve">
-            <p>Year 4, Karneades <supplied reason="subaudible">son</supplied> of Euphris.</p></div>
+         <div type="translation" xml:space="preserve"><head>Translations</head>
+            <div  type="translation" xml:lang="en" source="#edd"><p>Year 4, Karneades <supplied reason="subaudible">son</supplied> of Euphris.</p></div></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p> What can be seen suggests irregularly placed graffiti (?ephebic, cf. <ref type="inscripion">C24310</ref>) rather than a formal text.</p>
+            <p> What can be seen suggests irregularly placed graffiti (?ephebic, cf. <ref type="inscripion" n="C54310">A.18</ref>) rather than a formal text.</p>
          </div>
 </body>
    </text>

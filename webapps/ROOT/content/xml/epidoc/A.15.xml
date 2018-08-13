@@ -131,7 +131,8 @@
          </ab>
          </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head><div type="translation" xml:space="preserve" xml:lang="en" source="#edd"><p>
+         <div type="translation" xml:space="preserve"><head>Translations</head>
+            <div type="translation" xml:lang="en" source="#edd"><p>
                . . . gave] to his/her country [the . . . with]
                     the decoration ?around [ . . . with . . . ] dedicating [ . . .
             </p></div></div>
@@ -140,9 +141,9 @@
             <head>Commentary</head>
             <p>Line 1: supply αὐτοῦ or αὐτῆς, referring to the main element dedicated.</p>
             <p>Line 2: The name of an official, probably the proconsul, stood here. The surface, where
-                    it survives, suggests that his name was erased; he may be identical, therefore,
+                    it survives, suggests that his name was erased<!--xref; he may be identical, therefore,
                     with the erased proconsul in an unpublished inscription of Commodan date at
-                    Cyrene<!--xref-->.</p>
+                    Cyrene-->.</p>
          </div>
 </body>
    </text>
