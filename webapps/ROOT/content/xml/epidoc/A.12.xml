@@ -132,17 +132,9 @@
                     <supplied reason="explanation">who gave this</supplied>.</p></div></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>Cf. phrases such as <foreign xml:lang="grc">ὐπὲρ εὐχῆς οὖ ὁ θεὸς εἶδεν τὸ ὄνομα</foreign> (SEG XV. 14 =
-                    <bibl>
-                  <title>PHI</title> 
-                  <citedRange n="PH290783 ">290783</citedRange>
-               </bibl>)
-                    and <foreign xml:lang="la">cuius nomen Deus scit uotum soluit</foreign> (Diehl, 2488 =
-                    <bibl>
-                  <title>EDH</title> 
-                  <citedRange n="HD005915">5915</citedRange>
-               </bibl>); for later usages see
-                    C. Roueche (with D. Feissel) ‘Interpreting the signs: anonymity and concealment in Late Antique inscriptions’, 
+            <p>Cf. phrases such as ὐπὲρ εὐχῆς οὖ ὁ θεὸς εἶδεν τὸ ὄνομα, <title>SEG</title> XV.14 (<ref target="https://epigraphy.packhum.org/text/290783">PHI 290783</ref>)
+                    and <foreign xml:lang="la">cuius nomen Deus scit uotum soluit</foreign>, Diehl 2488 (<ref target="https://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD005915">EDH 5915</ref>); 
+               for later usages see C. Roueché (with D. Feissel) ‘Interpreting the signs: anonymity and concealment in Late Antique inscriptions’, 
                     in H. Amirav and B. ter Haar Romeny (eds.), <title>From Rome to Constantinople: Studies in Honour of Averil
                     Cameron</title> (Leuven, 2007), 221-234.<!--Is this Jewish?--></p>
          </div>

@@ -121,7 +121,7 @@
                <bibl><title>AE</title> <citedRange>1927.141</citedRange></bibl>,
                <bibl><title>SEG</title> <citedRange>9.127</citedRange></bibl>;
                <bibl> <ptr target="gasperini1965"/>
-                  <citedRange>218-220</citedRange> cf. p. 156 and pl. XXXVII, 3,4</bibl>; 
+                  <citedRange unit="page">218-220</citedRange> cf. p. 156 and pl. XXXVII, 3,4</bibl>; <!-- check -->
                <bibl> <ptr target="gasperini1967a"/>
                   <citedRange>32</citedRange> and fig. 215</bibl>, whence 
                <bibl><ptr target="robertBE"/> <citedRange>1972.622a</citedRange></bibl>;
@@ -129,7 +129,7 @@
                 <bibl><ptr target="oliverio1940"/> <citedRange>412</citedRange></bibl>;
                <bibl><ptr target="vitali1932"/> <citedRange>273</citedRange></bibl>; 
                <bibl><author>Romanelli</author>, <title>Africa Roman</title>, <citedRange>227</citedRange></bibl> and 
-               <bibl><ptr target="romanelli1943"/> <citedRange>90</citedRange></bibl>.<!-- check -->
+               <bibl><ptr target="romanelli1943"/> <citedRange unit="page">90</citedRange></bibl>.<!-- check -->
             </p>
          </div>
          
@@ -157,32 +157,33 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p>For Zeus Saviour and Rome <gap reason="lost" extent="unknown" unit="character"/> for Augustus? <gap reason="lost" extent="unknown" unit="character"/></p><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>For the building see Stucchi, Agora 147f., 220f. Oliverio, Scavi 20 states that the architrave 
+            <p>For the building see Stucchi, <title>Agora</title> 147f., 220f. Oliverio, <title>Scavi</title> 20 states that the architrave 
                     had been re-inscribed several times but there seems no evidence for more than one such re-use; 
                     it is reasonable to suppose this as Augustan in date on grounds both of palaeography and of historical 
                     probablility, but it seems less certain that Gasperini was right to associate this with the Cyrene 
-                    decrees of 7/6 B.C.E. <ref type="inscription" n="C08100">C.95</ref> shows that there was already a priest of August at Cyrene in 16/15 B.C.E.</p>
-            <p> Gasperini showed conclusively that for architectural reasons the fragment with  <foreign xml:lang="grc">ῬΩΜ[...]</foreign>  does not 
-                    adjoin that with <foreign xml:lang="grc">[...]ΑΙΚΑΙΣΕ</foreign> and that the intervening gap contained at least 3-4 letters and possibly 
+                    decrees of 7/6 B.C.E.; <ref type="inscription" n="C08100">C.95</ref> shows that there was already a priest of August at Cyrene in 16/15 B.C.E.</p>
+            <p> Gasperini showed conclusively that for architectural reasons the fragment with ῬΩΜ[...]  does not 
+                    adjoin that with [...]ΑΙΚΑΙΣΕ and that the intervening gap contained at least 3-4 letters and possibly 
                     10-11 more if another whole architrave block stood between the two. He proposed an epithet after 
-                   <foreign xml:lang="grc">Ῥώμ[αι</foreign> and another goddess, e.g. <foreign xml:lang="grc">
-                   </foreign>; but his <foreign xml:lang="grc">αἰωνίαι</foreign>, suggested by <foreign xml:lang="la">Roma Aeterna</foreign>, does not
-                    seem to be attested among Greek cults of <foreign xml:lang="grc">Ῥώμη</foreign> and is in any case rather too long for the gap at 
+                   Ῥώμ[αι and another goddess, e.g. <foreign xml:lang="grc"><!-- check -->
+                   </foreign>; but his αἰωνίαι, suggested by <foreign xml:lang="la">Roma Aeterna</foreign>, does not
+                    seem to be attested among Greek cults of Ῥώμη and is in any case rather too long for the gap at 
                     its shortest and too short if it was longer, while the interruption of the two Roman concepts of 
                     Rome and Augustus by a second local one such as Libya seems unlikely; very tentatively we propose 
-                    something on the lines of Ῥώμ[αι Εὐεργέτιδι θε]αῖ, approximately on the analogy of OGIS 594, 
-                    Ῥώμην θεὰν εὐεργέτιν  at Delos, or  of  Ῥώμ[αι καὶ θεᾶι Ὁμονοί]αι  on the analogy of OGIS      . 
+                    something on the lines of Ῥώμ[αι Εὐεργέτιδι θε]αῖ, approximately on the analogy of <title>OGIS</title> 594 (<ref target="https://epigraphy.packhum.org/text/64218">PHI 64218</ref>), 
+                    Ῥώμην θεὰν εὐεργέτιν  at Delos<!-- , or  of  Ῥώμ[αι καὶ θεᾶι Ὁμονοί]αι  on the analogy of OGIS -->.      . 
                     At the end Gasperini's supplements were intended to fill the space likely to heve been inscribed, 
-                    on the supposition that the gap after <foreign xml:lang="grc">ΡΩΜ</foreign> was the smallest possible and that the inscription was 
+                    on the supposition that the gap after ΡΩΜ was the smallest possible and that the inscription was 
                     disposed symmetrically in relation to the whole architrave. For the cult of Rome at Cyrene, probably 
                     combined with that of the imperial house, see also <ref type="inscription" n="C00100">C.2</ref>. For the conjunction of Zeus, Rome and Augustus 
-                    we have found no exact parallel unless Keil's supplements to IGRR IV. 1534 from Erythrae are accepted,
-                    giving <foreign xml:lang="grc">[θεαῖ Ῥώμῃ καὶ Σε[βαστῶι Καίσαρι [?καὶ διὶ Σωτῆρι] Οὐρανίωι</foreign> ; but cf Plutarch, Vita Flaminini 16, 
-                    <foreign xml:lang="grc">Ζηνὰ μέγαν Ῥώμαν τε Τῖτον θ'ἄμα Ῥωμαίων τε πίστιν</foreign> and  IGRR IV .95 from Mytilene where there was a 
-                    priest <foreign xml:lang="grc">θεᾶς Ῥώμης καὶ τῶ Σεβαστῶ Διὸς Καίσαρος Ὀλυμπίω πατρὸς τᾶς πατρίδας</foreign>. The cult of Zeus Soter 
-                    at Cyrene is attested by a Ηellenistic inscription on an altar in the Agora (Gasperini, line c. p.219) 
-                    and in the Sanctuary, n. 847. Gasperini line c. collects evidence to suggest that he was predominantly a 
-                    <foreign xml:lang="grc">θεὸς  ἀγοραῖος</foreign>.</p>
+               we have found no exact parallel unless Keil's supplements to <title>IGRR</title> IV.1534 (<ref target="https://epigraphy.packhum.org/text/251624">PHI 251624</ref>) from Erythrae are accepted,
+                    giving [θεαῖ Ῥώμῃ καὶ Σε]βαστῶι Καίσαρι [?καὶ διὶ Σωτῆρι] Οὐρανίωι ; but cf Plutarch, Vita Flaminini 16, 
+                    Ζηνὰ μέγαν Ῥώμαν τε Τῖτον θ'ἄμα Ῥωμαίων τε πίστιν (<ref target="http://data.perseus.org/citations/urn:cts:greekLit:tlg0007.tlg028.perseus-grc1:16">Perseus</ref>),
+               and <title>IGRR</title> IV.95 (<ref target="https://epigraphy.packhum.org/text/75349">PHI 75349</ref>) from Mytilene where there was a 
+                    priest θεᾶς Ῥώμης καὶ τῶ Σεβαστῶ Διὸς Καίσαρος Ὀλυμπίω πατρὸς τᾶς πατρίδας. The cult of Zeus Soter 
+                    at Cyrene is attested by a Ηellenistic inscription on an altar in the Agora (<ref target="https://igcyr.unibo.it/igcyr100000">IGCyr100000</ref>) 
+               and in the Sanctuary, <ref type="inscription" n="C25000">C.289</ref>. Gasperini line c. collects evidence to suggest that he was predominantly a 
+                    θεὸς ἀγοραῖος.</p>
          </div>
          
       </body>

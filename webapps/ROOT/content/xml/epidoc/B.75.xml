@@ -108,8 +108,7 @@
                <bibl><author>E. <name type="surname">Roschach</name></author>, <title>Catalogue des Antiquités des Musées de Toulouse</title>, <placeName>Toulouse</placeName> 
                   <date>1865</date>, <citedRange>p.98</citedRange></bibl>
                whence <bibl>
-                  <title type="abbreviated">IGRR</title> 
-                  <citedRange>I.1024</citedRange>
+                  <title type="abbreviated">IGRR</title> <citedRange>I.1024</citedRange>
                </bibl>; <bibl><ptr target="roux1949"/> <citedRange>283-4</citedRange></bibl>, whence <bibl n="seg">
                   <title>SEG</title> <citedRange>16.931</citedRange>
                </bibl>,

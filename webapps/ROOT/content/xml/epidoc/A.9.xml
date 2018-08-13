@@ -108,7 +108,7 @@
             <p>
                <bibl><ptr target="jmr1976"/><citedRange>11</citedRange></bibl>, whence
                <bibl><title>AE</title> <citedRange>1977.841</citedRange></bibl>, whence
-               <bibl><title>EDH</title> <citedRange><ref target="http://edh-www.adw.uni-heidelberg.de/edh/inschrift/HD020884">020884</ref></citedRange></bibl>.
+               <bibl><title>EDH</title> <citedRange>020884</citedRange></bibl>.
             </p>
          </div>
          
@@ -151,7 +151,7 @@
                     Caesari divi Iuli nepoti, divi Augusti filio</foreign> (though it was more usual for the
                     relationship to Augustus to precede that to Iulius); but the stone is very worn
                     here and it would also be possible to read
-               <foreign xml:lang="la">d<supplied reason="lost">i</supplied>vi V<supplied reason="lost">espasiani filius</supplied></foreign>,
+               <foreign xml:lang="la">d[i]vi V[espasiani filius</foreign>,
                i.e. Titus or Domitian. The best parallels for the lettering at Cyrene favour the earlier
                     date.</p>
             <p>Line 2: Presumably an official responsible for the erection or dedication of the monument

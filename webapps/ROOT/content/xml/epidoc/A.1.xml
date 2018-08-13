@@ -126,7 +126,7 @@
                <bibl><ptr target="jmr1980"/><citedRange unit="item">150</citedRange>, with plate, and discussion at p.61</bibl>, whence
                <bibl><title>SEG</title> <citedRange>30.1782</citedRange></bibl>
                (= <bibl><title>PHI</title> <citedRange n="PH324459">324530</citedRange></bibl>);
-               <bibl><ptr target="jmr-jbwp-rgg2003"/> <citedRange>57.1</citedRange></bibl>.
+               <bibl><ptr target="jmr-jbwp-rgg2003"/> <citedRange unit="page">57.1</citedRange></bibl>.
                </p>
          </div>
          
