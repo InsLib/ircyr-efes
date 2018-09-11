@@ -136,7 +136,8 @@
                and since then <bibl><title>SEG</title> <citedRange>14.888</citedRange>; <citedRange>16.866</citedRange>; <citedRange>18.728</citedRange>;
               <citedRange>20.704</citedRange>; <citedRange>30.1824</citedRange>; <citedRange>38.1873</citedRange>; <citedRange>38.1888</citedRange>;
               <citedRange>39.1719</citedRange>; <citedRange>41.1692</citedRange>; <citedRange>45.2296</citedRange>; <citedRange>46.2203</citedRange>; <citedRange>46.2350</citedRange>; 
-              <citedRange>47.2355</citedRange>; <citedRange>51.1427</citedRange>; <citedRange>55.2053</citedRange>; <citedRange>56.2028</citedRange></bibl>. For a full bibliography see 
+              <citedRange>47.2355</citedRange>; <citedRange>51.1427</citedRange>; <citedRange>55.2053</citedRange>; <citedRange>56.2028</citedRange></bibl>. 
+               <!-- do we add Riccobono, Latin trans? --> Translated <bibl>,<ptr target="johnson1961"/>, <citedRange>no. 148</citedRange></bibl>  For a full bibliography see 
                the Roman Law Library, at http://droitromain.upmf-grenoble.fr/ <!-- check markup -->
             </p>
          </div>
@@ -146,8 +147,8 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div type="textpart" n="I">
                <ab>
-                  <lb n="1"/><persName type="emperor" key="augustus"><w lemma="αὐτοκράτωρ">Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name> <name nymRef="Σεβαστός">Σεβαστὸς</name></persName> <w>ἀρχιερεὺς</w> <w>δημαρχικῆς</w>
-                  <lb n="2"/><w>ἐξουσίας</w> <w>ἑπτακαιδέκατον</w> <w>αὐτοκράτωρ</w> <w>τεσ<supplied reason="omitted">σ</supplied>ερασκαιδέκατον</w>
+                  <lb n="1"/><persName type="emperor" key="augustus"><w lemma="αὐτοκράτωρ">Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name> <name nymRef="Σεβαστός">Σεβαστὸς</name></persName> <w>ἀρχιερεὺς</w> <date><w>δημαρχικῆς</w>
+                  <lb n="2"/><w>ἐξουσίας</w> <w>ἑπτακαιδέκατον</w></date> <date><w>αὐτοκράτωρ</w> <w>τεσ<supplied reason="omitted">σ</supplied>ερασκαιδέκατον</w></date>
                   <lb n="3"/> <space quantity="12" unit="character"/> <w>λέγει</w> <space quantity="15" unit="character"/>
                   <lb n="4"/><w>ἐπειδὴ</w> <w>τοὺς</w> <w>πάντας</w> <w>εὑρίσκω</w> <placeName type="ethnic"><w lemma="Ῥωμαῖος">Ῥωμαίους</w></placeName> <w>ἐν</w> <w>τῆι</w> <w>περὶ</w> <placeName>Κυρήνην</placeName>
                   <lb n="5"/><w>ἐπαρχήαι</w> <num value="215"><w>πέντε</w> <w>καὶ</w> <w>δέκα</w> <w>καὶ</w> <w>διακoσίους</w></num> <w>ἐκ</w> <w>πάσης</w> <w>ἡ<supplied reason="omitted">λ</supplied>ικίας</w> <space quantity="2" unit="character"/>
@@ -196,7 +197,7 @@
                <!--II Edictum Augusti de criminibus quibusdam laesae maiestatis, a. 7/6a-->
                <ab>
                   <lb n="40"/><persName type="emperor" key="augustus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name> <name nymRef="Σεβαστός">Σεβαστὸς</name></persName> <w>ἀρχιε
-                  <lb n="41" break="no"/>ρεὺς</w> <w>δημαρχικῆς</w> <w>ἐξουσίας</w> <w>τὸ</w> <num value="17"><w>ἑπτακαιδέκατον</w></num> <space quantity="1" unit="character"/> <w>λέγει</w>· <space quantity="2" unit="character"/> <w>φθόνος</w> <w>ψόγος</w> 
+                  <lb n="41" break="no"/>ρεὺς</w> <date><w>δημαρχικῆς</w> <w>ἐξουσίας</w> <w>τὸ</w> <num value="17"><w>ἑπτακαιδέκατον</w></num></date> <space quantity="1" unit="character"/> <w>λέγει</w>· <space quantity="2" unit="character"/> <w>φθόνος</w> <w>ψόγος</w> 
                   <lb n="42"/><w>τε</w> <w>εἶναι</w> <persName type="attested" key="lgpn:V1-65612"><name nymRef="Πόπλιος">Ποπλίωι</name> <name nymRef="Σεξστιος">Σεξστίωι</name> <name nymRef="Σκευᾶς">Σκεύαι</name></persName> 
                   <w>οὐκ</w> <w>ὀφείλει</w>, <w>ὅτι</w> <persName type="attested"><name nymRef="Αὖλος">Αὖλον</name> <name nymRef="Στλάκκιος">Στλάκκιον</name> <persName type="attested"><name nymRef="Λεύκιος">Λευ
                   <lb n="43" break="no"/>κίου</name></persName> <w>υἱὸν</w> <name nymRef="Μάξιμος">Μάξιμον</name></persName> <w>καὶ</w>
@@ -220,8 +221,8 @@
             <div type="textpart" n="III">
               <!--III. Edictum Augusti de vectigalibus atque immunitate civium Romanorum, a. 7/6a.-->
                <ab>
-                   <lb n="55"/><persName type="emperor" key="augustus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name> <name nymRef="Σεβαστός">Σεβαστὸς</name></persName> <w>ἀρχιερεὺς</w> <w>δημαρχικῆς</w> <w>ἐξουσίας</w> 
-                   <lb n="56"/><w>τὸ</w> <num value="17">ἑπτακαιδέκατον</num> <surplus>ι</surplus> <space quantity="3" unit="character"/><w>λέγει</w>· <space quantity="6" unit="character"/><w>εἴ</w> <w>τινες</w> 
+                   <lb n="55"/><persName type="emperor" key="augustus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name> <name nymRef="Σεβαστός">Σεβαστὸς</name></persName> <w>ἀρχιερεὺς</w> <date><w>δημαρχικῆς</w> <w>ἐξουσίας</w> 
+                   <lb n="56"/><w>τὸ</w> <num value="17"><w>ἑπτακαιδέκατον</w></num></date> <surplus>ι</surplus> <space quantity="3" unit="character"/><w>λέγει</w>· <space quantity="6" unit="character"/><w>εἴ</w> <w>τινες</w> 
                   <w>ἐκ</w> <w>τῆς</w> <placeName><w>Κυρηναϊκῆς</w> <w>ἐπαρχή
                    <lb n="57" break="no"/>ας</w></placeName> <w>πολειτήαι</w> <w>τετείμηνται</w>, <w>τούτους</w> <w>λειτουργεῖν</w> <w>οὐδὲν</w> <w>ἔλασ<supplied reason="omitted">σ</supplied>ον</w>
                      <w>ἐμ</w> <w>μέρει</w> <w>τῷ</w> <w>τῶν</w> 
@@ -239,7 +240,7 @@
                <ab>
                   <lb/>
                   <lb n="62"/><persName type="emperor" key="augustus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name> <name nymRef="Σεβαστός">Σεβαστὸς</name></persName> <w>ἀρχιε
-                  <lb n="63" break="no"/>ρεὺς</w> <w>δημαρχικῆς</w> <w>ἐξουσίας</w> <w>τὸ</w> <num value="17">ἑπτακαιδέκατον</num> <space quantity="6" unit="character"/><w>λέγει</w>· <space quantity="4" unit="character"/> <w>αἵτινες</w> 
+                  <lb n="63" break="no"/>ρεὺς</w> <date><w>δημαρχικῆς</w> <w>ἐξουσίας</w> <w>τὸ</w> <num value="17"><w>ἑπτακαιδέκατον</w></num></date> <space quantity="6" unit="character"/><w>λέγει</w>· <space quantity="4" unit="character"/> <w>αἵτινες</w> 
                   <lb n="64"/><w>ἀμφισβητήσ<supplied reason="omitted">ε</supplied>ις</w> <w>ἀνὰ</w> <w>μέσον</w> <placeName type="ethnic"><w>Ἑλλήνων</w></placeName> <w>ἔσονται</w> <w>κατὰ</w> <placeName><w>τὴν</w> <placeName type="ethnic"><w lemma="Κυρηναϊκ">Κυρηναϊκὴν</w></placeName> <w>ἐπαρχήαν</w></placeName>, 
                   <lb n="65"/><w>ὑπεξειρημένων</w> <w>τῶν</w> <w>ὑποδίκων</w> <w>κεφαλῆς</w>, <w>ὑπὲρ</w> <w>ὧν</w> <w>ὃς</w> <w>ἂν</w> <w>τὴν</w> <w>ἐπαρχήαν</w> <w>διακατέχῃ</w> 
                   <lb n="66"/><w>αὐτὸς</w> <w>διαγεινώσκειν</w> <w>κ<supplied reason="lost">αὶ</supplied></w> <w>ἱστάναι</w> <w>ἢ</w> <w>συνβούλιον</w> <w>κριτῶν</w> <w>παρέχειν</w> <w>ὀφείλει</w>, <space quantity="5" unit="character"/>
@@ -260,12 +261,12 @@
                   <lb/>
                   <lb n="72"/><persName type="emperor" key="augustus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name> <space quantity="1" unit="character"/> <name nymRef="Σεβαστός">Σεβαστὸς</name></persName> 
                   <w>ἀρχιερεὺς</w> <w>μέγιστος</w> 
-                  <lb n="73"/><w>δημαρχικῆς</w> <w>ἐξουσίας</w> <space quantity="3" unit="character"/> 
-                  <num value="19"><hi rend="supraline">ιθ</hi></num>  <space quantity="1" unit="character"/><w>λέγει</w>· 
+                  <lb n="73"/><date><w>δημαρχικῆς</w> <w>ἐξουσίας</w> <space quantity="3" unit="character"/> 
+                  <num value="19"><hi rend="supraline">ιθ</hi></num></date>  <space quantity="1" unit="character"/><w>λέγει</w>· 
                     <lb n="73a"/><space quantity="1" unit="line"/>
-                  <lb n="74"/><w>δόγμα</w> <w>συνκλήτου</w> <w>τὸ</w> <w>ἐπὶ</w> <persName type="attested"><name nymRef="Γάϊος">Γαΐου</name> 
+                  <lb n="74"/><w>δόγμα</w> <w>συνκλήτου</w> <w>τὸ</w> <date><w>ἐπὶ</w> <persName type="attested"><name nymRef="Γάϊος">Γαΐου</name> 
                      <name nymRef="Καλουίσιος">Καλουισίου</name></persName> <w>καὶ</w> <persName type="attested"><name nymRef="Λεύκιος">Λευκίου</name>
-                  <lb n="75"/><name nymRef="Πασσιῆνος">Πασσιήνου</name></persName> <w>ὑπάτων</w> <w>κυρωθὲν</w> <w>ἐμοῦ</w> <w>παρόντος</w> <w>καὶ</w> <w>συν
+                  <lb n="75"/><name nymRef="Πασσιῆνος">Πασσιήνου</name></persName> <w>ὑπάτων</w></date> <w>κυρωθὲν</w> <w>ἐμοῦ</w> <w>παρόντος</w> <w>καὶ</w> <w>συν
                   <lb n="76" break="no"/>επιγραφομένου</w>, <w>ἀνῆκον</w> <w>δὲ</w> <w>εἰς</w> <w>τὴν</w> <w>τῶν</w> <w>τοῦ</w> <w>δήμου</w> <w>τοῦ</w> 
                   <lb n="77"/><placeName type="ethnic"><w lemma="Ῥωμαῖος">Ῥωμαίων</w></placeName> <w>συμμάχων</w> <w>ἀσφάληαν</w>, <w>ἵνα</w> <w>πᾶσιν</w> <w>ᾖ</w> <w>γνωστὸν</w> 
                   <lb n="78"/><w>ὧν</w> <w>κηδόμεθα</w>, <w>πέμπειν</w> <w>εἰς</w> <w>τὰς</w> <w>ἐπαρχήας</w> <w>διέγνων</w> <w>καὶ</w> <w>τῶι</w> 
@@ -388,9 +389,8 @@
                <app loc="141"><rdg> ΑΕΚΑ</rdg></app>
                <app loc="142"><rdg> ΒΟΥΑΗΙ lapis</rdg></app></listApp>
          </div>
-         <div type="translation" xml:space="preserve"><head>Translation</head><p/>
-            <p><note><bibl><ptr target="johnson1961"/> <citedRange>148</citedRange>,  pp. 124-127</bibl></note>
-         </p>
+         <div type="translation" xml:space="preserve"><head>Translations</head><p/>
+            <div type="translation" source="johnson1961" xml:lang="en">
          <p><note>I.</note></p>
          <p>Emperor Caesar Augustus, pontifex maximus,
          holding the tribunician power for the seventeenth time,
@@ -521,6 +521,7 @@ for the plaintiff, whose claim is for private reparation, not more than five; fo
   
 Likewise it is the pleasure of the Senate that the jurors who may be chosen by lot in accordance with this resolution of the Senate, 
 shall declare their opinion openly, as seems to each, and whatever the majority declare shall be binding.</p></div>
+         </div>
          
          
          

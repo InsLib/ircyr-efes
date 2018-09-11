@@ -120,10 +120,10 @@
             <ab>
                     <lb n="1"/><persName type="emperor" key="augustus"><supplied reason="lost"><w>Αὐτοκράτορα</w> <name nymRef="Καῖσαρ">Καίσαρα</name></supplied>
                     <w><supplied reason="lost">θ</supplied>εῶ</w> <w>ὑιὸν</w> 
-              <num value="14"><w>τετρα<unclear>κ</unclear><supplied reason="lost">αι</supplied>
+             <date> <num value="14"><w>τετρα<unclear>κ</unclear><supplied reason="lost">αι</supplied>
                     <lb n="2" break="no"/><supplied reason="lost" cert="low"><space quantity="1" unit="character"/> 
                     </supplied><supplied reason="lost">δεκάκις</supplied></w></num>
-               <w><supplied reason="lost">αὐτ</supplied>οκράτορα</w></persName> 
+               <w><supplied reason="lost">αὐτ</supplied>οκράτορα</w></date></persName> 
                <space quantity="1" unit="character"/>
                     <lb n="3"/><supplied reason="lost" cert="low"><space quantity="1" unit="character"/> 
                     </supplied> <persName type="divine" key="hermes"><name nymRef="Ἑρμῆς"><supplied reason="lost">Ἑρμῖ</supplied></name></persName> <supplied reason="lost" cert="low">

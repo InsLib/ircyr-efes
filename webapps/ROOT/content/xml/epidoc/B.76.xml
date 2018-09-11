@@ -137,12 +137,12 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/>
-                    <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <gap reason="lost" quantity="1" unit="character"/>
                     <num value="3"><unclear>γ</unclear></num>
                     <rs type="month" key="Φαμενώθ"><w lemma="Φαμενώθ">Φ<supplied reason="lost">αμ</supplied>ενώθ</w></rs>
-                    <num value="5">ε</num>
-                    <w lemma="ἐπί">ἐπι</w>
+                    <num value="5">ε</num></date>
+                    <date><w lemma="ἐπί">ἐπι</w>
                     <w lemma="ἄρχων">ἀρχόντων</w>
                     <persName type="attested" key="lgpn:V1-61871"><name nymRef="Ἀρίμμας"><unclear>Ἀρ</unclear>ίμμα</name>
                     <w lemma="ὁ">τοῦ</w>
@@ -155,7 +155,7 @@
                     <persName type="attested" key="lgpn:V1-61874"><name nymRef="Ζελαῖος"><unclear>Ζελαί</unclear>ου</name>
                     <gap reason="lost" quantity="3" unit="character"/> <w lemma="ὁ">τοῦ</w>
                     <persName type="attested" key="lgpn:V1-61875"><name nymRef="Γναῖος"><supplied reason="lost">Γ</supplied>ναίου</name></persName></persName>,
-                    <persName type="attested" key="lgpn:V1-61876"><name nymRef="Ἀρίστων">Ἀρίστωνος</name>
+                    <persName type="attested" key="lgpn:V1-61876"><name nymRef="Ἀρίστων">Ἀρίστωνος</name> 
                     <w lemma="ὁ">τοῦ</w><persName type="attested" key="lgpn:V1-66193"><name nymRef="Ἀρχέας"><seg part="I">Ἀρ<unclear>χέ</unclear>α</seg></name></persName></persName>,
                     <lb n="4"/>
                     <gap reason="lost" quantity="3" unit="character" precision="low"/><persName type="attested"><name><seg part="F"><unclear>ντος</unclear></seg></name></persName>
@@ -167,7 +167,7 @@
             <gap reason="lost" quantity="4" unit="character" precision="low"/><orig><unclear>σα</unclear></orig>
                     <gap reason="lost" quantity="4" unit="character"/>
                     <w lemma="ὁ"><unclear>τοῦ</unclear></w>
-                    <persName type="attested" key="lgpn:V1-61880"><name nymRef="Σίμων">Σίμωνος</name></persName>
+                    <persName type="attested" key="lgpn:V1-61880"><name nymRef="Σίμων">Σίμωνος</name></persName></date>
                     <space/>
                     <w lemma="ἐπεί">ἐπεὶ</w>
                     <lb n="6"/>

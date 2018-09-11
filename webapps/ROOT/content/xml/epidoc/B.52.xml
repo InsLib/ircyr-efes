@@ -121,8 +121,8 @@
 </div>
                 <div n="b" type="textpart"><ab>
                     <lb n="1"/>
-                    <expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><w lemma="ἔτος"><ex>ἔτους</ex></w></expan>
-                    <num value="6"><unclear>ς</unclear></num>
+                    <date><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><w lemma="ἔτος"><ex>ἔτους</ex></w></expan>
+                    <num value="6"><unclear>ς</unclear></num></date>
                 </ab>
 </div>
             </div>
@@ -145,7 +145,7 @@
                should presumably be two persons named; the second was aged 30 at the time of
                death. -->
             <p>b: probably the date of death by a regnal year: 
-               If the number is correctly read, it would give year 70, presumably the date by the Actian era = C.E. 49/50, which is a little early for the tomb material.</p>
+               If the number is correctly read, it would give year 70, <!-- check what is being read here? -->presumably the date by the Actian era = C.E. 49/50, which is a little early for the tomb material.</p>
          </div>
          
       </body>

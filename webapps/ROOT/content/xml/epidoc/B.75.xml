@@ -128,8 +128,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w><supplied reason="lost">Ἔ</supplied>τους</w> <num value="55">νε</num> <rs type="month" key="Φαωφί"><w>Φαῶφ</w></rs> <num value="25">κε</num> <w>ἐπὶ</w>
-                    <w>συλλόγου</w> <w>τῆς</w> <w>σκηνο<lb n="2" break="no"/>πηγίας</w> <w>ἐπὶ</w> <w>ἀρχόντων</w> 
+                    <lb n="1"/><date corresp="https://godot.date/id/sXUzJwGA4urSxmC9egK2iN"><w><supplied reason="lost">Ἔ</supplied>τους</w> <num value="55">νε</num> <rs type="month" key="Φαωφί"><w>Φαῶφ</w></rs> <num value="25">κε</num></date> <w>ἐπὶ</w>
+                    <w>συλλόγου</w> <w>τῆς</w> <w>σκηνο<lb n="2" break="no"/>πηγίας</w> <date><w>ἐπὶ</w> <w>ἀρχόντων</w> 
                     <persName type="attested" key="lgpn:V1-61854"><name nymRef="Κλέανδρος">Κλεάνδρου</name> <w>τοῦ</w> <lb n="3"/><persName type="attested" key="lgpn:V1-61856"><name nymRef="Στρατόνικος">Στρατονίκου</name></persName></persName>,
                     <persName type="attested" key="lgpn:V1-61853"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name> <w>τοῦ</w> <persName type="attested" key="lgpn:V1-61855"><name nymRef="Ἀρίστων">Ἀρίστωνος</name></persName></persName>, 
                    <lb n="4"/><persName type="attested" key="lgpn:V1-61859"><name nymRef="Σωσιγένης">Σωσιγένους</name> <w>τοῦ</w> <persName type="attested" key="lgpn:V1-61858"><name nymRef="Σώσιππος">Σωσίππου</name></persName></persName>,
@@ -140,7 +140,7 @@
                     <persName type="attested" key="lgpn:V1-61866"><name nymRef="Σώνικος">Σωνί<lb n="8" break="no"/>κου</name> <w>τοῦ</w> <persName type="attested" key="lgpn:V1-61869"><name nymRef="Θεόδοτος">Θεοδότου</name></persName></persName>,
                     <persName type="attested" key="lgpn:V1-61870"><name nymRef="Ἰώσηπος">Ἰωσήπου</name> <w>τοῦ</w> <persName type="attested" key="lgpn:V1-61868"><name nymRef="Στράτων">Στράτωνος</name></persName></persName>· 
                     <space unit="line" quantity="1"/>
-   <lb n="9"/><w>ἑπεὶ</w> <persName type="attested"><name nymRef="Μᾶρκος">Μᾶρκος</name> <name nymRef="Τίττιος">Τίττιος</name> <persName type="attested"><name nymRef="Σέξτος">Σέξτου</name></persName> <w>υἱὸς</w> <name type="tribe" key="Aemilia">Αἱμιλὶᾳ</name></persName> 
+   <lb n="9"/><w>ἑπεὶ</w> <persName type="attested"><name nymRef="Μᾶρκος">Μᾶρκος</name> <name nymRef="Τίττιος">Τίττιος</name> <persName type="attested"><name nymRef="Σέξτος">Σέξτου</name></persName> <w>υἱὸς</w> <name type="tribe" key="Aemilia">Αἱμιλὶᾳ</name></persName></date> 
                     
    <lb n="10"/><w>ἀνὴρ</w> <w>καλὸς</w> <w>καὶ</w> <w>ἀγαθὸς</w> <w>παραγενηθεὶς</w> <w>εἰς</w> 
                      <lb n="11"/><w>τὴν</w> <w>ἐπαρχείαν</w> <w>ἐπὶ</w> <w>δημοσίων</w> <w>πραγμάτων</w> <w>τήν</w> 

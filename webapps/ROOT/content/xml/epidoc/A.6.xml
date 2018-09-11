@@ -188,7 +188,7 @@
                         <lb n="11"/><orig>ηρ</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="12"/><orig>κα</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="13"/><orig>μ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="14"/><date datingMethod="unknown"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="14"/><date ><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="15"/><orig><unclear>α</unclear></orig><gap reason="lost" extent="unknown" unit="character"/></date>
                         <lb n="16"/><orig>κα</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="17"/><orig>μ</orig><gap reason="lost" extent="unknown" unit="character"/>

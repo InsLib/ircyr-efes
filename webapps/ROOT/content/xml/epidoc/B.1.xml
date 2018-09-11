@@ -141,8 +141,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="34">λδ</num> 
-                    <w>ὲπὶ</w> <persName type="attested" key="lgpn:V1-61814"><w lemma="ἱερεύς">ἱερέως</w> <w lemma="ὁ">τοῦ</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName> <name nymRef="Λῦσις">Λὐσιος</name></persName> <space quantity="3" unit="character"/>
+                    <lb n="1"/><space quantity="1" unit="character"/> <date corresp="https://godot.date/id/BdUqPRET4VMVYUSUKY66w9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="34">λδ</num></date> 
+                    <date><w>ὲπὶ</w> <persName type="attested" key="lgpn:V1-61814"><w lemma="ἱερεύς">ἱερέως</w> <w lemma="ὁ">τοῦ</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName> <name nymRef="Λῦσις">Λύσιος</name></persName></date> <space quantity="3" unit="character"/>
                     <lb n="2"/><space quantity="3" unit="character"/> <w>ἁδήματος</w> <w>ἀντίγραφον</w> <space quantity="3" unit="character"/>
                     <lb n="3"/><w lemma="ἐπεί">ἐπειδὴ</w> <persName type="attested" key="lgpn:V1-61920"><name nymRef="Ἀπολλόδωρος">Ἀπολλόδωρος</name> <persName type="attested" key="lgpn:V1-61919"><name nymRef="Παγκράτης">Παγκράτευς</name></persName></persName> <w lemma="ὁ">τῶν</w> <w>πολιτᾶν</w>
                     <lb n="4"/><w lemma="ὕπαρχος">ὑπάρχων</w> <w lemma="ἀπό">ἀπὸ</w> <w lemma="πρόγονος">προγόνων</w> <w lemma="ἐκ">ἐξ</w> <w>ἀ<unclear>ρχ</unclear>ᾶ<unclear>ς</unclear></w> <w>γνησἰων</w> <w lemma="καί">καὶ</w>
@@ -340,8 +340,18 @@
          </div>
          
          <div type="translation" xml:space="preserve">
-            <head>Translation</head>
-            <p>Translation to follow</p><p/>
+            <head>Translations</head>
+            <div  type="translation" source="edd" xml:lang="en"><p>Translation to follow</p></div>
+            <div type="translation" source="laronde1987" xml:lang="fr"><p>Année 34. Sous le prêtre d'Apollon Lysis. Exemplaire du décret.
+Attendu qu'Apollodôros fils de Pankratès, qui fait partie des citoyens issus d'ancêtres illustres, se comporte
+lui aussi d'une façon noble envers la patrie en toute circonstance difficile, et que d'abord aussitôt après la mort
+du roi alors que la chôra était assiégée par les brigands en raison de l'absence des magistrats, comme il avait été
+invité à prendre le commandement des néaniskoi, et comme il avait assumé tous les dangers, il rétablit nos affaires
+dans le plus grand état de paix, et toute la gratitude de la cité lui accorda sur le champ les honneurs prévus pour
+lui ; après cela, comme la cité était en difficulté, dépourvue de rempart et que, déjà, elle fut ravagée à deux reprises
+par les flottes des pirates qui avaient fait une attaque contre elle, comme il avait été commis avec les pleins
+pouvoirs de la cité et de la chôra, pour l'ensemble des affaires il a conservé fidèlement la concorde de toute la
+cité en apportant à tous un jugement équitable, ... </p></div>
          </div>
          
          <div type="commentary">

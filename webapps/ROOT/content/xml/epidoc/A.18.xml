@@ -147,23 +147,23 @@
                         <orig><unclear>ιι</unclear>ζ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div n="b" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10"><unclear>ι</unclear></num> 
+                        <lb n="1"/><date corresp="https://godot.date/id/PT2a48jirmisCcxHkqbKc9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10"><unclear>ι</unclear></num></date> 
                        <persName type="attested" key="lgpn:V1-62132"><name nymRef="Σωσίβιος">Σωσίβιος</name> </persName>
                         <lb n="2"/><persName type="attested" key="lgpn:V1-62040"><name nymRef="Ἀρίστων">Ἀρίστων</name> <persName type="attested"><name nymRef="Ἱππα-"><seg part="I">Ἱππα</seg></name></persName></persName> 
-                        <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="32"><unclear>λβ</unclear></num> 
-                        <persName type="attested" key="lgpn:V1-62062"><name nymRef="Διονύσιος">Διονύσιος</name></persName> <w> <expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                       <num value="30"><unclear>λ</unclear></num> 
+                        <lb n="3"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="32"><unclear>λβ</unclear></num></date> 
+                        <persName type="attested" key="lgpn:V1-62062"><name nymRef="Διονύσιος">Διονύσιος</name></persName> <date><w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                       <num value="30"><unclear>λ</unclear></num></date> 
                        <persName type="attested" key="lgpn:V1-62094"><name nymRef="Καρνεάδης">Καρνεάδης</name></persName> 
                         <lb n="4"/><persName type="attested"><name nymRef="Σω">Σω</name> <persName type="attested" key="lgpn:V1-62092"><name nymRef="Ἰτθαλλά">Ἰτθαλλάmμων</name></persName></persName> 
-                        <lb n="5"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                       <num value="21">κ<unclear>α</unclear></num> <persName type="attested" key="lgpn:V1-62072"><name nymRef="Εὐφράνωρ">Εὐφράνωρ</name></persName>  
+                        <lb n="5"/> <date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                       <num value="21">κ<unclear>α</unclear></num></date> <persName type="attested" key="lgpn:V1-62072"><name nymRef="Εὐφράνωρ">Εὐφράνωρ</name></persName>  
                         <lb n="6"/><persName type="attested" key="lgpn:V1-62116"><name nymRef="Μᾶρκος">Μᾶρκος</name> 
                             <persName type="attested"><name nymRef="Σ-"><seg part="I">Σ</seg></name></persName></persName> 
                        <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="30"><unclear>λ</unclear></num> <persName type="attested" key="lgpn:V1-63917"><name nymRef="Εὐφράνωρ">Εὐφράνωρ</name></persName>
-                        <lb n="7"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="35"><unclear>λ</unclear>ε</num> 
+                        <lb n="7"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="35"><unclear>λ</unclear>ε</num></date> 
                        <persName type="attested" key="lgpn:V1-62047"><name nymRef="Βαρκαῖος">Βαρκαῖος</name>
                             <name nymRef="Κα"><abbr>Κα</abbr></name></persName>
                     </ab></div>

@@ -144,10 +144,10 @@
                     <lb n="2"/><supplied reason="lost"><name nymRef="Hadrianus"><seg part="I">Hadrian-</seg></name>
                         <name nymRef="Augustus"><seg part="I"><expan><abbr>Aug</abbr><ex>ust</ex></expan></seg></name></supplied></persName>
                         <supplied reason="lost"><w part="I" lemma="pontifex">pontif-</w> <w part="I" lemma="magnus">maxim-</w></supplied>
-                    <w lemma="tribunicius"><expan><abbr><supplied reason="lost">tr</supplied>ib</abbr><ex>unicia</ex></expan></w> 
-                    <w lemma="potestas"><expan><abbr>pot</abbr><ex>estate</ex></expan></w> <num value="7">VII</num>
-                            <w lemma="consul"><expan><abbr>co</abbr><supplied reason="lost"><ex>n</ex><abbr>s</abbr><ex>ul-</ex></supplied></expan></w>
-                    <supplied reason="lost"><num value="3">III</num> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+                    <date><w lemma="tribunicius"><expan><abbr><supplied reason="lost">tr</supplied>ib</abbr><ex>unicia</ex></expan></w> 
+                    <w lemma="potestas"><expan><abbr>pot</abbr><ex>estate</ex></expan></w> <num value="7">VII</num></date>
+                            <date><w lemma="consul"><expan><abbr>co</abbr><supplied reason="lost"><ex>n</ex><abbr>s</abbr><ex>ul-</ex></supplied></expan></w>
+                    <supplied reason="lost"><num value="3">III</num></date> </supplied><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          
