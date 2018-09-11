@@ -147,7 +147,7 @@
                     <date><w lemma="tribunicius"><expan><abbr><supplied reason="lost">tr</supplied>ib</abbr><ex>unicia</ex></expan></w> 
                     <w lemma="potestas"><expan><abbr>pot</abbr><ex>estate</ex></expan></w> <num value="7">VII</num></date>
                             <date><w lemma="consul"><expan><abbr>co</abbr><supplied reason="lost"><ex>n</ex><abbr>s</abbr><ex>ul-</ex></supplied></expan></w>
-                    <supplied reason="lost"><num value="3">III</num></date> </supplied><gap reason="lost" extent="unknown" unit="character"/>
+                    <supplied reason="lost"><num value="3">III</num></supplied></date><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          
