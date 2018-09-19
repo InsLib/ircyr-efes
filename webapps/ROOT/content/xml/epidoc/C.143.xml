@@ -134,7 +134,7 @@
                 <div type="textpart" subtype="text" n="a">
                     <ab>
         <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-        <lb n="1"/><supplied reason="lost" cert="low"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
+        <lb n="1"/><date><supplied reason="lost" cert="low"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
         <supplied reason="lost"><w>τοῦ</w></supplied> 
         <supplied reason="lost" cert="low"><w>καὶ</w></supplied> 
         <persName type="emperor" key="marcusaurelius"><w><supplied reason="lost">Αὐτο</supplied><lb break="no" n="2"/><supplied reason="lost">κράτορος</supplied></w> 
@@ -145,11 +145,11 @@
         <name nymRef="Σεβαστός"><unclear>Σ</unclear><supplied reason="lost">εβαστῶ</supplied></name>
 	<lb n="5"/><name nymRef="Ἀρμενιακός"><supplied reason="lost">Ἀρ</supplied><unclear>μ</unclear><supplied reason="lost">ε</supplied>νιακῶ</name> 
         <name nymRef="Παρθικός">Παρθικῶ</name> <name nymRef="Μηδικός">Μ<supplied reason="lost">ηδι</supplied><lb break="no" n="6"/>κῶ</name> <name nymRef="Γερμανικός">Γερμανικῶ</name> <w>μ<unclear>εγ</unclear>ίστω</w></persName> 
-        <supplied reason="lost"><space extent="unknown" unit="character"/></supplied>
-	<lb n="7"/><w>Ἐφ'</w><w>ἱ<unclear>αρ</unclear>έος</w> 
+        <supplied reason="lost"><space extent="unknown" unit="character"/></supplied></date>
+	<lb n="7"/><date><w>Ἐφ'</w><w>ἱ<unclear>αρ</unclear>έος</w> 
         <w>τῶ</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνο<supplied reason="lost">ς</supplied></name></persName>
 	<lb n="8"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκω</ex></expan></name> 
-        <name nymRef="Κλαύδιος">Κλαυδίω</name> <name nymRef="Καρνεάδης">Καρνεάδευς</name></persName> 
+        <name nymRef="Κλαύδιος">Κλαυδίω</name> <name nymRef="Καρνεάδης">Καρνεάδευς</name></persName></date> 
         <w><unclear>κ</unclear><supplied reason="lost">α</supplied><lb break="no" n="9"/>τὰ</w> <w>τὰν</w> <w>νομοθεσίαν</w> 
         <persName type="attested"><name nymRef="Νουμίσιος">Νουμισ<unclear>ί</unclear><supplied reason="lost">ω</supplied></name>
 	<lb n="10"/><name nymRef="Μαρκελλιανός">Μαρκελλιαν<unclear>ῶ</unclear></name></persName> <w>τῶ</w> 
