@@ -36,13 +36,14 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on three faces. Face  1, the front face, has a at the top, columns b (left) and c (right) below it.
-                        Face 2 is to the left, Face 3 to the right.</layout>
+                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on face  1, the front face, with a at the top, 
+                           columns b (left) and c (right) below it. <rs type="execution" key="litteris scariphatis">Graffito</rs> on
+                        face 2, to the left, and face 3 to the right; 3.b is written in a column to the right of a.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
                      <handNote>Face 1: Augustan. <height>0.015-0.02</height>; the dedication and for homonymous patronyms, <height>0.03</height>. L for ἔτους.</handNote>
-                     <handNote>Faces 2 and 3: sizes varying, <height>0.015-0.04</height>; intermittent E, C, W.</handNote>
+                     <handNote>Faces 2 and 3: sizes varying, <height>0.015-0.04</height>; varying forms of Ε, Σ, Ω.</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -435,34 +436,34 @@
                   Αλδιμνα</orig>
                             <lb n="33"/> 
                   <persName type="attested" key="lgpn:V1-64690">
-                     <name nymRef="Κλεώνεμος">Κλεώνεμος</name>
+                     <name nymRef="Κλεόνεμος">Κλεόνεμος</name>
                   
                             <persName type="attested" key="lgpn:V1-63111">
                                <name nymRef="Ἄριστις">Ἀρίστιος</name>
                   </persName></persName>
-                            <lb n="34"/> 
-                  <orig>μ</orig> 
-                  <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                            <lb n="34"/> <space quantity="6" unit="character"></space>
+                  <date corresp="https://godot.date/id/puESXHZfTKfs9yv8eWsbnh"><num value="40" cert="low">μ</num> 
+                  <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></date> <space quantity="6" unit="character"></space>
                             <lb n="35"/> 
-                  <orig>β</orig>
+                  <orig>β</orig> <space quantity="2" unit="character"></space>
                   <persName type="attested" key="lgpn:V1-63856">
                      <name nymRef="Εὐμηλίδας">Εὐμηλίδας</name>
                   </persName>
-                            <lb n="36"/> 
-                  <persName type="attested"><name nymRef="Εὐμ-"><seg part="I"><abbr>Εὐμ</abbr></seg></name> 
+                            <lb n="36"/> <space quantity="2" unit="character"></space>
+                  <persName type="attested"><name nymRef="Εὐμ-"><seg part="I">Εὐμ</seg></name>  
                      <persName type="attested" key="lgpn:V1-65203"><name nymRef="Ὀδύριος">Ὀδυρίου</name></persName></persName>
-                            <lb n="37"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                            <lb n="37"/><date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                             <num value="55">εν</num></date> 
                   <persName type="attested" key="lgpn:V1-62680"><name nymRef="Ἀκέσανδρος">Ἀκέσανδρος</name>
                   <lb n="38"/><persName type="attested" key="lgpn:V1-65523"><name nymRef="Πτολεμαῖος">Πτολεμαίω</name></persName></persName>
                   <lb n="39"/> <persName type="attested" key="lgpn:V1-65568"><name nymRef="Σάφων">Σάφων</name>
-                     <persName type="attested"><name nymRef="Κλευ-"><seg part="I"><abbr>Κλευ</abbr></seg></name></persName> </persName>
-                  <persName type="attested"><name nymRef="Εὐδ-"><seg part="I"><abbr>Εὐδ</abbr></seg><!-- check --></name></persName> 
-                  <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                  <num value="55">νε</num> 
+                     <persName type="attested"><name nymRef="Κλευ-"><seg part="I">Κλευ</seg></name></persName> </persName>
+                  <persName type="attested"><name nymRef="Εὐδ-"><seg part="I">Εὐδ</seg><!-- check --></name></persName> 
+                  <date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                  <num value="55">νε</num></date> 
                   <lb n="40"/><space extent="unknown" unit="character"/> 
                   <persName type="attested" key="lgpn:V1-63611"><name nymRef="Δίων">Δίω<lb
-                     n="41" break="no"/><surplus>ω</surplus>νος</name></persName> 
+                     n="41" break="no"/><surplus>ω</surplus>νοϲ</name></persName> 
                   <persName type="attested" key="lgpn:V1-63447"><name nymRef="Δαμακλῆς">Δαμακλῆς</name> 
                   <persName type="attested" key="lgpn:V1-63446"><name nymRef="Δαμακλῆς"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Δαμακλεῦς</ex></expan></name></persName></persName>
                   <lb n="42"/><orig><unclear>Α</unclear><space extent="4" unit="character"/>
@@ -471,20 +472,26 @@
             </div>
             <div subtype="column" n="b" type="textpart">
                <ab>
-                     <lb n="25"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                            <num value="55">νε</num>
+                     <lb n="25"/><date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                            <num value="55">νε</num></date>
                             <lb n="26"/> <persName type="attested" key="lgpn:V1-63320"><name nymRef="Ἄτταλος">Ἄτταλ<lb
                                n="27" break="no"/>ος</name> 
                      <persName type="attested" key="lgpn:V1-63319"><name nymRef="Ἄτταλος">Ἀττά<lb
                         n="28" break="no"/>λω</name></persName></persName>
-                            <lb n="29"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                            <num value="55">νε</num> 
+                            <lb n="29"/><date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                            <num value="55">νε</num></date> 
                   <persName type="attested" key="lgpn:V1-63701"><name nymRef="Ἐπικράτης">Ἐπικράτης</name></persName>
                      <lb n="30"/><persName type="attested" key="lgpn:V1-63961"><name nymRef="Εὖφρις">Εὖφρις</name></persName>
                </ab>
             </div>
          </div>
          </div> 
+         
+         <div type="apparatus">
+            <head>Apparatus</head>
+            <listApp>
+               <app loc="3.a.33"><rdg resp="#seg">Κλεώνεμος</rdg> <note>whence LGPN V1-64690</note></app></listApp>
+         </div>
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#gl-jmr1983" xml:lang="de"><p><note>a, lines 1-17</note>: (Jahr) 34; zur Zeit des Priesters des Apoll Isokrates des Klearchos und (des Priesters) 
@@ -497,6 +504,8 @@
          <div type="commentary">
             
             <p>On the Jewish names see Lüderitz, op.cit..</p>
+            
+            <p>3.a.line 35/36: the initial B is written large across the opening of these two lines. </p>
             <p>1.a.1: 34 of the Actian era = C.E. 3/4</p><!-- 1.a.6: This name appears as a priest in Stucchi's list. 
                 
                     1.a.3, Perhaps to be identified with the ἱαρειτεύων of 996, line  2 -->
