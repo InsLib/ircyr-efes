@@ -122,9 +122,9 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Πειθαλλας"><unclear>Π</unclear>ειθα<unclear>λλα</unclear>ς</name></persName> 
                     <gap reason="lost" quantity="2" unit="character"/><orig><unclear>λλαν</unclear></orig> 
-                    <lb n="2"/><gap reason="lost" quantity="1" unit="character"/><w><unclear>ν</unclear>ο<unclear>υ</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" quantity="1" unit="character"/> <w><unclear>ν</unclear>ο<unclear>υ</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><orig>μ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><orig><unclear>ν</unclear></orig><gap reason="lost" quantity="5" unit="character"/><w>αρη</w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><orig><unclear>ν</unclear></orig><gap reason="lost" quantity="5" unit="character"/> <w>αρη</w><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><space quantity="1" unit="character"/> <date type="life-span" dur="P70Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="70">ο</num> </date>
                 </ab>
 </div>

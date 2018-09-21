@@ -121,10 +121,10 @@
 <ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ολλ<unclear>λω</unclear></orig>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="ἐπί">ἐπ</w><orig>᾽</orig><w>ἰερέ<unclear>ω</unclear><supplied reason="lost">ς</supplied></w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἐπί">ἐπ</w><orig>᾽</orig><w>ἰερέ<unclear>ω</unclear><supplied reason="lost">ς</supplied></w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>ωσδω</orig><gap reason="lost" quantity="2" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig>σασ</orig><gap reason="lost" quantity="1" unit="character"/><orig>σευ</orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ιι</unclear></orig>
-                    <lb n="5"/><gap reason="lost" quantity="5" unit="character"/><w><unclear>το</unclear>ις</w>
+                    <lb n="5"/><gap reason="lost" quantity="5" unit="character"/> <w><unclear>το</unclear>ις</w>
                     <w><unclear>Α</unclear></w><gap reason="lost" quantity="8" unit="character" precision="low"/>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><orig>τελε</orig><gap reason="lost" quantity="9" unit="character" precision="low"/> 
                     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><orig>μιτρη</orig><gap reason="lost" quantity="11" unit="character"/><orig>θ</orig><gap reason="lost" quantity="7" unit="character" precision="low"/> 

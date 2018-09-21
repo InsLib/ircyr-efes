@@ -117,7 +117,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div type="textpart" n="a">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w><unclear>ὁ</unclear></w> <w>αὐτὸς</w> <orig>κ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ὁ</unclear></w> <w>αὐτὸς</w> <orig>κ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab></div>
             <div type="textpart" n="b">
             <ab>
@@ -131,12 +131,12 @@
 </div>
                <div type="textpart" n="d">
                   <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><w>παρὰ</w> <w><unclear>τ</unclear>ῆς</w> <orig>λα</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> <w>παρὰ</w> <w><unclear>τ</unclear>ῆς</w> <orig>λα</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
                   <div type="textpart" n="e">
                      <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w><unclear>τ</unclear>ὸν</w> <w>πόρον</w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>τ</unclear>ὸν</w> <w>πόρον</w><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
 </div>

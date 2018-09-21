@@ -117,7 +117,7 @@
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> 
                     <w part="I">clo</w><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">ciu</supplied>itate</w> 
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ciu</supplied>itate</w> 
                     <placeName type="ethnic"><w lemma="Ptolemaensis">Pt<supplied reason="lost">olemaensium</supplied></w></placeName>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>

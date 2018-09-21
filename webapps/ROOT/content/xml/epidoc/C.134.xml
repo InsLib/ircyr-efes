@@ -152,7 +152,7 @@
                     </ab></div><div subtype="fragment" n="b" type="textpart"><ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>  
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ιν</orig><gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ενα</orig><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost" cert="low">ἐπαι</supplied> 
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ενα</orig><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">ἐπαι</supplied> 
                     <lb n="3"/>νεσθαι</w><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="4"/><w>ἀνθέμεν</w> <w lemma="δέ">δὲ</w> <supplied reason="lost"><w lemma="αὐτός">αὐτῶι</w> <w>στάλαν</w>
                         <w>γράπταν</w> <w lemma="ἐν">ἐν</w> <w>ταὶ</w> <w>ἀγοραὶ</w> <w>ἐπιγραφὰν</w> <w lemma="ἔχω">ἔχουσαν</w></supplied> 

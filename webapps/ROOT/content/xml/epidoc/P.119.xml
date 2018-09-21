@@ -149,7 +149,7 @@
          </div>
          
          <div type="edition" xml:lang="la" xml:space="preserve"><div subtype="fragment" n="a-c" type="textpart"><ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">num</w> 
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">num</w> 
                         <w lemma="uictor">uic<supplied reason="lost">t</supplied>ores</w> <w lemma="atque">ac</w> 
             <w lemma="triumfator"><supplied reason="lost">t</supplied>riumfatores</w>
                     <lb n="2"/><w lemma="semper">semper</w> <persName type="emperor"><name nymRef="Augustus"><seg part="I">A<supplied reason="lost">ugust</supplied></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
@@ -172,7 +172,7 @@
             </div>
             <div subtype="fragment" n="g" type="textpart">
                   <ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">imum</w> 
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">imum</w> 
                         <w lemma="dedico">dedic<supplied reason="lost">auit</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
                   </ab>
             </div>

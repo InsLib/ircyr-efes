@@ -148,33 +148,33 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve"><div subtype="section" n="a+b" type="textpart"><ab>
                             <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">nstrum</w><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">as</w> <w lemma="noster">nostrarum</w>
-                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">pr</supplied>oprium</w> <w lemma="negotium">negotium</w>
-                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="ut"><unclear>u</unclear>t</w> <w lemma="inspicio">inspiciant</w> <w lemma="et">et</w> <w lemma="fides">fid<unclear>e</unclear>m</w>
-                        <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">s</w> 
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">nstrum</w><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">as</w> <w lemma="noster">nostrarum</w>
+                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">pr</supplied>oprium</w> <w lemma="negotium">negotium</w>
+                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ut"><unclear>u</unclear>t</w> <w lemma="inspicio">inspiciant</w> <w lemma="et">et</w> <w lemma="fides">fid<unclear>e</unclear>m</w>
+                        <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">s</w> 
                             <w lemma="de">de</w> <w lemma="is">is</w> <w lemma="qui">quae</w> <w lemma="adversus">adversus</w>
-                        <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">int</w> <w lemma="hic">huius</w> 
+                        <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">int</w> <w lemma="hic">huius</w> 
                             <w lemma="epistula">epistulae</w> <w lemma="in">in</w> <w lemma="forum">for<unclear>o</unclear></w>
-                        <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">tionibus</w>
+                        <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">tionibus</w>
                             <w lemma="clarus">claris</w> <w lemma="littera">litteris</w>
-                        <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><w><unclear>r</unclear>um</w>
+                        <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>r</unclear>um</w>
                             <w lemma="quotiens">quotiens</w> <gap reason="lost" quantity="5" unit="characters"/>
-                        <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><unclear>s</unclear></w>
+                        <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>s</unclear></w>
                             <w lemma="in">in</w> <w part="I"><unclear>po</unclear></w><gap reason="lost" quantity="10" unit="characters"/>
                         <lb n="9a"/><gap reason="lost" extent="unknown" unit="line"/>
                         </ab></div><div subtype="fragment" n="c" type="textpart"><ab>
                             <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>e</unclear>xv</orig>
                             <w lemma="implico" part="I">inplici</w><gap reason="lost" extent="unknown" unit="character"/> 
-                            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w><unclear>i</unclear>entes</w> 
+                            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>i</unclear>entes</w> 
                             <w part="I">d</w><gap reason="lost" extent="unknown" unit="character"/>
-                            <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w><unclear>n</unclear>oto</w> 
+                            <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>n</unclear>oto</w> 
                             <w part="I"><unclear>p</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div><div subtype="fragment" n="d" type="textpart"><ab>
                             <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>rumus</orig><gap reason="lost" extent="unknown" unit="character"/>
-                            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">m</w> <w lemma="de">de</w>
+                            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">m</w> <w lemma="de">de</w>
                             <w part="I">eo</w><gap reason="lost" extent="unknown" unit="character"/>
-                            <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w part="I">qu</w><gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w part="I">qu</w><gap reason="lost" extent="unknown" unit="character"/>
                         </ab>
 </div>
 </div>

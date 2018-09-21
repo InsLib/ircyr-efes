@@ -162,11 +162,11 @@
          <!-- 
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>fil</orig>
                     <g ref="symbols.xml#leaf"/> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><orig><unclear>v</unclear>ae</orig></w> 
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><orig><unclear>v</unclear>ae</orig></w> 
                     <g ref="symbols.xml#leaf"/> <w part="I"><orig>pron</orig></w><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><orig>ax</orig></w> 
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><orig>ax</orig></w> 
                     <orig>trib</orig> <w part="I"><unclear>p</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><orig>m</orig></w> 
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><orig>m</orig></w> 
                     <w part="I"><orig>potitu</orig></w><gap reason="lost" extent="unknown" unit="character"/> -->
          
       </body>

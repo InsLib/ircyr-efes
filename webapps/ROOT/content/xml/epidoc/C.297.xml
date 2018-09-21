@@ -121,7 +121,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">Ἀρ</supplied>ιστανδ<supplied reason="lost">ρ</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">Ἀρ</supplied>ιστανδ<supplied reason="lost">ρ</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

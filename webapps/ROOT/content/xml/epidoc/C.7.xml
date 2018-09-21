@@ -185,11 +185,11 @@
                         <lb n="1"/><gap reason="lost" extent="unknown" 
                            unit="character"/><space quantity="1" unit="character"/> 
                         <lb n="2"/><gap reason="lost" extent="unknown" 
-                           unit="character"/><w><supplied 
+                           unit="character"/> <w><supplied 
                               reason="lost">ἀρχ</supplied><unclear>ι</unclear>ερε<unclear>ύ</unclear>ς</w> 
                   <space quantity="1" unit="character"/>
                         <lb n="3"/><gap reason="lost" extent="unknown" 
-                           unit="character"/><w><supplied reason="lost">κα</supplied>τασταθῆναι</w> 
+                           unit="character"/> <w><supplied reason="lost">κα</supplied>τασταθῆναι</w> 
                   <w>ἐκέλευσ<supplied reason="lost">εν</supplied></w> 
                </ab>
             </div>
@@ -227,7 +227,7 @@
                         <persName type="emperor"><name nymref"Παρθικός"><supplied reason="lost">Π</supplied>αρθικ<supplied 
                            reason="lost">οῦ</supplied></name><gap reason="lost" 
                               extent="unknown" unit="character"/>
-                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied 
+                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied 
                            reason="lost">ἐξουσία</supplied><unclear>ς</unclear></w> <w>τὸ</w> 
                            <num value="2"><unclear>β</unclear></num> </persName> <gap reason="lost" 
                               extent="unknown" unit="character"/>

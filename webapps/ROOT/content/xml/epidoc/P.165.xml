@@ -142,32 +142,32 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="section" n="a" type="textpart"><ab>
                             <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ν<unclear>ισο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> 
-                            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">πλ</supplied>ημμελουμεν<unclear>ε</unclear></w><gap reason="lost" extent="unknown" unit="character"/> 
+                            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">πλ</supplied>ημμελουμεν<unclear>ε</unclear></w><gap reason="lost" extent="unknown" unit="character"/> 
                             <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὁ">τὰς</w> <w lemma="μέν">μὲν</w> <w>θρησκε<unclear>ία</unclear></w>
                             <gap reason="lost" extent="unknown" unit="character"/>
-                            <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><orig><unclear>αν</unclear>ου</orig></w> <w>καὶ</w> <w>ἔνοσε</w> 
+                            <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><orig><unclear>αν</unclear>ου</orig></w> <w>καὶ</w> <w>ἔνοσε</w> 
                             <w part="I">κασ<unclear>ι</unclear></w><gap reason="lost" extent="unknown" unit="character"/> 
-                            <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><w>παντας</w> <w>τοῖς</w> <space quantity="5" unit="character"/>
+                            <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>παντας</w> <w>τοῖς</w> <space quantity="5" unit="character"/>
                             <gap reason="lost" extent="unknown" unit="character"/>
                             <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ι</unclear></orig><gap reason="lost" quantity="3" unit="character"/><orig><unclear>ι</unclear>ον</orig> <w part="I">βου</w><gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div><div subtype="section" n="b" type="textpart"><ab>
-                            <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">ου</w> <w part="I">λοιπ</w><orig><unclear>ο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ου</w> <w part="I">λοιπ</w><orig><unclear>ο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                             <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> 
                             <w part="I">συνωμ<unclear>ο</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
                             <lb n="3"/><w part="F"><gap reason="lost" extent="unknown" unit="character"/>σα</w> <w lemma="ὅτι">ὅτι</w> <w>ἀν</w><gap reason="lost" extent="unknown" unit="character"/>
-                            <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w part="M"><unclear>υ</unclear>κτο</w><gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w part="M"><unclear>υ</unclear>κτο</w><gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div><div subtype="section" n="c" type="textpart"><ab>
                             <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
                             <orig><unclear>ι</unclear>αναμ<unclear>ι ζ</unclear></orig>
                             <gap reason="lost" extent="unknown" unit="character"/>
-                            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w>εἰλάσκεσθα</w><w><supplied reason="lost">ι</supplied><gap reason="lost" extent="unknown" unit="character"/></w>
-                            <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">θαι</w> <w lemma="ὁ">τοὺς</w> <w>θ<unclear>ε</unclear><supplied reason="lost" cert="low">ούς</supplied></w>
+                            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>εἰλάσκεσθα</w><w><supplied reason="lost">ι</supplied><gap reason="lost" extent="unknown" unit="character"/></w>
+                            <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">θαι</w> <w lemma="ὁ">τοὺς</w> <w>θ<unclear>ε</unclear><supplied reason="lost" cert="low">ούς</supplied></w>
                             <gap reason="lost" extent="unknown" unit="character"/>
-                            <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><unclear>μ</unclear>ενων</w><gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>μ</unclear>ενων</w><gap reason="lost" extent="unknown" unit="character"/>
                             <lb n="5"/><gap reason="lost" extent="unknown" unit="line"/>
                         </ab></div><div subtype="section" n="d" type="textpart"><ab>
                          <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>μ</unclear>ω<unclear>ι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
-                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w part="M">ταγμ</w><gap reason="lost" extent="unknown" unit="character"/>
+                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="M">ταγμ</w><gap reason="lost" extent="unknown" unit="character"/>
                          <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>ωνα</orig><gap reason="lost" extent="unknown" unit="character"/>
                          <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>α</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                      </ab>

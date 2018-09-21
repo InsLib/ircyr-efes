@@ -129,7 +129,7 @@
                </bibl>,
                     <bibl>
                        <author>Romanelli</author> 
-                  <title>Africa Romana</title>, <!-- ?? --><citedRange>225</citedRange>
+                  <title>Africa Romana</title>, <!-- check ?? --><citedRange>225</citedRange>
                </bibl>,
                     and <bibl><ptr target="romanelli1943"/> <citedRange>80</citedRange>
                     </bibl>; cited <bibl> <ptr target="gasperini1965"/>
@@ -140,10 +140,10 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="imperator"><supplied reason="lost"><expan><abbr>Imp</abbr><ex>eratore</ex></expan></supplied></w>
+                    <lb n="1"/><date><w lemma="imperator"><supplied reason="lost"><expan><abbr>Imp</abbr><ex>eratore</ex></expan></supplied></w>
                     <persName type="emperor" key="augustus"><name nymRef="Caesar">Caesare</name> <name nymRef="Augustus">Augusto</name>
                     <w lemma="pontifex"><expan><abbr>pont</abbr><ex>ifice</ex></expan></w> 
-                        <w lemma="magnus"><expan><abbr>max</abbr><ex>imo</ex></expan></w></persName> 
+                        <w lemma="magnus"><expan><abbr>max</abbr><ex>imo</ex></expan></w></persName> </date>
                     <persName type="consul"><name nymRef="Quintus"><expan><abbr>Q</abbr><ex>uintus</ex></expan></name>
                         <name nymRef="Lucanius">Lucanius</name> <name nymRef="Proculus">Proculus</name> 
                         <w lemma="proconsul"><expan><abbr>proco</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w></persName> 

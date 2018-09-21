@@ -134,7 +134,7 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
-                    <lb n="1"/><space quantity="2" unit="character"/><w lemma="deus"><expan><abbr>D</abbr><ex>is</ex></expan></w>
+                    <lb n="1"/><space quantity="2" unit="character"/> <w lemma="deus"><expan><abbr>D</abbr><ex>is</ex></expan></w>
                     <persName type="divine" key="manes"><name nymRef="Manes"><expan><abbr>M</abbr><ex>anibus</ex></expan></name></persName><space quantity="2" unit="character"/>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60177"><name nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> 
                     <name nymRef="Aurelius"><expan><abbr>Aur</abbr><ex>elius</ex></expan></name> 
@@ -143,12 +143,12 @@
                     <w lemma="legio"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w> <num value="2">II</num> 
                     <w><expan><abbr>Ad</abbr><ex>iutricis</ex></expan></w> <w lemma="ex">ex</w>
                     <w part="I" lemma="doctor"><expan><abbr>d</abbr><supplied reason="lost"><abbr>oc</abbr></supplied><supplied reason="lost"><ex>tore</ex></supplied></expan></w>
-                    <lb n="4"/><space quantity="1" unit="character"/><w lemma="fabrica">fabrica<space quantity="2" unit="character"/>e</w> <w><expan><abbr>sep</abbr><ex>ulcrum</ex></expan></w> 
+                    <lb n="4"/><space quantity="1" unit="character"/> <w lemma="fabrica">fabrica<space quantity="2" unit="character"/>e</w> <w><expan><abbr>sep</abbr><ex>ulcrum</ex></expan></w> 
                     <w>ui<supplied reason="omitted">u</supplied>us</w>
                     <lb n="5"/><space quantity="1" unit="character"/> <w lemma="se">sibi</w> <w lemma="et">et</w> 
                     <w lemma="suus">s<supplied reason="lost">u<space quantity="2" unit="character"/></supplied>is</w>
                     <space quantity="1" unit="character"/>
-                    <lb n="6"/><space quantity="1" unit="character"/><w lemma="facio"><expan><space quantity="1" unit="character"/>
+                    <lb n="6"/><space quantity="1" unit="character"/> <w lemma="facio"><expan><space quantity="1" unit="character"/>
                         <abbr>f<unclear>a</unclear><space quantity="1" unit="character"/>c</abbr><ex>iendum</ex></expan></w> <space quantity="1" unit="character"/> <supplied reason="lost"><space quantity="2" unit="character"/></supplied> <g ref="symbols.xml#leaf"/> <w lemma="curo"><expan><abbr>cur</abbr><ex>auit</ex></expan></w>
                 </ab>
 </div>

@@ -127,19 +127,19 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="a" type="textpart"><ab>
                    <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/> 
                    <lb n="1"/><persName type="attested"><gap reason="lost" extent="unknown" unit="character"/><name><seg part="F">κιλία</seg></name></persName> 
-                   <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><unclear>τ</unclear>ου</w> 
+                   <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>τ</unclear>ου</w> 
                            <space quantity="1" unit="character"/>
-                       <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">ς</w> 
+                       <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ς</w> 
                            <space quantity="3" unit="character"/>
                        </ab></div><div subtype="part" n="b" type="textpart"><ab>
                        <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                           <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">ς</w>
+                           <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ς</w>
                            <space quantity="1" unit="character"/> 
-                           <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">στ</supplied>ήλην</w> 
+                           <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">στ</supplied>ήλην</w> 
                        <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <space quantity="3" unit="character"/>
-                           <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">ς</w> <w lemma="καί">καὶ</w>
+                           <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ς</w> <w lemma="καί">καὶ</w>
                            <space quantity="1" unit="character"/>
-                           <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><w>ξιας</w>
+                           <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>ξιας</w>
                        </ab>
 </div>
 </div>

@@ -142,13 +142,13 @@
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> 
                     <w lemma="Romanus">R</w><gap reason="lost" quantity="5" unit="character"/> <w lemma = "astus">astu</w> 
                     <w lemma="is"><unclear>e</unclear>a</w> <w lemma="ita">i<unclear>t</unclear>a</w> <w><unclear>f</unclear>axis</w> 
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><w><unclear>x</unclear>v</w> 
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>x</unclear>v</w> 
                     <w lemma="tu"><supplied reason="lost">t</supplied>ibi</w> <w lemma= "datus">datum</w> <w lemma= "eo">iri</w> 
             <w lemma= "voveo>uouemu<supplied reason="lost">s</supplied></w> 
                     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="qui">quod</w> <w lemma= "hodie">hodie</w>
             <w lemma = "voveo">uouimus</w> 
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <space quantity="1" unit="character"/> 
-                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="qui">quod</w>
+                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="qui">quod</w>
                     <w lemma= "hodie">hodie</w> <w lemma = "voveo">uou<supplied reason="lost">imus</supplied></w> 
                     <lb n="9a"/><gap reason="lost" quantity="1" unit="line"/>
                 </ab></div>-->

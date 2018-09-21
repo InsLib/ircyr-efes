@@ -129,7 +129,7 @@
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">ος</seg></name></persName>
                     </ab></div></div>
             <div subtype="part" n="ii" type="textpart"><ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><unclear>ς</unclear></w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>ς</unclear></w>
                     <persName type="attested"><name nymRef="Ξενώ" cert="low">Ξεν<unclear>ώ</unclear></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>

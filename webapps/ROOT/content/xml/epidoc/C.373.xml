@@ -125,7 +125,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><orig>κυρ<unclear>ιι</unclear>ατρε</orig>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">για<unclear>ν</unclear></w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">για<unclear>ν</unclear></w>
                     <lb n="3"/><orig>τω</orig><gap reason="lost" quantity="3" unit="character"/><orig>υ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" quantity="2" unit="character"/><orig>ευ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4a"/><gap reason="lost" extent="unknown" unit="line"/>

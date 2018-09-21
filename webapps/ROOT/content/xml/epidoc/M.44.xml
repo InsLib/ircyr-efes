@@ -177,14 +177,14 @@
                </div>
                <div subtype="column" n="ii" type="textpart">
                     <ab>
-                       <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">ο</w>
-                       <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">υ</w>
-                       <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">υ</w> 
-                       <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">ίου</w>
-                       <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">οϲ</w>
-                       <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">φη</w>
+                       <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ο</w>
+                       <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">υ</w>
+                       <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">υ</w> 
+                       <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ίου</w>
+                       <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">οϲ</w>
+                       <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">φη</w>
                        <lb n="7"/><space quantity="1" unit="line"/>
-                       <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">νίο</w>
+                       <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">νίο</w>
                        <lb n="9"/><persName type="attested"><gap reason="lost" extent="unknown" unit="character"/><name><seg part="F">νουτίου</seg></name></persName>
                        <lb n="10"/><persName type="attested"><gap reason="lost" extent="unknown" unit="character"/><name><seg part="F">νουφίδου</seg></name></persName>
                        <lb n="11"/><space quantity="1" unit="line"/>

@@ -126,7 +126,7 @@
                       <persName type="attested"><name nymRef="Πεῖσις">Πεῖσις</name></persName>
                      <lb n="2"/><w lemma="ἔθος">ἔθος</w>
                   </ab></div></div><div subtype="fragment" n="Face 2" type="textpart"><ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w>τι</w>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>τι</w>
                         <persName type="attested"><name nymRef="Πρώταρχος" cert="low">Πρώ
                         <lb n="2" break="no"/>ταρχω</name></persName>
                         <lb n="3"/><gap reason="lost" extent="unknown" unit="line"/>

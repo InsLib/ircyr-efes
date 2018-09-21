@@ -126,7 +126,7 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w>sacrum</w> <space quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>sacrum</w> <space quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="2"/><space quantity="1" unit="character"/>
                 </ab>
 </div>

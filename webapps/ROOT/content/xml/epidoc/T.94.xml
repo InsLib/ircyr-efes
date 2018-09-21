@@ -119,7 +119,7 @@
                         <persName type="attested"><name nymRef="Σ-"><seg part="I">Σ</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div subtype="section" n="b" type="textpart"><ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w><expan><abbr><hi rend="ligature">φίλ</hi></abbr><ex>ος</ex></expan></w> <persName type="attested"><name nymRef="Γράνιος"><unclear>Γρανί</unclear><supplied reason="lost" cert="low">ωι</supplied></name></persName>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><expan><abbr><hi rend="ligature">φίλ</hi></abbr><ex>ος</ex></expan></w> <persName type="attested"><name nymRef="Γράνιος"><unclear>Γρανί</unclear><supplied reason="lost" cert="low">ωι</supplied></name></persName>
                     </ab></div>
             <div subtype="section" n="c" type="textpart"><ab>
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60383"><name nymRef="Καρνήδας">Καρνήδας</name></persName> 

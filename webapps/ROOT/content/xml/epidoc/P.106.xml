@@ -118,7 +118,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">ἱ</supplied><unclear>αρ</unclear>εὶς</w> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἱ</supplied><unclear>αρ</unclear>εὶς</w> 
                     <persName type="attested"><name nymRef="Φίλισκος">Φίλισκος</name></persName> 
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>
                     <persName type="attested"><name nymRef="Πίνδαρος">Πινδάρου</name></persName> 

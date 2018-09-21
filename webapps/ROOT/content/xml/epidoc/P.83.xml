@@ -126,7 +126,7 @@
                     <lb n="2"/><w lemma="proconsul" part="I"><expan><abbr><supplied reason="lost">pr</supplied>oco</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
              <w lemma="adhibeo"><unclear>a</unclear>dhibi<lb n="4" break="no"/><supplied reason="lost">tis</supplied></w>
-             <gap reason="lost" extent="unknown" unit="character"/><w part="F">ibus</w> <w lemma="suus">suis</w>
+             <gap reason="lost" extent="unknown" unit="character"/> <w part="F">ibus</w> <w lemma="suus">suis</w>
                     <lb n="4a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
 </div>

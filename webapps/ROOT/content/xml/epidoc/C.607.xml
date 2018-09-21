@@ -139,7 +139,7 @@
                     <lb n="6"/><w>ἐνθάδε</w> <w>ἐτάφη</w> 
             <date type="life-span" dur="P86Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="86">πϛ</num> </date> 
-                    <lb n="7"/><space extent="2" unit="character"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="7"/><space extent="2" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="122">ρκβ</num> <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παοινί</w></rs> <num value="27">ζκ</num> <persName type="attested"><name nymRef="Κόϊντος"><expan><abbr>Κ</abbr><ex>όιντος</ex></expan></name>
               <name nymRef="Πομπήϊος">Πονπήιος</name>
             <lb n="8"/><space extent="2" unit="character"/><name nymRef="Πωλλίων">Πωλλίων</name></persName> 

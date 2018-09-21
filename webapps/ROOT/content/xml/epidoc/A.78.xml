@@ -129,7 +129,7 @@
 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ιου</orig>
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w>ν</w> <persName type="attested"><name nymRef="Ἀπολλώνιος"><seg part="I">Ἀπολ</seg></name></persName>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ν</w> <persName type="attested"><name nymRef="Ἀπολλώνιος"><seg part="I">Ἀπολ</seg></name></persName>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>νοςπα</orig> 
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><num value="80">π</num> 
                 </ab>

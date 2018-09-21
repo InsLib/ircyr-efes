@@ -146,7 +146,7 @@
 
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w>ὑγίαινε</w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ὑγίαινε</w>
                     <orig><unclear>Δ</unclear>υ<unclear>ο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="1a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>

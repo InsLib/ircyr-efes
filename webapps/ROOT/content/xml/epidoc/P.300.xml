@@ -123,7 +123,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                    <lb n="0"/><gap reason="lost" quantity="1" unit="line" precision="low"/>
-                    <lb n="1"/><gap reason="lost" quantity="2" unit="character"/><w><unclear>ο</unclear></w> <orig>ς α π ι ε</orig>
+                    <lb n="1"/><gap reason="lost" quantity="2" unit="character"/> <w><unclear>ο</unclear></w> <orig>ς α π ι ε</orig>
                     <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><persName type="attested"><name nymRef="Θράκιος">Θρακίω</name></persName>
 </ab>
 </div>

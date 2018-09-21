@@ -142,7 +142,7 @@
                     <supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="3">γ</num>
                     <lb n="10"/><persName type="attested" key="lgpn:V1-61463"><name nymRef="Μᾶρκος">Μ<supplied reason="lost">ᾶ</supplied><unclear>ρ</unclear>κοϲ</name>
                     <lb n="11"/><persName type="attested" key="lgpn:V1-61563"><name nymRef="Πόπλιος">Πο<space quantity="1" unit="character"/>πλί<lb n="12" break="no"/>ου</name></persName></persName> 
-                    <space quantity="1" unit="character"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="18">ιη</num>
+                    <space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="18">ιη</num>
                 </ab>
 </div>
          <div type="apparatus">

@@ -121,7 +121,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="a" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ελα<unclear>π</unclear>αναι</orig><space quantity="1" unit="character"/>
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w>ρεν</w> <w lemma="ἀνατίθημι">ἀνέθηκεν</w>  
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>ρεν</w> <w lemma="ἀνατίθημι">ἀνέθηκεν</w>  
                     </ab></div><div subtype="fragment" n="b" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>α<unclear>λ</unclear>ονον</orig>
                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <orig>αν</orig>

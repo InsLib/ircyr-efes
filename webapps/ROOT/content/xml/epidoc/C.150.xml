@@ -102,11 +102,8 @@
          <change when="2009-06-14" who="MR">turned to XML and tidied</change>
          <change when="2009-05-11" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_708_001front" decls="#photograph"><desc>Face (Joyce Reynolds, I 91)</desc></graphic><graphic url="JMR_708_003front" decls="#photograph"><desc>Face and context  (Joyce Reynolds)</desc></graphic><!--
-                    --><!--
-                    
-                    --><!--
-                --></facsimile>
+   </teiHeader><facsimile><graphic url="JMR_708_001front" decls="#photograph"><desc>Face (Joyce Reynolds, I 91)</desc></graphic>
+      <graphic url="JMR_708_003front" decls="#photograph"><desc>Face and context  (Joyce Reynolds)</desc></graphic></facsimile>
    <text>
       <body>
          

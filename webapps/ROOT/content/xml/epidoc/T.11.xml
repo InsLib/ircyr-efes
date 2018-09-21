@@ -131,7 +131,7 @@
          </div>
             <div subtype="fragment" n="b" type="textpart">
                <ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">to</w> 
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">to</w> 
                         <space quantity="1" unit="character"/> 
                         <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>

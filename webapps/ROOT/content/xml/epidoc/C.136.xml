@@ -116,7 +116,7 @@
 <ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/> 
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>bv</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">s</w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">s</w>
                     <w lemma="is">eoru<supplied reason="lost">m</supplied></w><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="is">eosque</w> 
                     <w lemma="qui">qu<supplied reason="lost">i</supplied></w><gap reason="lost" extent="unknown" unit="character"/> 

@@ -158,7 +158,7 @@
                     <lb n="11" break="no"/><supplied reason="lost">τρό</supplied>δωρος</name></persName>, <w>ἀκαδήμαρχος</w>
                     <persName type="attested"><name nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτος</ex></expan></name> 
                     <lb n="12"/><name nymRef="Φλάβιος"><supplied reason="lost">Φλ</supplied>άβιος</name> <name nymRef="Φλαβιανός">Φλαβιανός</name></persName> <g ref="symbols.xml#leaf"/> 
-                 <lb n="13"/><space quantity="7" unit="character"/><w>Ἔφηβοι</w><space quantity="7" unit="character"/> 
+                 <lb n="13"/><space quantity="7" unit="character"/> <w>Ἔφηβοι</w><space quantity="7" unit="character"/> 
                     <lb n="14"/><persName type="attested" key="lgpn:V1-65909"><gap reason="lost" quantity="4" unit="character"/><name nymRef="Φιλήμων">Φιλήμων</name></persName>
                     <space quantity="5" unit="character"/> <persName type="attested" key="lgpn:V1-62967"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> 
                     <name nymRef="Οὐαλέριος">Οὐαλέριος</name> <name nymRef="Ἀπολινάρις">Ἀπολινάρις</name></persName>  

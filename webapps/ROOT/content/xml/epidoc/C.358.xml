@@ -127,7 +127,7 @@
                     <w lemma="ἱερεύς"><supplied reason="lost">ἱ</supplied>ερ<supplied reason="lost">έως</supplied></w>
                     <persName type="attested"><name nymRef="Μα-"><seg part="I">Μα</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>νο</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">εἰσῆ</supplied>λθ<supplied reason="lost">εν</supplied></w>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">εἰσῆ</supplied>λθ<supplied reason="lost">εν</supplied></w>
                     <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>

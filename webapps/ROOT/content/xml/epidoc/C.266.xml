@@ -146,7 +146,7 @@
                <gap reason="lost" extent="unknown" unit="character"/>
                <persName type="attested"><name nymRef="Τιβέριος"><supplied reason="lost"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></supplied></name> 
                   <name nymRef="Κλαύδιος"><supplied reason="lost">Κλαυ</supplied><unclear>δ</unclear>ίου</name> <name nymRef="Φι-"><seg part="I">Φι</seg></name></persName>
-                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">υἱὸς</supplied></w>
+                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">υἱὸς</supplied></w>
                <persName type="attested"><name nymRef="Τιβέριος"><supplied reason="lost"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></supplied></name>
                   <name nymRef="Κλαύδιος">Κλαύδιος</name>
                     <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/><name><seg part="F">ς</seg></name></persName>

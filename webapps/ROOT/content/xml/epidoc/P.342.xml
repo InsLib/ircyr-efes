@@ -121,7 +121,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ΣΟΥΗ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">ἀν</supplied>θύπατο<unclear>ς</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἀν</supplied>θύπατο<unclear>ς</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

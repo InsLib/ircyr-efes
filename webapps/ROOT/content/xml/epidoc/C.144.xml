@@ -134,7 +134,7 @@
  <lb n="5"/><date corresp="https://godot.date/id/4hCyBccSu2RfCkCKUfXJBM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></date>
     <space extent="unknown" unit="character"/> 
  <lb n="6"/><date corresp="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-    <num value="5"><unclear>ε</unclear></num></date> <orig>αλκ</orig> <date corresp="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW"><w><expan><abbr><g ref="symbols.xml#year"/></abbr><ex>ἔτους</ex></expan></w>
+    <num value="5"><unclear>ε</unclear></num></date> <orig>αλκ</orig> <date corresp="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
     <num value="5">ε</num></date> <persName type="attested"><name nymRef="Λύκος">Λύκος</name> 
         <persName type="attested"><name nymRef="Ἀμμώνιος"><expan><abbr>Ἀμμων</abbr><ex>ί</ex><abbr>ου</abbr></expan></name></persName> </persName>
  <lb n="7"/><date><date corresp="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 

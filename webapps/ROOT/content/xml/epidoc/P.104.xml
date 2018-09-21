@@ -119,15 +119,15 @@
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ᾶεὶ</w> 
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ουσαν</orig>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w><unclear>κ</unclear>ἰου</w> <persName type="attested"><name nymRef="Ἀπίων" cert="low"><seg part="I">Ἀπιω</seg></name></persName>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>κ</unclear>ἰου</w> <persName type="attested"><name nymRef="Ἀπίων" cert="low"><seg part="I">Ἀπιω</seg></name></persName>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Κάρνις"><supplied reason="lost">K</supplied>άρνιος</name></persName> <w lemma="ὁ">τὸν</w> 
                     <w>ε</w> <space quantity="1" unit="character"/>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">δ</supplied>εδογμένοις</w> <w>ε</w> <space quantity="1" unit="character"/>
-                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><w>ους</w> <w>τό</w> <w>ψήφισμα</w> 
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">ἀναγ</supplied>ράψαι</w> <w lemma="δέ">δὲ</w> <w lemma="καί">καὶ</w> <w lemma="ὁ">τοὺς</w>
-                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="εἰς"><supplied reason="lost">ε</supplied><unclear>ἰ</unclear>ς</w> <w>στήλην</w> <w>λίθου</w>
-                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">παρ</supplied>ὰ</w> <w>τὴ<del rend="erasure">ν <supplied reason="omitted">ε</supplied>ἰκόνα</del></w> <space quantity="1" unit="character"/>
-                    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">λευκα</supplied>ι</w>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">δ</supplied>εδογμένοις</w> <w>ε</w> <space quantity="1" unit="character"/>
+                    <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w>ους</w> <w>τό</w> <w>ψήφισμα</w> 
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἀναγ</supplied>ράψαι</w> <w lemma="δέ">δὲ</w> <w lemma="καί">καὶ</w> <w lemma="ὁ">τοὺς</w>
+                    <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="εἰς"><supplied reason="lost">ε</supplied><unclear>ἰ</unclear>ς</w> <w>στήλην</w> <w>λίθου</w>
+                    <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">παρ</supplied>ὰ</w> <w>τὴ<del rend="erasure">ν <supplied reason="omitted">ε</supplied>ἰκόνα</del></w> <space quantity="1" unit="character"/>
+                    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">λευκα</supplied>ι</w>
                     <space quantity="1" unit="character"/> <num value="120">ρ 
                         <space quantity="1" unit="character"/> κ</num> <space quantity="3" unit="character"/>
                 </ab>

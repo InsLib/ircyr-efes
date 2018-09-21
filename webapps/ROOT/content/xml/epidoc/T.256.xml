@@ -126,7 +126,7 @@
                        <persName type="attested" key="lgpn:V1-60178"><name nymRef="Φιλόκωμος">Φιλοκώμω</name></persName></persName>  <w lemma="καί">καὶ</w> 
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">κω</seg></name></persName>  
    <persName type="attested" key="lgpn:V1-60178"><name nymRef="Φιλόκωμος">Φιλόκωμον</name></persName>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">ἱαρι</supplied>τεύσαντα</w>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἱαρι</supplied>τεύσαντα</w>
                 </ab>
 </div>
          

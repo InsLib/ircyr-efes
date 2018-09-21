@@ -134,7 +134,7 @@
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">ος</seg></name></persName>
                     </ab></div>
             <div subtype="fragment" n="iv" type="textpart"><ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w><unclear>π</unclear></w>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>π</unclear></w>
                         <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="1">α</num> <persName type="attested"><name nymRef="Υ-"><seg part="I"><orig>Υ</orig></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>

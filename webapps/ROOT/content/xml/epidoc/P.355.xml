@@ -128,7 +128,7 @@
              <div subtype="fragment" n="a" type="textpart">
                  <ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>γ</unclear>ε</orig><gap reason="lost" quantity="1" unit="character"><certainty locus="name" match=".."/></gap> <w>δοῦλος</w>
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">ἄ</supplied>τοπε</w> <w>καλέ</w> <g ref="symbols.xml#leaf"/> </ab>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἄ</supplied>τοπε</w> <w>καλέ</w> <g ref="symbols.xml#leaf"/> </ab>
              </div>
              <div subtype="fragment" n="b" type="textpart">
                         <ab>

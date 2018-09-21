@@ -120,7 +120,7 @@
          <!--<div type="edition" xml:lang="la" xml:space="preserve"><div subtype="edition" type="textpart"><ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ioi</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="populus"><supplied reason="lost">pop</supplied>ulo</w> <placeName type="ethnic">Ro<space quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><lb n="3" break="no"/><supplied reason="lost">mano</supplied></placeName><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="populus"><supplied reason="lost">pop</supplied>ulo</w> <placeName type="ethnic">Ro<space quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/><lb n="3" break="no"/><supplied reason="lost">mano</supplied></placeName><gap reason="lost" extent="unknown" unit="character"/> 
                     <placeName type="ethnic"><seg part="I"><expan><abbr>R</abbr><ex>oman</ex></expan></seg></placeName>
                     <w lemma="Quiris">Quiri <space quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/><lb n="4" break="no"/><supplied reason="lost">tium</supplied></w> 
                         <gap reason="lost" extent="unknown" unit="character"/> 

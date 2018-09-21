@@ -115,7 +115,7 @@
          <div type="edition" xml:lang="la" xml:space="preserve">
             <ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">us</w> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">us</w> 
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>
                     <w lemma="tribunicius"><supplied reason="lost"><expan><abbr>trib</abbr><ex>unicia</ex></expan></supplied></w> 
                     <w lemma="potestas"><expan><abbr><supplied reason="lost">po</supplied>t</abbr><ex>estate</ex></expan></w>

@@ -121,7 +121,7 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="consul"><expan><abbr><supplied reason="lost">c</supplied>o</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="consul"><expan><abbr><supplied reason="lost">c</supplied>o</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

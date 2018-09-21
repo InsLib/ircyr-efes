@@ -113,9 +113,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w>ἐλπίσι</w> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἐλπίσι</w> 
                     <w>τὸν</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w><supplied reason="lost">ἀγα</supplied>θαῖς</w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἀγα</supplied>θαῖς</w>
                     <w part="I">βι</w><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>

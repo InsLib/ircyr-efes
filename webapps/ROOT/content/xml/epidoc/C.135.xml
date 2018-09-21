@@ -120,13 +120,13 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w>ιωι</w><gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w>α</w> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ιωι</w><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w>α</w> 
                     <placeName><seg part="I">Κυρην<supplied reason="lost">α</supplied></seg></placeName><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>περεμπ</orig><gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><w>του</w>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>του</w>
                     <w lemma="καί">καὶ</w> <w>δ</w><gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="εὐεργεσία"><supplied reason="lost">ε</supplied>ὐεργεσ<supplied reason="lost">ίας</supplied></w>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="εὐεργεσία"><supplied reason="lost">ε</supplied>ὐεργεσ<supplied reason="lost">ίας</supplied></w>
                     <supplied reason="lost"><w lemma="ἕνεκεν">ἕνεκεν</w> <w lemma="καί">καὶ</w></supplied> <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>
                     <w lemma="εἰς"><supplied reason="lost">εἰ</supplied>ς</w> <w>ἑα<supplied reason="lost">υτ</supplied></w><gap reason="lost" extent="unknown" unit="character"/>

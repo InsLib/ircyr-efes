@@ -116,9 +116,9 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w part="F">mine</w> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">mine</w> 
                     <orig><unclear>e</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="facio"><supplied reason="lost">f</supplied>acien<supplied reason="lost">dum</supplied></w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="facio"><supplied reason="lost">f</supplied>acien<supplied reason="lost">dum</supplied></w>
                     <w lemma="curo"><supplied reason="lost">curauit</supplied></w>
                 </ab>
 </div>

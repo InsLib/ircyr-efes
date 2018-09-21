@@ -126,16 +126,16 @@
    
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Ἱππίας">Ἱππίο<supplied reason="lost">υ</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="2"/><w><supplied reason="lost">ἐφηβαρχοῦν</supplied>των</w> <persName type="attested"><name nymRef="Μελάνιππος">Μελα<supplied reason="lost">νίππου</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><w>τοῦ</w> 
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>τοῦ</w> 
                     <persName type="attested"><name nymRef="Ἀλέκτωρ">Ἀλέκτο<supplied reason="lost">ρος</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="4"/><w><supplied reason="lost">γυμνασιαρχ</supplied>ούντων</w> 
                     <persName type="attested"><name nymRef="Φαι-">Φαι</name></persName><gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><w><unclear>α</unclear></w> <persName type="attested"><name nymRef="Τίμαρχος">Τιμάρχου</name> </persName>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>α</unclear></w> <persName type="attested"><name nymRef="Τίμαρχος">Τιμάρχου</name> </persName>
                     <orig>Τ</orig><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><orig>ου</orig> 
                     <persName type="attested"><name nymRef="Φίλων">Φίλωνος</name></persName> <space quantity="1" unit="character"/> 
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><w part="F"><supplied reason="lost">α</supplied>ρχησας</w><space quantity="1" unit="character"/> 
+                    <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><supplied reason="lost">α</supplied>ρχησας</w><space quantity="1" unit="character"/> 
                     <persName type="attested"><name><seg part="I">Ε</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <space quantity="10" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F"><unclear>ω</unclear>νος</seg></name></persName> <space quantity="3" unit="character"/>

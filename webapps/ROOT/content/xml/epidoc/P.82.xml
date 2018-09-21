@@ -118,7 +118,7 @@
          <!--<div type="edition" xml:lang="grc" xml:space="preserve">
              <div subtype="edition" type="textpart"><ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/> 
-                   <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w>ος</w>
+                   <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ος</w>
                         <w>δα</w><gap reason="lost" extent="unknown" unit="character"/>
                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> 
                         <w lemma="ὁ">τὸ</w> <num value="5">ε</num> <w><orig><unclear>ι</unclear></orig></w><gap reason="lost" extent="unknown" unit="character"/> 

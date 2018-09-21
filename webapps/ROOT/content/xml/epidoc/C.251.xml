@@ -140,12 +140,12 @@
          </div>
          
          <!--<div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="section" n="a" type="textpart"><div subtype="fragment" n="i" type="textpart"><ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w lemma="αὐτοκράτωρ"><supplied reason="lost">Αὐτοκράτ</supplied>ορος</w>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="αὐτοκράτωρ"><supplied reason="lost">Αὐτοκράτ</supplied>ορος</w>
                         <persName type="emperor"><name>Κα<supplied reason="lost">ισαρος</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
                     </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="emperor"><name><seg part="F">νικ<supplied reason="lost">ου</supplied></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="fragment" n="iii" type="textpart"><ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w>αρμ </w><milestone unit="block"/> 
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>αρμ </w><milestone unit="block"/> 
                         <gap reason="lost" extent="unknown" unit="character"/> 
                     </ab></div><div subtype="fragment" n="iv" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig><unclear>λ</unclear></orig><milestone unit="block"/><gap reason="lost" extent="unknown" unit="character"/> 
@@ -159,13 +159,13 @@
                         <lb n="1"/><milestone unit="block"/><orig>Μ</orig><!-\- or is it abbr and name? -\->
                         <persName type="attested"><name>Δομίτ<supplied reason="lost">ι</supplied>ο<supplied reason="lost">ς</supplied></name></persName><milestone unit="block"/>
                     </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w>ων</w> 
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ων</w> 
                         <w>μ</w><gap reason="lost" extent="unknown" unit="character"/> 
                     </ab></div><div subtype="fragment" n="iii" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>α</orig><milestone unit="block"/>
                         <gap reason="lost" extent="unknown" unit="character"/> 
                     </ab></div><div subtype="fragment" n="iv" type="textpart"><ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><w>ων</w> 
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ων</w> 
                         <w>πι</w><gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
                     </div>
