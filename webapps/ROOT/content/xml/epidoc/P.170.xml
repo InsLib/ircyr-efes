@@ -121,7 +121,7 @@
 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ε</unclear>βα<unclear>ιο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" key="lgpn:V1-61168"><name nymRef="Βαρκαῖος">Βα<unclear>ρ</unclear>καῖοϲ</name></persName>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-61168"><name nymRef="Βαρκαῖος">Βα<unclear>ρ</unclear>καῖοϲ</name></persName>
                     <orig><unclear>μ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ηϲ</w> 
                     <w>μόνοϲ</w> <orig><unclear>Ι</unclear></orig>

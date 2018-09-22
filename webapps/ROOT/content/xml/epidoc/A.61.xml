@@ -127,7 +127,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-62027"><name nymRef="Ἀμμώνιος">Ἀμμωλιου</name>
-                    <lb n="2"/><space quantity="2" unit="character"/><persName type="attested" key="lgpn:V1-62128"><name nymRef="Πυθᾶς">Πυθᾶτοϲ</name></persName></persName>
+                    <lb n="2"/><space quantity="2" unit="character"/> <persName type="attested" key="lgpn:V1-62128"><name nymRef="Πυθᾶς">Πυθᾶτοϲ</name></persName></persName>
                 </ab>
 </div>
          <div type="apparatus">

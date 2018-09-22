@@ -156,7 +156,7 @@
                             <lb n="1"/><persName type="attested" key="lgpn:VI-60231"><name nymRef="Δωσίθεος"><unclear>Δ</unclear><supplied reason="lost">ω</supplied>σιθέωι</name></persName>
                             </ab></div>
             <div subtype="part" n="iv" type="textpart"><ab>
-                            <lb n="1"/><gap reason="lost" quantity="2" unit="character"/><persName type="attested" key="lgpn:VI-60880"><name nymRef="Μεννέας"><supplied reason="lost">Μ</supplied><unclear>εν</unclear>νέας</name>
+                            <lb n="1"/><gap reason="lost" quantity="2" unit="character"/> <persName type="attested" key="lgpn:VI-60880"><name nymRef="Μεννέας"><supplied reason="lost">Μ</supplied><unclear>εν</unclear>νέας</name>
                             <persName type="attested" key="lgpn:VI-60229"><name nymRef="Θεότιμος">Θεοτί<hi rend="subscript">μω</hi></name></persName></persName>
                         </ab></div>
             <div subtype="part" n="v" type="textpart"><ab>

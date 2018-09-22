@@ -138,7 +138,7 @@
                     <persName type="attested" key="lgpn:V1-64391"><name nymRef="Ἰουλιος"><supplied reason="lost">Ἰού</supplied>λιος</name>
                         <name nymRef="Ἀποσ-"><seg part="I">Ἀποσ</seg></name><gap reason="lost" extent="unknown" unit="character"/></persName>
                     <lb n="6"/><gap reason="lost" quantity="3" unit="character"/><orig>λ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="7"/><gap reason="lost" quantity="2" unit="character"/><persName type="attested"><name><seg part="F">ανος</seg></name>
+                    <lb n="7"/><gap reason="lost" quantity="2" unit="character"/> <persName type="attested"><name><seg part="F">ανος</seg></name>
                    <persName type="attested" key="lgpn:V1-65069"><name nymRef="Μουσαῖος">Μου<supplied reason="lost">σαῖ</supplied>ο<unclear>ς</unclear></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ο</unclear>σ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

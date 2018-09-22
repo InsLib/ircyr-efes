@@ -138,20 +138,20 @@
                     
                     </ab></div><div subtype="part" n="b" type="textpart"><ab>
                             
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Μένανδρος"><supplied reason="lost" cert="low">Μένα</supplied>νδρος</name></persName> <orig>κ</orig><gap reason="lost" extent="unknown" unit="character"/> 
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Μένανδρος"><supplied reason="lost" cert="low">Μένα</supplied>νδρος</name></persName> <orig>κ</orig><gap reason="lost" extent="unknown" unit="character"/> 
                         
                     </ab></div><div subtype="part" n="c" type="textpart"><ab>
                                     
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Τιβέριος"><seg part="I"><expan><abbr>Τι</abbr><ex>βερι-</ex></expan></seg></name> 
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Τιβέριος"><seg part="I"><expan><abbr>Τι</abbr><ex>βερι-</ex></expan></seg></name> 
                         <name nymRef="Κλαυδι-"><seg part="I"><expan><abbr>Κλ</abbr><ex>αυδι-</ex></expan></seg></name> </persName><gap reason="lost" extent="unknown" unit="character"/>
                     
                     </ab></div><div subtype="part" n="d" type="textpart"><ab>
                     
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Κλαυδι-"><seg part="I"><expan><abbr>Κλ</abbr><ex>αυδι-</ex></expan></seg></name> <orig>Φ</orig><gap reason="lost" extent="unknown" unit="character"/></persName> 
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Κλαυδι-"><seg part="I"><expan><abbr>Κλ</abbr><ex>αυδι-</ex></expan></seg></name> <orig>Φ</orig><gap reason="lost" extent="unknown" unit="character"/></persName> 
                     
                     </ab></div><div subtype="part" n="e" type="textpart"><ab>
                     
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" key="lgpn:V1-64294"><name nymRef="Κλαυδι-"><seg part="I"><expan><abbr>Κλ</abbr><ex>αυδι-</ex></expan></seg></name> <name nymRef="Ἰάσων"><seg part="I">Ἰασον</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-64294"><name nymRef="Κλαυδι-"><seg part="I"><expan><abbr>Κλ</abbr><ex>αυδι-</ex></expan></seg></name> <name nymRef="Ἰάσων"><seg part="I">Ἰασον</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
                     
                     </ab></div><div subtype="part" n="f" type="textpart"><ab>
                     

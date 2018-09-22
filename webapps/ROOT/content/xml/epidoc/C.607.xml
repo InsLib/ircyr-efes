@@ -142,13 +142,13 @@
                     <lb n="7"/><space extent="2" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="122">ρκβ</num> <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παοινί</w></rs> <num value="27">ζκ</num> <persName type="attested"><name nymRef="Κόϊντος"><expan><abbr>Κ</abbr><ex>όιντος</ex></expan></name>
               <name nymRef="Πομπήϊος">Πονπήιος</name>
-            <lb n="8"/><space extent="2" unit="character"/><name nymRef="Πωλλίων">Πωλλίων</name></persName> 
+            <lb n="8"/><space extent="2" unit="character"/> <name nymRef="Πωλλίων">Πωλλίων</name></persName> 
             <date type="life-span" dur="P62Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="62">ξβ</num> </date>
                     <lb n="9"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="123">ρκγ</num> <rs type="month" key="Μεχίρ"><w lemma="Μεχίρ">Μεχε<unclear>ὶ</unclear>ρ</w></rs> <num value="24"><unclear>δκ</unclear></num>
             <persName type="attested"><name nymRef="Κλαύδια">Κλαύδια</name>
-            <lb n="10"/><space extent="4" unit="character"/><name nymRef="Ῥουφίλλα">Ῥουφίλλα</name></persName> 
+            <lb n="10"/><space extent="4" unit="character"/> <name nymRef="Ῥουφίλλα">Ῥουφίλλα</name></persName> 
             <date type="life-span" dur="P36Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="36">λϛ</num> </date>
                     <lb n="11"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>

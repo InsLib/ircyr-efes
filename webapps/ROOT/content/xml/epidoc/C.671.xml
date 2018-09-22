@@ -113,7 +113,7 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="emperor"><w part="F">s</w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor"><w part="F">s</w>
                        <name nymRef="Augustus"><seg part="I"><expan><abbr>Au<unclear>g</unclear></abbr><supplied reason="lost"><ex>ust</ex></supplied></expan></seg></name><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>v</unclear></orig><gap reason="lost" extent="1" unit="character"/><orig><unclear>s</unclear></orig><gap reason="lost" extent="unknown" unit="character"/></persName>
    <lb n="2a"/><gap reason="lost" extent="unknown" unit="line"/>

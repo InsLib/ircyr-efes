@@ -122,7 +122,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">άτριος</seg></name></persName> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">άτριος</seg></name></persName> 
                     <persName type="attested"><name nymRef="Φιρ-"><seg part="I">Φιρ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/> <space quantity="1" unit="character"/>
                 </ab>

@@ -153,7 +153,7 @@
             </div>
             <div subtype="section" n="c" type="textpart">
                        <ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Ἀρτώριος">Ἀρτώριος</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Ἀρτώριος">Ἀρτώριος</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div subtype="section" n="d" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <placeName type="ethnic"><w lemma="Κυρηναῖος">Κυρηναῖος</w></placeName> <gap reason="lost" extent="unknown" unit="character"/>

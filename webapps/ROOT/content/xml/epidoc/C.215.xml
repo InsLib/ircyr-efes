@@ -46,7 +46,7 @@
                <history>
                   <origin>
                      <origPlace>Unknown.</origPlace>
-                     <origDate notAfter="0039" notBefore="-0002" evidence="internal-date">1: 1/2 B.C; 2: 38/39 C.E.</origDate>
+                     <origDate notAfter="0039" notBefore="-0002" evidence="internal-date">1/2 B.C.E. - 38/39 C.E.</origDate>
                   </origin>
                   
                      
@@ -107,9 +107,7 @@
          <change when="2009-06-12" who="Pietro">turned to XML and tidied</change>
          <change when="2009-05-11" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_770front" decls="#photograph"><desc>Face (1935, Department of Antiquities, D 616)</desc></graphic><!--
-                    --><!--
-                    --></facsimile>
+   </teiHeader><facsimile><graphic url="JMR_770front" decls="#photograph"><desc>Face (1935, Department of Antiquities, D 616)</desc></graphic></facsimile><!-- check -->
    <text>
       <body>
          <div type="bibliography">
@@ -119,15 +117,15 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="69">ξθ</num> <persName type="attested"><name nymRef="θεύδα">θεύδα</name></persName>
-                    <lb n="2"/><space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="30">λ</num> <orig>ομα</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ομ</orig> 
+                    <lb n="1"/><space quantity="1" unit="character"/> <date corresp="https://godot.date/id/zr3NDqzgt9rZRBTbNmSZsm"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="69">ξθ</num></date> <persName type="attested"><name nymRef="θεύδα">θεύδα</name></persName>
+                    <lb n="2"/><space quantity="1" unit="character"/> <date corresp="https://godot.date/id/df32KTiYDRaJcTmhkGLsb9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="30">λ</num></date> <orig>ομα</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ομ</orig> 
                     <space quantity="1" unit="character"/>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><orig><unclear>σ</unclear>ιλα</orig> 
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ιοσ</unclear></orig> <orig><unclear>ο</unclear></orig>
-                    <gap reason="lost" quantity="1" unit="character"/> <g ref="symbols.xml#crux"/> <orig><unclear>ν</unclear></orig> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="40">μ</num>  <space quantity="1" unit="character"/>
+                    <gap reason="lost" quantity="1" unit="character"/> <g ref="symbols.xml#crux"/> <orig><unclear>ν</unclear></orig> <date corresp="https://godot.date/id/puESXHZfTKfs9yv8eWsbnh"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="40">μ</num></date>  <space quantity="1" unit="character"/>
                     <gap reason="lost" extent="unknown" unit="character"/><orig>ιοσ</orig> <space quantity="1" unit="character"/>
                 </ab>
 </div>
@@ -135,10 +133,10 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>re-used as a cornice with the surface of the left side of one face cut away. </p>
-            <p> 69 of the Actian Era = C.E. 38-39. </p>
-            <p> 30 of the actian era = 2-1 B.C.E. </p>
-            <p> line 3 after the cross, the sign is probably modern. <!-- check --></p>
+            
+            <p>Line 1:  69 of the Actian Era = C.E. 38-39. </p>
+            <p>Line 2: 30 of the Actian era = 2-1 B.C.E. </p>
+            <p>Line 3: after the cross, the sign is probably modern. <!-- check --></p>
             <p> C.E. 9-10.</p>
          </div>
          

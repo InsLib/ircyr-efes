@@ -298,9 +298,9 @@
                       <lb n="20"/> <persName type="attested" key="lgpn:V1-65679"><name nymRef="Σώδαμος"><unclear>Σ</unclear>ώδαμος</name>
                       <lb n="21"/> <persName type="attested" key="lgpn:V1-63816"><name nymRef="Εὐκλείδας">Εὐκ<unclear>λ</unclear>έι<supplied reason="lost">δα</supplied></name></persName></persName>
                       <lb n="22"/> <date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                      <num value="55">εν</num></date> <space quantity="12" unit="character"/><persName type="attested" key="lgpn:V1-65508"><name nymRef="Πρωτόμαχος"><expan><abbr>Πρωτόμ</abbr><ex>αχος</ex></expan></name></persName>
+                      <num value="55">εν</num></date> <space quantity="12" unit="character"/> <persName type="attested" key="lgpn:V1-65508"><name nymRef="Πρωτόμαχος"><expan><abbr>Πρωτόμ</abbr><ex>αχος</ex></expan></name></persName>
                       <lb n="23"/><date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                      <num value="55">νε</num></date><space quantity="12" unit="character"/><persName type="attested" key="lgpn:V1-65917"><name nymRef="Φιλῖνος">Φιλῖνος</name>
+                      <num value="55">νε</num></date><space quantity="12" unit="character"/> <persName type="attested" key="lgpn:V1-65917"><name nymRef="Φιλῖνος">Φιλῖνος</name>
                           <persName type="attested" key="lgpn:V1-62997"><name nymRef="Ἀπολλώνιος">Ἀ<lb n="24" break="no"/>πολλωνίω</name></persName></persName> 
                       <lb n="24a"/><persName type="attested"><name nymRef="Διο-"><seg part="I">Δι<unclear>ο</unclear></seg></name> <!-- check layout -->
                       <gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap>  <space extent="unknown" unit="character"/> </persName>

@@ -158,7 +158,7 @@
                         <w lemma="dominus"><supplied reason="lost">domini</supplied>s</w> 
                         <w lemma="noster"><unclear>no</unclear>str<supplied reason="lost">is</supplied></w>
                         <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="ellipsis" extent="unknown" unit="character"/><persName type="emperor">
+                    <lb n="2"/><gap reason="ellipsis" extent="unknown" unit="character"/> <persName type="emperor">
                         <w lemma="inuictus"><expan><abbr><supplied reason="lost">in</supplied>u</abbr><ex>icto</ex></expan></w> 
                         <name><expan><abbr>Au</abbr><supplied reason="lost"><abbr>g</abbr><ex>usto</ex></supplied></expan></name></persName>
                         <gap reason="lost" extent="unknown" unit="character"/>

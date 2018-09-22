@@ -130,7 +130,7 @@
                <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Caius"><expan><abbr><unclear>C</unclear></abbr><ex>aius</ex></expan></name> 
                     <name nymRef="Valerius"><unclear>V</unclear>aler<unclear>i</unclear><supplied reason="lost">us</supplied></name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><name nymRef="Reburus">Reburus</name></persName> <w lemma="sum">fui</w>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name nymRef="Reburus">Reburus</name></persName> <w lemma="sum">fui</w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap><w lemma="de"><supplied reason="lost">de</supplied></w> <w lemma="suus">suo</w> <w lemma="hic">hic</w>
                 </ab>
             </div>

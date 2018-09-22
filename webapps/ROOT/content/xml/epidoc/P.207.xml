@@ -125,7 +125,7 @@
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
                     <name nymRef="Αἴλιος"><seg part="I"><unclear>Αἰλ</unclear>ι<unclear>ο</unclear></seg></name><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><name><seg part="F">νοῦ</seg></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F">νοῦ</seg></name>
                     <name><seg part="I">Ἀν</seg></name><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
                     <name>Σε<unclear>βα</unclear><supplied reason="lost">στοῦ</supplied></name>

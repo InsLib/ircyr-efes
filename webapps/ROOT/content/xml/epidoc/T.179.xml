@@ -124,7 +124,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" key="lgpn:V1-60328"><name nymRef="Κρίσπος"><supplied reason="lost">Κρί</supplied>ϲπο<unclear>ϲ</unclear></name></persName>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-60328"><name nymRef="Κρίσπος"><supplied reason="lost">Κρί</supplied>ϲπο<unclear>ϲ</unclear></name></persName>
                 </ab>
 </div>
          <div type="apparatus">

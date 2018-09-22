@@ -117,7 +117,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Σίμων"><supplied reason="undefined">Σίμω</supplied>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Σίμων"><supplied reason="undefined">Σίμω</supplied>
                        <lb n="2" break="no"/><supplied reason="undefined">νος</supplied></name></persName> <date type="life-span" dur="P16Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="16">ιϛ</num> </date>
                     <lb n="3"/><persName type="attested"><name nymRef="Δωσίθεος"><supplied reason="undefined">Δωσί</supplied>θεος</name>
                     <lb n="4"/><persName type="attested"><name nymRef="Σίμων"><supplied reason="undefined">Σίμ</supplied>ωνος</name></persName></persName>

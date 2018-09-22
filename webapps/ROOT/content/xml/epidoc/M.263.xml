@@ -150,7 +150,7 @@
 
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" quantity="1" unit="character"/><persName type="attested"><name nymRef="Πίστις"><unclear>Π</unclear>ίστι<unclear>ς</unclear></name></persName><gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="1"/><gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name nymRef="Πίστις"><unclear>Π</unclear>ίστι<unclear>ς</unclear></name></persName><gap reason="lost" quantity="1" unit="character"/>
                     <lb n="2"/><w>γέρων</w> 
                     <lb n="3"/><date type="life-span" dur="P88Y"><w lemma="ἔτος">ἐτῶν</w> <num value="88">πη</num> </date>
                 </ab>

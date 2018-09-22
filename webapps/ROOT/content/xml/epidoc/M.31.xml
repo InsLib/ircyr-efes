@@ -133,10 +133,10 @@
                     <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="72">βο</num> <persName type="attested"><name nymRef="Σα-"><seg part="I"><unclear>Ϲ</unclear>α</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
    </ab></div>
             <div type="textpart" n="v"><ab>
-                       <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">έριοϲ</seg></name></persName> 
+                       <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">έριοϲ</seg></name></persName> 
                     </ab></div>
             <div type="textpart" n="vi"><ab>
-                       <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">α<unclear>ρ</unclear>κηϲ</seg></name></persName> <w>ἥκ<unclear>ω</unclear></w>
+                       <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">α<unclear>ρ</unclear>κηϲ</seg></name></persName> <w>ἥκ<unclear>ω</unclear></w>
                     </ab></div>
                 
 </div>

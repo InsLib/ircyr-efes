@@ -161,7 +161,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="column" n="a" type="textpart"><ab>
                     
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>υμ</orig>
-            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Θεόδουλος"><supplied reason="lost">Θεο</supplied><unclear>δ</unclear>ούλου</name></persName>
+            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Θεόδουλος"><supplied reason="lost">Θεο</supplied><unclear>δ</unclear>ούλου</name></persName>
                         <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>α</unclear>μεθα</orig>
                         <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><orig>αυτην</orig>

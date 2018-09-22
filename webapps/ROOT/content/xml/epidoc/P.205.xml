@@ -119,7 +119,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Ἄμμων"><supplied reason="lost" cert="low">Ἄμ</supplied><unclear>μ</unclear>ωνος</name></persName> <w lemma="ἑαυτός">ἡατῶ</w>                 <note>sic</note>
+                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Ἄμμων"><supplied reason="lost" cert="low">Ἄμ</supplied><unclear>μ</unclear>ωνος</name></persName> <w lemma="ἑαυτός">ἡατῶ</w>                 <note>sic</note>
                      <lb n="2"/><w lemma="καί"><supplied reason="lost">καὶ</supplied></w> <w lemma="ὁ"><supplied reason="lost">τῦς</supplied></w> <w lemma="τεκνόν"><supplied reason="lost">τεκ</supplied>νῦς</w> <space quantity="3" unit="character"/>                                                                               <note>sic</note>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <space quantity="3" unit="character"/>
                 </ab>

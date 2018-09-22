@@ -126,7 +126,7 @@
                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                            <num value="20">κ</num>
                            <lb n="2"/><gap reason="lost" quantity="1" unit="character"/><orig>Φ</orig> <persName type="attested"><name><seg part="I">Ιου<unclear>λι</unclear></seg><gap reason="lost" quantity="1" unit="character"/></name></persName>
-                       <lb n="3"/><gap reason="lost" quantity="2" unit="character"/><persName type="attested"><name><seg part="F">ος</seg></name></persName> 
+                       <lb n="3"/><gap reason="lost" quantity="2" unit="character"/> <persName type="attested"><name><seg part="F">ος</seg></name></persName> 
                            <gap reason="lost" atLeast="3" atMost="4" unit="character"/>
                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig>ησ</orig>
                        </ab></div>

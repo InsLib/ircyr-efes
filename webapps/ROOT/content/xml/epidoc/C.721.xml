@@ -118,7 +118,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Τιβέριος">Τιβερίῳ</name></persName>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Τιβέριος">Τιβερίῳ</name></persName>
                     <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>

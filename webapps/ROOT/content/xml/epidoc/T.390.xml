@@ -121,7 +121,7 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="29">κ<unclear>θ</unclear></num> 
                     <w>Μ<unclear>ε</unclear><supplied reason="lost">χὶ</supplied>ρ</w> <num value="10">ι</num> 
-                    <orig>λ</orig><gap reason="lost" quantity="1" unit="character"/><persName type="attested"><name nymRef="Βιλλιῆνος"><supplied reason="lost">Βι</supplied>
+                    <orig>λ</orig><gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name nymRef="Βιλλιῆνος"><supplied reason="lost">Βι</supplied>
                     <lb n="2" break="no"/>λλι<unclear>ην</unclear>ω</name> </persName>
             <date type="life-span" dur="P2Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num atLeast="2"><num value="2"><unclear>β</unclear></num> <gap reason="lost" quantity="2" unit="character"/></num> </date>
                 </ab>

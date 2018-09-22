@@ -120,13 +120,13 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><head xml:lang="en">Text
                        </head><ab>
-                <lb n="1"/><persName type="emperor"><gap reason="lost" extent="unknown" unit="character"/><name><seg part="F"><unclear>α</unclear>ν</seg></name> <space quantity="1" unit="character"/>
+                <lb n="1"/><persName type="emperor"><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F"><unclear>α</unclear>ν</seg></name> <space quantity="1" unit="character"/>
                 <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>
                 <w><supplied reason="lost">Αὐτοκ</supplied>ράτορ<unclear>ο</unclear><supplied reason="lost">ς</supplied></w> 
-                <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><name><seg part="F"><unclear>υ</unclear></seg></name>
+                <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F"><unclear>υ</unclear></seg></name>
                 <name nymRef="Καῖσαρ"><unclear>Κ</unclear>αίσαρ<supplied reason="lost">ος</supplied></name> 
                 <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name nymRef="Γερμανικός"><supplied reason="lost">Γ</supplied>ερμανικ<supplied reason="lost">οῦ</supplied></name></persName> 
-                <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F"><supplied reason="lost">ο</supplied>ς</seg></name> <persName type="attested"><name nymRef="Ἴαλ">Ἴαλος</name></persName></persName> 
+                <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F"><supplied reason="lost">ο</supplied>ς</seg></name> <persName type="attested"><name nymRef="Ἴαλ">Ἴαλος</name></persName></persName> 
                <persName type="attested"><name nymRef="Ὑπ-"><seg part="I">Ὑ<supplied reason="lost">π</supplied></seg><lb n="6" break="no"/><gap reason="lost" extent="unknown" unit="character"/></name> 
                 <name nymRef="Ὑπερβάσσας"><supplied reason="lost">Ὑπε</supplied>ρβασσας</name> <gap reason="lost" quantity="1" unit="character"/></persName>
                 <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> 

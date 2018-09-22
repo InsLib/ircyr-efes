@@ -131,7 +131,7 @@
                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ι</unclear>οϲν</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ιυμ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>     
                     </ab></div><div subtype="fragment" n="b" type="textpart"><ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="emperor"><name nymRef="Ἀντ-"><seg part="I"><supplied reason="lost">Ἀντ</supplied>ωνειν</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>     
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor"><name nymRef="Ἀντ-"><seg part="I"><supplied reason="lost">Ἀντ</supplied>ωνειν</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>     
                     </ab></div><div subtype="fragment" n="c+d" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>τ</unclear>ωνκυ</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>δηϲ</orig> <w>ἱερεύϲ</w>

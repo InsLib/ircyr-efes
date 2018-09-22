@@ -134,8 +134,6 @@
             </p>
          </div>
          
-         
-         
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
                     <lb n="1"/><w lemma="ὁ">Τὴν</w> <persName type="divine" key="artemis"><name nymRef="Ἄρτεμις">Ἄρτεμιν</name></persName>
@@ -149,7 +147,7 @@
                <persName type="attested" key="lgpn:V1-63395"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></name>
                     <name nymRef="Κλαύδιος"><expan><abbr>Κλ</abbr><ex>αυδίου</ex></expan></name>
                     <lb n="8"/><name nymRef="Βάττος">Βάττου</name></persName>
-                    <lb n="9"/><w>παραϲτήσαντοϲ</w> <w lemma="λίτρα"><expan><abbr>λ</abbr><ex>ίτρας</ex></expan></w> 
+                    <lb n="9"/><w>παραϲτήσαντοϲ</w> <w lemma="λίτρα"><expan><abbr>λ</abbr><ex>ίτρας</ex></expan></w> <!-- check -->
                     <num value="17">ιζ</num> <g ref="symbols.xml#onchias"/> <num value="8">η</num> <persName type="attested"><name nymRef="Βάττος">Βάττῳ</name></persName>
                     <lb n="10"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name>
                        <name nymRef="Ἀντώνιος">Ἀντωνίου</name> 
@@ -257,10 +255,10 @@
             <!-- <p>l.22 Perhaps also in 19. </p>
             <p>line 17,24 one of these might be identified with <foreign lang="la">Claudia Fau[...]</foreign> in C2. </p>
             <p> Perhaps also in 911, lines 1-2. </p> -->
-            <!-- Check Check  A Galimberti in Aevum 75 (2001) -->
-            <p>Line 35: Oliverio took the first word as <foreign xml:lang="grc">ἄβρωμα</foreign> which he interpreted as a robe.
-               We believe this to be a misreading; Ferri read <foreign xml:lang="grc">ἐλαίον</foreign> which seems to 
-                    us a possible alternative to <foreign xml:lang="grc">ἔλαφον</foreign>.</p>
+            <!-- Check Check  A Galimberti in Aevum 75 (2001) Can't find-->
+            <p>Line 35: Oliverio took the first word as ἄβρωμα which he interpreted as a robe.
+               We believe this to be a misreading; Ferri read ἐλαίον which seems to 
+                    us a possible alternative to ἔλαφον.</p>
          </div>
          
       </body>

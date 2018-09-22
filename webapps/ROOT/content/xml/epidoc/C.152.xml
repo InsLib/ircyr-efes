@@ -188,7 +188,7 @@
 <lb n="45"/><persName type="attested"><name nymRef="Φλάβιος"><expan><abbr>Φλ</abbr><ex>άβιοϲ</ex></expan></name> <name nymRef="Γάϊος">Γάιϲ</name></persName>  <persName type="attested"><name nymRef="Ποστούμιος"><expan><abbr>Ποϲ</abbr><ex>τούμιοϲ</ex></expan></name> <name nymRef="Πρεῖσκος">Πρεῖϲκοϲ</name></persName> 
                     <lb n="46"/><persName type="attested" key="lgpn:V1-63321"><name nymRef="Κασκέλλιος"><expan><abbr>Καϲκ</abbr><ex>έλλιοϲ</ex></expan></name> <name nymRef="Ἀττικος">Ἀττικοϲ</name></persName>  <persName type="attested" key="lgpn:V1-65590"><name nymRef="Κάσσιος">Κάϲϲιοϲ</name> <name nymRef="Σεραπόδωρος">Ϲεραπόδωροϲ</name></persName> 
                     <lb n="47"/><persName type="divine" key="hermes"><name nymRef="Ἑρμῆς">Ἑρμαῖ</name></persName>
-                    <space quantity="5" unit="character"/><persName type="divine" key="herakles"><name nymRef="Ἡρακλῆς">Ἡρακλεῖ </name></persName><space quantity="5" unit="character"/>
+                    <space quantity="5" unit="character"/> <persName type="divine" key="herakles"><name nymRef="Ἡρακλῆς">Ἡρακλεῖ </name></persName><space quantity="5" unit="character"/>
                     <lb n="48"/><space quantity="7" unit="character"/> <w lemma="ὁ">οἱ</w> <w>ἔφηβοι</w><space quantity="7" unit="character"/>
                 </ab>
 </div>

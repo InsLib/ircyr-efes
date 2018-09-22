@@ -159,7 +159,7 @@
                <persName type="attested" key="lgpn:V1-65842"><name nymRef="Τιμῶναξ"><supplied reason="lost">T</supplied>ειμώ<supplied reason="lost">ν</supplied>α
                     <lb n="16" break="no"/><supplied reason="lost" cert="low"><space quantity="1" unit="character"/>κτο</supplied>ς</name></persName>
                <space quantity="1" unit="character"/> 
-                    <lb n="17"/><gap reason="lost" quantity="4" unit="character"/><persName type="attested" key="lgpn:V1-62533"><name nymRef="Ἀγαθώνεμος"><supplied reason="lost">Ἀγ</supplied>αθωνέ
+                    <lb n="17"/><gap reason="lost" quantity="4" unit="character"/> <persName type="attested" key="lgpn:V1-62533"><name nymRef="Ἀγαθώνεμος"><supplied reason="lost">Ἀγ</supplied>αθωνέ
                     <lb n="18" break="no"/><supplied reason="lost">μο</supplied>υ</name></persName>
                <space quantity="1" unit="character"/>
                     </ab>

@@ -166,7 +166,7 @@
             <div subtype="section" n="f" type="textpart">
                <ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Ἰούλιος">Ἰούλιοϲ</name>
-                        <lb n="2"/><gap reason="lost" quantity="6" unit="character"/><name><seg part="F">εῖνοϲ</seg></name></persName>
+                        <lb n="2"/><gap reason="lost" quantity="6" unit="character"/> <name><seg part="F">εῖνοϲ</seg></name></persName>
                         <lb n="3"/><w>ἱππεύϲ</w>
                </ab>
             </div>

@@ -224,13 +224,13 @@
                   </ab>
                </div>
                <div subtype="text" n="c" type="textpart">
-                  <ab><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">αισαβος</seg></name>
+                  <ab><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">αισαβος</seg></name>
                      <name nymRef="Ἀρίμμας">Ἀρί<lb break="no" n="2"/>μα</name></persName> 
                   </ab>
                </div>
                <div subtype="text" n="c" type="textpart">
                   <ab>
-                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">ου</seg></name>
+                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">ου</seg></name>
                         <name nymRef="Ἀρίμμας">Ἀρίμας</name></persName>
                   </ab>
                </div>

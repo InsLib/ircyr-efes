@@ -124,7 +124,7 @@
              <persName type="attested" key="lgpn:V1-65211"><name nymRef="Ὀλυμπιάς"><supplied reason="lost">Ὀ</supplied><unclear>λ</unclear>υμπιάδα</name>
                  <persName type="attested" key="lgpn:V1-63955"><name nymRef="Φιλίσκος">Φιλί<unclear>σ</unclear><supplied reason="lost">κω</supplied></name></persName></persName>
                      <w lemma="φύσις">φύσ<supplied reason="omitted">ε</supplied>ι</w> <w lemma="δέ">δὲ</w>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" key="lgpn:V1-64624"><name nymRef="Κλέαρχος"><supplied reason="lost">Κλε</supplied><unclear>ά</unclear>ρχω</name></persName> 
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-64624"><name nymRef="Κλέαρχος"><supplied reason="lost">Κλε</supplied><unclear>ά</unclear>ρχω</name></persName> 
                     <w lemma="ἀρετή">ἀρετᾶς</w> <w lemma="ἕνεκα">ἕνεκα</w> <w lemma="καί">καὶ</w>
              <w>τᾶς</w> <w>ποτὶ</w> <w>τὸς</w> 
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ς</unclear></orig>

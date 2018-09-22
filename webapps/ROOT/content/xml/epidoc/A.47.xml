@@ -131,14 +131,14 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Καικίλιος"><supplied reason="lost">Και</supplied><unclear>κί</unclear>λ<unclear>ι</unclear><supplied reason="lost">οϲ</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Καικίλιος"><supplied reason="lost">Και</supplied><unclear>κί</unclear>λ<unclear>ι</unclear><supplied reason="lost">οϲ</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> 
                         <persName type="attested"><name type="gentilicium" nymRef="Ἄννιος">Ἄννιοϲ</name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> 
                         <persName type="attested"><name type="praenomen" nymRef="Τίτος"><expan><abbr><unclear>Τ</unclear></abbr><ex>ίτοϲ</ex></expan></name> <name type="gentilicium" nymRef="Φλάβιος">Φλάουιοϲ</name></persName> 
                         <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name type="praenomen" nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτοϲ</ex></expan></name> <name type="gentilicium"  nymRef="Φλάβιος">Φλάουιοϲ</name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name type="praenomen" nymRef="Τίτος"><expan><abbr><unclear>Τ</unclear></abbr><ex>ίτοϲ</ex></expan></name> <name type="gentilicium"  nymRef="Φλάβιος">Φλάουιοϲ</name></persName> 
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="praenomen" nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτοϲ</ex></expan></name> <name type="gentilicium"  nymRef="Φλάβιος">Φλάουιοϲ</name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name type="praenomen" nymRef="Τίτος"><expan><abbr><unclear>Τ</unclear></abbr><ex>ίτοϲ</ex></expan></name> <name type="gentilicium"  nymRef="Φλάβιος">Φλάουιοϲ</name></persName> 
                         <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/>
                         <persName type="attested"><name type="gentilicium" nymRef="Γερελλανός">Γερελ<unclear>λ</unclear>αν<unclear>ό</unclear><supplied reason="lost">ϲ</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>

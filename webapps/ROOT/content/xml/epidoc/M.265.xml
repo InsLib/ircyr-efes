@@ -118,7 +118,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Ιαρθας"><unclear>Ιαρθα</unclear></name></persName><gap reason="lost" quantity="1" unit="character"/><orig><unclear>α</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>νιιια</unclear></orig><gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Ιαρθας"><unclear>Ιαρθα</unclear></name></persName><gap reason="lost" quantity="1" unit="character"/><orig><unclear>α</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>νιιια</unclear></orig><gap reason="lost" quantity="1" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ν</orig> <w><unclear>ἐ</unclear>τῶν</w> <num value="50">ν</num>
                 </ab>
 </div>

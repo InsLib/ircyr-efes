@@ -118,8 +118,8 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="70"><unclear>ο</unclear></num> <persName type="attested">
-                    <gap reason="lost" quantity="1" unit="character"/><name><seg part="F"><unclear>ηπ</unclear>ωνιος</seg></name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F"><unclear>υσο</unclear>υ</seg></name></persName></persName>
+                    <gap reason="lost" quantity="1" unit="character"/> <name><seg part="F"><unclear>ηπ</unclear>ωνιος</seg></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F"><unclear>υσο</unclear>υ</seg></name></persName></persName>
                 </ab>
 </div>
          

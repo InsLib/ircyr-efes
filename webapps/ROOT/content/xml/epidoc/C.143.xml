@@ -206,7 +206,7 @@
                   	<lb n="26"/><persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>άϊος</ex></expan></name> <name nymRef="Κορνήλιος">Κορνήλιος</name> <name nymRef="Πουπλιανός">Πουπλιανός</name>	</persName>
                   	<lb n="27"/><space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Πόντιος">Πόντιος</name> <name nymRef="Νατᾶλις">Νατᾶλις</name></persName>
                   	<lb n="28"/><persName type="attested"><name nymRef="Πόπλιος"><expan><abbr>Π</abbr><ex>όπλιος</ex></expan></name> <name nymRef="Αἴλιος">Αἴλιος</name> <name nymRef="Καλλίτυχος">Καλλίτυχος</name></persName>
-                  	<lb n="29"/><space quantity="1" unit="character"/><persName type="attested"><name nymRef="Νεμέσιος">Νεμέσιος</name> <name nymRef="Γάϊος">Γάϊος</name></persName>
+                  	<lb n="29"/><space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Νεμέσιος">Νεμέσιος</name> <name nymRef="Γάϊος">Γάϊος</name></persName>
                   	<lb n="30  "/><persName type="attested"><name nymRef="Ῥοῦφος">Ῥοῦφος</name> <name nymRef="Σταλάκκιος">Στ<unclear>α</unclear>λάκκιος</name> <name nymRef="Πρόκλος">Πρόκλος</name></persName>
 	</ab>
                     </div>
@@ -216,8 +216,8 @@
                            <lb n="2"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> <name nymRef="Νόβιος">Νόβιος</name> <name nymRef="Σεκοῦνδος">Σεκοῦνδος</name></persName>
                            <lb n="3"/>	<space quantity="1" unit="character"/>  <persName type="attested"><name nymRef="Αἴλιος">Αἴλιος</name> <name nymRef="Τύραννος">Τύραννος</name></persName>
                            <lb n="4"/><persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name> <name nymRef="Σατορνεῖλος">Σατορνεῖλος</name></persName>
-                           <lb n="5"/><space quantity="1" unit="character"/><persName type="attested"><name nymRef="Ἡλιόδωρος">Ἡλιόδωρος</name> <persName type="attested"><name nymRef="Ἡλιόδωρος">Ἡλιοδώρου</name></persName></persName>
-                           <lb n="6"/>	<space quantity="1" unit="character"/><persName type="attested"><name nymRef="Βάθυλλος">Βάθυλλος</name> <persName type="attested"><name nymRef="Λόγγος">Λόνγου</name></persName></persName>
+                           <lb n="5"/><space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Ἡλιόδωρος">Ἡλιόδωρος</name> <persName type="attested"><name nymRef="Ἡλιόδωρος">Ἡλιοδώρου</name></persName></persName>
+                           <lb n="6"/>	<space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Βάθυλλος">Βάθυλλος</name> <persName type="attested"><name nymRef="Λόγγος">Λόνγου</name></persName></persName>
                            <lb n="7"/><persName type="attested"><name nymRef="Ἱππίας">Ἱππίας</name> <persName type="attested"><name nymRef="Ἱππίας">Ἱππίου</name></persName></persName>
                            <lb n="8"/><persName type="attested"><name nymRef="Ἀριστομήδης">Ἀριστομήδης</name> <persName type="attested"><name nymRef="Γάβιος">Γαβίου</name></persName></persName>
                            <lb n="9"/><persName type="attested"><name nymRef="Ἰάσων">Ἰάσων</name> <persName type="attested"><name nymRef="Ἰάσων">Ἰάσονος</name></persName></persName>

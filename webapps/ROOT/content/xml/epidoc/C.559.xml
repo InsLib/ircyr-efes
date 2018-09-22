@@ -123,8 +123,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"/><space quantity="2" unit="character"/><persName type="attested" key="lgpn:V1-65531"><name nymRef="Πτολεμαῖος">Πτυλμαῖος</name>
-            <lb n="2"/><gap reason="illegible" extent="unknown" unit="character"/><space quantity="2" unit="character"/><persName type="attested" key="lgpn:V1-65530"><name nymRef="Πτολεμαῖος">Πτυλμαίου</name></persName></persName>
+                    <lb n="1"/><gap reason="illegible" extent="unknown" unit="character"/><space quantity="2" unit="character"/> <persName type="attested" key="lgpn:V1-65531"><name nymRef="Πτολεμαῖος">Πτυλμαῖος</name>
+            <lb n="2"/><gap reason="illegible" extent="unknown" unit="character"/><space quantity="2" unit="character"/> <persName type="attested" key="lgpn:V1-65530"><name nymRef="Πτολεμαῖος">Πτυλμαίου</name></persName></persName>
                 </ab>
 </div>
          <div type="apparatus">

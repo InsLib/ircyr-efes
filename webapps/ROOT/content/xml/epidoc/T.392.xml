@@ -117,7 +117,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
-                    <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><persName type="attested"><name><seg part="F"><unclear>θυμα</unclear>λλ<supplied reason="lost">α</supplied>ς</seg></name>
+                    <lb n="2"/><gap reason="lost" quantity="2" unit="character"/> <persName type="attested"><name><seg part="F"><unclear>θυμα</unclear>λλ<supplied reason="lost">α</supplied>ς</seg></name>
                     <lb n="3"/><persName type="attested"><name nymRef="Καλλίμαχος">Καλλιμάχω</name></persName></persName>
                 </ab>
 </div>

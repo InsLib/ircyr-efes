@@ -138,7 +138,7 @@
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60335"><name nymRef="Ἀρίμμας">Ἀρίμμ<supplied reason="lost">ας</supplied></name></persName>
                     </ab></div>
             <div subtype="fragment" n="iv" type="textpart"><ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">μαίων</seg></name></persName>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">μαίων</seg></name></persName>
                     </ab>
 </div>
 </div>

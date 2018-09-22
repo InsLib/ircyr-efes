@@ -122,10 +122,10 @@
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> 
                         <rs type="month" key="Φαωφί"><w><supplied reason="lost">Φ</supplied>αωφὶ</w></rs> 
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="M">ήτρω</seg></name> 
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="M">ήτρω</seg></name> 
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>εν</orig> 
                         <space quantity="1" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><name><seg part="F">νίου</seg></name></persName>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F">νίου</seg></name></persName>
                 </ab>
 </div>
          

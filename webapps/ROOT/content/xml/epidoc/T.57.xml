@@ -117,7 +117,7 @@
                    </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="15">ιε</num>
                     <lb n="2"/><persName type="attested"><name nymRef="Πόπλιος"><expan><expan><abbr>Π</abbr><ex>όπλιος</ex></expan></expan></name> <name nymRef="Αἴλιος">Αἴλιοϲ</name> 
-                        <lb n="3"/><gap reason="lost" quantity="2" unit="character"/><name><seg part="F">λανοϲ</seg></name></persName>
+                        <lb n="3"/><gap reason="lost" quantity="2" unit="character"/> <name><seg part="F">λανοϲ</seg></name></persName>
                 </ab>
 </div>
 </div>

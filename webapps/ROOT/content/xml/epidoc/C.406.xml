@@ -124,7 +124,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/> 
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested" key="lgpn:V1-66120"><name nymRef="Φλάμμα">Φλά<unclear>μ</unclear><supplied reason="lost">μα</supplied> </name></persName>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-66120"><name nymRef="Φλάμμα">Φλά<unclear>μ</unclear><supplied reason="lost">μα</supplied> </name></persName>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ς</unclear></orig> <w>ὁ</w> <persName type="attested"><name nymRef="Μελίωρ">Μέλιορ</name></persName> 
                     <persName type="attested"><name nymRef="Κρι-"><seg part="I">Κ<unclear>ρι</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">το</supplied>ῦ</w>

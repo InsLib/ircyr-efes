@@ -123,7 +123,7 @@
          <div type="edition" xml:lang="la" xml:space="preserve">
              
             <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="divine"><name nymRef="Tucha"><supplied reason="lost">Tu</supplied><unclear>c</unclear>hae</name></persName> <w lemma="hic">hic</w>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="divine"><name nymRef="Tucha"><supplied reason="lost">Tu</supplied><unclear>c</unclear>hae</name></persName> <w lemma="hic">hic</w>
             <w lemma="et">et</w> <w lemma="ubique">ubique</w> 
                     <lb n="2"/><space quantity="3" unit="character"/> <w lemma="gratia">gratias</w> <w lemma="ago">agimus</w> 
             </ab>

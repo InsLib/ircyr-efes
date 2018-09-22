@@ -118,7 +118,7 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>α</unclear>ζ<unclear>η</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>η</unclear>ια<unclear>ι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab></div><div subtype="section" n="ii" type="textpart"><ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Δάφνις"><supplied reason="lost">Δ</supplied>άφνις</name></persName> <orig>ι</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Δάφνις"><supplied reason="lost">Δ</supplied>άφνις</name></persName> <orig>ι</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>αρ<unclear>α</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>

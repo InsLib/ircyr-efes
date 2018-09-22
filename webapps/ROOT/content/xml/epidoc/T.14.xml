@@ -112,10 +112,10 @@
                     <persName type="attested"><name nymRef="Σωσίστρατος">Σωσίστρ<unclear>α</unclear><supplied reason="lost">το</supplied>ς</name></persName> 
                     <w><expan><abbr><hi rend="ligature">φίλ</hi></abbr><ex>ος</ex></expan></w>
                 </ab></div><div subtype="section" n="ii" type="textpart"><ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F"><unclear>ο</unclear>αξ</seg></name></persName> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F"><unclear>ο</unclear>αξ</seg></name></persName> 
                     <space quantity="3" unit="character"/>
                 </ab></div><div subtype="section" n="iii" type="textpart"><ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Σώτεχνος">Σώτεχνοι</name></persName> <space quantity="3" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Σώτεχνος">Σώτεχνοι</name></persName> <space quantity="3" unit="character"/>
                 </ab></div><div subtype="section" n="iv" type="textpart"><div subtype="fragment" n="a" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ας</orig><gap reason="lost" quantity="3" unit="character" precision="low"/><orig>ος</orig>
                     </ab></div><div subtype="fragment" n="b" type="textpart"><ab>

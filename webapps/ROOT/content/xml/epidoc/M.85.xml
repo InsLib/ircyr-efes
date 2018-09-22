@@ -116,7 +116,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">να</seg></name></persName> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">να</seg></name></persName> 
                         <date type="life-span" dur="P20Y"><w lemma="ἔτος">ἐτῶν</w>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><num value="20"><w lemma="εἴκοσι"><supplied reason="lost">ε</supplied><unclear>ἴ</unclear>κοϲι</w></num> </date> <space quantity="1" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> 

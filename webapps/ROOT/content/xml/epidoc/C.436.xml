@@ -116,7 +116,7 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name nymRef="Proculus"><supplied reason="lost" cert="low">Procu</supplied>lus</name></persName>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Proculus"><supplied reason="lost" cert="low">Procu</supplied>lus</name></persName>
                     <w lemma="facio"><expan><abbr>f</abbr><ex>aciendum</ex></expan></w>
                     <w lemma="curo"><expan><abbr>c</abbr><ex>urauit</ex></expan></w>
                     <gap reason="lost" extent="unknown" unit="character"/>

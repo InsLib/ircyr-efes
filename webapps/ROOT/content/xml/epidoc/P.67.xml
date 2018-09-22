@@ -122,7 +122,7 @@
 <ab>
                      <lb n="1"/><persName type="divine" key="manes"><supplied reason="lost"><w lemma="deus"><expan><abbr>D</abbr><ex>is</ex></expan></w></supplied>
                     <w><expan><abbr>M</abbr><ex>anibus</ex></expan></w></persName> 
-                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><persName type="attested"><name><seg part="F">s</seg></name> <name nymRef="Publius"><expan><abbr>P</abbr><ex>ubli</ex></expan></name></persName>
+                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">s</seg></name> <name nymRef="Publius"><expan><abbr>P</abbr><ex>ubli</ex></expan></name></persName>
                     <w lemma="filius"><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
                      <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">us</w> 
                     <w lemma="beneficiarius">be<supplied reason="lost">neficiarius</supplied></w>
