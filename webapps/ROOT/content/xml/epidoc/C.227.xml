@@ -113,17 +113,18 @@
       <body>
          <div type="bibliography">
             <head>Bibliography</head>
-            <p><bibl><ptr target="paci2006"/>, <citedRange>1895-1903</citedRange></bibl>, whence <bibl><title>AE</title> <citedRange>2006.1651</citedRange></bibl><!-- check -->, 
+            <p>Found in 1930 and copied by Pernier, whence <bibl><ptr target="paci2006"/>, <citedRange>1895-1903</citedRange></bibl>, 
+               whence <bibl><title>AE</title> <citedRange>2006.1651</citedRange></bibl><!-- check for translation-->, 
                <bibl><title>SEG</title> <citedRange>56.2029</citedRange></bibl>, mentioned <bibl><ptr target="cdlBE"/>2007.558</bibl>.
             </p></div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><supplied reason="lost"><w>Ὑπὲρ</w> <w>τᾶς</w> </supplied><persName type="emperor" key="traianus"><supplied reason="lost"><w lemma="αὐτοκράτωρ">Αὐτοκράτοροϲ</w></supplied><name nymRef="Νέρβα"><supplied reason="lost">Ν</supplied>έρβα</name> <name nymRef="Τραιανός">Τρα<unclear>ιανο</unclear>ῦ</name> 
+                    <lb n="1"/><supplied reason="lost"><w>Ὑπὲρ</w> <w>τᾶϲ</w> </supplied><persName type="emperor" key="traianus"><supplied reason="lost"><w lemma="αὐτοκράτωρ">Αὐτοκράτοροϲ</w></supplied> <name nymRef="Νέρβα"><supplied reason="lost">Ν</supplied>έρβα</name> <name nymRef="Τραιανός">Τρα<unclear>ιανο</unclear>ῦ</name> 
                     <name nymRef="Καῖσαρ"><unclear>Καί</unclear>σαρος</name> <name nymRef="Σεβαστός">Ϲεβαϲτοῦ</name>
-                    <name nymRef="Γερμανικός">Γερ<supplied reason="lost">μανικοῦ</supplied></name> <supplied reason="lost"><name nymRef="Δακικός">Δακικοῦ</name></supplied></persName> <supplied reason="lost"><w>νικᾶς</w> <w>καὶ</w> <w>διαμονᾶς</w></supplied>
+                    <name nymRef="Γερμανικός">Γερ<supplied reason="lost">μανικοῦ</supplied></name> <supplied reason="lost"><name nymRef="Δακικός">Δακικοῦ</name></supplied></persName> <supplied reason="lost"><w>νικᾶϲ</w> <w>καὶ</w> <w>διαμονᾶϲ</w></supplied>
                     <lb n="2"/><gap reason="lost" extent="23"   unit="character"/><orig><unclear>τ</unclear>α</orig>
-                    <w lemma="ἐκ"><unclear>ἐκ</unclear></w> <w lemma="ὁ">τὰ</w> <!-- check --> 
+                    <w lemma="ἐκ"><unclear>ἐκ</unclear></w> <w lemma="ὁ">τᾶν</w> <!-- check --> 
                     <w>τ<unclear>ῶ</unclear></w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνοϲ</name></persName> <w>προϲοδ<supplied reason="lost">ων</supplied></w>
                     <gap reason="lost" extent="21"  cert="medium" unit="character"/>
                 </ab>
@@ -134,7 +135,7 @@
             <head>Commentary</head>
             <p>If this association is correct, the block is the second of three, the line length can be established and the text reconstructed provisionally. 
                If the first line of the inscription was accurately centred the space available suggests that Trajan was given the title Δακικός. 
-               The date would then lie between 103 and 116, when he also became Παρθικός; Paci, however excludes this dating on the grounds of the Jewish revolt of 115. 
+               The date would then lie between 103 and 116, when he also became Παρθικός; Paci excludes dating later than early 115 on the grounds of the Jewish revolt of 115, 
                The unusual position of Καίσαρος in the emperor's name should be noted.</p>
             <p>In line 2, the letters ΤΑ no longer survive, but are read from the photograph. 
                They are likely to represent either the end of the name of the priest responsible for the Temple 

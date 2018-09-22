@@ -931,7 +931,7 @@
                         <pubPlace>Dakar</pubPlace>, <biblScope unit="pp">210-213</biblScope></bibl>
                     
                     <bibl xml:id="laronde1983"><author>André <name type="surname">Laronde</name></author>,
-                        <date>1983</date>, <title level="a">Setime Sévère et Cyrène</title>, in
+                        <date>1983</date>, <title level="a">Septime Sévère et Cyrène</title>, in
                         <title level="j">Bulletin de la Société nationale des antiquaires de France</title>,
                          <biblScope unit="pp">59-70</biblScope></bibl>
                     
@@ -1984,6 +1984,13 @@
                         <pubPlace>Limoges</pubPlace>, <biblScope unit="pp"
                             >7-17</biblScope>
                     </bibl>
+                    
+                    <bibl xml:id="roberthellii">
+                        <author>Louis <name type="surname">Robert</name></author>, <date>1946</date>, 
+                        <title level="m">Hellenica</title>
+                        <biblScope unit="issue">II</biblScope>
+                        <pubPlace>Paris</pubPlace>
+                    </bibl>
 
                     <bibl xml:id="roberthelliii">
                         <author>Louis <name type="surname">Robert</name></author>, <date>1946</date>, 
@@ -1996,7 +2003,7 @@
                         <author>Louis <name type="surname">Robert</name></author>, <date>1960</date>, 
                         <title level="a">Prêtres de Cyrène</title>
                         <title level="m">Hellenica</title>
-                        <biblScope unit="issue">XI-XII</biblScope>
+                        <biblScope unit="issue">XI-XII</biblScope>,<biblScope unit="page">542-555</biblScope>
                         <pubPlace>Paris</pubPlace></bibl>
                     
                     <bibl xml:id="robert1963"><author>Louis <name type="surname">Robert</name></author>
