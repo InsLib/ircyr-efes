@@ -52,7 +52,7 @@
                         <provenance type="found">
                            <p> 
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>:
-                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1058">Fountain Terrace</placeName>, re-used in the balaustrade of the east staircase leading to the upper terrace; found in <date type="found">1928</date>. </p>
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1058">Fountain Terrace</placeName>, re-used in the balustrade of the east staircase leading to the upper terrace; found in <date type="found">1928</date>. </p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>
@@ -110,7 +110,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p>
-               <bibl><ptr target="oliverio1930"/> <citedRange>15</citedRange> and fig. 48</bibl>, whence 
+               <bibl><ptr target="oliverio1930"/> <citedRange>15</citedRange> and fig. 48</bibl>, whence <!-- check -->
                <bibl>
                   <title>SEG</title> 
                   <citedRange>9.148</citedRange>
@@ -127,7 +127,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>. Given the appearence of the block, the inscription probably recorded building undertaken by a priest.</p>
+            <p>Given the appearance of the block, the inscription probably recorded building undertaken by a priest.</p>
          </div>
          
       </body>

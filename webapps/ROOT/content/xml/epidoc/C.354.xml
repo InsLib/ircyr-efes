@@ -126,11 +126,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="1">α</num> <persName type="attested"><name nymRef="Διοκλητιανός">Διοκλητιανο<supplied reason="lost">ῦ</supplied></name></persName>
-                    <lb n="2"/><w lemma="ἐπί">ἐπὶ</w> <w lemma="ἱερεύς">ἱερέως</w> 
+                    <lb n="1"/><date><date corresp="https://godot.date/id/ygekJxMSipCacBwpyEXVfB"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="1">α</num> <persName type="attested"><name nymRef="Διοκλητιανός">Διοκλητιανο<supplied reason="lost">ῦ</supplied></name></persName></date>
+                    <lb n="2"/><date><w lemma="ἐπί">ἐπὶ</w> <w lemma="ἱερεύς">ἱερέως</w> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-64852, lgpn:V1-63871"><name nymRef="Λυσανίας">Λυσανίου</name> <w lemma="ὁ">τοῦ</w>
-                    <lb n="4"/><w lemma="καί">καὶ</w> <name nymRef="Εὐπείθιας">Εὐπειθίου</name> <w lemma="νέος">νέ<lb n="5"/>ου</w></persName> <gap reason="illegible" quantity="4" unit="character"/><orig>ρο</orig>
+                    <lb n="4"/><w lemma="καί">καὶ</w> <name nymRef="Εὐπείθιας">Εὐπειθίου</name> <w lemma="νέος">νέ<lb n="5"/>ου</w></persName></date></date> <gap reason="illegible" quantity="4" unit="character"/><orig>ρο</orig>
                     <lb n="6"/><w><orig>ρτ</orig></w>
                     <lb n="7"/><w><orig>ου</orig></w> <gap reason="illegible" quantity="3" unit="character"/> <orig>ορ</orig>
                     <lb n="8"/><orig>δον</orig>
@@ -153,7 +153,7 @@
             <p>In the first year of Diocletian in the priesthood of Lysanias also called Eupeithias ?the young . . . </p><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>One of a series of graffiti, C.282-C.338.For commentary see on <ref type="inscription" n="C28200">C.336</ref>.</p>
+            <p>For commentary on this series see on <ref type="inscription" n="C28200">C.336</ref>.</p>
          </div>
          
       </body>

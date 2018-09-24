@@ -127,10 +127,10 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     
-                    <lb n="1"/><w lemma="ἔτος">ἔτου<supplied reason="lost">ς</supplied></w> 
+                    <lb n="1"/><date><w lemma="ἔτος">ἔτου<supplied reason="lost">ς</supplied></w> 
                     <num value="1"><unclear>α</unclear></num> <persName type="emperor" key="diocletianus"><name nymRef="Διοκλητιανός">Διο<unclear>κ</unclear><supplied reason="lost">λητιανοῦ</supplied></name></persName>
                     <lb n="2"/><w lemma="καί">καὶ</w> <persName type="emperor" key="maximianus"><name nymRef="Μαξιμιανός">Μαξιμιαν<supplied reason="lost">οῦ</supplied></name> 
-                    <lb n="3"/><name nymRef="Καῖσαρ"><supplied reason="lost">Και</supplied>σάρ<supplied reason="lost">ω</supplied>ν</name></persName>
+                    <lb n="3"/><name nymRef="Καῖσαρ"><supplied reason="lost">Και</supplied>σάρ<supplied reason="lost">ω</supplied>ν</name></persName></date>
                     <gap reason="lost" quantity="4" unit="character"/>
                     <lb n="4"/><w lemma="ἐν"><supplied reason="lost">ἐ</supplied>ν</w> <w>τῷ</w> <w>νυμφαίῳ</w>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><orig>στα</orig><gap reason="lost" extent="unknown" unit="character"/>
@@ -142,7 +142,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p>In the first year of (emperors) Diocletian and Maximian Caesars, in the Nymphaeum . . . </p><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>One of a series of graffiti, C.282-C.338.For commentary see on <ref type="inscription" n="C28200">C.336</ref>.</p>
+            <p>For commentary on this series  see on <ref type="inscription" n="C28200">C.336</ref>.</p>
             <p>l.3 C.E. 285 the first year of the joint reign of Diocletian and Maximian, also the date of <ref type="inscription" n="C30000">C.354</ref>, <ref type="inscription" n="C30200">C.356</ref>: they also appear in <ref type="inscription" n="C29900">C.353</ref>.</p>
             <p>l.4 <!-- For νυμφαῖον/nymphaeum  in the sense of shrine of the nymphs cf. E.g.IG XI.2.144 a, line 19 at Delos. -->
                A Nymphaeum is mentioned at Cyrene in the Lex Sacra of the late fourth century B.C.E. (SEG IX.72, lines 91, 97, its character and location being much disputed (see <bibl>

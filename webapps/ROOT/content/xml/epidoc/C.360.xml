@@ -123,8 +123,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr>ἔτου</abbr><ex>ς</ex></expan></w>
-                    <persName type="emperor" key="diocletianus"><name nymRef="Διοκλητιανός"><expan><abbr>Διοκλη</abbr><ex>τιανοῦ</ex></expan></name></persName> 
+                    <lb n="1"/><date corresp="https://godot.date/id/gFm9x8jsJc7cct6suf7MP7"><w lemma="ἔτος"><expan><abbr>ἔτου</abbr><ex>ς</ex></expan></w>
+                    <persName type="emperor" key="diocletianus"><name nymRef="Διοκλητιανός"><expan><abbr>Διοκλη</abbr><ex>τιανοῦ</ex></expan></name></persName></date> 
                     <w lemma="ἱερεύς">ἱερεὺς</w> <persName type="attested" key="lgpn:V1-64391"><name nymRef="Ἰούλιος">Ἰού<lb n="2" break="no"/>λιος</name></persName> <w>εἰσῆλ<supplied reason="lost">θ</supplied>εν</w> <gap reason="lost" quantity="4" unit="character"/> <orig><unclear>α</unclear>τ</orig>
                     <lb n="3"/><gap reason="lost" quantity="5" unit="character" precision="low"/><orig>νεωηιοφιλ</orig><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="4" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>λυ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
@@ -133,11 +133,11 @@
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 1 (or 4) <note>285 or 288</note> of Diocletian: (the) priest Julius entered . . . .</p><p/></div>
+            <p>Year [1 (or 4) <note>285 or 288</note>] of Diocletian: (the) priest Julius entered . . . .</p><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>One of a series of graffiti, C.282-C.338.For commentary see on <ref type="inscription" n="C28200">C.336</ref>.</p>
-            <p> line 1 Oliverio printed a figure α' but his drawing shows neither the letter nor the space for it. 
+            <p>For commentary on this series see on <ref type="inscription" n="C28200">C.336</ref>.</p>
+            <p>Line 1: Oliverio printed a figure α' but his drawing shows neither the letter nor the space for it. 
                It seems probable that the writer omitted it by confusion with the first letter of Διοκλητιανοῦ; he may have intended α' = C.E. 285, or δ' = 288. </p>
             <p> line 2 The priest is not necessarily the eponymous and if the date was C.E. 285, the year of Lysanias, see <ref type="inscription" n="C30700">C.361</ref>, cannot have been. </p>
             <p> line 3 So Oliverio's drawing; he prints νεωκορ[ο- but compare <ref type="inscription" n="C30000">C.354</ref> for the epithet νέος.</p>
