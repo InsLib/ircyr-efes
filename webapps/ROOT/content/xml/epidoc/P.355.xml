@@ -132,7 +132,7 @@
              </div>
              <div subtype="fragment" n="b" type="textpart">
                         <ab>
-                        <w>Ὑπερ</w><gap reason="lost" extent="unknown" unit="character"/>
+                        <w>Ὑπερ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
                </div>
          </div>

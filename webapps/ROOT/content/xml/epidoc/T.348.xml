@@ -113,7 +113,7 @@
                     <lb n="1"/><orig>ηι</orig><gap reason="lost" quantity="1" unit="character"/>
                 <lb n="2"/><orig>ϲελ</orig><gap reason="lost" quantity="2" unit="character"/><orig>ψι</orig>
                <lb n="3"/><persName type="attested"> <name nymRef="Ἰωάννης">Ἰουάνουϲ</name></persName> <w>ἐ
-               <lb n="4" break="no"/>τῶν</w><gap reason="lost" extent="unknown" unit="character"/>
+               <lb n="4" break="no"/>τῶν</w> <gap reason="lost" extent="unknown" unit="character"/>
 </ab>
 </div>
          

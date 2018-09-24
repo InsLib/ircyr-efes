@@ -111,7 +111,7 @@
                   <name nymRef="Ι-"><seg part="I">Ι</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                <lb n="2"/><w>κα<unclear>ὶ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>	
                <lb n="3"/><persName type="attested"><name nymRef="Κρίσπος"><seg part="I">Κρισ<unclear>π</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-               <lb n="4"/><space quantity="1" unit="character"/> <w part="I">ἥρω</w><gap reason="lost" extent="unknown" unit="character"/>
+               <lb n="4"/><space quantity="1" unit="character"/> <w part="I">ἥρω</w> <gap reason="lost" extent="unknown" unit="character"/>
             </ab>
          </div>
          

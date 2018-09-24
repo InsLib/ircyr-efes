@@ -158,7 +158,7 @@
                <ab>
                         <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
                         <lb n="1"/><persName type="attested"><name nymRef="Μαχος" cert="low"><del rend="erasure">Μα<unclear>χ</unclear>οϲ</del></name></persName>
-                        <lb n="2"/><w><unclear>φ</unclear>ίλοϲ</w><gap reason="lost" extent="unknown" unit="character"/><!-- check -->
+                        <lb n="2"/><w><unclear>φ</unclear>ίλοϲ</w> <gap reason="lost" extent="unknown" unit="character"/><!-- check -->
                </ab>
             </div>
             <div subtype="fragment" n="iv" type="textpart">

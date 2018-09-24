@@ -121,9 +121,9 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div n="i" type="textpart"><ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ω</w><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ω</w> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div n="ii" type="textpart"><ab>
-                    <lb n="1"/><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ενω</w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ενω</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
 </div>

@@ -117,7 +117,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> 
-                    <w><supplied reason="lost">Κ</supplied>ριτόλ<unclear>ο</unclear></w><gap reason="lost" extent="unknown" unit="character"/><orig>χιι<unclear>ν</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> 
+                    <w><supplied reason="lost">Κ</supplied>ριτόλ<unclear>ο</unclear></w> <gap reason="lost" extent="unknown" unit="character"/><orig>χιι<unclear>ν</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>λ</unclear>ιο<unclear>ς</unclear></w>
                     <gap reason="lost" quantity="3" unit="character"/><orig>ωκ</orig><gap reason="lost" quantity="2" unit="character"/><orig><unclear>ν</unclear></orig> <space quantity="1" unit="character"/>
                     <lb n="3"/><gap reason="illegible" quantity="6" unit="line"/>

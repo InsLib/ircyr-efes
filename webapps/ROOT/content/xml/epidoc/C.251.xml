@@ -160,13 +160,13 @@
                         <persName type="attested"><name>Δομίτ<supplied reason="lost">ι</supplied>ο<supplied reason="lost">ς</supplied></name></persName><milestone unit="block"/>
                     </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ων</w> 
-                        <w>μ</w><gap reason="lost" extent="unknown" unit="character"/> 
+                        <w>μ</w> <gap reason="lost" extent="unknown" unit="character"/> 
                     </ab></div><div subtype="fragment" n="iii" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>α</orig><milestone unit="block"/>
                         <gap reason="lost" extent="unknown" unit="character"/> 
                     </ab></div><div subtype="fragment" n="iv" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ων</w> 
-                        <w>πι</w><gap reason="lost" extent="unknown" unit="character"/>
+                        <w>πι</w> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
                     </div>
                     </div>-->

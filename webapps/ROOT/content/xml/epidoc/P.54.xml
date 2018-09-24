@@ -130,7 +130,7 @@
                     <supplied reason="lost"><name nymRef="Τραιανός">Τραιανοῦ</name></supplied>
                     <name nymRef="Ἁδριανός"><supplied reason="lost">Ἁ</supplied>δριανοῦ</name> <name nymRef="Σεβαστός">Σε<lb n="3" break="no"/><supplied reason="lost">βαστοῦ</supplied></name> 
                     <w><supplied reason="lost">Ὀλυ</supplied>μπίου</w></persName> <w lemma="ὁ">τὸ</w> <num value="2">β</num> 
-                    <lb n="4"/><gap reason="lost" quantity="12" unit="character" precision="low"/> <w>Ἀκαδημε<unclear>α</unclear><lb n="5" break="no"/><supplied reason="lost">ρχ</supplied></w><gap reason="lost" quantity="10" unit="character" precision="low"/> 
+                    <lb n="4"/><gap reason="lost" quantity="12" unit="character" precision="low"/> <w>Ἀκαδημε<unclear>α</unclear><lb n="5" break="no"/><supplied reason="lost">ρχ</supplied></w> <gap reason="lost" quantity="10" unit="character" precision="low"/> 
                     <persName type="attested" key="lgpn:V1-61664"><name nymRef="Φαινιανός">Φαινιανὸς</name></persName> 
                     <lb n="6"/><gap reason="lost" quantity="11" unit="character" precision="low"/><w><supplied reason="lost">ο</supplied>υ</w> 
                     <w lemma="καί">καὶ</w> <persName type="attested"><name nymRef="Φ-"><seg part="I">Φ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>

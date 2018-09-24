@@ -109,7 +109,7 @@
                <ab>   
                   <lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
                   <num value="105">ρε</num>  
-                  <persName type="attested"><name nymRef="Μονα-"><seg part="I">Μονα</seg></name><gap reason="lost" extent="unknown" unit="character"/></persName>
+                  <persName type="attested"><name nymRef="Μονα-"><seg part="I">Μονα</seg></name> <gap reason="lost" extent="unknown" unit="character"/></persName>
                </ab>
              </div>
 

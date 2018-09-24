@@ -126,7 +126,7 @@
          
          <!--<div type="edition" xml:lang="la" xml:space="preserve">
             <ab><lb n="1"/><persName type="emperor"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>erator</ex></expan></w>
-                    <name nymRef="Caesar" type="cognomen"><seg part="I">Caesar</seg></name><gap reason="lost" extent="unknown" unit="character"/>
+                    <name nymRef="Caesar" type="cognomen"><seg part="I">Caesar</seg></name> <gap reason="lost" extent="unknown" unit="character"/>
                 <lb n="2"/><space quantity="1" unit="charcter"/> <w lemma="diuus">diui</w> <g ref="symbols.xml#leaf"/> <persName type="emperor"><name nymRef="Nerva" type="cognomen">Ne<supplied reason="lost">ruae</supplied></name></persName></persName>
                     <gap reason="lost" extent="unknown" unit="character"/>
                 <lb n="3"/><space quantity="1" unit="charcter"/> <w part="I"><expan><abbr>pont</abbr><ex>if</ex></expan></w>

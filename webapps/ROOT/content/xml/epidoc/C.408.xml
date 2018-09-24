@@ -129,7 +129,7 @@
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-64825"><name nymRef="Λόγγος"><supplied reason="lost">Λ</supplied>όνγου</name></persName>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig>ολον</orig>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"><w>τὴν</w></supplied><w lemma="σκούτλωσις"><supplied reason="lost">σκο</supplied>ύτλω
-                       <lb n="6" break="no"/><supplied reason="lost" cert="low">σιν</supplied></w><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ο</unclear>ἱ</w> <w>κληρο
+                       <lb n="6" break="no"/><supplied reason="lost" cert="low">σιν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <w><unclear>ο</unclear>ἱ</w> <w>κληρο
                        <lb n="7" break="no"/><supplied reason="lost">νομοι</supplied></w>
                     <gap reason="lost" extent="unknown" unit="character"/> <w>σὺν</w> <w>τῷ</w> <w>ἐδάφι</w>
                 </ab>

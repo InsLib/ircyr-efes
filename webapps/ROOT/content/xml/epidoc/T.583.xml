@@ -130,7 +130,7 @@
                     <lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
                         <gap reason="lost" quantity="1" unit="character"/> <rs type="month" key="Θώθ"><w>Θώθυ</w></rs>
                     <lb n="2"/><num value="4" xml:lang="grc">δ</num>
-                        <gap reason="lost" quantity="2" unit="character"/> <persName type="attested"><name><seg part="M"><unclear>οο</unclear></seg></name><gap reason="lost" quantity="3" unit="character"/>
+                        <gap reason="lost" quantity="2" unit="character"/> <persName type="attested"><name><seg part="M"><unclear>οο</unclear></seg></name> <gap reason="lost" quantity="3" unit="character"/>
                     <lb n="3"/><persName type="attested"><name nymRef="Ἀπολλώνιος">Ἀπολλω<supplied reason="lost">ν</supplied><lb n="4" break="no"/>ἰου</name></persName></persName> 
                         <date type="life-span" dur="P58Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="58" xml:lang="grc">νη</num> </date>

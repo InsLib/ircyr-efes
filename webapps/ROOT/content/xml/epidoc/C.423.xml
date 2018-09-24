@@ -125,7 +125,7 @@
 <ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-65059"><name nymRef="Μνασώ"><supplied reason="lost">Μν</supplied>ασώι</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-62855"><name nymRef="Ἀναξώ"><supplied reason="lost">Ἀ</supplied><unclear>ν</unclear>αξώι</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><persName type="attested" key="lgpn:V1-64958"><name nymRef="Μεγώ"><supplied reason="lost">Με</supplied>γώι</name></persName> <w>Τι</w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><persName type="attested" key="lgpn:V1-64958"><name nymRef="Μεγώ"><supplied reason="lost">Με</supplied>γώι</name></persName> <w>Τι</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><persName type="attested" key="lgpn:V1-63022"><name nymRef="Ἀράτα"><supplied reason="lost">Ἀρ</supplied>άτα</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><persName type="attested" key="lgpn:V1-64733"><name nymRef="Κριτόλα"><supplied reason="lost">Κρ</supplied>ιτόλα</name> <persName type="attested" key="lgpn:V1-63597"><name nymRef="Διονύσιος">Δι<supplied reason="lost">ονυσίω</supplied></name></persName></persName>
                     <lb n="6"/><persName type="attested" key="lgpn:V1-65061"><name nymRef="Μνατέα"><supplied reason="lost">Μν</supplied>ατέα</name> <persName type="attested"><name nymRef="Ἀρ-"><seg part="I">Ἀρ</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>

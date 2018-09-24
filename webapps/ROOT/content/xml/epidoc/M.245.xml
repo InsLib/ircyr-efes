@@ -133,7 +133,7 @@
                     <lb n="2"/><gap reason="lost" quantity="5" unit="character" precision="low"/><orig>στεγα</orig><gap reason="lost" quantity="4" unit="character"/><orig><unclear>τ</unclear>ει<unclear>μ</unclear></orig><gap reason="lost" quantity="5" unit="character"/>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="4"/><gap reason="lost" quantity="1" unit="line"/>
-                    <lb n="5"/><w part="I" lemma="εὐσεβής">εὐσεβε</w><gap reason="lost" quantity="5" unit="character"/><orig><unclear>κ</unclear>επ<unclear>ο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/><lb n="6" break="no"/><w><unclear>τ</unclear>αῖ</w> <w>παγαι</w>
+                    <lb n="5"/><w part="I" lemma="εὐσεβής">εὐσεβε</w> <gap reason="lost" quantity="5" unit="character"/><orig><unclear>κ</unclear>επ<unclear>ο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/><lb n="6" break="no"/><w><unclear>τ</unclear>αῖ</w> <w>παγαι</w>
                <gap reason="lost" quantity="3" unit="character"/><orig>ε<unclear>σ</unclear>τα</orig><gap reason="lost" quantity="3" unit="character"/><orig><unclear>α</unclear>σ</orig><gap reason="lost" quantity="4" unit="character"/>
                     <lb n="7"/><w>φιλότιμον</w> <w>ἦμεν</w> <w><supplied reason="lost">ἐ</supplied>γγράψαι</w>
                <w>δὲ</w> <w>αὐ<lb n="8" break="no"/>τὸ<unclear>ν</unclear></w> <w><unclear>κ</unclear>αὶ</w> 

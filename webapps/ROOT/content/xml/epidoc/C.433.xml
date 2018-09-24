@@ -232,7 +232,7 @@
             
             <div type="textpart" subtype="graphito" n="XIII">
                       <ab>
-                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w><gap reason="lost" quantity="1" unit="character"/> 
+                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <gap reason="lost" quantity="1" unit="character"/> 
                          <persName type="attested" key="lgpn:V1-65926"><name nymRef="Φίλιος">Φιλί<unclear>ω</unclear></name> </persName>
             <persName type="attested" key="lgpn:V1-63553"><name nymRef="Δημήτριος">Δημήτριος</name> 
                <lb n="2"/><name nymRef="Ἰμαλύλο">Ἰμαλύλος</name></persName> <!-- check ψφ key="lgpn:V1-64921"-->

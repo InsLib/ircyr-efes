@@ -177,7 +177,7 @@
                     <num value="137">ρλζ</num></date> <date corresp="https://godot.date/id/WWhexyw5hhr8ZZun3JzXHE"><w>τοῦ</w> <w>κ<supplied reason="lost">αὶ</supplied></w>
             <supplied reason="lost"><num value="10">ι</num> </supplied></date></date> 
                     <persName type="attested"><name nymRef="Γάϊος"><expan><abbr><unclear>Γ</unclear></abbr><ex>άϊος</ex></expan></name> <name nymRef="Ποστόμιος">Ποστόμιος</name>
-            <lb n="15"/><name nymRef="Ὀπτᾶτος">Ὀπτᾶτ<supplied reason="lost">ος</supplied></name><gap reason="lost" quantity="4" unit="character"/> <persName type="attested"><name nymRef="Ποστόμιος"><supplied reason="lost">Π</supplied>ωστομίω</name>
+            <lb n="15"/><name nymRef="Ὀπτᾶτος">Ὀπτᾶτ<supplied reason="lost">ος</supplied></name> <gap reason="lost" quantity="4" unit="character"/> <persName type="attested"><name nymRef="Ποστόμιος"><supplied reason="lost">Π</supplied>ωστομίω</name>
             <name nymRef="Ὀπτᾶτος">Ὀ<unclear>π</unclear><lb n="16" break="no"/><unclear>τ</unclear><supplied reason="lost">άτω</supplied></name></persName> <supplied reason="lost"><w>υἱὸς</w></supplied></persName>
             <w><supplied reason="lost">ἱερεὺ</supplied>ς</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλω<supplied reason="lost">νος</supplied></name></persName> 
             <lb n="17"/><gap reason="lost" quantity="6" unit="character" precision="low"/><w lemma="καλλιέτης"><supplied reason="lost" cert="low">καλλιέ</supplied>της</w> 

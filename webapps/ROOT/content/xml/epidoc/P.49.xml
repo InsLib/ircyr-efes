@@ -134,7 +134,7 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Titus"><expan><abbr>T</abbr><ex>itus</ex></expan></name>
                         <name nymRef="Flavius">Flauius</name> 
-                        <name nymRef="Au-"><seg part="I">Au</seg></name><gap reason="lost" extent="unknown" unit="character"/></persName>
+                        <name nymRef="Au-"><seg part="I">Au</seg></name> <gap reason="lost" extent="unknown" unit="character"/></persName>
                 </ab>
 </div>
          

@@ -122,7 +122,7 @@
                      <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ος</w> 
                             <persName type="attested"><name nymRef="Γλυχ-"><seg part="I">Γ<unclear>λ</unclear>υχ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                      <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ν</w>
-                            <w part="I">φιλ</w><gap reason="lost" extent="unknown" unit="character"/>
+                            <w part="I">φιλ</w> <gap reason="lost" extent="unknown" unit="character"/>
                         </ab>
 </div>
 </div>

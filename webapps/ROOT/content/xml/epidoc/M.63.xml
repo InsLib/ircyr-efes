@@ -139,7 +139,7 @@
          </div>
              <div subtype="section" n="ii" type="textpart">
              <ab>
-                        <lb n="1"/><w part="I">καλλιετ<unclear>η</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><w part="I">καλλιετ<unclear>η</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="2"/><orig><unclear>Ε</unclear>ὐ<unclear>μμ</unclear>ο</orig><gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
 </div>

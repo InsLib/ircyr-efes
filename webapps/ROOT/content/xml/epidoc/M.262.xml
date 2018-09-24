@@ -121,7 +121,7 @@
 
                     <lb n="2"/><gap reason="lost" extent="5" unit="character"/><space extent="1"/><orig>ε</orig><gap reason="lost" extent="2" unit="character"/>
             <lb n="3"/><persName type="attested"><name nymRef="Φίλων">Φίλων</name></persName> <w>ἐ
-                     <lb n="4" break="no"/>τῶν</w><gap reason="lost" quantity="2" unit="character"/>
+                     <lb n="4" break="no"/>τῶν</w> <gap reason="lost" quantity="2" unit="character"/>
                 </ab>
 </div>
          <div type="apparatus">

@@ -159,7 +159,7 @@
                     <name nymRef="Σεβαστός"><supplied reason="lost">σεβαστοὺς</supplied></name></persName> 
                     <gap reason="lost" extent="unknown" unit="character"/><gap reason="lost" quantity="18" unit="character"/>
                     <lb n="8" break="no"/><w>χον</w> <persName type="attested"><name nymRef="Δεκίβαλλος">Δεκίβαλλον</name></persName>
-                    <w>ἔλαβε</w><gap reason="lost" extent="unknown" unit="character"/>
+                    <w>ἔλαβε</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          <div type="apparatus">

@@ -121,9 +121,9 @@
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="pontifex"><expan><abbr><supplied reason="lost">p</supplied>ont</abbr><ex>ifici</ex></expan></w> 
-            <w lemma="augur">auguri</w> <w><expan><abbr>co</abbr><supplied reason="lost"><ex>n</ex><abbr>s</abbr><ex>uli</ex></supplied></expan></w><gap reason="lost" extent="unknown" unit="character"/>
+            <w lemma="augur">auguri</w> <w><expan><abbr>co</abbr><supplied reason="lost"><ex>n</ex><abbr>s</abbr><ex>uli</ex></supplied></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Mamilianus">Mamilianum</name></persName> 
-            <w><expan><abbr>pro</abbr><supplied reason="lost"><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulem</ex></supplied></expan></w><gap reason="lost" extent="unknown" unit="character"/>
+            <w><expan><abbr>pro</abbr><supplied reason="lost"><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ulem</ex></supplied></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          <div type="apparatus">

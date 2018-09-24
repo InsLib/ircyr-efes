@@ -299,12 +299,12 @@
                         <w lemma="ὁ">τοὺς</w> <w lemma="στρατιώτης">στρα<lb n="43"/>τιώτας</w>
                         <w lemma="ἐπί">ἐφ’</w>  <w lemma="ὕστερος">ὕστερον</w>
                         <w lemma="εἰς">εἰς</w> <w lemma="ὁ">τὰ</w>
-                       <w>ἰδία</w><gap reason="lost" quantity="14" unit="character" precision="low"/><w>ως</w>
+                       <w>ἰδία</w> <gap reason="lost" quantity="14" unit="character" precision="low"/><w>ως</w>
                         <w lemma="παρέχω">παρέχειν</w>
                         <w>μη<lb n="44"/>τάτα</w> <w lemma="καί">καὶ</w> <w lemma="μή">μὴ</w> <w>ἐνυβρισαμένους</w>
                         <w lemma="ὁ">τοὺς</w> <w>ἰδιώτας</w>
                         <w>προφάσει</w>
-                        <w>μη<lb n="45" break="no"/>τάτων</w><gap reason="lost" quantity="12" unit="character" precision="low"/><orig>οτηπ</orig>
+                        <w>μη<lb n="45" break="no"/>τάτων</w> <gap reason="lost" quantity="12" unit="character" precision="low"/><orig>οτηπ</orig>
                         <gap reason="lost" quantity="5" unit="character" precision="low"/><w lemma="ὁ">τῶν</w>
                             <w lemma="ἑαυτοῦ">αὑτῷ</w> <w lemma="διαφέρω">διαφερόντων</w> 
                 <lb n="46"/><w>οἰκημάτων</w> <space quantity="3" unit="character"/> <note>11</note> <w>ὥ<supplied reason="lost">σ</supplied>τε</w> <w>τοὺς</w> <w>καστρ<supplied reason="omitted">η</supplied>σιανοὺς</w> <w>μετὰ</w> <w>πά<supplied reason="omitted">σ</supplied>ης</w> <w>ἐπιμελίας</w>

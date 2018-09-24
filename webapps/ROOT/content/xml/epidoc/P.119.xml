@@ -173,7 +173,7 @@
             <div subtype="fragment" n="g" type="textpart">
                   <ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">imum</w> 
-                        <w lemma="dedico">dedic<supplied reason="lost">auit</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+                        <w lemma="dedico">dedic<supplied reason="lost">auit</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                   </ab>
             </div>
          </div>

@@ -124,10 +124,10 @@
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>εν</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ροις</w>
-                    <w part="I">π<unclear>α</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-63303"><name nymRef="Ἀσκληπίας"><supplied reason="lost" cert="low">Ἀσκ</supplied>ληπίας</name></persName> <w lemma="ἐκ">ἐκ</w><gap reason="lost" extent="unknown" unit="character"/>
+                    <w part="I">π<unclear>α</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-63303"><name nymRef="Ἀσκληπίας"><supplied reason="lost" cert="low">Ἀσκ</supplied>ληπίας</name></persName> <w lemma="ἐκ">ἐκ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w>τέλος</w>
-                    <w part="I">τεσ</w><gap reason="lost" extent="unknown" unit="character"/>
+                    <w part="I">τεσ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>η</w> 
                     <space quantity="1" unit="character"/> <g ref="symbols.xml#leaf"/> </ab>
 </div>

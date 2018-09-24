@@ -129,7 +129,7 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">μ</supplied><unclear>α</unclear>κελλο</w><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">μ</supplied><unclear>α</unclear>κελλο</w> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor"><name><seg part="M">κω<unclear>ν</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>

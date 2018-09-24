@@ -125,7 +125,7 @@
             <div subtype="part" n="a" type="textpart">
                <ab>
                     <lb n="1"/><w>Εὐτυ<supplied reason="lost">χ</supplied>ῶϲ</w> 
-                    <lb n="2"/><w lemma="ὁ">το<unclear>ῖ</unclear><supplied reason="lost">ϲ</supplied></w><gap reason="lost" quantity="2" unit="character"/><orig>ϲ</orig> 
+                    <lb n="2"/><w lemma="ὁ">το<unclear>ῖ</unclear><supplied reason="lost">ϲ</supplied></w> <gap reason="lost" quantity="2" unit="character"/><orig>ϲ</orig> 
                     <lb n="3"/><gap reason="lost" quantity="1" unit="line" precision="low"/> 
                     <lb n="4"/><w part="F">λίοιϲ</w>
                </ab>

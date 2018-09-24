@@ -140,7 +140,7 @@
             <w><supplied reason="lost">eue</supplied>ntum<expan><abbr>q</abbr><ex>ue</ex></expan></w> 
                     <w lemma="bonus">bo<supplied reason="lost">nu</supplied>m</w> 
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> 
-                    <w lemma="Romanus">R</w><gap reason="lost" quantity="5" unit="character"/> <w lemma = "astus">astu</w> 
+                    <w lemma="Romanus">R</w> <gap reason="lost" quantity="5" unit="character"/> <w lemma = "astus">astu</w> 
                     <w lemma="is"><unclear>e</unclear>a</w> <w lemma="ita">i<unclear>t</unclear>a</w> <w><unclear>f</unclear>axis</w> 
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>x</unclear>v</w> 
                     <w lemma="tu"><supplied reason="lost">t</supplied>ibi</w> <w lemma= "datus">datum</w> <w lemma= "eo">iri</w> 

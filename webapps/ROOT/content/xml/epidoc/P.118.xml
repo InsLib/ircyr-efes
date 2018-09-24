@@ -188,15 +188,15 @@
                         <w><unclear>s</unclear>up<unclear>e</unclear><supplied reason="lost">rioris</supplied></w>
                     </ab></div><div subtype="face" n="ii" type="textpart"><ab>
                         <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="felix"><supplied reason="lost">fel</supplied><unclear>i</unclear>c<unclear>i</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">superi</supplied><unclear>ori</unclear><supplied reason="lost">s</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="felix"><supplied reason="lost">fel</supplied><unclear>i</unclear>c<unclear>i</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">superi</supplied><unclear>ori</unclear><supplied reason="lost">s</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2a"/><gap reason="lost" extent="unknown" unit="line"/>
                     </ab></div></div><div subtype="fragment" n="d" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ico<supplied reason="undefined" evidence="previous-editor"><gap reason="lost" quantity="1" unit="character"/></supplied></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><add place="overstrike"><orig>vs</orig></add> 
                         <persName type="emperor"><name>Fla<unclear>u</unclear>io</name>
                             <name>Val<supplied reason="lost">erio</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ci</supplied>uitates</w> <w lemma="prouincia">pro<supplied reason="lost">uinciae</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ci</supplied>uitates</w> <w lemma="prouincia">pro<supplied reason="lost">uinciae</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"><w lemma="numen"><expan><abbr>n</abbr><ex>umini</ex></expan></w></supplied>
                         <w lemma="maiestas"><expan><abbr>m</abbr><ex>aiestati</ex><abbr>q</abbr><ex>ue</ex></expan></w>
                         <w lemma="is">eorum</w> <space quantity="1" unit="character"/>

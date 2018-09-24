@@ -206,7 +206,7 @@
                         <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> 
                   <persName type="emperor"><name nymRef="Καῖσαρ">Καῖσαρ</name> 
-                        <w>θ<supplied reason="lost">εοῦ</supplied></w><gap reason="lost" 
+                        <w>θ<supplied reason="lost">εοῦ</supplied></w> <gap reason="lost" 
                            extent="unknown" unit="character"/>
                         <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> 
                      <w>δημαρχικῆς</w></persName> 
@@ -221,11 +221,11 @@
                         <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> 
                         <w><supplied reason="lost">Caesareu</supplied><unclear>m</unclear></w> 
-                        <w lemma= "tumultus">tumult<supplied reason="lost">u</supplied></w><gap reason="lost" 
+                        <w lemma= "tumultus">tumult<supplied reason="lost">u</supplied></w> <gap reason="lost" 
                            extent="unknown" unit="character"/>
                         <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
                         <persName type="emperor"><name nymref"Παρθικός"><supplied reason="lost">Π</supplied>αρθικ<supplied 
-                           reason="lost">οῦ</supplied></name><gap reason="lost" 
+                           reason="lost">οῦ</supplied></name> <gap reason="lost" 
                               extent="unknown" unit="character"/>
                         <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied 
                            reason="lost">ἐξουσία</supplied><unclear>ς</unclear></w> <w>τὸ</w> 

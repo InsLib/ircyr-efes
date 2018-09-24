@@ -140,35 +140,35 @@
             <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>οιστη</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">αλόντω<unclear>ν</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="καί"><supplied reason="lost">κ</supplied>αὶ</w> <w lemma="ὁ">τοὺς</w> <w part="I">κα</w><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">αλόντω<unclear>ν</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="καί"><supplied reason="lost">κ</supplied>αὶ</w> <w lemma="ὁ">τοὺς</w> <w part="I">κα</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="καί">καὶ</w> 
                     <w>ποιμνίοις</w> <orig><unclear>λ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w>ἁμὰ</w> <w lemma="ὁ">τῆι</w>
-                    <w>προς</w> <w part="I">α<unclear>ν</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <w>προς</w> <w part="I">α<unclear>ν</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w>πέμψας</w> <w lemma="καί">καὶ</w>
-                    <w>δοὺς</w><gap reason="lost" extent="unknown" unit="character"/>
+                    <w>δοὺς</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ων</w> <w>ἀξίαν</w>
-                    <w lemma="ὁ">τῆς</w> <w part="I">ἐπι<orig><unclear>ι</unclear></orig></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <w lemma="ὁ">τῆς</w> <w part="I">ἐπι<orig><unclear>ι</unclear></orig></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">μισται</w> 
-                    <w lemma="ὁ">τὴν</w> <w part="I">παρατ</w><gap reason="lost" extent="unknown" unit="character"/>
+                    <w lemma="ὁ">τὴν</w> <w part="I">παρατ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>χ</unclear>εν</w>
-                    <w>βαρβάρων</w> <w>διατ<unclear>ρ</unclear><supplied reason="lost" cert="low">ιβόντων</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἡ</supplied>γεμόνων</w> <w lemma="καί">καὶ</w> <w>στρα<supplied reason="lost" cert="low">τιωτῶν</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <w>βαρβάρων</w> <w>διατ<unclear>ρ</unclear><supplied reason="lost" cert="low">ιβόντων</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἡ</supplied>γεμόνων</w> <w lemma="καί">καὶ</w> <w>στρα<supplied reason="lost" cert="low">τιωτῶν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="11"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἐ</supplied><unclear>π</unclear>ιτρόπω<unclear>ι</unclear></w> <w>θέντων</w> 
-                    <w part="I">τ</w><gap reason="lost" extent="unknown" unit="character"/>
+                    <w part="I">τ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="12"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">φ</supplied>υλαχθε<unclear>ί</unclear>σης</w> <space quantity="1" unit="character"/> <w>ἀγα<supplied reason="lost">θῆι</supplied></w>
                     <supplied reason="lost"><w>τύχηι</w> <w>δέδοχθαι</w></supplied>
                     <lb n="13"/><placeName nymRef="Πτολεμαιεύς"><supplied reason="lost">Πτολεμ</supplied><unclear>α</unclear>ιεῦσι</placeName>
                     <w lemma="ὁ">το<supplied reason="lost">ῖ</supplied>ς</w> <placeName type="ethnic"><w lemma="Βαρκαῖος">Βαρκαίοις</w></placeName>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="14"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>ω</unclear>ν</w>
-                    <w lemma="πᾶς">πάντα</w> <w>σ<unclear>υ</unclear><supplied reason="lost">ντ</supplied>υχήμ<supplied reason="lost">ατα</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <w lemma="πᾶς">πάντα</w> <w>σ<unclear>υ</unclear><supplied reason="lost">ντ</supplied>υχήμ<supplied reason="lost">ατα</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="15"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὁ"><unclear>τ</unclear>οῖς</w> 
                     <w>γ<supplied reason="lost">εγ</supplied>ενημένοις</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="16"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F"><unclear>I</unclear>ίου</seg></name> <name nymRef="Λατερανός">Λατερ<unclear>α</unclear><supplied reason="lost">νοῦ</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="17"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="στρατηγός"><supplied reason="lost">στρα</supplied><unclear>τ</unclear>ηγοῦ</w> <space quantity="1" unit="character"/>
-                    <w part="I">απ</w><gap reason="lost" extent="unknown" unit="character"/>
+                    <w part="I">απ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="18"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὁ">τῶι</w>
                      <persName type="divine" cert="low" key="amun"><name nymRef="Ἀμμώνιος" cert="low"><seg part="I">Ἀμμω<supplied reason="lost">ν</supplied></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="19"/><gap reason="lost" extent="unknown" unit="character"/><orig>νικαιϲποι</orig><gap reason="lost" extent="unknown" unit="character"/>

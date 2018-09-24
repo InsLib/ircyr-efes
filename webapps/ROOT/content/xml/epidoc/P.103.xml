@@ -124,7 +124,7 @@
                    <lb n="1"/><space quantity="3" unit="character"/><gap reason="lost" quantity="2" unit="character"/><orig>rd<unclear>uiia</unclear></orig><gap reason="lost" quantity="4" unit="character" precision="low"/>
                <w lemma="prouincia"><supplied reason="lost">prou</supplied><lb
                   n="2" break="no"/><space quantity="3" unit="character"/>incias</w> 
-               <w lemma="primus" part="I">primu</w><gap reason="lost" extent="unknown" unit="character"/>
+               <w lemma="primus" part="I">primu</w> <gap reason="lost" extent="unknown" unit="character"/>
             </ab>
          </div>
          

@@ -140,7 +140,7 @@
             <div n="b" type="textpart">
                <ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ex"><unclear>e</unclear>x</w> 
-                        <w part="I">nu<unclear>m</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
+                        <w part="I">nu<unclear>m</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                </ab>
             </div>
          </div>

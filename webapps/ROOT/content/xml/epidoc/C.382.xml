@@ -125,7 +125,7 @@
                     <lb n="1"/><w>σὺν</w> <w>θεοφανείᾳ</w>
                     <lb n="2"/><persName type="divine" key="agathetyche"><w>ἀγαθῇ</w> <w>τύχῃ</w></persName> <w>ἐπὶ</w> <w><supplied reason="lost">ἰερέως</supplied></w>
                     <lb n="3"/><persName type="divine" key="apollo"><w>τοῦ</w> <w>κτιστοῦ</w> <name nymRef="Ἀπόλλων"><supplied reason="lost">Ἀπόλλ</supplied>ωνος</name>
-            <lb n="4"/><name nymRef="Ἰούλιος">Ἰουλι<supplied reason="lost">ου</supplied></name> <name nymRef="Κλερο-"><seg part="I">Κλερο</seg></name><gap reason="lost" extent="unknown" unit="character"/></persName>
+            <lb n="4"/><name nymRef="Ἰούλιος">Ἰουλι<supplied reason="lost">ου</supplied></name> <name nymRef="Κλερο-"><seg part="I">Κλερο</seg></name> <gap reason="lost" extent="unknown" unit="character"/></persName>
                     <lb n="5"/><persName type="attested"><name nymRef="Βαλέριος">Βαλέριος</name>
                     <lb n="6"/><name nymRef="Μάξιμος">Μάξιμος</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
             <lb n="7"/><w>αἱ</w> <w>ἐν</w> <w>τ<supplied reason="lost" cert="low">ῷ</supplied></w> <w><supplied reason="lost" cert="low">νυμφαίῳ</supplied></w>

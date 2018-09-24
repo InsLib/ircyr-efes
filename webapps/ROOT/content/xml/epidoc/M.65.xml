@@ -114,7 +114,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>τ</unclear>αντοϲ</w> <w lemma="ὁ">τῇ</w> <w>τέχνῃ</w> 
-                    <w lemma="ὁ">τῶν</w> <w>ἐργαϲα<unclear>μ</unclear><supplied reason="lost">ένων</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <w lemma="ὁ">τῶν</w> <w>ἐργαϲα<unclear>μ</unclear><supplied reason="lost">ένων</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          <div type="apparatus">

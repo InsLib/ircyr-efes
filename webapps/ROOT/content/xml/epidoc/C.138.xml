@@ -119,7 +119,7 @@
 <ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/> 
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="de">de</w> 
-                    <w lemma="pecunia">pec<supplied reason="lost">unia</supplied></w><gap reason="lost" extent="unknown" unit="character"/>
+                    <w lemma="pecunia">pec<supplied reason="lost">unia</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

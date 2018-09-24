@@ -126,7 +126,7 @@
                             <lb n="1"/><persName type="attested" key="lgpn:V1-63012"><name nymRef="Ἀπολλώς">Ἀπολλὼς</name>
                             <lb n="2"/><persName type="attested" key="lgpn:V1-62930"><name nymRef="Ἀντίοχος">Ἀντιόχο<unclear>υ</unclear></name></persName></persName>
                             <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                            <num value="55">νε</num> <w part="I">κα<unclear>λ</unclear></w><gap reason="lost" extent="unknown" unit="character"/>
+                            <num value="55">νε</num> <w part="I">κα<unclear>λ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                         </ab>
 </div>
 </div>

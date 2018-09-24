@@ -127,7 +127,7 @@
                         </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60344"><name nymRef="Πρινᾶς">Π<unclear>ρίνα</unclear>ς</name></persName>
-                       <w part="I">Φ</w><gap reason="lost" extent="unknown" unit="character"/> 
+                       <w part="I">Φ</w> <gap reason="lost" extent="unknown" unit="character"/> 
                     </ab>
 </div>
 </div>

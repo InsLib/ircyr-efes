@@ -148,7 +148,7 @@
                     <lb n="5"/><w><supplied reason="lost">προσόδαν</supplied></w>
                 <w><supplied reason="lost">ἀφιερώσαντο</supplied>ς</w> 
                 <space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Φλάβιος"><expan><abbr>Φλ</abbr><ex>αβι</ex></expan></name> 
-                    <space quantity="1" unit="character"/> <name nymRef="Φαυ-"><seg part="I">Φαυ</seg></name><gap reason="lost" extent="unknown" unit="character"/></persName>. 
+                    <space quantity="1" unit="character"/> <name nymRef="Φαυ-"><seg part="I">Φαυ</seg></name> <gap reason="lost" extent="unknown" unit="character"/></persName>. 
                 </ab>
 </div>
          <!-- check, add apparatus -->

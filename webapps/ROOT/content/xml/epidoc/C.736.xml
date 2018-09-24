@@ -125,7 +125,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><persName type="attested"><name nymRef="Εὐ-"><seg part="I">Εὐ</seg></name><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name nymRef="Εὐ-"><seg part="I">Εὐ</seg></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><persName type="attested"><name nymRef="Ἰούλιος">Ἰουλ<supplied reason="lost" cert="low">ίου</supplied></name></persName></persName>
                     <lb n="3"/><date type="life-span" dur="P16Y"><num value="16">ιϛ</num> </date>
                 </ab>

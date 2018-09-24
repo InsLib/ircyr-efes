@@ -174,7 +174,7 @@
                   <ab>
                      <lb n="1"/><gap reason="lost" quantity="6" unit="character" precision="low"/> 
                      <persName type="attested"><name type="gentilicium" nymRef="Οὐαλέριος"><supplied reason="lost">Οὐ</supplied>ᾳλέριος</name> <g ref="symbols.xml#slanting-stroke"/>
-                     <name nymRef="Σταδι-"><seg part="I">Σταδι</seg></name><gap reason="lost" extent="unknown" unit="character"/></persName>
+                     <name nymRef="Σταδι-"><seg part="I">Σταδι</seg></name> <gap reason="lost" extent="unknown" unit="character"/></persName>
                   </ab>
                </div>
             </div>
@@ -183,7 +183,7 @@
                   <lb n="1"/><gap reason="lost" quantity="8" unit="character" precision="low"/><orig>Ν</orig>
                   <lb n="2"/><gap reason="lost" quantity="8" unit="character" precision="low"/><orig>O<unclear>M</unclear>‖</orig>
                   <lb n="3"/><gap reason="lost" quantity="8" unit="character" precision="low"/> <w part="F"><unclear>ον</unclear>δων</w>
-                  <lb n="4"/><w part="I">Αδ</w><gap reason="lost" quantity="12" unit="character" precision="low"/>
+                  <lb n="4"/><w part="I">Αδ</w> <gap reason="lost" quantity="12" unit="character" precision="low"/>
                   <lb n="5"/><gap reason="lost" quantity="10" unit="character" precision="low"/><persName type="attested" key="lgpn:V1-64915"><name nymRef="Λύων">Λύοντος</name></persName>
                   <lb n="6"/><gap reason="lost" quantity="4" unit="character" precision="low"/><w part="F">νεφι</w>
                </ab>
