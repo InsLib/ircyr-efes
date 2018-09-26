@@ -124,15 +124,15 @@
                    <w><expan><abbr>abn</abbr><ex>epos</ex></expan></w> 
                    <name nymRef="Caesar">Caesar</name><lb n="4"/><name nymRef="Augustus"><expan><abbr><supplied reason="lost">A</supplied>ug</abbr><ex>ustus</ex></expan></name>
                    <name nymRef="Germanicus">Germanicus</name></persName> <w><expan><abbr>pontif</abbr><ex>ex</ex></expan></w>
-                   <lb n="5"/><w><expan><abbr><supplied reason="lost">m</supplied>ax</abbr><ex>imus</ex></expan></w>
+                   <lb n="5"/> <w><expan><abbr><supplied reason="lost">m</supplied>ax</abbr><ex>imus</ex></expan></w>
                    <w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <w><expan><abbr>potest</abbr><ex>ate</ex></expan></w> 
                    <w><expan><abbr>imp</abbr><ex>erator</ex></expan></w>
-                   <lb n="6"/><w><expan><abbr><supplied reason="lost">m</supplied>ax</abbr><ex>imus</ex></expan></w>
+                   <lb n="6"/> <w><expan><abbr><supplied reason="lost">m</supplied>ax</abbr><ex>imus</ex></expan></w>
                    <w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <w><expan><abbr>potest</abbr><ex>ate</ex></expan></w>
-                   <w><expan><abbr>imp</abbr><ex>erator</ex></expan></w> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w><lb n="7"/><w><supplied reason="lost">pe</supplied>r</w> 
+                   <w><expan><abbr>imp</abbr><ex>erator</ex></expan></w> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w><lb n="7"/> <w><supplied reason="lost">pe</supplied>r</w> 
                    <persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>ucium</ex></expan></name>
                    <name nymRef="Acilius">Acilium</name> <name nymRef="Strabo">Strabonem</name></persName>
-                   <lb n="8"/><w><expan><abbr><supplied reason="lost">l</supplied>egat</abbr><ex>um</ex></expan></w>
+                   <lb n="8"/> <w><expan><abbr><supplied reason="lost">l</supplied>egat</abbr><ex>um</ex></expan></w>
                    <w lemma="suus">suum</w> <w lemma="finis">fine<unclear>s</unclear></w> <w><expan><abbr>occupa<unclear>t</unclear></abbr><ex>os</ex></expan></w>
                    <lb n="9"/><w lemma="ab">a</w> <w lemma="priuatus">priuatis</w> <expan><w><abbr>P</abbr><ex>opulo</ex></w> 
                    <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName></expan> <w lemma="restituo">r<supplied reason="lost">e</supplied>stituit</w>
@@ -167,12 +167,12 @@
                <w>ἰδίου</w></supplied>
                 <w>πρεσ<lb n="3" break="no"/><supplied reason="lost">βευτοῦ</supplied></w> 
                <w><supplied reason="lost">ὅρο</supplied>υς</w>
-                <lb n="4"/><w><supplied reason="lost">κατεχ</supplied>ομ<lb n="5" break="no"/><supplied reason="lost">ένους</supplied></w> 
+                <lb n="4"/> <w><supplied reason="lost">κατεχ</supplied>ομ<lb n="5" break="no"/><supplied reason="lost">ένους</supplied></w> 
                <w><supplied reason="lost">ὑπὸ</supplied></w> 
                <w><supplied reason="lost">ἰ</supplied>δι<lb n="6" break="no"/><supplied reason="lost">ωτῶν</supplied></w> 
                <w><supplied reason="lost">δή</supplied>μωι</w>
                <lb n="7"/><placeName type="ethnic"><w lemma="Ῥωμαῖος"><supplied reason="lost">Ῥωμα</supplied>ίω<supplied reason="lost">ν</supplied></w></placeName>
-               <lb n="8"/><w><supplied reason="lost">ἀποκα</supplied>τέ<unclear>σ</unclear><lb n="9" break="no"/><supplied reason="lost">τησεν</supplied></w>
+               <lb n="8"/> <w><supplied reason="lost">ἀποκα</supplied>τέ<unclear>σ</unclear><lb n="9" break="no"/><supplied reason="lost">τησεν</supplied></w>
             </ab>
          </div>
             </div>

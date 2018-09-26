@@ -126,7 +126,7 @@
                              <lb n="1"/><persName type="attested"  key="lgpn:V1-60188"><name nymRef="Ἀπολλοφάνης">Ἀπολλοφάνης</name></persName>
                          </ab></div>
             <div subtype="part" n="ii" type="textpart"><ab>
-                           <lb n="1"/><persName type="attested"><name nymRef="Καλλι-"><seg part="I">Καλλι</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                           <lb n="1"/><persName type="attested"><name nymRef="Καλλι-"><seg part="I">Καλλι</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                        </ab></div>
             <div subtype="part" n="iii" type="textpart"><ab>
                              <lb n="1"/><persName type="attested" key="lgpn:V1-60187"><name nymRef="Ἀρίμμας">Ἀρίμ<lb n="2" break="no"/><unclear>μ</unclear><supplied reason="lost">α</supplied>ς</name></persName> 

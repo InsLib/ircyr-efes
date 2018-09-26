@@ -126,7 +126,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
                     <lb n="1"/><w lemma="καί">καὶ</w> 
                     <w lemma="ὕστερος">ὕσ<unclear>τ</unclear>ε<lb n="2" break="no"/>ρον</w> <w lemma="ἐπί">ἐπι</w>  
-                    <lb n="3"/><w>καθιερώ<lb n="4" break="no"/>σαντος</w>
+                    <lb n="3"/> <w>καθιερώ<lb n="4" break="no"/>σαντος</w>
                      </ab></div><div subtype="part" n="ii" type="textpart"><ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ω</orig> <space quantity="1" unit="character"/> 
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>τω</orig> <space quantity="1" unit="character"/>

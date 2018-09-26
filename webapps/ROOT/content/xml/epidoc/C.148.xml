@@ -126,7 +126,7 @@
             <div type="edition" xml:lang="grc" xml:space="preserve">
                 
                 <ab>
-                    <lb n="1"/><w>Ἒφοροι</w> <space quantity="1" unit="character"/> <w>οἱ</w> <date corresp="https://godot.date/id/Mjs3Vt25ydaTn9HDDUqxkk"><w>ἐφ'</w> <w>ἱαρεῦς</w>
+                    <lb n="1"/> <w>Ἒφοροι</w> <space quantity="1" unit="character"/> <w>οἱ</w> <date corresp="https://godot.date/id/Mjs3Vt25ydaTn9HDDUqxkk"><w>ἐφ'</w> <w>ἱαρεῦς</w>
                     
                     <lb n="2"/><persName type="attested" key="lgpn:V1-63835"><name nymRef="Εὐκλῆς">Εὐκλεῦς</name> <w>τῶ</w> <persName
                         type="attested" key="lgpn:V1-62629"><name type="patronymic" nymRef="Αἰγλάνωρ">Αἰγλάνορος</name></persName></persName></date>
@@ -151,7 +151,7 @@
                     
                     <lb n="8a"/> <space quantity="1" unit="line"/>
                     
-                    <lb n="9"/><w>τὰν</w> <persName type="divine" key="agathetyche"><w>Ἀγαθὰν</w> <name nymRef="Τύχα">Τύχαν</name></persName>.
+                    <lb n="9"/> <w>τὰν</w> <persName type="divine" key="agathetyche"><w>Ἀγαθὰν</w> <name nymRef="Τύχα">Τύχαν</name></persName>.
                 
                 </ab>
             </div>

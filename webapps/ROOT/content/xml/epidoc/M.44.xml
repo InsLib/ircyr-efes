@@ -147,26 +147,26 @@
                        <lb n="22"/><persName type="attested" key="lgpn:V1-62161"><name nymRef="Ἰούλιος">Ἰουλίου</name></persName>
                        <lb n="23"/><persName type="attested"><name nymRef="Σέμνος">Ϲέμν<supplied reason="lost">ου</supplied></name></persName>
                        <lb n="24"/><gap reason="lost" quantity="2" unit="character"/><orig><hi rend="supraline">τ</hi></orig><gap reason="lost" extent="unknown" unit="character"/>
-                       <lb n="25"/><persName type="attested"><name nymRef="Ομυ-"><seg part="I">Ομυ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                       <lb n="26"/><persName type="attested"><name nymRef="Βοτ-"><seg part="I">Βοτ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                       <lb n="27"/><persName type="attested"><name nymRef="Π-"><seg part="I"><unclear>Π</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                       <lb n="28"/><persName type="attested"><name nymRef="Φι-"><seg part="I">Φι</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                       <lb n="25"/><persName type="attested"><name nymRef="Ομυ-"><seg part="I">Ομυ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                       <lb n="26"/><persName type="attested"><name nymRef="Βοτ-"><seg part="I">Βοτ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                       <lb n="27"/><persName type="attested"><name nymRef="Π-"><seg part="I"><unclear>Π</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                       <lb n="28"/><persName type="attested"><name nymRef="Φι-"><seg part="I">Φι</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                        <lb n="29"/><persName type="attested"><name nymRef="Μι-"><seg part="I">Μι</seg><gap reason="lost" quantity="3" unit="character"/>ονο<gap reason="lost" extent="unknown" unit="character"/></name></persName>
                        <lb n="30"/><persName type="attested"><name nymRef="Ἰούλιος"><supplied reason="lost">Ἰ</supplied>ουλίου</name></persName>
                        <lb n="31"/><gap reason="lost" quantity="2" unit="character"/> <persName type="attested"><name><seg part="M">βίπωνο</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
                        <lb n="32"/><persName type="attested" key="lgpn:V1-62150"><name nymRef="Εὐότιος"><supplied reason="lost">Εὐ</supplied>οτίου</name></persName>
                        
                        <lb n="33"/><gap reason="lost" quantity="3" unit="character"/><orig>μ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                      <lb n="34"/><persName type="attested"><name nymRef="Θυ-"><seg part="I">Θυ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
+                      <lb n="34"/><persName type="attested"><name nymRef="Θυ-"><seg part="I">Θυ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
                     
-                      <lb n="35"/><persName type="attested"><name nymRef="Ο-"><seg part="I">Ο</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                      <lb n="35"/><persName type="attested"><name nymRef="Ο-"><seg part="I">Ο</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                       <lb n="36"/><persName type="attested" key="lgpn:V1-62152"><name nymRef="Θεόδωρος">Θεοδωρ<supplied reason="lost">ου</supplied></name></persName>
                       <gap reason="lost" extent="unknown" unit="character"/>
-                      <lb n="37"/><persName type="attested" key="lgpn:V1-62156"><name nymRef="Κρίτων"><supplied reason="lost">Κ</supplied>ρίτων<unclear>ο</unclear><supplied reason="lost">ϲ</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                      <lb n="37"/><persName type="attested" key="lgpn:V1-62156"><name nymRef="Κρίτων"><supplied reason="lost">Κ</supplied>ρίτων<unclear>ο</unclear><supplied reason="lost">ϲ</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                        <lb n="38"/><gap reason="lost" extent="3" unit="character"/><orig>υ</orig><gap reason="lost" extent="unknown" unit="character"/>
                       <lb n="39"/><persName type="attested" key="lgpn:V1-62158"><name nymRef="Πίσων">Πίϲωνο<supplied reason="lost">ϲ</supplied></name></persName>
                        <lb n="40"/><persName type="attested" key="lgpn:V1-62153"><name nymRef="Θεόδωρος">Θεοδωρ<supplied reason="lost">ου</supplied></name></persName>
-                       <lb n="41"/><persName type="attested"><name nymRef="Θευ-"><seg part="I">Θ<unclear>ε</unclear>υ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                       <lb n="41"/><persName type="attested"><name nymRef="Θευ-"><seg part="I">Θ<unclear>ε</unclear>υ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                        <lb n="42"/><persName type="attested" key="lgpn:V1-62151"><name nymRef="Εὐφήμιος"><supplied reason="lost">Εὐ</supplied>φημ<supplied reason="lost">ί</supplied>ο<supplied reason="lost">υ</supplied></name></persName>
                       <lb n="43"/><gap reason="lost" extent="3" unit="character"/><orig>υ</orig><gap reason="lost" extent="unknown" unit="character"/>
                       <lb n="44"/><gap reason="lost" extent="3" unit="character"/><orig>οϲ</orig><gap reason="lost" extent="unknown" unit="character"/>

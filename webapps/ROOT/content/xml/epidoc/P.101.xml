@@ -136,7 +136,7 @@
                     <lb n="5"/> <space quantity="2" unit="character"/> <w lemma="καί">καὶ</w> <w>χωρίον</w> <placeName><seg part="I">Διοκλ<orig><unclear>ι</unclear></orig></seg></placeName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6" break="no"/> <space quantity="3" unit="character"/> <w><seg part="F">θης</seg></w> <w lemma="ὁ">ὁ</w> <w>καλεῖται</w>
                     <placeName><name nymRef="Μ-"><seg part="I"><unclear>Μ</unclear></seg></name></placeName><gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="7"/> <persName type="attested" key="lgpn:V1-61033"><name nymRef="Ἀλέξανδρος">Ἀλεξάνδρωι</name> <persName type="attested" key="lgpn:V1-61525"><name nymRef="Νουμήνιος">Νουμη<supplied reason="lost">νίου</supplied></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="7"/> <persName type="attested" key="lgpn:V1-61033"><name nymRef="Ἀλέξανδρος">Ἀλεξάνδρωι</name> <persName type="attested" key="lgpn:V1-61525"><name nymRef="Νουμήνιος">Νουμη<supplied reason="lost">νίου</supplied></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="8"/> <space quantity="3" unit="character"/><orig><unclear>κ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="8a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>

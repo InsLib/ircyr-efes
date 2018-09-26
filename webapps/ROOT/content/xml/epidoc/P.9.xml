@@ -166,7 +166,7 @@
             <div subtype="fragment" n="iv" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="12">ιβ</num> <persName type="attested" key="lgpn:V1-61586"><name nymRef="Σαβῖνος">Σαβεῖνος</name></persName>
-                    <lb n="2"/><w><expan><abbr>φί</abbr><ex>λος</ex></expan></w>
+                    <lb n="2"/> <w><expan><abbr>φί</abbr><ex>λος</ex></expan></w>
                        <persName type="attested" key="lgpn:V1-61467"><name nymRef="Μᾶρκος"><expan><abbr>Μά</abbr><ex>ρκω</ex></expan></name></persName>
                     
                     </ab></div>

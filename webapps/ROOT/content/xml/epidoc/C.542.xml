@@ -130,8 +130,8 @@
                  <lb n="4"/> <space extent="unknown" unit="character"/>
                        <date type="life-span" dur="P17Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ετῶν</ex></expan></w>
                        <num value="17">ιζ</num> </date>
-                 <lb n="5"/><w>παρθένος</w>  
-                 <lb n="6"/><w>πασιποθητ<lb n="7" break="no"/> <space extent="unknown" unit="character"/>ός</w>   
+                 <lb n="5"/> <w>παρθένος</w>  
+                 <lb n="6"/> <w>πασιποθητ<lb n="7" break="no"/> <space extent="unknown" unit="character"/>ός</w>   
                  </ab>
                  </div>
          </div>

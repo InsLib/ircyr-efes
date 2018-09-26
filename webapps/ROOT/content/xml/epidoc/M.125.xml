@@ -129,7 +129,7 @@
                        <name nymRef="Κλαύδιος"><supplied reason="lost">Κλαύδιος</supplied></name>
                        <persName type="emperor" key="claudius"><w><supplied reason="lost">θεοῦ</supplied></w>
                           <name nymRef="Κλαύδιος"><supplied reason="lost">Κλαυδίου</supplied></name></persName>
-                    <lb n="2"/><w><supplied reason="lost">υἱὸς</supplied></w> 
+                    <lb n="2"/> <w><supplied reason="lost">υἱὸς</supplied></w> 
                     <persName type="emperor" key="germanicus"><name nymRef="Γερμανικός"><unclear>Γε</unclear><supplied reason="lost">ρμανικοῦ</supplied></name>
                        <name nymRef="Καῖσαρ"><supplied reason="lost">Καίσα</supplied><lb n="3" break="no"/><supplied reason="lost">ρος</supplied></name></persName> 
                     <w><supplied reason="lost">ὑ</supplied>ων<supplied reason="lost">ὸ</supplied><unclear>ς</unclear></w>
@@ -150,13 +150,13 @@
             </div>
             <div subtype="face" n="b" type="textpart">
                <ab>
-                        <lb n="1"/><w><supplied reason="lost">δι</supplied>ὰ</w>
+                        <lb n="1"/> <w><supplied reason="lost">δι</supplied>ὰ</w>
                   <persName type="attested"><name nymRef="Λούκιος">Λ<supplied reason="lost">ουκίου</supplied></name>
                         <name nymRef="Ἀκίλιος">Ἀκι<unclear>λ</unclear><supplied reason="lost">ίου</supplied></name>
                         <lb n="2"/><name nymRef="Στράβων"><unclear>Στράβ</unclear>ωνος</name></persName> <w>τοῦ</w>
-                        <lb n="3"/><w><supplied reason="lost">ἰ</supplied>δίου</w> <w>πρεσβευ<lb n="4" break="no"/><supplied reason="lost">το</supplied>ῦ</w> <w>τοὺς</w>
-                  <w>κατε<supplied reason="lost">χο</supplied></w><lb n="5" break="no"/><w><supplied reason="lost">μ</supplied>ένους</w> <w>ὁρους</w>
-                        <lb n="6"/><w><supplied reason="lost">ὑ</supplied>πὸ</w> <w>ἰδιωτων</w>
+                        <lb n="3"/> <w><supplied reason="lost">ἰ</supplied>δίου</w> <w>πρεσβευ<lb n="4" break="no"/><supplied reason="lost">το</supplied>ῦ</w> <w>τοὺς</w>
+                  <w>κατε<supplied reason="lost">χο</supplied></w><lb n="5" break="no"/> <w><supplied reason="lost">μ</supplied>ένους</w> <w>ὁρους</w>
+                        <lb n="6"/> <w><supplied reason="lost">ὑ</supplied>πὸ</w> <w>ἰδιωτων</w>
                   <w>δή<lb n="7" break="no"/><supplied reason="lost">μ</supplied>ῳ</w>
                   <placeName type="ethnic"><w lemma="Ῥωμαῖος">Ῥω<unclear>μα</unclear>ίων</w></placeName> 
                   <w>ἀπο<lb n="8" break="no"/><supplied reason="lost">κα</supplied>τέστησεν</w>

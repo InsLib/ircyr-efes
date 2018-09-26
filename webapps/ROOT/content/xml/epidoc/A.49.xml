@@ -198,7 +198,7 @@
             <div type="textpart" subtype="row" n="11">  
                <div type="textpart" subtype="cuneus" n="2">
                   <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Μνα-"><seg part="I">Μνα</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name nymRef="Μνα-"><seg part="I">Μνα</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
                </div>
             </div>
@@ -232,7 +232,7 @@
             <div type="textpart" subtype="row" n="16">  
                <div type="textpart" subtype="cuneus" n="1">
                   <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Αρο-"><seg part="I">Ἀ<unclear>ρο</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name nymRef="Αρο-"><seg part="I">Ἀ<unclear>ρο</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
                </div>
             </div>

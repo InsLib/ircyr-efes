@@ -136,7 +136,7 @@
                         <lb n="1"/><persName type="attested" key="lgpn:V1-62816"><name nymRef="Ἀμμώνιος">Ἀμμωνίω</name></persName> <gap reason="lost" quantity="3" unit="character"/>
                         <lb n="2"/><orig>τω</orig><gap reason="illegible" quantity="3" unit="character"/><orig>οτρι</orig>
                         <lb n="3"/><orig><unclear>ογρο</unclear></orig><gap reason="illegible" quantity="3" unit="character"/><orig>θο<unclear>υ</unclear></orig>
-                        <lb n="4"/><persName type="attested" key="lgpn:V1-63029"><name nymRef="Ἀργῖνος">Ἀργῖνος</name> <persName type="attested"><name nymRef="Ἀλνεος">Ἀ<unclear>λ</unclear><lb n="5" break="no"/>νεος</name></persName></persName><gap reason="illegible" quantity="1" unit="character"/><orig>πω</orig>
+                        <lb n="4"/><persName type="attested" key="lgpn:V1-63029"><name nymRef="Ἀργῖνος">Ἀργῖνος</name> <persName type="attested"><name nymRef="Ἀλνεος">Ἀ<unclear>λ</unclear><lb n="5" break="no"/>νεος</name></persName></persName> <gap reason="illegible" quantity="1" unit="character"/><orig>πω</orig>
                             <lb n="6"/><orig>ν</orig><gap reason="illegible" quantity="1" unit="character"/><orig>ος</orig> <w>δε</w>
                         
                     </ab>

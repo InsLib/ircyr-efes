@@ -157,7 +157,7 @@
                        <w lemma="incolumis">incolumemque</w> <w lemma="conseruo">conserues</w> 
                        <w lemma="et">et</w> <w lemma="in">in</w> <w lemma="reliquus">reliquom</w> 
                        <w lemma="malus">malae</w> <w lemma="ualetudo">ualetudinis</w></supplied>
-                    <lb n="1"/><w><supplied reason="lost">prim</supplied>o</w> 
+                    <lb n="1"/> <w><supplied reason="lost">prim</supplied>o</w> 
             <w lemma="quoque">q<supplied reason="lost">uoque</supplied></w><supplied reason="lost"><w lemma="tempus">tempore</w>
                     <w lemma="in">in</w> <w lemma="urbs">urbem</w> <placeName nymRef="Roma">Romam</placeName> 
             <w lemma="sisto">sistas</w> <w lemma="astus">astu</w> <w lemma="is">ea</w> <w lemma="ita">ita</w> 
@@ -184,11 +184,11 @@
                            <w><expan><abbr>O</abbr><ex>ptimo</ex></expan></w> 
                <w><expan><abbr>M</abbr><ex>aximo</ex></expan></w></persName>
                         <w lemma="bos">boue</w> <w lemma="auro">aurato</w> <w lemma="uoueo">uouimus</w> <w lemma="sum">esse</w></supplied>
-                    <lb n="6"/><w><supplied reason="lost">fut</supplied>urum</w> 
+                    <lb n="6"/> <w><supplied reason="lost">fut</supplied>urum</w> 
             <w lemma="quod">quo<supplied reason="lost">d</supplied></w> <supplied reason="lost"><w lemma="hodie">hodie</w> 
                         <w lemma="uoueo">uouimus</w> <w lemma="astus">astu</w> <w lemma="is">ea</w> <w lemma="ita">ita</w> 
                <w lemma="facio">faxis</w> <w lemma="tum">tum</w> <w lemma="tu">tibi</w> <w lemma="in">in</w></supplied>
-                    <lb n="7"/><w><supplied reason="lost">eade</supplied>m</w> 
+                    <lb n="7"/> <w><supplied reason="lost">eade</supplied>m</w> 
             <w lemma="uerbum">uerba</w> <w lemma="bos">b<supplied reason="lost">oue</supplied></w> 
                     <supplied reason="lost"><w lemma="auro">aurata</w> <w lemma="uoueo">uouemus</w> 
                        <w lemma="sum">esse</w> <w lemma="futurus">futurum</w></supplied>

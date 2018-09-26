@@ -119,7 +119,7 @@
                <rs type="month" key="Μεχίρ"><w>Μεχ<unclear>ε</unclear><supplied reason="lost">ὶρ</supplied></w></rs>
                <gap reason="lost" quantity="1" unit="character" precision="low"/>
               <persName type="attested" key="lgpn:V1-60740"><name nymRef="Πρόκλα" cert="low"><supplied reason="lost" cert="low">Πρ</supplied><lb n="2" break="no"/>όκλα</name>
-               <persName type="attested"><name nymRef="Πρ-"><seg part="I">Πρ</seg></name></persName></persName><gap reason="lost" quantity="5" unit="character" precision="low"/>
+               <persName type="attested"><name nymRef="Πρ-"><seg part="I">Πρ</seg></name></persName></persName> <gap reason="lost" quantity="5" unit="character" precision="low"/>
                <lb n="3"/> <space quantity="4" unit="character"/> 
                <date type="life-span" dur="P14Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                   <num value="14">ιδ</num> </date>

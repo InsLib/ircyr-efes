@@ -108,7 +108,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><w lemma="πλήρης">πλήρ<supplied reason="lost">ης</supplied></w> 
-                    <lb n="2"/><w>ὀστᾶ</w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/> <w>ὀστᾶ</w> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          <div type="apparatus">

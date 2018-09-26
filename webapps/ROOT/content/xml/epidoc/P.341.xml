@@ -121,7 +121,7 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
-                   <lb n="1"/><gap reason="lost" quantity="1" unit="line"/> <persName type="emperor"><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustum</ex></expan></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                   <lb n="1"/><gap reason="lost" quantity="1" unit="line"/> <persName type="emperor"><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustum</ex></expan></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>VERAM</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><placeName type="ethnic" nymRef="Ptolemaensis"><supplied reason="lost">Ptole</supplied>mae<supplied reason="lost">nses</supplied></placeName><gap reason="lost" extent="unknown" unit="character"/>
                    <lb n="3a"/><gap reason="lost" quantity="1" unit="line"/>

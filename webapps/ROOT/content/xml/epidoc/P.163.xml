@@ -126,7 +126,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><div n="i" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><orig>τοσ</orig></w> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div n="ii" type="textpart"><ab>
-                        <lb n="1"/><w>Λυτ</w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/> <w>Λυτ</w> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
 </div>
 </div>

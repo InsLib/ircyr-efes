@@ -125,10 +125,10 @@
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
                     <persName type="attested"><name nymRef="Περιάνδρος"><supplied reason="lost">Π</supplied><unclear>ε</unclear>ριάνδρος</name> 
-                    <persName type="attested"><name nymRef="Β-"><seg part="I">Β</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/> 
+                    <persName type="attested"><name nymRef="Β-"><seg part="I">Β</seg></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="2"/> <space quantity="1" unit="line"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">λιας</seg></name> 
-                    <persName type="attested"><name nymRef="Περιάνδρος">Περιάν<supplied reason="lost" cert="low">δρου</supplied></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/> 
+                    <persName type="attested"><name nymRef="Περιάνδρος">Περιάν<supplied reason="lost" cert="low">δρου</supplied></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἀνατίθημι">ἀνέθηκεν</w> 
                     <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

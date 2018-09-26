@@ -127,7 +127,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="a" type="textpart"><ab>   
                         
-                        <lb n="1"/><w>ὑπὲρ</w> <w>τᾶς</w> <persName type="emperor" key="commodus"><w>Αὐτοκράτορος</w> <name nymRef="Καῖσαρ">Καίσαρος</name> <name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκω</ex></expan></name> 
+                        <lb n="1"/> <w>ὑπὲρ</w> <w>τᾶς</w> <persName type="emperor" key="commodus"><w>Αὐτοκράτορος</w> <name nymRef="Καῖσαρ">Καίσαρος</name> <name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκω</ex></expan></name> 
                         <name nymRef="Αὐρήλιος">Αὐρηλίω</name> <name nymRef="Κόμμοδος">Κο<unclear>μ</unclear><supplied reason="lost">μόδω</supplied></name>
                         <name nymRef="Ἀντωνῖνος"><supplied reason="lost">Ἀν</supplied>τω<unclear>ν</unclear><supplied reason="lost">ε</supplied><unclear>ί</unclear>νω</name> <w>Εὐσε<supplied reason="lost">βοῦς</supplied></w> 
                         <w>εὐτυ<supplied reason="lost">χοῦς</supplied></w> <name nymRef="Σεβαστός">Σεβαστῶ</name></persName> <w><supplied reason="lost">σω</supplied><unclear>τ</unclear>ηρί<supplied reason="lost">ας</supplied></w> <supplied reason="lost" cert="low"><w>καὶ</w> <w>νείκας</w></supplied>
@@ -143,7 +143,7 @@
                     </ab></div><div subtype="part" n="c" type="textpart"><ab>
                                     
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Τιβέριος"><seg part="I"><expan><abbr>Τι</abbr><ex>βερι-</ex></expan></seg></name> 
-                        <name nymRef="Κλαυδι-"><seg part="I"><expan><abbr>Κλ</abbr><ex>αυδι-</ex></expan></seg></name> </persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <name nymRef="Κλαυδι-"><seg part="I"><expan><abbr>Κλ</abbr><ex>αυδι-</ex></expan></seg></name> </persName> <gap reason="lost" extent="unknown" unit="character"/>
                     
                     </ab></div><div subtype="part" n="d" type="textpart"><ab>
                     
@@ -151,7 +151,7 @@
                     
                     </ab></div><div subtype="part" n="e" type="textpart"><ab>
                     
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-64294"><name nymRef="Κλαυδι-"><seg part="I"><expan><abbr>Κλ</abbr><ex>αυδι-</ex></expan></seg></name> <name nymRef="Ἰάσων"><seg part="I">Ἰασον</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-64294"><name nymRef="Κλαυδι-"><seg part="I"><expan><abbr>Κλ</abbr><ex>αυδι-</ex></expan></seg></name> <name nymRef="Ἰάσων"><seg part="I">Ἰασον</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
                     
                     </ab></div><div subtype="part" n="f" type="textpart"><ab>
                     

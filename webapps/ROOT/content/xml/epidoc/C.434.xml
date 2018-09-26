@@ -128,10 +128,10 @@
                     <lb n="6"/><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name></persName> 
                        <w><expan><abbr>abnep</abbr><ex>os</ex></expan></w> <name nymRef="Caesar">Ca<supplied reason="lost">es</supplied>ar</name>
                     <lb n="7"/><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name> <name nymRef="Germanicus">Germanicu<supplied reason="lost">s</supplied></name></persName>
-                    <lb n="8"/><w><expan><abbr>pontif</abbr><ex>ex</ex></expan></w> <w><expan><abbr>max</abbr><ex>imus</ex></expan></w> <w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <w><expan><abbr>pot</abbr><ex>estate</ex></expan></w>
-                    <lb n="9"/><w><expan><abbr>imp</abbr><ex>erator</ex></expan></w> <space quantity="1" unit="character"/> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w> <space quantity="1" unit="character"/> <w>per</w> <persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>ucium</ex></expan></name> <name nymRef="Acilius">Acili<lb n="10" break="no"/>um</name> <name nymRef="Strabo">Strabonem</name></persName>
+                    <lb n="8"/> <w><expan><abbr>pontif</abbr><ex>ex</ex></expan></w> <w><expan><abbr>max</abbr><ex>imus</ex></expan></w> <w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <w><expan><abbr>pot</abbr><ex>estate</ex></expan></w>
+                    <lb n="9"/> <w><expan><abbr>imp</abbr><ex>erator</ex></expan></w> <space quantity="1" unit="character"/> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w> <space quantity="1" unit="character"/> <w>per</w> <persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>ucium</ex></expan></name> <name nymRef="Acilius">Acili<lb n="10" break="no"/>um</name> <name nymRef="Strabo">Strabonem</name></persName>
                     <lb n="11"/><w lemma="legatus">le<supplied reason="lost">g</supplied>atum</w> <w lemma="suus">suum</w>
-                    <lb n="12"/><w><unclear>fi</unclear>nes</w> <w><supplied reason="lost">occ</supplied>upatos</w> <w lemma="ab">a</w>
+                    <lb n="12"/> <w><unclear>fi</unclear>nes</w> <w><supplied reason="lost">occ</supplied>upatos</w> <w lemma="ab">a</w>
                     <lb n="13"/><w lemma="priuatus">pr<supplied reason="lost">iu</supplied>atis</w> <expan><w><abbr>P</abbr><ex>opulo</ex></w> <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName></expan>
                     <lb n="14"/> <space quantity="1" unit="character"/> <w lemma="restituo">restituit</w> <space quantity="1" unit="character"/>
                </ab>

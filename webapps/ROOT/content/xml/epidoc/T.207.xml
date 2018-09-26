@@ -122,7 +122,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="10">ι</num> <persName type="attested"><name nymRef="Λ-"><unclear>Λ</unclear></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <num value="10">ι</num> <persName type="attested"><name nymRef="Λ-"><unclear>Λ</unclear></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Ι</unclear>ΕΚΑ<unclear>Ι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Ι</unclear>ΛΣΙ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

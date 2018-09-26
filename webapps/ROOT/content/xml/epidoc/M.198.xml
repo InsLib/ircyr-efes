@@ -133,20 +133,20 @@
 	<lb n="2"/><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκῳ</ex></expan></name> 
                 <name nymRef="Αὐρήλιος">Αὐρηλίῳ</name> 
                 <name nymRef="Ἀντωνῖνος"><del rend="erased">Ἀ<supplied reason="lost">ντω</supplied>νεί<supplied reason="lost">ν</supplied></del></name>
-	<lb n="3"/><w>Εὐϲεβεῖ</w> <w>Εὐτυχεῖ</w> <name nymRef="Σεβαστός">Σεβαστῷ</name>,
+	<lb n="3"/> <w>Εὐϲεβεῖ</w> <w>Εὐτυχεῖ</w> <name nymRef="Σεβαστός">Σεβαστῷ</name>,
 <lb n="4"/><persName type="emperor" key="caracalla"><w>Θεοῦ</w> 
                 <name nymRef="Ἀντωνῖνος">Ἀντω<supplied reason="lost">νε</supplied>ίνο<supplied reason="lost">υ</supplied></name> 
                 <w>υἱῷ</w></persName>, <persName type="emperor" key="septimiusseverus"><w>Θεοῦ</w>
 <lb n="5"/><name nymRef="Σεουῆρος">Σευήρου</name> 
                 <w>ἐγγ<supplied reason="lost">ό</supplied>ν<supplied reason="lost">ῳ</supplied></w></persName>,
                 <w>ἀρχιερεῖ</w> <w><supplied reason="lost">μεγίστῳ</supplied></w>,
-<lb n="6"/><w>δημαρχικῆς</w> <w>ἐξ<supplied reason="lost">ου</supplied>σίας</w>,
+<lb n="6"/> <w>δημαρχικῆς</w> <w>ἐξ<supplied reason="lost">ου</supplied>σίας</w>,
                 <w>ὑπάτῳ</w> <supplied reason="lost" cert="low"><w>τὸ</w> 
                     <num value="4">δ</num> </supplied></persName>
-<lb n="7"/><w>καὶ</w> <persName type="emperor" key="severusalexander"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκῳ</ex></expan></name> 
+<lb n="7"/> <w>καὶ</w> <persName type="emperor" key="severusalexander"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκῳ</ex></expan></name> 
                 <name nymRef="Αὐρήλιος">Αὐρηλίῳ</name> 
                 <name nymRef="Ἀλέξανδρος">Ἀλεξάνδρῳ</name> <w><supplied reason="lost" cert="low">ἐπιφανεστάτῳ</supplied></w>
-<lb n="8"/><w><supplied reason="lost">Κ</supplied>αίσαρι</w> 
+<lb n="8"/> <w><supplied reason="lost">Κ</supplied>αίσαρι</w> 
                 <w>υἱῷ</w> <w>τοῦ</w> <w>κυρίου</w> 
                <name nymRef="Σεβαστός">Σεβα<supplied reason="lost">στοῦ</supplied></name></persName>
                 <supplied reason="lost"><w>καὶ</w></supplied>
@@ -159,7 +159,7 @@
               <name nymRef="Σεβαστός">Σεβασ<supplied reason="lost">τῇ</supplied></name> 
                 <w><supplied reason="lost">μητρὶ</supplied></w>
 <lb n="11"/>	<supplied reason="lost"><w>τοῦ</w> <w>κυρίου</w> 
-    <name nymRef="Σεβαστός">Σεβαστοῦ</name> </supplied></persName><gap reason="lost" extent="unknown" unit="character"/>
+    <name nymRef="Σεβαστός">Σεβαστοῦ</name> </supplied></persName> <gap reason="lost" extent="unknown" unit="character"/>
             </ab>
          </div>
             <div type="apparatus">

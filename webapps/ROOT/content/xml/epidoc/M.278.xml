@@ -128,12 +128,12 @@
             <lb n="1"/><persName type="divine" key="iesous">
                <name nymRef="᾿Ιησοῦς"><expan><abbr>Ἰ</abbr><ex>ησοῦ</ex><abbr>ς</abbr></expan></name>
                   <g ref="symbols.xml#crux"/> <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστό</ex><abbr>ς</abbr></expan></name></persName>
-            <lb n="2"/><w>νι<g ref="symbols.xml#crux"/>κᾷ</w>
+            <lb n="2"/> <w>νι<g ref="symbols.xml#crux"/>κᾷ</w>
          </ab>
             </div>
             <div subtype="section" n="c" type="textpart">
             <ab>
-            <lb n="1"/><w>Χά<g ref="symbols.xml#crux"/>ρις</w> 
+            <lb n="1"/> <w>Χά<g ref="symbols.xml#crux"/>ρις</w> 
                <persName type="divine" key="kyrios"><w><expan><abbr>Θ</abbr><ex>εο</ex><abbr>ῦ</abbr></expan></w></persName>
          </ab>
             </div>

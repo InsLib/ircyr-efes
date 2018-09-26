@@ -151,7 +151,7 @@
             <div subtype="fragment" n="ii" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="1">α</num> <persName type="attested" key="lgpn:V1-61158"><name nymRef="Αὐγλάντος"><unclear>Α</unclear>ὐγλάντος</name></persName>
-                    <lb n="2"/><w>φίλος</w> <persName type="attested" key="lgpn:V1-61173"><name nymRef="Βλάνδος">Βλάνδου</name></persName> <w><expan><abbr><expan><abbr><am><g ref="symbols.xml#ΣΤΚ"/></am></abbr><ex>συγκ</ex></expan></abbr><ex>οίτοι</ex></expan></w>
+                    <lb n="2"/> <w>φίλος</w> <persName type="attested" key="lgpn:V1-61173"><name nymRef="Βλάνδος">Βλάνδου</name></persName> <w><expan><abbr><expan><abbr><am><g ref="symbols.xml#ΣΤΚ"/></am></abbr><ex>συγκ</ex></expan></abbr><ex>οίτοι</ex></expan></w>
                     </ab>
 </div>
 </div>

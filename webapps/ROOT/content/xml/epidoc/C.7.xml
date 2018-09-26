@@ -198,7 +198,7 @@
                         <lb n="1"/><gap reason="lost" extent="unknown" 
                            unit="character"/> <persName type="emperor"><w><supplied 
                               reason="lost">d</supplied>iui</w> 
-                        <name nymref"Traianus">Tr<supplied reason="lost">aiani</supplied></name></persName><gap 
+                        <name nymref"Traianus">Tr<supplied reason="lost">aiani</supplied></name></persName> <gap 
                            reason="lost" extent="unknown" unit="character"/>
                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><placeName 
                            type="ethnic"><supplied 
@@ -269,7 +269,7 @@
                   <supplied reason="lost"><w>υἱωνὸς</w> 
                      <name nymRef="Τραιανός">Τραιανὸς</name> <name nymRef="Ἁδριανός">Ἁδριανὸς</name> 
                   <name nymRef="Σεβαστός">Σεβαστὸς</name></supplied></persName> <w><supplied reason="lost">ἀρ</supplied>χιερεὺς</w> <space unit="character" quantity="2"/>
-                    <lb n="4"/><w><supplied reason="lost">μέγιστος</supplied></w> <w>δημαρχικῆς</w> 
+                    <lb n="4"/> <w><supplied reason="lost">μέγιστος</supplied></w> <w>δημαρχικῆς</w> 
                     <w><supplied reason="lost">ἐξουσία</supplied><unclear>ς</unclear></w> <w>τὸ</w> 
                   <num value="2"><unclear>β</unclear></num> 
                   <supplied reason="lost"><w>ὕπατος</w>

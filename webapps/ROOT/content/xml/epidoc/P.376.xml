@@ -123,7 +123,7 @@
          </div>
          <!-- check -->
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="a" type="textpart"><ab>
-                        <lb n="1"/><w><expan><abbr>Μ</abbr><ex>ι</ex><abbr>ν</abbr><ex>αι</ex></expan></w> <num value="2">β</num>
+                        <lb n="1"/> <w><expan><abbr>Μ</abbr><ex>ι</ex><abbr>ν</abbr><ex>αι</ex></expan></w> <num value="2">β</num>
                     </ab></div><div subtype="fragment" n="b" type="textpart"><ab>
                         <!-- the () bracket around the XI ?? -->
                         <lb n="1"/><num value="11">XI</num> <orig>Δ</orig>

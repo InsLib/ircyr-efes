@@ -128,7 +128,7 @@
                         <w><supplied reason="lost">τ</supplied>ούτ<space quantity="1" unit="character"/>ου</w> 
                         <w>γυνὴ</w> <space quantity="1" unit="character"/><orig><unclear>ι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> 
-                        <persName type="attested"><name nymRef="Μαρκελλιανός"><seg part="I"><supplied reason="lost">Μαρκ</supplied>ελλ<space quantity="1" unit="character"/>ιανο</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <persName type="attested"><name nymRef="Μαρκελλιανός"><seg part="I"><supplied reason="lost">Μαρκ</supplied>ελλ<space quantity="1" unit="character"/>ιανο</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                   </ab>
 </div>
 </div>

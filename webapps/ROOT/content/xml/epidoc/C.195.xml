@@ -119,7 +119,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Σωσίβιος">Σωσίβιος</name> <name nymRef="Ῥοῦφος">Ῥοῦφος</name></persName> 
-                    <lb n="2"/><w><expan><abbr>δεκ</abbr><ex>ουρίων</ex></expan></w> <w lemma="ποιέω">ἐποίησεν</w>
+                    <lb n="2"/> <w><expan><abbr>δεκ</abbr><ex>ουρίων</ex></expan></w> <w lemma="ποιέω">ἐποίησεν</w>
                 </ab>
 </div>
          

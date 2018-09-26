@@ -137,7 +137,7 @@
 <ab>
                <lb n="1"/><persName type="attested"><name nymRef="Γάϊος">Γάϊον</name> <name nymRef="Κλώδιος">Κλώδιον</name> <persName type="attested"><name nymRef="Ἄππιος">Ἀππίω</name></persName></persName>
                <w lemma="υἱός">υἱόν</w> 
-               <lb n="2"/><w>στραταγὸν</w>
+               <lb n="2"/> <w>στραταγὸν</w>
                <w>ὕπατον</w>
                <placeName type="ethnic"><w lemma="Ῥωμαῖος">Ῥωμα<supplied reason="lost">ίων</supplied></w></placeName>
                <lb n="3"/><w lemma="ὁ">τὸν </w>

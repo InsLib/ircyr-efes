@@ -113,9 +113,9 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="2"/><persName type="emperor" key="traianus"><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name> <!-- check from Transcription stage: A 
                     square bracket is missing in the first line. --><name nymRef="Germanicus"><supplied reason="lost">Germanicus</supplied></name> <supplied reason="lost"><expan><w><abbr>p</abbr><ex>ontifex</ex></w> <w><abbr>m</abbr><ex>aximus</ex></w></expan></supplied> <expan><supplied reason="lost"><w><abbr>trib</abbr><ex>unicia</ex></w></supplied>
-                    <lb n="3"/><w><abbr>pot</abbr><ex>estate</ex></w></expan> <supplied reason="lost"><num value="4">IIII</num> </supplied> <w><supplied reason="lost"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></supplied></w>
+                    <lb n="3"/> <w><abbr>pot</abbr><ex>estate</ex></w></expan> <supplied reason="lost"><num value="4">IIII</num> </supplied> <w><supplied reason="lost"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></supplied></w>
                         <supplied reason="lost"><num value="3">III</num> </supplied> <supplied reason="lost"><expan><w><abbr>p</abbr><ex>ater</ex></w> <w><abbr>p</abbr><ex>atriae</ex></w></expan></supplied></persName> <w lemma="uia">uiam</w>
-                    <lb n="4"/><w><supplied reason="lost">fe</supplied>cit</w> <w lemma="per">pe<supplied reason="lost">r
+                    <lb n="4"/> <w><supplied reason="lost">fe</supplied>cit</w> <w lemma="per">pe<supplied reason="lost">r
                         tirones l</supplied>ect<supplied reason="lost">os</supplied></w>
                     <lb n="5"/><w lemma="in">in</w> <w lemma="prouincia">prou<supplied reason="lost">incia</supplied></w> <placeName type="ethnic"><w lemma="Cyrenensis"><supplied reason="lost">Cyrenensi</supplied></w></placeName>
                     <lb n="6"/><supplied reason="lost"> <space quantity="3" unit="chatacter"/>

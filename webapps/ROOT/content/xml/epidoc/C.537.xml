@@ -118,12 +118,12 @@
                     <lb n="4"/><expan><w><abbr>p</abbr><ex>ontifex</ex></w> <w><abbr>m</abbr><ex>aximus</ex></w></expan>
               <expan> <w><abbr>trib</abbr><ex>unicia</ex></w> <w><abbr>pot</abbr><ex>estate</ex></w></expan>
                <num>V<supplied reason="lost">I</supplied></num>
-                    <lb n="5"/><w><expan><abbr>imp</abbr><ex>erator</ex></expan></w> <num value="11">XI</num>
+                    <lb n="5"/> <w><expan><abbr>imp</abbr><ex>erator</ex></expan></w> <num value="11">XI</num>
               <expan> <w><abbr>p</abbr><ex>ater</ex></w> <w><abbr>p</abbr><ex>atriae</ex></w></expan>
                <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
                <supplied reason="lost"><num value="3">III</num> </supplied> 
                     <lb n="6"/> <w><expan><abbr>designat</abbr><ex>us</ex></expan></w> <num value="4">IIII</num> 
-                    <lb n="7"/><w>restituit</w> <w>ann<supplied reason="lost">o</supplied></w> 
+                    <lb n="7"/> <w>restituit</w> <w>ann<supplied reason="lost">o</supplied></w> 
                     <lb n="8"/><gap reason="lost" extent="1" unit="character"/>
                <persName type="attested"><name nymRef="Caesernus"><supplied reason="lost">C</supplied>aeserni</name>
                   <name nymRef="Veiento">Veienton<supplied reason="lost">is</supplied></name></persName>

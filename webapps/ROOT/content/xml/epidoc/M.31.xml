@@ -125,12 +125,12 @@
             <div type="textpart" n="iii"><ab>
                        <lb n="1"/><orig><unclear>α</unclear>π</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><persName type="attested"><name nymRef="Πτολεμ-"><seg part="I">Πτο<supplied reason="lost">λεμ</supplied></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-   <lb n="3"/><w>ϲτρα<supplied reason="lost">τιώτηϲ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+   <lb n="3"/> <w>ϲτρα<supplied reason="lost">τιώτηϲ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                <lb n="4"/><w part="F">ηϲ</w> <space quantity="2" unit="character"/>
                     </ab></div>
             <div type="textpart" n="iv"><ab>
                        <lb n="1"/><gap reason="lost" extent="5" unit="character"/><orig>ρα</orig> <space quantity="3" unit="character"/>
-                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="72">βο</num> <persName type="attested"><name nymRef="Σα-"><seg part="I"><unclear>Ϲ</unclear>α</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="72">βο</num> <persName type="attested"><name nymRef="Σα-"><seg part="I"><unclear>Ϲ</unclear>α</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
    </ab></div>
             <div type="textpart" n="v"><ab>
                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">έριοϲ</seg></name></persName> 

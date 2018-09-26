@@ -116,7 +116,7 @@
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60375"><name nymRef="Ἀμμώνιος"><supplied reason="lost">Ἀ</supplied>μμώ<unclear>ν</unclear>ιος</name></persName> 
                     </ab></div>
             <div subtype="section" n="b" type="textpart"><ab>
-                        <lb n="1"/><persName type="attested"><name nymRef="Ἰθ-"><seg part="I">Ἰθ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><persName type="attested"><name nymRef="Ἰθ-"><seg part="I">Ἰθ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
 </div>
 </div> 

@@ -128,7 +128,7 @@
                         <num value="46">μ<unclear>ϛ</unclear></num>
                     </ab></div><div subtype="part" n="ii" type="textpart"><ab>
                         <lb n="1"/><supplied reason="lost" cert="low"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
-                       <num value="1">α</num> <persName type="attested"><name nymRef="Σιναθων">Σιναθων</name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                       <num value="1">α</num> <persName type="attested"><name nymRef="Σιναθων">Σιναθων</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="part" n="iii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Ἀθηνόδωρος">Ἀθηνοδόρως</name></persName><!-- check -->
                     </ab>

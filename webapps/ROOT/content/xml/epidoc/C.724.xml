@@ -142,7 +142,7 @@
                         <lb n="2a"/><gap reason="lost" extent="unknown" unit="line"/>
                     </ab></div><div subtype="fragment" n="b" type="textpart"><ab>
                         <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="M"><unclear>ι</unclear>αν<unclear>ο</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="M"><unclear>ι</unclear>αν<unclear>ο</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="1a"/><gap reason="lost" extent="unknown" unit="line"/>
                     </ab></div><div subtype="fragment" n="c" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ασ</orig><gap reason="lost" extent="unknown" unit="character"/>
@@ -151,7 +151,7 @@
                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ο</unclear>ι<unclear>ι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="fragment" n="e" type="textpart" xml:lang="la"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ai</orig><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor"><name nymRef="Caesar"><expan><abbr>Ca</abbr><supplied reason="lost"><abbr>es</abbr><ex>ar</ex></supplied></expan></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor"><name nymRef="Caesar"><expan><abbr>Ca</abbr><supplied reason="lost"><abbr>es</abbr><ex>ar</ex></supplied></expan></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="2a"/><gap reason="lost" extent="unknown" unit="line"/>
                     </ab></div><div subtype="fragment" n="f" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ιι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>

@@ -127,7 +127,7 @@
                     <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="40">μ</num> <rs type="month" key="Φαρμουθί"><w>Φ<supplied reason="lost">αρμ</supplied>ου<supplied reason="lost">θὶ</supplied></w></rs><gap reason="lost" quantity="1" unit="character"/>
                     <lb n="5"/><persName type="attested" key="lgpn:V1-60488"><name nymRef="Ἀρίστανδρος">Ἀρίστανδρος</name>
-                    <lb n="6"/><persName type="attested"><name nymRef="Ἀρσα-"><seg part="I">Ἀρσα</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><persName type="attested"><name nymRef="Ἀρσα-"><seg part="I">Ἀρσα</seg></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

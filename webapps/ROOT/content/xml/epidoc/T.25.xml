@@ -118,7 +118,7 @@
                     <persName type="divine" key="demeter"><name nymRef="Δημήτηρ"><supplied reason="lost">Δή</supplied><unclear>μη</unclear>τρι</name></persName>
                 <lb n="2"/><gap reason="lost" extent="3-4" unit="character"/> <space quantity="3" unit="character"/> 
                     <persName type="attested" key="lgpn:V1-60767"><name nymRef="Ἑρμᾶς">Ἑρμᾶ</name></persName> <space quantity="3" unit="character"/>
-                <lb n="3"/><w><unclear>ὑπ</unclear>ερδικεῖσα</w>
+                <lb n="3"/> <w><unclear>ὑπ</unclear>ερδικεῖσα</w>
             </ab>
          </div>
          

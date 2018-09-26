@@ -128,7 +128,7 @@
                     <space quantity="3" unit="character"/>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60806"><name nymRef="Λεύκιος">Λε<unclear>ύ</unclear><supplied reason="lost">κ</supplied><unclear>ι</unclear>ος</name> 
                     <lb n="4"/><name nymRef="Βιλλιῆνος"><unclear>Βι</unclear><supplied reason="lost">λ</supplied>λ<supplied reason="lost">ι</supplied>ῆ<unclear>ν</unclear>ος</name>
-                    <lb n="5"/><name nymRef="Ἱππόνικος">Ἱπ<supplied reason="lost">π</supplied>ό<unclear>νικ</unclear><lb n="6" break="no"/><supplied reason="lost">ος</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><name nymRef="Ἱππόνικος">Ἱπ<supplied reason="lost">π</supplied>ό<unclear>νικ</unclear><lb n="6" break="no"/><supplied reason="lost">ος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 
                 </ab>
 </div>

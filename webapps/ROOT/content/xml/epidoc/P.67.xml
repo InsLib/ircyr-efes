@@ -131,7 +131,7 @@
                     <num value="3"><supplied reason="lost">I</supplied>II</num> <w><expan><abbr>Au<supplied reason="lost">g</supplied></abbr><supplied reason="lost"><ex>ustae</ex></supplied></expan></w> <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="5"/><supplied reason="lost" cert="low"><w lemma="curo">curante</w></supplied> 
                     <persName type="attested"><name nymRef="Claudius"><expan><abbr>Cl</abbr><ex>audio</ex></expan></name>
-                    <name nymRef="Ai-"><seg part="I">A<unclear>i</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/> .
+                    <name nymRef="Ai-"><seg part="I">A<unclear>i</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/> .
                  
         
                 </ab>

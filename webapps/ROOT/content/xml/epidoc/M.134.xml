@@ -163,8 +163,8 @@
             </div>
             <div type="textpart" n="ii">
                <ab>
-                  <lb n="1"/><w>ἐγέ<lb break="no" n="2"/>νετο</w> <w>καὶ</w>
-                  <lb n="3"/><w>τοῦτο</w> <w lemma="ὁ">τὸ</w> <w lemma="ἔργον">ἔρ<lb break="no" n="4"/>γον</w>
+                  <lb n="1"/> <w>ἐγέ<lb break="no" n="2"/>νετο</w> <w>καὶ</w>
+                  <lb n="3"/> <w>τοῦτο</w> <w lemma="ὁ">τὸ</w> <w lemma="ἔργον">ἔρ<lb break="no" n="4"/>γον</w>
                   <w lemma="ἐπί">ἐπὶ</w> <persName type="attested" key="lgpn:V1-60910"><name nymRef="Μακάριος">Μακαρί<lb break="no" n="5"/>ου</name></persName>
                   <w>τοῦ</w> <w>ὁσιωτά<lb break="no" n="6"/>του</w> <w><expan><abbr>ἐπισκό</abbr><ex>που</ex></expan></w>
                   <lb n="7"/><w lemma="ἰνδικτίων"><expan><abbr>ἰνδ</abbr><ex>ικτίωνος</ex></expan></w> <num value="3">γ</num>
@@ -207,7 +207,7 @@
             </div>
             <div type="textpart" n="x">
                <ab>
-                  <lb n="1"/><w>πόλιϲ</w> <w>νέα</w>
+                  <lb n="1"/> <w>πόλιϲ</w> <w>νέα</w>
                   <lb n="2"/><placeName>Θεοδωρίαϲ</placeName>
                </ab>
             </div>

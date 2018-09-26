@@ -120,7 +120,7 @@
          </div>
          
          <div type="edition" xml:space="preserve"><ab xml:lang="la">
-                    <lb n="1"/><persName type="attested" cert="low"><name nymRef="Heracl-"><seg part="I">Herac<unclear>l</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="1"/><persName type="attested" cert="low"><name nymRef="Heracl-"><seg part="I">Herac<unclear>l</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="2"/><w lemma="ex">ex</w> <w lemma="nummus">numi<unclear>l</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><orig>er</orig><gap reason="lost" quantity="2" unit="character"/> 
                     <num><unclear>II</unclear></num> <w lemma="pro">pro</w> <gap reason="lost" extent="unknown" unit="character"/>

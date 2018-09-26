@@ -140,7 +140,7 @@
  
 <lb n="5"/><note>13 a-b</note>  <w><supplied reason="lost">Dalmat</supplied>icoma<supplied reason="lost">fortium</supplied></w> <placeName type="ethnic"><supplied reason="lost">Mutinen</supplied>se</placeName> <w>subsericum</w> <w>clauan<supplied reason="lost">s</supplied></w>
  
-<lb n="6"/><w><supplied reason="lost"> <space extent="2" unit="character"/></supplied><supplied reason="lost">pur</supplied>purae</w> <w>hypoblat<supplied reason="lost">tae</supplied></w> <w><supplied reason="lost">libram</supplied></w> <w><supplied reason="lost">u</supplied>nam</w> <g ref="symbols.xml#denarius"/> <w>quadragintasex</w> <w><supplied reason="lost">milibu</supplied>s</w>
+<lb n="6"/> <w><supplied reason="lost"> <space extent="2" unit="character"/></supplied><supplied reason="lost">pur</supplied>purae</w> <w>hypoblat<supplied reason="lost">tae</supplied></w> <w><supplied reason="lost">libram</supplied></w> <w><supplied reason="lost">u</supplied>nam</w> <g ref="symbols.xml#denarius"/> <w>quadragintasex</w> <w><supplied reason="lost">milibu</supplied>s</w>
  
 <lb n="7"/><note>14 c</note> <w><supplied reason="lost">Dalmatic</supplied>omafortium</w> <w>marinum</w> <w>subsericum</w> <w>ut</w> <w><expan><abbr>s</abbr><ex>upra</ex></expan></w> <g ref="symbols.xml#denarius"/> <num><w>qu<supplied reason="lost">adra</supplied>
  
@@ -275,8 +275,8 @@
 <div subtype="section" type="textpart" n="N">
    <ab>
 <lb n="0"/><note>Part of the first two lines of the Imperial titles, immediately preceding the Preamble</note>
-<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor" key="diocletianus"><supplied reason="lost"><name nymRef="Diocletianus">Diocletianus</name></supplied> <w><expan><abbr>p</abbr><ex>ius</ex></expan></w> <w><expan><abbr>f</abbr><ex>elix</ex></expan></w> <w><expan><abbr>inv</abbr><ex>ictus</ex></expan></w> <supplied reason="lost"><w><expan><abbr>aug</abbr><ex>ustus</ex></expan></w> <w><expan><abbr>pont</abbr><ex>ifex</ex></expan></w> <w><expan><abbr>max</abbr><ex>imus</ex></expan></w></supplied></persName><gap reason="lost" extent="unknown" unit="character"/>
-<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <del rend="erasure"><w>et</w></del> <persName type="emperor" key="maximianus"><del rend="erasure"><w><expan><abbr>im<supplied reason="lost">p</supplied></abbr><supplied reason="lost"><ex>erator</ex></supplied></expan></w></del> <supplied reason="lost"><del rend="erasure"><name nymRef="Caesar">Caesar</name></del> <note>Maximianus</note></supplied></persName><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor" key="diocletianus"><supplied reason="lost"><name nymRef="Diocletianus">Diocletianus</name></supplied> <w><expan><abbr>p</abbr><ex>ius</ex></expan></w> <w><expan><abbr>f</abbr><ex>elix</ex></expan></w> <w><expan><abbr>inv</abbr><ex>ictus</ex></expan></w> <supplied reason="lost"><w><expan><abbr>aug</abbr><ex>ustus</ex></expan></w> <w><expan><abbr>pont</abbr><ex>ifex</ex></expan></w> <w><expan><abbr>max</abbr><ex>imus</ex></expan></w></supplied></persName> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <del rend="erasure"><w>et</w></del> <persName type="emperor" key="maximianus"><del rend="erasure"><w><expan><abbr>im<supplied reason="lost">p</supplied></abbr><supplied reason="lost"><ex>erator</ex></supplied></expan></w></del> <supplied reason="lost"><del rend="erasure"><name nymRef="Caesar">Caesar</name></del> <note>Maximianus</note></supplied></persName> <gap reason="lost" extent="unknown" unit="character"/>
 <gap reason="lost" extent="unknown" unit="line"/>
 </ab></div>
       <div subtype="section" type="textpart" n="O">
@@ -284,7 +284,7 @@
 <lb n="0"/><note>Preamble, II.22</note>
       <gap reason="lost" extent="unknown" unit="line"/>
 <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"><w>species</w></supplied> <w>victu<supplied reason="lost">i</supplied></w> <supplied reason="lost"><w>adque</w> <w>usui</w></supplied> <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="2"/><w><supplied reason="lost">temperamen</supplied>tum</w> <w>ex<supplied reason="lost">istumauerit</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/> <w><supplied reason="lost">temperamen</supplied>tum</w> <w>ex<supplied reason="lost">istumauerit</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"><w>esse</w></supplied> <w><supplied reason="lost">deb</supplied>eat</w> <w>infe<supplied reason="lost">rentis</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
 <gap reason="lost" extent="unknown" unit="line"/>
 </ab></div>
@@ -295,8 +295,8 @@
 <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">mitigar</supplied>e</w> <w>aut</w> <w>sariare</w> <w>p<supplied reason="lost">otuerunt</supplied></w>
 <lb n="2"/> <space extent="1" unit="line"/>
       <lb n="3"/> <space extent="1" unit="line"/>
-<lb n="4"/><w>unum</w> <g ref="symbols.xml#denarius"/> <w>sexagin<supplied reason="lost">ta</supplied></w>
-<lb n="5"/><w><supplied reason="lost">un</supplied>um</w> <g ref="symbols.xml#denarius"/> <w>centum</w>
+<lb n="4"/> <w>unum</w> <g ref="symbols.xml#denarius"/> <w>sexagin<supplied reason="lost">ta</supplied></w>
+<lb n="5"/> <w><supplied reason="lost">un</supplied>um</w> <g ref="symbols.xml#denarius"/> <w>centum</w>
 <lb n="6"/><gap reason="lost" extent="3" unit="character"/> <g ref="symbols.xml#denarius"/> <w>centum</w>
 <lb n="7"/><gap reason="lost" extent="7" unit="character"/> <w>triginta</w>
 <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ce</supplied>ntum</w>
@@ -305,9 +305,9 @@
                <div subtype="section" type="textpart" n="Q">
    <ab><lb n="0"/><note>Chapter XXVIII, lines 45-47</note>
  <gap reason="lost" extent="unknown" unit="line"/>     
-<lb n="1"/><w>forma<supplied reason="lost">e</supplied></w> <supplied reason="lost"><w>tertiae</w></supplied>
-<lb n="2"/><w>item</w> <w>culcita</w> <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="3"/><w>mili<supplied reason="lost">bus</supplied></w>
+<lb n="1"/> <w>forma<supplied reason="lost">e</supplied></w> <supplied reason="lost"><w>tertiae</w></supplied>
+<lb n="2"/> <w>item</w> <w>culcita</w> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/> <w>mili<supplied reason="lost">bus</supplied></w>
 <lb n="4"/><placeName type="ethnic">Damascen<supplied reason="lost">a</supplied></placeName> <gap reason="lost" extent="unknown" unit="character"/>
 <gap reason="lost" extent="unknown" unit="line"/>
 </ab>
@@ -316,10 +316,10 @@
    <ab>
  <note>Chapter XV</note> 
       <gap reason="lost" extent="unknown" unit="line"/>
-<lb n="1"/><w>ae<supplied reason="lost">ramentum</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="2"/><w>aerame<supplied reason="lost">ntum</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="3"/><w>aeram<supplied reason="lost">entum</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="4"/><w>aer<supplied reason="lost">amentum</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1"/> <w>ae<supplied reason="lost">ramentum</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/> <w>aerame<supplied reason="lost">ntum</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/> <w>aeram<supplied reason="lost">entum</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/> <w>aer<supplied reason="lost">amentum</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
 <gap reason="lost" extent="unknown" unit="line"/>
 </ab>
 </div>
@@ -327,16 +327,16 @@
    <ab>
   <lb n="0"/><note>Chapter XXIV</note>
       <gap reason="lost" extent="unknown" unit="line"/>
-<lb n="1"/><w>pur<supplied reason="lost">pura</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="2"/><w>pur<supplied reason="lost">pura</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="3"/><w><supplied reason="lost">pu</supplied>r<supplied reason="lost">pura</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1"/> <w>pur<supplied reason="lost">pura</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/> <w>pur<supplied reason="lost">pura</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/> <w><supplied reason="lost">pu</supplied>r<supplied reason="lost">pura</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
 <gap reason="lost" extent="unknown" unit="line"/>
 </ab>
                                </div>
  <div subtype="section" type="textpart" n="T">
    <ab><lb n="0"/><note>From Chapter XXXI</note>
  <gap reason="lost" extent="unknown" unit="line"/>     
-<lb n="1"/><w>de</w> <w>pretiis</w> <w part="I">m</w> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1"/> <w>de</w> <w>pretiis</w> <w part="I">m</w> <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w part="I">mancipi</w> <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><orig>aban</orig><gap reason="lost" extent="unknown" unit="character"/>
 <lb n="4"/> <space extent="4" unit="character"/>
@@ -358,9 +358,9 @@
    <ab>
     <lb n="0"/><note>From Chapter I, 2-3</note>
       <gap reason="lost" extent="unknown" unit="line"/>
-<lb n="1"/><w><supplied reason="lost">Fasi</supplied><unclear>o</unclear>li</w> <w>s<supplied reason="lost">icci</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="1"/> <w><supplied reason="lost">Fasi</supplied><unclear>o</unclear>li</w> <w>s<supplied reason="lost">icci</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><supplied reason="lost"><w>Lini</w></supplied> <w>semi<supplied reason="lost">nis</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="3"/><w><supplied reason="lost">oryza</supplied>e</w> <w>mun<supplied reason="lost">dae</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/> <w><supplied reason="lost">oryza</supplied>e</w> <w>mun<supplied reason="lost">dae</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
 <gap reason="lost" extent="unknown" unit="line"/>
 </ab>
 </div>

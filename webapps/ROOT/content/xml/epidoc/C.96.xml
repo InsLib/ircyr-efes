@@ -122,7 +122,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w>Νομοφ<supplied reason="lost">ύλ</supplied><unclear>α</unclear>κες</w>
+                    <lb n="1"/> <w>Νομοφ<supplied reason="lost">ύλ</supplied><unclear>α</unclear>κες</w>
                     <lb n="2"/><w lemma="ὁ">οἱ</w> <w lemma="ἐπί">ἐφ’</w><w>ἱαρ<supplied reason="lost">εῦς</supplied></w> <persName type="attested" key="lgpn:V1-65194"><name nymRef="Ξοῦθος">Ξούθω</name></persName>
                         <lb n="3"/><persName type="attested" key="lgpn:V1-64419"><name nymRef="Ἰσίδωρος">Ἰσιδωρο<supplied reason="lost">ς</supplied></name> <persName type="attested" key="lgpn:V1-63757"><name nymRef="Ἐτέαρχος"><supplied reason="lost">Ἐ</supplied>τεάρχω</name></persName></persName>
                         <lb n="4"/><persName type="attested" key="lgpn:V1-64699"><name nymRef="Κλητόμαχος">Κλητόμα<supplied reason="lost">χος</supplied></name> <persName type="attested" key="lgpn:V1-64698"><name nymRef="Κλητόμαχος"><supplied reason="lost">Κ</supplied>λητομάχω</name></persName></persName>
@@ -130,7 +130,7 @@
                     <lb n="6"/><persName type="attested" key="lgpn:V1-63863"><name nymRef="Εὔνικος">Εὔνικος</name> <persName type="attested" key="lgpn:V1-63803"><name nymRef="Εὔιππος">Εὐίππω</name></persName></persName>
                     <lb n="7"/><persName type="attested" key="lgpn:V1-63413"><name nymRef="Βίων">Βίων</name> <persName type="attested" key="lgpn:V1-64420"><name nymRef="Ἰσόγονος">Ἰσογόνω</name></persName> </persName>
                     <lb n="8"/><persName type="attested" key="lgpn:V1-64015"><name nymRef="Ἡλιοδωρος">Ἡλιοδωρος</name> <persName type="attested" key="lgpn:V1-64015"><name nymRef="Ἡλιοδωρος">Ἡλιοδώρω </name></persName></persName>
-                    <lb n="9"/><w>Γραμματές</w>
+                    <lb n="9"/> <w>Γραμματές</w>
                     <lb n="10"/><persName type="attested" key="lgpn:V1-65067"><name nymRef="Μουσαῖος">Μουσαῖο<supplied reason="lost">ς</supplied></name> <persName type="attested" key="lgpn:V1-65068"><name nymRef="Μουσαῖος">Μουσα<supplied reason="lost">ίω</supplied></name></persName></persName>
                     <lb n="11"/><persName type="attested" key="lgpn:V1-65739"><name nymRef="Σώστρατος">Σώστρατ<supplied reason="lost">ος</supplied></name> <persName type="attested"><name nymRef="Σώστρατος"><unclear>Σω</unclear><supplied reason="lost" cert="low">στράτω</supplied> </name></persName></persName>
                     <lb n="12"/><persName type="attested" key="lgpn:V1-64065"><name nymRef="Θαλίαρχος">Θαλίαρχ<supplied reason="lost">ος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/> 

@@ -142,9 +142,9 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="1"/><gap reason="lost" quantity="14" unit="character" precision="low"/><w><unclear>ἱα</unclear>ρεὺ<unclear>ς</unclear></w>
-                    <lb n="2"/><w>τῶ</w> <persName type="divine" key="amun"><name nymRef="Ἀμμών">Ἅμμωνος</name></persName> <w lemma="ὁ"><supplied reason="lost">τ</supplied>ὸ</w> <w><supplied reason="lost">ἅ</supplied>γαλμα</w> 
-                    <lb n="3"/><w>τῶ</w> <persName type="divine" key="amun"><name nymRef="Ἀμμών">Ἅμμωνος</name></persName> 
+                    <lb n="1"/><gap reason="lost" quantity="14" unit="character" precision="low"/> <w><unclear>ἱα</unclear>ρεὺ<unclear>ς</unclear></w>
+                    <lb n="2"/> <w>τῶ</w> <persName type="divine" key="amun"><name nymRef="Ἀμμών">Ἅμμωνος</name></persName> <w lemma="ὁ"><supplied reason="lost">τ</supplied>ὸ</w> <w><supplied reason="lost">ἅ</supplied>γαλμα</w> 
+                    <lb n="3"/> <w>τῶ</w> <persName type="divine" key="amun"><name nymRef="Ἀμμών">Ἅμμωνος</name></persName> 
                     <w><supplied reason="lost">ἀν</supplied>θυπατεύ<lb n="4" break="no"/>οντος</w> <w lemma="καί">καὶ</w>
                     <w>ἀφι<supplied reason="lost">ερ</supplied>ώσαντος</w>
                     <lb n="5"/><persName type="attested"><name nymRef="Φλάβιος">Φλαβίω</name> 

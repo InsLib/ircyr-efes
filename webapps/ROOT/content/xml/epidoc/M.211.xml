@@ -120,16 +120,16 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="column" n="1" type="textpart"><ab>     
                         <lb n="1"/><orig><unclear>ι</unclear></orig>
                         <lb n="2"/><persName type="attested"><name nymRef="Ἑρμίας">Ἑρμίας</name></persName>
-                        <lb n="3"/><w>ἦλθε</w>
+                        <lb n="3"/> <w>ἦλθε</w>
                         <lb n="4"/><persName type="attested"><name nymRef="Ευν-"><seg part="I">Ευν</seg></name></persName> 
                         <lb n="5"/><persName type="attested" key="lgpn:V1-63147"><name nymRef="Ἀριστοκλῆς">Ἀ<unclear>ρ</unclear>ιστοκλῆς</name></persName>  
                     </ab></div><div subtype="column" n="2" type="textpart"><ab>     
                         <lb n="1"/><persName type="attested" key="lgpn:V1-62697"><name nymRef="Ἀλέξανδρος">Ἀλέξανδρος</name></persName>
-                        <lb n="2"/><persName type="attested"><name nymRef="Κλέος">Κλέος</name> <orig>Συν</orig></persName><gap reason="lost" quantity="4" unit="character"/><orig>α</orig>
+                        <lb n="2"/><persName type="attested"><name nymRef="Κλέος">Κλέος</name> <orig>Συν</orig></persName> <gap reason="lost" quantity="4" unit="character"/><orig>α</orig>
                         <lb n="3"/><persName type="attested"><name nymRef="Διο-"><seg part="I">Διο</seg></name></persName>
-                        <lb n="4"/><w>ἥκασιν</w>
+                        <lb n="4"/> <w>ἥκασιν</w>
                     </ab></div><div subtype="column" n="3" type="textpart"><ab>     
-                        <lb n="1"/><persName type="attested" key="lgpn:V1-66145"><name nymRef="Χαιρήμων">Χαιρή<supplied reason="lost">μων</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><persName type="attested" key="lgpn:V1-66145"><name nymRef="Χαιρήμων">Χαιρή<supplied reason="lost">μων</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
 </div>
 </div>

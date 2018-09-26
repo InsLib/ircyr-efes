@@ -150,7 +150,7 @@
                             <lb n="1"/><persName type="attested"><name nymRef="Τελ-" cert="low"><seg part="I"><supplied reason="lost">Τ</supplied><unclear>ελ</unclear></seg><gap reason="lost" quantity="2" unit="character"/><seg part="F"><unclear>να</unclear>ιος</seg></name></persName>
                         </ab></div>
             <div subtype="part" n="ii" type="textpart"><ab>
-                            <lb n="1"/><persName type="attested"><name nymRef="Δα-"><seg part="I"><unclear>Δα</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="1"/><persName type="attested"><name nymRef="Δα-"><seg part="I"><unclear>Δα</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div>
             <div subtype="part" n="iii" type="textpart"><ab>
                             <lb n="1"/><persName type="attested" key="lgpn:VI-60231"><name nymRef="Δωσίθεος"><unclear>Δ</unclear><supplied reason="lost">ω</supplied>σιθέωι</name></persName>

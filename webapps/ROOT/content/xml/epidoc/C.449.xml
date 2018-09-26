@@ -116,7 +116,7 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ζ</orig> <space quantity="1" unit="character"/> <orig><unclear>ρ</unclear></orig><gap reason="lost" extent="3" precision="low" unit="character"/>
           <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">τ</supplied>ᾶι</w> 
             <persName type="divine" key="demeter"><name nymRef="Δημήτηρ">Δ<supplied reason="lost" cert="low">άματρι</supplied></name></persName>
-             <lb n="3"/><w><unclear>κ</unclear><supplied reason="lost">αί</supplied></w> 
+             <lb n="3"/> <w><unclear>κ</unclear><supplied reason="lost">αί</supplied></w> 
             <persName type="divine" key="kore"><name nymRef="Κόρη"><supplied reason="lost">Κόραι</supplied></name></persName>
             <w><supplied reason="lost">ἀνέθ</supplied>ηκε</w> <gap reason="lost" extent="6" precision="low" unit="character"/>
              <lb n="4"/> <orig><unclear>κ</unclear></orig><gap reason="lost" extent="7" precision="low" unit="character"/><orig>ΝΑΙΚΟ</orig><gap reason="lost" extent="6" precision="low" unit="character"/>

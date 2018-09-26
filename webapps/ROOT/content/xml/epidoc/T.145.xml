@@ -159,7 +159,7 @@
             <div subtype="part" n="iii" type="textpart"><ab>
                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="40">μ</num>
                            <lb n="2"/> <persName type="attested" key="lgpn:V1-60222"><name nymRef="Ἀτθυμάλλας">Ἀτθυμάλλαϲ</name></persName>
-                           <lb n="3"/><w>φί<supplied reason="lost">λος</supplied></w>
+                           <lb n="3"/> <w>φί<supplied reason="lost">λος</supplied></w>
                            <lb n="4"/><persName type="attested" key="lgpn:V1-60219"><name nymRef="Στρατοκλῆς">Στρατοκλεῖ</name></persName> 
                        </ab></div
             ><div subtype="part" n="iv" type="textpart"><ab>
@@ -180,7 +180,7 @@
                            <lb n="1"/><persName type="attested" key="lgpn:V1-60224"><name nymRef="Εὔτυχος">Εὔτυ<supplied reason="lost">χος</supplied></name></persName>
                        </ab></div>
             <div subtype="part" n="ix" type="textpart"><ab>
-                           <lb n="1"/><persName type="attested"><name nymRef="Φιλοκ-"><seg part="I">Φ<supplied reason="lost">ιλ</supplied>οκ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                           <lb n="1"/><persName type="attested"><name nymRef="Φιλοκ-"><seg part="I">Φ<supplied reason="lost">ιλ</supplied>οκ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                        </ab>
 </div>
 </div>

@@ -133,7 +133,7 @@
                 <name nymRef="Caesar">Caes<supplied reason="lost">ar</supplied></name>
 <lb n="8"/><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name> 
                 <name nymRef="Germanicus">G<surplus><unclear>s</unclear></surplus>ermani<supplied reason="lost">cus</supplied></name>
-<lb n="9"/><w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w></persName> <w lemma="per">per</w> 
+<lb n="9"/> <w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w></persName> <w lemma="per">per</w> 
                 <persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>ucium</ex></expan></name> 
                 <name nymRef="Acilius">Acil<supplied reason="lost">ium</supplied></name>
 <lb n="10"/><name nymRef="Strabo">Strabonem</name></persName> <w>l<supplied reason="lost">egatum</supplied></w>

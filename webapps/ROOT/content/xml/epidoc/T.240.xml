@@ -122,7 +122,7 @@
             <div subtype="section" n="ii" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Τρύφων">Τρύφων</name></persName> 
                         <orig>α</orig>
-               <lb n="2"/><orig>ι</orig> <persName type="attested"><name nymRef="Σωσι-"><seg part="I">Σωσι</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+               <lb n="2"/><orig>ι</orig> <persName type="attested"><name nymRef="Σωσι-"><seg part="I">Σωσι</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div subtype="section" n="iii" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Τειμασ-"><seg part="I">Τειμασ</seg></name></persName><lb break="no" n="2"/><orig><unclear>α</unclear>τ<unclear>ω</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
@@ -131,7 +131,7 @@
                         <lb n="1"/><persName type="attested"><name nymRef="Ἐμισαθις">Ἐ<unclear>μ</unclear>ισ<supplied reason="lost">αθις</supplied></name></persName><lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div subtype="section" n="v" type="textpart"><ab>
-                        <lb n="1"/><persName type="attested"><name nymRef="Τελέσαρχος">Τελεσ<lb break="no" n="2"/>άρχω</name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><persName type="attested"><name nymRef="Τελέσαρχος">Τελεσ<lb break="no" n="2"/>άρχω</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
 </div>
 </div>

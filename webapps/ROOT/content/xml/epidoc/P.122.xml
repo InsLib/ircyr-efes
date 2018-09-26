@@ -116,7 +116,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor" key="gratianus"><name nymRef="Γρατιανός"><seg part="I"><supplied reason="lost">Γ</supplied><unclear>ρ</unclear>ατια<unclear>ν</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor" key="gratianus"><name nymRef="Γρατιανός"><seg part="I"><supplied reason="lost">Γ</supplied><unclear>ρ</unclear>ατια<unclear>ν</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
         

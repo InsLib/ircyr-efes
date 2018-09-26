@@ -126,7 +126,7 @@
                     <lb n="1"/><w lemma="ἐπί">ἐπὶ</w> <w>ἱερέ<lb n="2" break="no"/>ος</w> <w lemma="ὁ">τοῦ</w>
                     <persName type="divine" key="apollo"><w>κ<supplied reason="lost">τιστοῦ</supplied></w>
                         <lb n="3"/><name nymRef="Ἀπόλλων"><supplied reason="lost">Ἀπόλλων</supplied>ο<supplied reason="lost">ς</supplied></name></persName>
-                    <lb n="4"/><persName type="attested"><name nymRef="Κα-"><seg part="I"><unclear>Κα</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><persName type="attested"><name nymRef="Κα-"><seg part="I"><unclear>Κα</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

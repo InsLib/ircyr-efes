@@ -116,7 +116,7 @@
             <lb n="1"/><supplied reason="lost"><persName type="divine" key="kyrios"><w><expan><abbr>Κ</abbr><ex>υρί</ex><abbr>ε</abbr></expan></w></persName></supplied> <w><unclear>βω</unclear>ήθη</w> <space unit="character"/>
             <orig><unclear>κε</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
             <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>
-            <persName type="attested"><name nymRef="Παῦλος" ><unclear>Παύ</unclear>λω</name></persName><gap reason="lost" extent="unknown" unit="character"/>
+            <persName type="attested"><name nymRef="Παῦλος" ><unclear>Παύ</unclear>λω</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
             <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Ω</unclear>Ρ<unclear>Χ</unclear>ΑΤΩ</orig><gap reason="lost" extent="unknown" unit="character"/>
             <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ΚΙΙΠΩ</unclear>Κ</orig><gap reason="lost" extent="unknown" unit="character"/>
             <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>Κ</unclear>ΟΝ<unclear>ΤΙΑ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>

@@ -131,12 +131,12 @@
                     <lb n="1"/><gap reason="lost" extent="3" unit="character"/> <w>δ<supplied reason="lost">η</supplied><unclear>μ</unclear><supplied reason="lost">αρχι</supplied><unclear>κ</unclear>ῆς</w>
                     <w><unclear>ἐξ</unclear><supplied reason="lost">ουσί<lb n="2" break="no"/>ας</supplied></w> <w>τὸ</w>
                <num value="3">γ</num> <w>αὐτοκράτωρ</w> <w><unclear>τὸ</unclear></w> <num value="8">η</num>
-                    <lb n="3"/><w><unclear>πα</unclear>τὴρ</w> <w><unclear>π</unclear>ατρίδος</w> 
+                    <lb n="3"/> <w><unclear>πα</unclear>τὴρ</w> <w><unclear>π</unclear>ατρίδος</w> 
                <w><unclear>ὕπ</unclear>ατ<supplied reason="lost">ος</supplied></w>
                     <lb n="4"/><supplied reason="lost"><w>τὸ</w> <num value="3">γ</num> </supplied>
                <w>ἀπ<unclear>οδεδε</unclear><supplied reason="lost">ιγ</supplied>μέν<supplied reason="lost">ος</supplied></w>
                <w><supplied reason="lost">τ</supplied>ὸ</w> <supplied reason="lost"><num value="4">δ</num> </supplied>
-                    <lb n="5"/><w><supplied reason="lost">δι</supplied>ὰ</w> 
+                    <lb n="5"/> <w><supplied reason="lost">δι</supplied>ὰ</w> 
                     <persName type="attested"><name nymRef="Κόϊντος"><expan><abbr>Κ</abbr><ex>οΐντου</ex></expan></name> 
                        <name nymRef="Πακώνιος"><unclear>Π</unclear>ακωνί<supplied reason="lost">ου</supplied></name> <space/>
                        <lb n="5a"/> <space extent="1" unit="line"/>
@@ -147,7 +147,7 @@
                <w lemma="δῆμος">Δ<supplied reason="lost">ήμῳ</supplied></w> 
                <placeName type="ethnic"><w lemma="Ῥωμαῖος"><expan><abbr>Ῥ</abbr><ex>ωμαίων</ex></expan></w></placeName> <!-- check -->
                     <w>ἀγρὸν</w> <orig>δ</orig><gap reason="lost" quantity="4" unit="character"/><orig><unclear>ο</unclear>ν</orig>
-                    <lb n="8"/><w><supplied reason="lost">ἀ</supplied><unclear>π</unclear>ο<unclear>κ</unclear>ατέσ<unclear>τ</unclear><supplied reason="lost">η</supplied>σ<supplied reason="lost">εν</supplied></w>
+                    <lb n="8"/> <w><supplied reason="lost">ἀ</supplied><unclear>π</unclear>ο<unclear>κ</unclear>ατέσ<unclear>τ</unclear><supplied reason="lost">η</supplied>σ<supplied reason="lost">εν</supplied></w>
          </ab>
          </div>
          <div type="translation" xml:space="preserve">

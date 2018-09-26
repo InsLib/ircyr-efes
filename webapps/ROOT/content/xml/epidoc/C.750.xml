@@ -141,7 +141,7 @@
                   <w><expan><abbr>mil</abbr><ex>itum</ex></expan></w>
                      <w><expan><abbr>leg</abbr><ex>ionis</ex></expan></w> <num value="3">III</num>
                      <placeName><expan><abbr>Cy<supplied reason="lost">r</supplied></abbr><ex>enaicae</ex></expan></placeName>
-                     <lb n="4"/><w><expan><abbr>praef</abbr><ex>ecto</ex></expan></w>
+                     <lb n="4"/> <w><expan><abbr>praef</abbr><ex>ecto</ex></expan></w>
                   <w><expan><abbr>coh</abbr><ex>ortis</ex></expan></w> <num value="2">II</num>
                      <placeName type="ethnic" nymRef="Asturias">Astyrum</placeName> <w><expan><abbr>eq</abbr><ex>uitatae</ex></expan></w> 
                      <lb n="5"/><w lemma="dono">donato</w> <w lemma="bellum">bello</w> <placeName type="ethnic"><w lemma="Brittanicus">Brittanico</w></placeName> 

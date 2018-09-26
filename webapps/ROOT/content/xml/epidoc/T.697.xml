@@ -124,7 +124,7 @@
                         <num value="12" xml:lang="grc"><unclear>β</unclear>ι</num>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60016"><name nymRef="Σαλώι">Σαλόι</name>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60022"><name nymRef="Καλλισθένης">Καλλ<supplied reason="lost">ι</supplied><unclear>σ</unclear>θένους</name></persName></persName>
-                    <lb n="4"/><w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="4"/> <w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="12" xml:lang="grc">ι<unclear>β</unclear></num> 
                         <gap reason="lost" extent="3" unit="character"/><orig>ΚΩ</orig>  
                         <num value="10" xml:lang="grc">ι</num> <persName type="attested" key="lgpn:V1-60015"><name nymRef="Πόπλιος"><expan><abbr>Π</abbr><ex>όπλιος</ex></expan></name>

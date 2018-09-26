@@ -147,7 +147,7 @@
                <persName type="attested" key="lgpn:V1-63395"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></name>
                     <name nymRef="Κλαύδιος"><expan><abbr>Κλ</abbr><ex>αυδίου</ex></expan></name>
                     <lb n="8"/><name nymRef="Βάττος">Βάττου</name></persName>
-                    <lb n="9"/><w>παραϲτήσαντοϲ</w> <w lemma="λίτρα"><expan><abbr>λ</abbr><ex>ίτρας</ex></expan></w> <!-- check -->
+                    <lb n="9"/> <w>παραϲτήσαντοϲ</w> <w lemma="λίτρα"><expan><abbr>λ</abbr><ex>ίτρας</ex></expan></w> <!-- check -->
                     <num value="17">ιζ</num> <g ref="symbols.xml#onchias"/> <num value="8">η</num> <persName type="attested"><name nymRef="Βάττος">Βάττῳ</name></persName>
                     <lb n="10"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name>
                        <name nymRef="Ἀντώνιος">Ἀντωνίου</name> 

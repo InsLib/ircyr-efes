@@ -123,7 +123,7 @@
             <w>καὶ</w> 
             <persName type="divine" key="kore"><name nymRef="Κόρη">Κό<supplied reason="lost">ρ</supplied>α<supplied reason="lost">ι</supplied></name></persName>
                     <lb n="2"/><persName type="attested"><name nymRef="Ἀντωνία">Ἀντωνία</name></persName>
-                    <lb n="3"/><w>τ<supplied reason="lost">ὰν</supplied></w> 
+                    <lb n="3"/> <w>τ<supplied reason="lost">ὰν</supplied></w> 
             <persName type="attested"><name nymRef="Ἀρεταφίλα">Ἀρεταφ<supplied reason="lost">ίλαν</supplied></name></persName>
                      <lb n="4"/> <supplied reason="lost"> <space quantity="1" unit="character"/></supplied> 
             <w><supplied reason="lost">ἀ</supplied>νέθηκε</w> <space quantity="3" unit="character"/>

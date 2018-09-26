@@ -128,7 +128,7 @@
                         <rs type="month" key="Μεχίρ"><w>Μεχε<unclear>ὶρ</unclear></w></rs> 
                         <num value="6" xml:lang="grc">ϛ</num>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60007"><name nymRef="Ἀγάθων"><unclear>Ἀγ</unclear>άθ<unclear>ω</unclear><supplied reason="lost">ν</supplied></name> 
-                        <persName type="attested"><name nymRef="Πι-"><seg part="I">Π<unclear>ι</unclear></seg></name></persName></persName><gap reason="lost" quantity="1" unit="character"/>
+                        <persName type="attested"><name nymRef="Πι-"><seg part="I">Π<unclear>ι</unclear></seg></name></persName></persName> <gap reason="lost" quantity="1" unit="character"/>
                     <lb n="2b"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
 </div>

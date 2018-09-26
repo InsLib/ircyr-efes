@@ -124,8 +124,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                        <lb n="1"/><persName type="attested"><name nymRef="Θαστερι-"><seg part="I"><unclear>Θ</unclear>αστερι</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><persName type="attested"><name nymRef="Απ-"><seg part="I">Απ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><persName type="attested"><name nymRef="Θαστερι-"><seg part="I"><unclear>Θ</unclear>αστερι</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><persName type="attested"><name nymRef="Απ-"><seg part="I">Απ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
 </div>
          

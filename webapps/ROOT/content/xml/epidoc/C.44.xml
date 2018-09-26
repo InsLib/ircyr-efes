@@ -165,7 +165,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div type="textpart" n="a">
                    <ab>
-                    <lb n="1"/><gap reason="lost"  extent="unknown" unit="character"/> <persName type="emperor" key="nerva"><name nymRef="Νέρουα">Nέρ<unclear>ο</unclear><supplied reason="lost">υα</supplied></name></persName><gap reason="lost"  extent="unknown"  unit="character"/>
+                    <lb n="1"/><gap reason="lost"  extent="unknown" unit="character"/> <persName type="emperor" key="nerva"><name nymRef="Νέρουα">Nέρ<unclear>ο</unclear><supplied reason="lost">υα</supplied></name></persName> <gap reason="lost"  extent="unknown"  unit="character"/>
                 </ab>
             </div>
             

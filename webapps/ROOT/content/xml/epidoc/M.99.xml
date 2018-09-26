@@ -107,7 +107,7 @@
                <num value="9"><unclear>θ</unclear></num> <rs type="month"><w>Μ<unclear>ε</unclear>ϲορὴ</w></rs> 
                <num atLeast="20">κ<gap reason="lost" quantity="1" unit="character"/></num>
                <gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name nymRef="Καίσιος">Καίʹι<lb n="2" break="no"/>ος</name> <name nymRef="Λογγῖνος">Λονγεῖνοϲ</name></persName>
-               <w>ἐτ</w><lb n="3"/><w>ελεύτα</w> <date type="life-span" dur="P32Y"><w lemma="ἔτος">ἐτῶν</w> <num value="32">λβ</num> </date>
+               <w>ἐτ</w><lb n="3"/> <w>ελεύτα</w> <date type="life-span" dur="P32Y"><w lemma="ἔτος">ἐτῶν</w> <num value="32">λβ</num> </date>
             </ab>
          </div>
          

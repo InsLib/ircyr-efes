@@ -120,7 +120,7 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="section" n="I" type="textpart"><div subtype="section" n="a" type="textpart"><div subtype="section" n="i" type="textpart"><ab>
-                                <lb n="1"/><persName type="attested"><name nymRef="Θεομήδης"><seg part="I">Θεομ<unclear>η</unclear>δ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                                <lb n="1"/><persName type="attested"><name nymRef="Θεομήδης"><seg part="I">Θεομ<unclear>η</unclear>δ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                             </ab></div></div><div subtype="section" n="b" type="textpart"><div subtype="section" n="i" type="textpart"><ab>
                                 <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>λ</unclear>αμ<unclear>α</unclear></orig>
                             </ab></div><div subtype="section" n="ii" type="textpart"><ab>
@@ -139,7 +139,7 @@
                                 <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
                                 <persName type="attested"><name nymRef="Καρνήδας">Καρνήδαι</name></persName>
                             </ab></div><div subtype="section" n="iv" type="textpart"><ab>
-                                <lb n="1"/><persName type="attested"><name nymRef="Θε-"><seg part="I">Θε</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                                <lb n="1"/><persName type="attested"><name nymRef="Θε-"><seg part="I">Θε</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                                 <!--the notes are somewhat confusing here - is there a iv? and is iii where ii should be? Check with JMR-->
                             </ab></div></div><div subtype="section" n="b" type="textpart"><div subtype="section" n="i" type="textpart"><ab>
                                 <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> 
@@ -155,11 +155,11 @@
                             </ab></div><div subtype="section" n="iv" type="textpart"><ab>
                                 <lb n="1"/><persName type="attested"><name nymRef="Σῶσος">Σῶσος</name></persName>
                             </ab></div><div subtype="section" n="v" type="textpart"><ab>
-                                <lb n="1"/><persName type="attested"><name nymRef="Θρασ-"><seg part="I">Θρασ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                                <lb n="1"/><persName type="attested"><name nymRef="Θρασ-"><seg part="I">Θρασ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                             </ab></div></div></div><div subtype="section" n="IIΙ" type="textpart"><div subtype="section" n="i" type="textpart"><ab>
                             <lb n="1"/> <space quantity="3" unit="character"/><orig>νινν</orig> <space quantity="1" unit="character"/><orig>σ</orig><gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div><div subtype="section" n="ii" type="textpart"><ab>
-                            <lb n="1"/><persName type="attested"><name nymRef="Σωτο-"><seg part="I">Σωτ<unclear>ο</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="1"/><persName type="attested"><name nymRef="Σωτο-"><seg part="I">Σωτ<unclear>ο</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div><div subtype="section" n="iii" type="textpart"><ab>
                             <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">ε<unclear>ρ</unclear>οκλῆς</seg></name></persName>
                         </ab></div><div subtype="section" n="iv" type="textpart"><ab>

@@ -118,7 +118,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan> </w> <num value="11">ια</num> <persName type="attested"><name nymRef="Ῥοῦφος">Ῥο<supplied reason="lost">ῦφος</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan> </w> <num value="11">ια</num> <persName type="attested"><name nymRef="Ῥοῦφος">Ῥο<supplied reason="lost">ῦφος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num> <persName type="attested" cert="low"><name nymRef="Σ-">Σ<gap reason="lost" extent="unknown" unit="character"/></name></persName>
                     <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="13">ιγ</num> <persName type="attested" cert="low"><name nymRef="Πυ-">Πυ<gap reason="lost" extent="unknown" unit="character"/></name></persName>
                 </ab>

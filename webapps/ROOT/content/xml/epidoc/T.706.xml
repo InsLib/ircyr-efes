@@ -140,7 +140,7 @@
                     <lb n="3"/><persName type="emperor" key="hadrianus"><w><supplied reason="lost">Α</supplied><unclear>ὐ</unclear>τοκράτωρ</w>
                        <name nymRef="Καῖσαρ">Καῖσαρ</name> <persName type="emperor" key="traianus"><w><unclear>θ</unclear><supplied reason="lost">εοῦ</supplied></w> 
                        <supplied reason="lost"><name nymRef="Τραιανός">Τραιανοῦ</name> <name nymRef="Παρθικός">Παρθικοῦ</name></supplied></persName>
-                    <lb n="4"/><w><supplied reason="lost">υἱ</supplied>ός</w> 
+                    <lb n="4"/> <w><supplied reason="lost">υἱ</supplied>ός</w> 
                    <persName type="emperor" key="nerva"><w>θεο<supplied reason="lost">ῦ</supplied></w> 
                        <supplied reason="lost"><name nymRef="Νέρβα">Νέρβα</name></supplied></persName> 
                    <w><supplied reason="lost">υἱωνό</supplied>ς</w> 

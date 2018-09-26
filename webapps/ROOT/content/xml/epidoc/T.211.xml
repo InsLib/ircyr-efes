@@ -149,7 +149,7 @@
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>α</orig><gap reason="lost" extent="unknown" unit="character"/> 
                    <lb n="3"/><persName type="attested"><name nymRef="Θεόδοτος">Θεό<supplied reason="lost">δ</supplied>οτο<supplied reason="lost">ς</supplied></name></persName>
                    <w><expan><abbr><hi rend="ligature">φίλ</hi></abbr><ex>ος</ex></expan></w> 
-                   <persName type="attested"><name nymRef="Πα-"><seg part="I"><hi rend="ligature">Πα</hi></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/></ab>
+                   <persName type="attested"><name nymRef="Πα-"><seg part="I"><hi rend="ligature">Πα</hi></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/></ab>
          </div></div>
          
          <div type="apparatus">

@@ -122,7 +122,7 @@
                   <lb n="1"/><gap reason="lost" quantity="1" unit="character"/><orig>διο<unclear>σ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                   <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="18">ιη</num> <space quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan> </w> <num value="10">ι</num> <space quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15">ιε</num> <persName type="attested"><name nymRef="Καλλα-"><seg part="I">Καλλα</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15">ιε</num> <persName type="attested"><name nymRef="Καλλα-"><seg part="I">Καλλα</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

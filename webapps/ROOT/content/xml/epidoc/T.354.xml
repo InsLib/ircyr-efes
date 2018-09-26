@@ -135,7 +135,7 @@
                     <num value="5">ε</num> <rs type="month" key="Φαρμουθί"><w lemma="Φαρμουθί">Φαρμο
                         <lb n="6" break="no"/>υθὶ</w></rs> <num value="24">δκ</num> 
                     <persName type="attested" key="lgpn:V1-60821"><name nymRef="Σωγένης">Σ<supplied reason="lost">ω</supplied>
-                    <lb n="7" break="no"/>γένη<supplied reason="lost">ς</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="7" break="no"/>γένη<supplied reason="lost">ς</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          <div type="apparatus">

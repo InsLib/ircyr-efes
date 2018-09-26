@@ -129,7 +129,7 @@
                     <num atLeast="80"><unclear>π</unclear><gap reason="lost" quantity="1" unit="character"/></num> 
                     <lb n="2"/><persName type="attested"><name nymRef="Ἀντι-"><seg part="I">Ἀντι<gap
                        reason="lost" quantity="2" unit="character"/><unclear>λ</unclear></seg></name> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><orig>ηϲ</orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ρ</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ο</unclear></orig></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><orig>ηϲ</orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ρ</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ο</unclear></orig></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
          </div>
          <div type="apparatus">

@@ -129,7 +129,7 @@
                 <lb n="3"/><w lemma="diuus">diui</w> <name nymRef="Nerva">Nerv<supplied reason="lost">ae</supplied></name>
                 <w lemma="nepos"><supplied reason="lost">nepos</supplied></w>
                 <lb n="4"/><name nymRef="Traianus">Traianus</name> <name nymRef="Hadrianus"><supplied reason="lost">Hadrianus</supplied></name>
-                <lb n="5"/><name nymRef="Augustus"><supplied reason="lost"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></supplied></name></persName><gap reason="lost" extent="unknown" unit="line"/>
+                <lb n="5"/><name nymRef="Augustus"><supplied reason="lost"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></supplied></name></persName> <gap reason="lost" extent="unknown" unit="line"/>
             </ab>
 </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>

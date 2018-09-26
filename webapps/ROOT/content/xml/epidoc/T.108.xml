@@ -114,7 +114,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
                             <lb n="1"/><persName type="attested"><name nymRef="Τελέσαρχος"><supplied reason="lost">Τε</supplied>λέσαρχος</name>
-                            <persName type="attested"><name nymRef="Α-"><seg part="I">Α</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                            <persName type="attested"><name nymRef="Α-"><seg part="I">Α</seg></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Ἀρίστιππος">Ἀρίστι<lb n="2" break="no"/>ππος</name></persName>
                     </ab>
