@@ -123,7 +123,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-             <lb n="1"/><date><w>ἐ<supplied reason="lost">π'</supplied></w> <w><supplied reason="lost">ἱερέ</supplied>ως</w>
+             <lb n="1"/><date corresp="https://godot.date/id/RWHFzypjwf8vwkqBtmVJJJ"><w>ἐ<supplied reason="lost">π'</supplied></w> <w><supplied reason="lost">ἱερέ</supplied>ως</w>
                  <persName type="divine" key="apollo"><w>τ<supplied reason="lost">οῦ</supplied></w>
             <w><supplied reason="lost">κτ</supplied>ισ<supplied reason="lost">τοῦ</supplied></w>
                     <lb n="2"/><name nymRef="Ἀπόλλων"><supplied reason="lost">Ἀπόλλωνος</supplied></name></persName></date>
