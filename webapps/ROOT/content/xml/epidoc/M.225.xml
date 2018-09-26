@@ -137,7 +137,7 @@
                 <placeName><supplied reason="lost">Cretae</supplied></placeName> 
                 <w lemma="et">e<supplied reason="lost">t</supplied></w>		
 	<lb n="7"/><placeName><supplied reason="lost" cert="low">Cyrenarum</supplied></placeName> 
-                <supplied reason="lost"><space extent="unknown" unit="character"/></supplied>
+                <supplied reason="lost"> <space extent="unknown" unit="character"/></supplied>
                 </ab>
             </div>
             <div xml:lang="grc" type="textpart">
@@ -156,7 +156,7 @@
                 <placeName><supplied reason="lost">Κρήτης</supplied></placeName> 
                 <w><supplied reason="lost">καὶ</supplied></w>
 <lb n="15"/><placeName><supplied reason="lost" cert="low">Κυρηνῶν</supplied></placeName>
-                <supplied reason="lost"><space extent="unknown" unit="character"/></supplied>
+                <supplied reason="lost"> <space extent="unknown" unit="character"/></supplied>
 <lb n="16"/><gap reason="lost" quantity="1" unit="line"><desc>mileage figure</desc></gap>
             </ab>
             </div>

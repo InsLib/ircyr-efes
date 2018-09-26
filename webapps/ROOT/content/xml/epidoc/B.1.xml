@@ -141,9 +141,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><space quantity="1" unit="character"/> <date><date corresp="https://godot.date/id/BdUqPRET4VMVYUSUKY66w9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="34">λδ</num></date> 
+                    <lb n="1"/> <space quantity="1" unit="character"/> <date><date corresp="https://godot.date/id/BdUqPRET4VMVYUSUKY66w9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="34">λδ</num></date> 
                     <date><w>ἐπὶ</w> <persName type="attested" key="lgpn:V1-61814"><w lemma="ἱερεύς">ἱερέως</w> <w lemma="ὁ">τοῦ</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName> <name nymRef="Λῦσις">Λύσιος</name></persName></date></date> <space quantity="3" unit="character"/>
-                    <lb n="2"/><space quantity="3" unit="character"/> <w>ἁδήματος</w> <w>ἀντίγραφον</w> <space quantity="3" unit="character"/>
+                    <lb n="2"/> <space quantity="3" unit="character"/> <w>ἁδήματος</w> <w>ἀντίγραφον</w> <space quantity="3" unit="character"/>
                     <lb n="3"/><w lemma="ἐπεί">ἐπειδὴ</w> <persName type="attested" key="lgpn:V1-61920"><name nymRef="Ἀπολλόδωρος">Ἀπολλόδωρος</name> <persName type="attested" key="lgpn:V1-61919"><name nymRef="Παγκράτης">Παγκράτευς</name></persName></persName> <w lemma="ὁ">τῶν</w> <w>πολιτᾶν</w>
                     <lb n="4"/><w lemma="ὕπαρχος">ὑπάρχων</w> <w lemma="ἀπό">ἀπὸ</w> <w lemma="πρόγονος">προγόνων</w> <w lemma="ἐκ">ἐξ</w> <w>ἀ<unclear>ρχ</unclear>ᾶ<unclear>ς</unclear></w> <w>γνησἰων</w> <w lemma="καί">καὶ</w>
                     <w lemma="αὐτός">αὐ<lb n="5" break="no"/>τὸς</w> <w>ποτιφέρεται</w> <w>ποτὶ</w> <w>τὰν</w> <w lemma="πατρίς">πα<unclear>τρί</unclear>δα</w> <w lemma="ἐν"><unclear>ἐν</unclear></w> <w lemma="πᾶς">παντὶ</w> <w>καιρῶι</w>
@@ -192,7 +192,7 @@
                     <lb n="35"/><w lemma="πατρίς">πατρίδα</w>  <space quantity="1" unit="character"/> <w>τότ<unclear>ε</unclear></w> <w part="I">ἐπρεσβ<unclear>ε</unclear><supplied reason="lost">υ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="36"/><orig>νω</orig> <w>μ<supplied reason="lost">ε</supplied>θόδιον</w> <w>ἀποδιδόμε<unclear>ν</unclear><supplied reason="lost">ος</supplied></w> 
                     <gap reason="lost" quantity="10" unit="character" precision="low"/><w part="F">αν</w> <space quantity="3" unit="character"/>
-                    <lb n="37"/><w lemma="ὁ">τὸν</w> <w lemma="μέν">μὲν</w> <w lemma="ἴδιος">ἴδιον</w> <w lemma="βίος">βίον</w> <w lemma="ὑπέρ"><unclear>ὑπὲρ</unclear></w> <w>τᾶ<supplied reason="lost">ς</supplied></w> <gap reason="lost" quantity="3" unit="character"/><orig><unclear>Α</unclear></orig><gap reason="lost" atLeast="5" atMost="6" unit="character"/> <w part="F">ατα</w><space quantity="3" unit="character"/>
+                    <lb n="37"/><w lemma="ὁ">τὸν</w> <w lemma="μέν">μὲν</w> <w lemma="ἴδιος">ἴδιον</w> <w lemma="βίος">βίον</w> <w lemma="ὑπέρ"><unclear>ὑπὲρ</unclear></w> <w>τᾶ<supplied reason="lost">ς</supplied></w> <gap reason="lost" quantity="3" unit="character"/><orig><unclear>Α</unclear></orig><gap reason="lost" atLeast="5" atMost="6" unit="character"/> <w part="F">ατα</w> <space quantity="3" unit="character"/>
                     <lb n="38"/><w>πόλιος</w> <w>ἔπαυ<unclear>ξ</unclear>εν</w> <w>προαιρείμενος</w> <gap reason="lost" quantity="4" unit="character"/> 
                     <w>ὑπογρά<lb n="39" break="no"/>φων</w> <w lemma="ὅτι">ὅτι</w> <w lemma="χρῆμα">χρημάτων</w> <w lemma="μέν">μὲν</w> <w>κτῆσ<supplied reason="lost">ιν</supplied> ἀ<unclear>βέ</unclear>βα<unclear>ι</unclear>ον</w> 
                     <w>ἐπέχ<supplied reason="lost">ει</supplied></w>

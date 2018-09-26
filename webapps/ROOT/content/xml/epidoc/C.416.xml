@@ -113,12 +113,13 @@
             <head>Bibliography</head>
             <p><bibl><author>M. Fränkel</author>, <title level="j">Sitz.Berl.Ak</title>. 1903, 84 f.</bibl>, <!-- check -->
                whence <bibl><title>AE</title> <citedRange>1903.367</citedRange></bibl>,
-               <bibl><title>OGIS</title> <citedRange>767</citedRange></bibl>; <bibl><title>SEG</title> <citedRange>9.6</citedRange> (with bibliography)</bibl>
+               <bibl><title>OGIS</title> <citedRange>767</citedRange></bibl>; 
                <bibl><title>IGRR</title> <citedRange>I.1041</citedRange></bibl>,
                <bibl><title>DGE</title> <citedRange>237</citedRange></bibl>;
                 <bibl><ptr target="ehrenberg-jones1949"/> <citedRange>47</citedRange>, p. 63</bibl>;
              see also <bibl>Von Domaszewski, <title>Philologus</title> 1908, 5</bibl>; 
-               <bibl><author>L. <name>Robert</name></author>, <title>Études épigraphiques et philologiques</title> <pubPlace>Paris</pubPlace>, <date>1938</date>, p. 39, n.2</bibl>, 
+               <bibl><author>L. <name>Robert</name></author>, <title>Études épigraphiques et philologiques</title> <pubPlace>Paris</pubPlace>, 
+                  <date>1938</date>, p. 39, n.2</bibl>, whence <bibl><title>SEG</title> <citedRange>9.6</citedRange> (with bibliography)</bibl>,  
                <bibl><ptr target="robertBE"/> <citedRange>1939.560</citedRange></bibl>.</p>
          </div>
          
@@ -138,7 +139,7 @@
                     <lb n="4"/><w><supplied reason="lost">τᾶς</supplied></w>
                <w lemma="πατρίς"><supplied reason="lost">πα</supplied>τρίδος</w> 
                <w>ποιησάμεν<unclear>ο</unclear><supplied reason="lost">ς</supplied></w> <w><supplied reason="lost">ἱερ</supplied> 
-                        <lb n="5"/><supplied reason="lost">ατε</supplied>ύσας</w> <w lemma="τε">τε</w> <w lemma="δίς">δὶς</w> 
+                        <lb n="5" break="no"/><supplied reason="lost">ατε</supplied>ύσας</w> <w lemma="τε">τε</w> <w lemma="δίς">δὶς</w> 
                <persName type="emperor" key="augustus"><name nymRef="Καῖσαρ">Καίσαρος</name> <w>τ<unclear>ῶ</unclear></w>
                     <name nymRef="Σεβαστός"><supplied reason="lost" cert="low">Σεβα<lb n="6" break="no"/>στῶ</supplied></name></persName> <w lemma="ἐκτενής">ἐκτενῶς</w>
                <w lemma="καί">καὶ</w> <w>φιλοτείμως</w> 
@@ -151,7 +152,7 @@
                <w lemma="συμμαχία">συμμα<lb n="11" break="no"/><supplied reason="lost">χ</supplied>ίαν</w>
                     <w lemma="καί">καὶ</w> <w lemma="πρός">πρὸς</w> <w>σωτηρίαν</w> <w>τ<supplied reason="lost">ᾶ</supplied>ς</w> 
                     <w lemma="πόλις">πό<lb n="12" break="no"/><supplied reason="lost">λ</supplied>εος</w> <w>ἀνηκοίσαν</w> 
-               <w>ἀγαγὼν</w> <w>π<unclear>α</unclear>ρ<unclear>λα</unclear><lb n="13" break="no"/>βων</w> <w lemma="τε">τε</w> <persName type="divine" key="apollo"><w lemma="ὁ">τὸν</w> <w>κτίστα</w> <w>τᾶς</w> <w>πόλιος</w> <w>ἁμῶν</w> <name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName> 
+               <w>ἀγαγὼν</w> <w>π<unclear>α</unclear>ρ<unclear>λα</unclear><!-- check --><lb n="13" break="no"/>βων</w> <w lemma="τε">τε</w> <persName type="divine" key="apollo"><w lemma="ὁ">τὸν</w> <w>κτίστα</w> <w>τᾶς</w> <w>πόλιος</w> <w>ἁμῶν</w> <name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName> 
                     <w>σ<supplied reason="omitted">π</supplied>τέ<lb n="14" break="no"/><unclear>φ</unclear>ανον</w>
                <w lemma="καί">καὶ</w> <w lemma="ὁ">τ<unclear>ὰ</unclear></w> <w lemma="πρός">πρὸς</w>
                <w lemma="θεός">θεὸς</w> <w>ἐκτε 

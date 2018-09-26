@@ -125,7 +125,7 @@
                     <persName type="attested"><name nymRef="Ἀφηδο-"><seg part="I"><unclear>Ἀ</unclear>φ<unclear>ηδο</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">τος</seg></name></persName> <space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="2"><unclear>β</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><space quantity="1" unit="character"/> 
+                    <lb n="3"/> <space quantity="1" unit="character"/> 
                     <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="2">β</num> <space quantity="1" unit="character"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
@@ -133,7 +133,7 @@
                     <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="5"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
                     <num value="16">ιϛ</num> <orig><unclear>ηιπαρεη</unclear></orig><gap reason="lost" quantity="1" unit="character"/><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr> 
-                    <persName type="attested"><name nymRef="Ἀπολλωνίδης"><supplied reason="lost">Ἀπο</supplied>λλω<unclear>ν</unclear><supplied reason="lost">ί</supplied><space quantity="3" unit="character"/>δης</name></persName>
+                    <persName type="attested"><name nymRef="Ἀπολλωνίδης"><supplied reason="lost">Ἀπο</supplied>λλω<unclear>ν</unclear><supplied reason="lost">ί</supplied> <space quantity="3" unit="character"/>δης</name></persName>
                 </ab>
 </div>
          

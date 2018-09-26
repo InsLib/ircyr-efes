@@ -129,8 +129,8 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
                <ab>   
                   <lb n="1"/><persName type="attested"><name nymRef="Δέκμος">Δέκμον</name> <name nymRef="Ἰούνιος">Ἰούνιον</name> <persName type="attested"><name nymRef="Δέκμος">Δέκμω</name></persName> <w>υἱὸν</w> <name nymRef="Βροῦτος">Βροῦτον</name></persName> 
-                  <lb n="2"/><space extent="unknown" unit="character"/> <w>τὸν</w> <w>πάτρωνα</w> <space extent="unknown" unit="character"/> 
-                  <lb n="3"/><space extent="unknown" unit="character"/> <placeName type="ethnic"><w lemma="Κυραναῖος">Κυραναῖοι</w></placeName> <space extent="unknown" unit="character"/>
+                  <lb n="2"/> <space extent="unknown" unit="character"/> <w>τὸν</w> <w>πάτρωνα</w> <space extent="unknown" unit="character"/> 
+                  <lb n="3"/> <space extent="unknown" unit="character"/> <placeName type="ethnic"><w lemma="Κυραναῖος">Κυραναῖοι</w></placeName> <space extent="unknown" unit="character"/>
            </ab>
              </div>
 

@@ -116,7 +116,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ἔθος"><supplied reason="lost">ἔ</supplied><unclear>θ</unclear>η</w> <orig>α</orig><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><persName type="attested"><name nymRef="Σιφ-"><seg part="I">Σιφ</seg></name></persName><space extent="unknown" unit="character"/>
+                        <lb n="2"/><persName type="attested"><name nymRef="Σιφ-"><seg part="I">Σιφ</seg></name></persName> <space extent="unknown" unit="character"/>
                     </ab>
 </div>
          

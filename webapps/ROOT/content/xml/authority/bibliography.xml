@@ -1407,16 +1407,14 @@
                         <title level="j" >Notiziario Archeologico del
                             Ministero delle Colonie</title>
                         <biblScope unit="issue">4</biblScope>
-                        <biblScope unit="pp">207-212</biblScope>
-                        <ref target="http://periodici.librari.beniculturali.it"/></bibl>
+                        <biblScope unit="pp">207-212</biblScope></bibl>
                     
                     <bibl xml:id="oliverio1927a"><author>G. <name type="surname"
                             >Oliverio</name></author>, <date>1927</date>, <title level="a">La Fonte di Apollo</title>, 
-                        <title level="j" >Notiziario Archeologico del
+                        <title level="j" >Notiziario Archeologico del 
                                 Ministero delle Colonie</title>
                         <biblScope unit="issue">4</biblScope>
-                        <biblScope unit="pp">213-243</biblScope>
-                        <ref target="http://periodici.librari.beniculturali.it"/></bibl>
+                        <biblScope unit="pp">213-243</biblScope></bibl>
                    
                     
                     <bibl xml:id="oliverio1928"><author>G. <name type="surname"

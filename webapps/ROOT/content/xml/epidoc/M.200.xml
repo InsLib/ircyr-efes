@@ -118,7 +118,7 @@
                     <lb n="4"/><w><supplied reason="lost">fe</supplied>cit</w> <w lemma="per">pe<supplied reason="lost">r
                         tirones l</supplied>ect<supplied reason="lost">os</supplied></w>
                     <lb n="5"/><w lemma="in">in</w> <w lemma="prouincia">prou<supplied reason="lost">incia</supplied></w> <placeName type="ethnic"><w lemma="Cyrenensis"><supplied reason="lost">Cyrenensi</supplied></w></placeName>
-                    <lb n="6"/><supplied reason="lost"><space quantity="3" unit="chatacter"/>
+                    <lb n="6"/><supplied reason="lost"> <space quantity="3" unit="chatacter"/>
                         <num value="10">X</num>  <space quantity="3" unit="chatacter"/></supplied> 
                 </ab>
 </div>

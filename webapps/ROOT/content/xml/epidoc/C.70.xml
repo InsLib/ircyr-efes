@@ -130,7 +130,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><space quantity="1" unit="character"/> <w>εὐτυ<lb n="2" break="no"/>χῶς</w> 
+                    <lb n="1"/> <space quantity="1" unit="character"/> <w>εὐτυ<lb n="2" break="no"/>χῶς</w> 
                     <persName type="attested" key="lgpn:V1-64058"><name nymRef="Ἠσύχιος">Ἡσυ<lb n="3" break="no"/>χίω</name></persName> <w>τῶ</w>
                     <w>Λι<lb n="4" break="no"/>βυάρχη</w>
                 </ab>

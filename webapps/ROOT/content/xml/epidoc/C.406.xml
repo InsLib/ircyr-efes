@@ -129,7 +129,7 @@
                     <persName type="attested"><name nymRef="Κρι-"><seg part="I">Κ<unclear>ρι</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">το</supplied>ῦ</w>
                     <persName type="attested" key="lgpn:V1-62608"><name nymRef="Ἀγχίστρατος">Ἀνχιστράτου</name></persName>
-                    <lb n="4a"/><space quantity="1" unit="line"/>
+                    <lb n="4a"/> <space quantity="1" unit="line"/>
                 </ab>
 </div>
          <div type="apparatus">

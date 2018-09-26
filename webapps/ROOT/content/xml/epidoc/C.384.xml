@@ -123,10 +123,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-             <lb n="1"/><w>ἐ<supplied reason="lost">π'</supplied></w> <w><supplied reason="lost">ἱερέ</supplied>ως</w>
+             <lb n="1"/><date><w>ἐ<supplied reason="lost">π'</supplied></w> <w><supplied reason="lost">ἱερέ</supplied>ως</w>
                  <persName type="divine" key="apollo"><w>τ<supplied reason="lost">οῦ</supplied></w>
             <w><supplied reason="lost">κτ</supplied>ισ<supplied reason="lost">τοῦ</supplied></w>
-                    <lb n="2"/><name nymRef="Ἀπόλλων"><supplied reason="lost">Ἀπόλλωνος</supplied></name></persName>
+                    <lb n="2"/><name nymRef="Ἀπόλλων"><supplied reason="lost">Ἀπόλλωνος</supplied></name></persName></date>
             <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2a"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="3"/><supplied reason="lost" cert="low"><w>εἰσήλθαμεν</w></supplied>

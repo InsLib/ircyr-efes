@@ -157,7 +157,7 @@
                     <name nymRef="Βάττος">Βά<supplied reason="lost">ττο</supplied>υ</name></persName> <w lemma="υἱός">υἱὸς</w></persName>
             <w lemma="ἱερεύς">ἱερεὺς</w>
                     <lb n="5"/><persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνο<supplied reason="lost">ς</supplied> </name></persName>
-                    <lb n="5a"/><space quantity="1" unit="line"/>
+                    <lb n="5a"/> <space quantity="1" unit="line"/>
                     <lb n="6"/><date corresp="https://godot.date/id/gcHZ8oHTUTw5WYKcT7KuSk"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="135">ρλε</num></date> <persName type="attested" key="lgpn:V1-66023"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name>
                <name nymRef="Κλαύδιος">Κλαύδιος</name>  

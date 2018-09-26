@@ -120,7 +120,7 @@
                         <num value="1"><unclear>α</unclear></num>
                         <lb n="2"/><orig>λια</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3"/><orig>εμ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="4"/><space quantity="1" unit="character"/><orig>υ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="4"/> <space quantity="1" unit="character"/><orig>υ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="section" n="2" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="13">ιγ</num>
                         <lb n="2"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr><hi rend="supraline">Λ</hi></abbr><ex>ούκιος</ex></expan></name> <name nymRef="Γράνιος">Γρά<lb n="3" break="no"/>νιος</name></persName>

@@ -154,7 +154,7 @@
                     <num value="3">III</num> <w lemma="balneum">balineum</w>
                     <lb n="5"/><w lemma="cum">cum</w> <w lemma="porticus">porticibus</w> <w lemma="et">et</w> <w>sphaeristeris</w> <g ref="symbols.xml#leaf"/> <lb n="6"/><w lemma="ceterus">ceterisque</w> <w lemma="adiaceo">adiacentibus</w> <w lemma="qui">quae</w> <g ref="symbols.xml#leaf"/> <lb n="7"/><w lemma="tumultus">tumultu</w> <placeName type="ethnic"><w lemma="Iudaicus">Iudaico</w></placeName> <w lemma="diruo">diruta</w> <w lemma="et">et</w> <w lemma="exuro">exusta</w>
                     <lb n="8"/><w lemma="sum">erant</w> <w lemma="ciuitas">ciuitati</w> <placeName type="ethnic"><w lemma="Cyrenensis">Cyrenensium</w></placeName> <w lemma="resisto">restitui</w> 
-                    <lb n="9"/><space quantity="3" unit="character"/> <g ref="symbols.xml#leaf"/> <w lemma="iubeo">iussit</w> <space quantity="3" unit="character"/>
+                    <lb n="9"/> <space quantity="3" unit="character"/> <g ref="symbols.xml#leaf"/> <w lemma="iubeo">iussit</w> <space quantity="3" unit="character"/>
                 </ab>
 </div>
          

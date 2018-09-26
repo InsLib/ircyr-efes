@@ -110,12 +110,12 @@
                     <lb n="1"/><persName type="attested"><name nymRef="Πασίων" key="lgpn:V1-60105">Πασίων</name> <name nymRef="Αἰάλαν" key="lgpn:V1-60104">Αἰάλαντ<supplied reason="lost">ος</supplied></name></persName>
           </ab> </div>
             <div subtype="block" n="ii 1" type="textpart"><ab>
-                    <lb n="1"/><space extent="2" unit="character"/><orig>αιαμε</orig>
+                    <lb n="1"/> <space extent="2" unit="character"/><orig>αιαμε</orig>
                <lb n="1"/><orig>υιγανικ</orig>
           </ab> </div>
              <div subtype="block" n="ii 2" type="textpart"><ab>
-                    <lb n="1"/><space extent="2" unit="character"/><orig>λουLιε</orig>
-               <lb n="1"/><orig>κιοσατι</orig><space extent="2" unit="character"/>
+                    <lb n="1"/> <space extent="2" unit="character"/><orig>λουLιε</orig>
+               <lb n="1"/><orig>κιοσατι</orig> <space extent="2" unit="character"/>
           </ab> </div>
          </div>
          <div type="apparatus">

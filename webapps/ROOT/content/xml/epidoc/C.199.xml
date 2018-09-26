@@ -125,7 +125,7 @@
                     <lb n="1"/><date corresp="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="15"><unclear>ι</unclear>ε</num></date> <persName type="attested" key="lgpn:V1-62624"><name nymRef="Ἄθων"><unclear>Ἄ</unclear>θων</name>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-65847"><name nymRef="Τιμῶναξ">Τιμ<unclear>ώ</unclear>ν<unclear>α</unclear>κτ<lb 
-                       n="3" break="no"/><space extent="unknown" unit="character"/>ος</name></persName></persName>
+                       n="3" break="no"/> <space extent="unknown" unit="character"/>ος</name></persName></persName>
                 </ab>
          </div>
          <div type="apparatus">

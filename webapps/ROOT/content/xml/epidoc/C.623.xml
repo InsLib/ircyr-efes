@@ -122,7 +122,7 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Lucius"><expan><abbr><unclear>L</unclear></abbr><ex>ucius</ex></expan></name> 
                     <name nymRef="Foficanus"><unclear>F</unclear>ofican<supplied reason="lost">us</supplied></name> 
-                    <lb n="2"/><space quantity="1" unit="character"/> <name nymRef="Niger">Niger</name></persName>  <space quantity="1" unit="character"/>
+                    <lb n="2"/> <space quantity="1" unit="character"/> <name nymRef="Niger">Niger</name></persName>  <space quantity="1" unit="character"/>
                     <lb n="3"/><date  dur="P87Y"><w><supplied reason="lost">an</supplied>norom</w>        <note>sic</note>
                     <lb n="4"/><num value="87">LXXXVII</num> </date>
                 </ab>

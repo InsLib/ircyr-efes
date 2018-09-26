@@ -106,8 +106,8 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
-            <ab><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F"><unclear>ί</unclear>ππου</seg></name></persName><space quantity="5" unit="character"/>
-             <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ατοφυ</orig><space quantity="1" unit="character"/>
+            <ab><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F"><unclear>ί</unclear>ππου</seg></name></persName> <space quantity="5" unit="character"/>
+             <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ατοφυ</orig> <space quantity="1" unit="character"/>
             <lb n="2a"/><gap reason="lost" extent="unknown" unit="line"/>
             </ab>
          </div>

@@ -117,7 +117,7 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
              <ab>
-                    <lb n="1"/><space quantity="4" unit="character"/> <w lemma="dominus"><supplied reason="lost">Domino</supplied></w> <w lemma="noster">nostro</w> 
+                    <lb n="1"/> <space quantity="4" unit="character"/> <w lemma="dominus"><supplied reason="lost">Domino</supplied></w> <w lemma="noster">nostro</w> 
                     <lb n="2"/><persName type="emperor" key="diocletianus"><name nymRef="Diocletianus">Diocletiano</name> <w lemma="imperator"><expan><abbr>imp</abbr><ex>eratori</ex></expan></w></persName>
              </ab>
          </div>

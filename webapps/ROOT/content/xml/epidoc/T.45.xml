@@ -136,7 +136,7 @@
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                             <num value="5" xml:lang="grc">ε</num>
                         <lb n="2"/><persName type="attested"><name nymRef="Τίτος">Τί<unclear>τος</unclear></name>
-                        <lb n="3"/><name nymRef="Φλάβιος">Φλάβιο<lb n="4" break="no"/><space quantity="1" unit="character"/>ς</name> 
+                        <lb n="3"/><name nymRef="Φλάβιος">Φλάβιο<lb n="4" break="no"/> <space quantity="1" unit="character"/>ς</name> 
                             <space quantity="1" unit="character"/>
                         <lb n="5"/><name nymRef="Θεοφίλητος">Θεοφίλη<lb n="6" break="no"/>τος</name></persName>
                     </ab>

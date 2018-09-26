@@ -138,7 +138,7 @@
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><persName type="attested"><name nymRef="Ἀγάθων"><unclear>Ἀγ</unclear><supplied reason="lost">ά</supplied><unclear>θ</unclear>ων</name>
                     <lb n="4"/><persName type="attested" key="lgpn:V1-60813"><name nymRef="Λυσανίας"><supplied reason="lost">Λ</supplied>υσανί
-                    <lb n="5" break="no"/><space quantity="1" unit="character"/> <unclear>α</unclear></name></persName></persName>
+                    <lb n="5" break="no"/> <space quantity="1" unit="character"/> <unclear>α</unclear></name></persName></persName>
                     <lb n="6"/><date type="life-span" dur="P23Y"><w><supplied reason="lost"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></supplied></w> <num value="23">κγ</num> </date>
                 </ab>
 </div>

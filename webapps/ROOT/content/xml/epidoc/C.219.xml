@@ -138,13 +138,13 @@
                     <lb n="1"/><persName type="attested" key="lgpn:V1-62611"><name nymRef="Ἀγχίστρατος"><supplied reason="lost">Ἀγχίστρατος</supplied></name><persName type="attested" key="lgpn:V1-64615"><name nymRef="Καρτισθένης"><supplied reason="lost">Καρτι</supplied>
                        <lb n="2" break="no"/>σθένευς</name></persName></persName>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-65230"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name>
-                    <lb n="4"/><space quantity="1" unit="character"/> <name nymRef="Παγκλῆς">Παγκλῆς</name> <space quantity="1" unit="character"/>
+                    <lb n="4"/> <space quantity="1" unit="character"/> <name nymRef="Παγκλῆς">Παγκλῆς</name> <space quantity="1" unit="character"/>
                     <lb n="5"/><persName type="attested" key="lgpn:V1-64649"><name nymRef="Κλαύδιος">Κλαυδίω</name> <name nymRef="Κλέαρχος">Κλεάρχω</name></persName></persName>
                     <lb n="6"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἀντώνιος">Ἀντώνιος</name> <persName type="attested"><name nymRef="Φλάμμα">Φλάμμα</name></persName>
                     <lb n="7"/><w lemma="υἱός">υἱὸς</w> <name nymRef="Γέμελλος">Γέμελλος</name></persName>
                     <lb n="8"/><persName type="attested" key="lgpn:V1-63008"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name> 
                     <lb n="9"/><persName type="attested"><name nymRef="Ἀπολλώνιος">Ἀπολλωνίω</name></persName> <w>υἱὸς</w>
-                    <lb n="10"/><space quantity="1" unit="character"/> <name nymRef="Πρεῖσκος">Πρεῖσκος</name></persName> <space quantity="3" unit="character"/> 
+                    <lb n="10"/> <space quantity="1" unit="character"/> <name nymRef="Πρεῖσκος">Πρεῖσκος</name></persName> <space quantity="3" unit="character"/> 
                     <lb n="11"/><persName type="attested" key="lgpn:V1-63061"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name> <space quantity="1" unit="character"/>
                     <lb n="12"/><persName type="attested" key="lgpn:V1-63071"><name nymRef="Ἀρίσταρχος">Ἀριστάρχω</name></persName>
                     <lb n="13"/><w lemma="υἱός">υἱὸς</w> <space quantity="3" unit="character"/>
@@ -160,7 +160,7 @@
                     <name nymRef="Κλαύδιος">Κλαύδιος</name> <persName type="attested" key="lgpn:V1-64648"><name nymRef="Τιβέριος"><expan><abbr><unclear>Τι</unclear></abbr><ex>βερίω</ex></expan></name>
                     <lb n="23"/><name nymRef="Κλαύδιος">Κλαυδίω</name> <name nymRef="Κλέαρχος">Κλεάρχω</name></persName> 
                     <lb n="24"/><w>ἀρχιερέος</w> <w lemma="υἱός">υἱὸς</w> 
-                        <lb n="25"/><space quantity="3" unit="character"/> <name nymRef="Καρνήδας">Καρνήδας</name></persName><space quantity="1" unit="character"/> 
+                        <lb n="25"/> <space quantity="3" unit="character"/> <name nymRef="Καρνήδας">Καρνήδας</name></persName> <space quantity="1" unit="character"/> 
                     <lb n="26"/><date corresp="https://godot.date/id/y3A4XtrNiQttEfC3TAgbJM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="106">ρϛ</num></date> 
                     <persName type="attested" key="lgpn:V1-65959"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> 
                     <name nymRef="Κλαύδιος">Κλαύδιος</name> <persName type="attested" key="lgpn:V1-63959"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></name>

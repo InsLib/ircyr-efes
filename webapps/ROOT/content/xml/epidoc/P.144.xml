@@ -134,79 +134,79 @@
  
 <lb n="2"/><note>12</note> <w><supplied reason="lost">Dalmaticomafor</supplied>tium</w><w> subseri<supplied reason="lost">c</supplied>um</w> <w>aluum</w> <w>clauans</w> <w><expan><abbr>purpu<supplied reason="lost">r</supplied></abbr><supplied reason="lost"><ex>ae</ex></supplied></expan></w>
  
-<lb n="3"/><supplied reason="lost"><space extent="8" unit="character"/></supplied> <w><supplied reason="lost">hy</supplied>poblattae</w> <w>1<supplied reason="lost">ibra</supplied>m</w> <w>unam</w> <g ref="symbols.xml#denarius"/> <num><w>quadragintaqu<supplied reason="lost">at</supplied>
+<lb n="3"/><supplied reason="lost"> <space extent="8" unit="character"/></supplied> <w><supplied reason="lost">hy</supplied>poblattae</w> <w>1<supplied reason="lost">ibra</supplied>m</w> <w>unam</w> <g ref="symbols.xml#denarius"/> <num><w>quadragintaqu<supplied reason="lost">at</supplied>
  
-<lb n="4" break="no"/><supplied reason="lost"><space extent="20" unit="character"/></supplied> <supplied reason="lost">tu</supplied>or</w> <w>milibus</w></num> <space extent="12" unit="character" />
+<lb n="4" break="no"/><supplied reason="lost"> <space extent="20" unit="character"/></supplied> <supplied reason="lost">tu</supplied>or</w> <w>milibus</w></num> <space extent="12" unit="character" />
  
 <lb n="5"/><note>13 a-b</note>  <w><supplied reason="lost">Dalmat</supplied>icoma<supplied reason="lost">fortium</supplied></w> <placeName type="ethnic"><supplied reason="lost">Mutinen</supplied>se</placeName> <w>subsericum</w> <w>clauan<supplied reason="lost">s</supplied></w>
  
-<lb n="6"/><w><supplied reason="lost"><space extent="2" unit="character"/></supplied><supplied reason="lost">pur</supplied>purae</w> <w>hypoblat<supplied reason="lost">tae</supplied></w> <w><supplied reason="lost">libram</supplied></w> <w><supplied reason="lost">u</supplied>nam</w> <g ref="symbols.xml#denarius"/> <w>quadragintasex</w> <w><supplied reason="lost">milibu</supplied>s</w>
+<lb n="6"/><w><supplied reason="lost"> <space extent="2" unit="character"/></supplied><supplied reason="lost">pur</supplied>purae</w> <w>hypoblat<supplied reason="lost">tae</supplied></w> <w><supplied reason="lost">libram</supplied></w> <w><supplied reason="lost">u</supplied>nam</w> <g ref="symbols.xml#denarius"/> <w>quadragintasex</w> <w><supplied reason="lost">milibu</supplied>s</w>
  
 <lb n="7"/><note>14 c</note> <w><supplied reason="lost">Dalmatic</supplied>omafortium</w> <w>marinum</w> <w>subsericum</w> <w>ut</w> <w><expan><abbr>s</abbr><ex>upra</ex></expan></w> <g ref="symbols.xml#denarius"/> <num><w>qu<supplied reason="lost">adra</supplied>
  
-<lb n="8" break="no"/><space extent="28" unit="character"/> gintaocto</w> <w>mi<supplied reason="lost">libus</supplied></w></num>
+<lb n="8" break="no"/> <space extent="28" unit="character"/> gintaocto</w> <w>mi<supplied reason="lost">libus</supplied></w></num>
  
-<lb n="9"/><note>15 d-e</note> <supplied reason="lost"><w>Dalmatica</w></supplied> <w>holoserica</w> <w>uirilis</w> <w>clauans</w> <w><expan><abbr>purpur</abbr><ex>ae</ex></expan></w> <w>blattae</w> <gap reason="lost" extent="2" unit="character"/> <w><expan><abbr><unclear>li</unclear>br</abbr><ex>am</ex></expan></w> <g ref="symbols.xml#denarius"/> <lb n="10"/><space extent="30" unit="character"/><num><w>quinqua<supplied reason="lost">ginta</supplied></w> <w><supplied reason="lost">mil</supplied>ibus</w></num>
+<lb n="9"/><note>15 d-e</note> <supplied reason="lost"><w>Dalmatica</w></supplied> <w>holoserica</w> <w>uirilis</w> <w>clauans</w> <w><expan><abbr>purpur</abbr><ex>ae</ex></expan></w> <w>blattae</w> <gap reason="lost" extent="2" unit="character"/> <w><expan><abbr><unclear>li</unclear>br</abbr><ex>am</ex></expan></w> <g ref="symbols.xml#denarius"/> <lb n="10"/> <space extent="30" unit="character"/><num><w>quinqua<supplied reason="lost">ginta</supplied></w> <w><supplied reason="lost">mil</supplied>ibus</w></num>
  
 <lb n="11"/><note>16 f</note>  <w><supplied reason="lost">Dalmati</supplied>comafortium</w> <w>holosericum</w> <w>aluum</w> <w>clau<supplied reason="lost">ans</supplied></w> <w><supplied cert="low" reason="lost">purpur</supplied>ae</w>
  
-<lb n="12"/><supplied reason="lost"><space extent="4" unit="character"/></supplied><w><supplied reason="lost">lib</supplied><unclear>ras</unclear></w> <w>duas</w> <g ref="symbols.xml#denarius"/> <num><w>centum</w> <w>triginta</w> <w>quin<supplied reason="lost">que</supplied></w> <w><supplied reason="lost">milibus</supplied></w></num>
+<lb n="12"/><supplied reason="lost"> <space extent="4" unit="character"/></supplied><w><supplied reason="lost">lib</supplied><unclear>ras</unclear></w> <w>duas</w> <g ref="symbols.xml#denarius"/> <num><w>centum</w> <w>triginta</w> <w>quin<supplied reason="lost">que</supplied></w> <w><supplied reason="lost">milibus</supplied></w></num>
  
 <lb n="13"/><note>17 g-h</note> <gap reason="lost" extent="unknown" unit="character"/> <w>infectis</w> <w>eadem</w> <w>h<supplied reason="lost">olo</supplied>seric<supplied reason="lost">a</supplied></w>  <w><supplied reason="lost">habit</supplied>a</w>
  
-<lb n="14"/><space extent="22" unit="character"/>  <w>ratione</w> <w>tin<supplied reason="lost">cturae</supplied></w>  <supplied reason="lost"><w>distrahi</w></supplied> <w><supplied reason="lost">debe</supplied>t</w>
+<lb n="14"/> <space extent="22" unit="character"/>  <w>ratione</w> <w>tin<supplied reason="lost">cturae</supplied></w>  <supplied reason="lost"><w>distrahi</w></supplied> <w><supplied reason="lost">debe</supplied>t</w>
  
 <lb n="15"/><note>18, i</note> <w><supplied reason="lost">S</supplied>tricto<supplied reason="lost">ria</supplied></w> <w><supplied reason="lost">holoseric</supplied>a</w> <w>clauans</w> <w>purpu<supplied reason="lost">rae</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><w>uncias</w></supplied> <w><supplied reason="lost">se</supplied>x</w>
  
-<lb n="16"/><space extent="24" unit="character"/><g ref="symbols.xml#denarius"/> <w><supplied reason="lost">qu</supplied>adragi<supplied reason="lost">nta</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><w>milibus</w></supplied>
+<lb n="16"/> <space extent="24" unit="character"/><g ref="symbols.xml#denarius"/> <w><supplied reason="lost">qu</supplied>adragi<supplied reason="lost">nta</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <supplied reason="lost"><w>milibus</w></supplied>
  
 <lb n="17"/><note>19, k</note> <supplied reason="lost"><w>Asema</w></supplied> <w>holo<supplied reason="lost">serica</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> <g ref="symbols.xml#denarius"/> <w>qu<supplied reason="lost">adraginta</supplied></w> <supplied reason="lost"><w>quinque</w> <w>milibus</w></supplied>
  
 <lb n="18"/><note>20, l-n</note> <gap reason="lost" extent="21" unit="character"/> <w><supplied cert="low" reason="lost">qualit</supplied>te</w> <w>lana<supplied reason="lost">e</supplied></w> <gap reason="lost" extent="10" unit="character"/> <w>et</w>
 <lb n="19"/><supplied cert="low" reason="lost"><w>habita</w> <w>ratione</w> <w>mensurae</w> <w>auri</w></supplied> <w>et</w> <w>plumatur<supplied reason="lost">ae</supplied></w> <w><supplied reason="lost">distr</supplied>ahi</w>
-<lb n="20"/><space extent="25" unit="character"/>  <w>poterunt</w>  <space extent="15" unit="character" />
+<lb n="20"/> <space extent="25" unit="character"/>  <w>poterunt</w>  <space extent="15" unit="character" />
 <lb n="21"/> <note>21, o-p</note> <supplied reason="lost"><w>Chlamys</w></supplied> <placeName type="ethnic"><supplied reason="lost">Mutin</supplied>ens<supplied reason="lost">is</supplied></placeName> <w><supplied reason="lost">dupl</supplied>ex</w> <w>clauans</w> <supplied reason="lost"><w><expan><abbr>purpur</abbr><ex>ae</ex></expan></w></supplied> <gap reason="lost" extent="10" unit="character"/> <w><supplied reason="lost">sec</supplied>un
-<lb n="22" break="no"/><supplied reason="lost"><space extent="8" unit="character" /></supplied><supplied reason="lost" cert="low">dae</supplied></w> <w><supplied reason="lost">un</supplied>cias</w> <gap reason="lost" extent="10" unit="character"/> <g ref="symbols.xml#denarius"/> <w part="I"><unclear>d</unclear></w> <gap reason="lost" extent="25" unit="character"/>
+<lb n="22" break="no"/><supplied reason="lost"> <space extent="8" unit="character" /></supplied><supplied reason="lost" cert="low">dae</supplied></w> <w><supplied reason="lost">un</supplied>cias</w> <gap reason="lost" extent="10" unit="character"/> <g ref="symbols.xml#denarius"/> <w part="I"><unclear>d</unclear></w> <gap reason="lost" extent="25" unit="character"/>
 <lb n="23"/><note>22, q</note> <w>Autem</w> <w><unclear>c</unclear><supplied reason="lost">hlamydes</supplied></w> <w part="I">p</w> <gap reason="lost" extent="10" unit="character"/><orig>ui</orig><gap reason="lost" extent="14" unit="character"/><orig>i</orig>
-<lb n="24"/><space extent="12" unit="character"/>  <gap reason="lost" extent="15" unit="character"/>  <w part="I"><supplied reason="lost">p</supplied>urp<supplied reason="lost">ur</supplied></w> <gap reason="lost" extent="11" unit="character"/><orig>ur</orig>
+<lb n="24"/> <space extent="12" unit="character"/>  <gap reason="lost" extent="15" unit="character"/>  <w part="I"><supplied reason="lost">p</supplied>urp<supplied reason="lost">ur</supplied></w> <gap reason="lost" extent="11" unit="character"/><orig>ur</orig>
 <lb n="25"/><note>23, r</note> <w><supplied reason="lost">Ch</supplied>lamys</w> <placeName type="ethnic">Mutin<supplied reason="lost">ensis</supplied></placeName> <supplied reason="lost"><w>simplex</w></supplied> <w><supplied reason="lost">cla</supplied>uan<supplied reason="lost">s</supplied></w> <supplied reason="lost" cert="low"><w>purpurae</w></supplied> <gap reason="lost" extent="6" unit="character"/>
  
-<lb n="26"/><space extent="8" unit="character"/> <w>unc<supplied reason="lost">ias</supplied></w> <w>quin<supplied reason="lost" cert="low">que</supplied></w> <gap reason="lost" extent="22" unit="character"/>
+<lb n="26"/> <space extent="8" unit="character"/> <w>unc<supplied reason="lost">ias</supplied></w> <w>quin<supplied reason="lost" cert="low">que</supplied></w> <gap reason="lost" extent="22" unit="character"/>
  
 <lb n="27"/><note>24, s</note>  <w><supplied reason="lost">Fi</supplied>bulatorium</w> <placeName type="ethnic">Mu<supplied reason="lost">tinen</supplied>se</placeName> <w>sim<supplied reason="lost">plex</supplied></w> <gap reason="lost" extent="7" unit="character"/>  <supplied reason="lost"><w>clauans</w></supplied> <w><supplied reason="lost">purpura</supplied>e</w>
  
-<lb n="28"/><supplied reason="lost"><space extent="8" unit="character"/></supplied><w>hapli<supplied reason="lost">ae</supplied></w> <gap reason="lost" extent="unknown" unit="character"></gap>
+<lb n="28"/><supplied reason="lost"> <space extent="8" unit="character"/></supplied><w>hapli<supplied reason="lost">ae</supplied></w> <gap reason="lost" extent="unknown" unit="character"></gap>
  
 <lb n="29"/><note>25, t</note> <w><supplied reason="lost">Fib</supplied>ulatorium</w> <placeName type="ethnic">L<supplied reason="lost">adicenum</supplied></placeName> <supplied reason="lost"><w>simplex</w></supplied> <w><supplied reason="lost">e</supplied>x</w> <w>lani<supplied reason="lost">s</supplied></w> <placeName type="ethnic"><supplied reason="lost">Mutinen</supplied>si
-<lb n="30" break="no"/><space extent="3" unit="character"/>bus</placeName> <w>et</w> <placeName type="ethnic">Ladicenis</placeName> <gap reason="lost" extent="11" unit="character"/> <supplied reason="lost"><w>ut</w></supplied> <w><expan><abbr>s</abbr><ex>upra</ex></expan></w> <w>uncias</w> <w>quattuor</w> <g ref="symbols.xml#denarius"/> <w><supplied reason="lost">quadragint</supplied>a</w>
+<lb n="30" break="no"/> <space extent="3" unit="character"/>bus</placeName> <w>et</w> <placeName type="ethnic">Ladicenis</placeName> <gap reason="lost" extent="11" unit="character"/> <supplied reason="lost"><w>ut</w></supplied> <w><expan><abbr>s</abbr><ex>upra</ex></expan></w> <w>uncias</w> <w>quattuor</w> <g ref="symbols.xml#denarius"/> <w><supplied reason="lost">quadragint</supplied>a</w>
  
 <lb n="31"/><note>26, u-v</note> <w><supplied reason="lost">Chl</supplied>amys</w> <w>simplex</w> <w>ex</w> <w>l<supplied reason="lost">anis</supplied></w> <placeName type="ethnic"><supplied reason="lost">Muti</supplied>nensibus</placeName> <w>et</w> <placeName type="ethnic">Ladiceni<supplied reason="lost">s</supplied></placeName> <gap reason="lost" extent="8" unit="character"/>
  
-<lb n="32"/><space extent="8" unit="character"/> <w>unc<supplied reason="lost">ias</supplied></w> <gap reason="lost" extent="8" unit="character"/> <supplied reason="lost"><g ref="symbols.xml#denarius"/></supplied> <w>quindecim</w> <w>milib<supplied reason="lost">us</supplied></w>
+<lb n="32"/> <space extent="8" unit="character"/> <w>unc<supplied reason="lost">ias</supplied></w> <gap reason="lost" extent="8" unit="character"/> <supplied reason="lost"><g ref="symbols.xml#denarius"/></supplied> <w>quindecim</w> <w>milib<supplied reason="lost">us</supplied></w>
  
 <lb n="33"/> <note>27, w</note> <w><supplied reason="lost">Fib</supplied>ulatoriu<supplied reason="lost">m</supplied></w> <gap reason="lost" extent="9" unit="character"/> <w part="F">um</w> <w>clabans</w> <w>purpu<supplied reason="lost">rae</supplied></w> <gap reason="lost" extent="7" unit="character"/> <w>primae</w>
  
-<lb n="34"/><space extent="8" unit="character"/> <w>un<supplied reason="lost">cias</supplied></w> <w><supplied reason="lost">qu</supplied>attuor</w> <g ref="symbols.xml#denarius"/> <w>quatt<supplied reason="lost">uor</supplied></w> <w>milib<supplied reason="lost">u</supplied>s</w>
+<lb n="34"/> <space extent="8" unit="character"/> <w>un<supplied reason="lost">cias</supplied></w> <w><supplied reason="lost">qu</supplied>attuor</w> <g ref="symbols.xml#denarius"/> <w>quatt<supplied reason="lost">uor</supplied></w> <w>milib<supplied reason="lost">u</supplied>s</w>
  
 <lb n="35"/><note>28, 17</note>  <w><supplied reason="lost">Tap</supplied>ete</w> <w>Britannic<supplied reason="lost">u</supplied>m</w> <w><expan><abbr>prim</abbr><ex>ae</ex></expan></w> <w>form<supplied reason="lost">ae</supplied></w> <supplied reason="lost"><g ref="symbols.xml#denarius"/></supplied> <w><supplied reason="lost">quinqu</supplied>e</w> <w>mili<supplied reason="lost">b</supplied>us</w>
  
-<lb n="36"/> <note>29, 18</note><supplied reason="lost"><space extent="2" unit="character"/></supplied><w><supplied reason="lost">For</supplied>ma<supplied reason="lost">e</supplied></w> <w>secundae</w><space extent="5" unit="character"/><supplied reason="lost" cert="low"><g ref="symbols.xml#denarius"/> <w>quattuor</w></supplied> <w>milibus</w>
+<lb n="36"/> <note>29, 18</note><supplied reason="lost"> <space extent="2" unit="character"/></supplied><w><supplied reason="lost">For</supplied>ma<supplied reason="lost">e</supplied></w> <w>secundae</w> <space extent="5" unit="character"/><supplied reason="lost" cert="low"><g ref="symbols.xml#denarius"/> <w>quattuor</w></supplied> <w>milibus</w>
  
 <lb n="37"/> <note>30, 19</note><supplied reason="lost"><w>Tapete</w></supplied> <placeName type="ethnic"><supplied reason="lost">Cappa</supplied>docicum</placeName> <w>siu<supplied reason="lost">e</supplied></w> <supplied reason="lost"><placeName type="ethnic">Ponticum</placeName></supplied> <gap reason="lost" extent="9" unit="character"/> <w part="F">im</w> <g ref="symbols.xml#denarius"/> <w>tribus</w> <w>milibus</w>
  
-<lb n="38"/><note>31, 20</note> <supplied reason="lost"><space extent="2" unit="character"/></supplied><supplied reason="lost"><w>Formae</w></supplied> <w><supplied reason="lost">secun</supplied>dae</w><space extent="6" unit="character"/><supplied reason="lost"><g ref="symbols.xml#denarius"/></supplied> <w><supplied reason="lost" cert="low">duobu</supplied>s</w>  <w>milibus</w>
+<lb n="38"/><note>31, 20</note> <supplied reason="lost"> <space extent="2" unit="character"/></supplied><supplied reason="lost"><w>Formae</w></supplied> <w><supplied reason="lost">secun</supplied>dae</w> <space extent="6" unit="character"/><supplied reason="lost"><g ref="symbols.xml#denarius"/></supplied> <w><supplied reason="lost" cert="low">duobu</supplied>s</w>  <w>milibus</w>
  
-<lb n="39"/><note>32, 21</note> <supplied reason="lost"><w>Tapete</w></supplied> <placeName type="ethnic"><supplied reason="lost">Aegyptiu</supplied>m</placeName><space extent="3" unit="character"/><supplied reason="lost"><g ref="symbols.xml#denarius"/> <w>mille</w> <w>septingentis</w></supplied> <w>quinquaginta</w>
+<lb n="39"/><note>32, 21</note> <supplied reason="lost"><w>Tapete</w></supplied> <placeName type="ethnic"><supplied reason="lost">Aegyptiu</supplied>m</placeName> <space extent="3" unit="character"/><supplied reason="lost"><g ref="symbols.xml#denarius"/> <w>mille</w> <w>septingentis</w></supplied> <w>quinquaginta</w>
  
-<lb n="40"/><note>33, 22</note> <supplied reason="lost"><w>Tapete</w></supplied> <gap reason="lost" extent="7" unit="character"/><supplied reason="lost" cert="low"><space extent="3" unit="character"/></supplied><supplied reason="lost"><g ref="symbols.xml#denarius"/></supplied> <w><supplied reason="lost">quadri</supplied>nge<supplied reason="lost">ntis</supplied></w>
+<lb n="40"/><note>33, 22</note> <supplied reason="lost"><w>Tapete</w></supplied> <gap reason="lost" extent="7" unit="character"/><supplied reason="lost" cert="low"> <space extent="3" unit="character"/></supplied><supplied reason="lost"><g ref="symbols.xml#denarius"/></supplied> <w><supplied reason="lost">quadri</supplied>nge<supplied reason="lost">ntis</supplied></w>
  
 <lb n="41"/><note>34, 23</note> <supplied reason="lost"><w>Tapete</w></supplied> <gap reason="lost" extent="8" unit="character"/><orig>es</orig><gap reason="lost" extent="9" unit="character"/> <g ref="symbols.xml#denarius"/> <num><w>quat<supplied reason="lost">tuor</supplied></w> <supplied reason="lost"><w>milibus</w></supplied> <w><supplied reason="lost">q</supplied>uingentis</w></num>
 
-<lb n="42"/><note>35, 24</note> <supplied reason="lost"><w>Tapete</w> <w>Africanum</w></supplied><space extent="12" unit="character"/><g ref="symbols.xml#denarius"/> <num><w>milleq<supplied reason="lost">uingentis</supplied></w>
+<lb n="42"/><note>35, 24</note> <supplied reason="lost"><w>Tapete</w> <w>Africanum</w></supplied> <space extent="12" unit="character"/><g ref="symbols.xml#denarius"/> <num><w>milleq<supplied reason="lost">uingentis</supplied></w>
  </num>
 <lb n="43"/><note>36, 25</note> <supplied reason="lost" cert="low"><w>Stragula</w> <w>secundum</w> <w>ponderem</w></supplied> <w><supplied reason="lost">pl</supplied>umatu<supplied reason="lost">rae</supplied></w> <supplied reason="lost"><w>et</w> <w>lanae</w></supplied> <w><supplied reason="lost">di</supplied>strahi</w>
  
-<lb n="44"/><space extent="25" unit="character" />  <supplied reason="lost"><w>debent</w></supplied>  <space extent="15" unit="character" />
+<lb n="44"/> <space extent="25" unit="character" />  <supplied reason="lost"><w>debent</w></supplied>  <space extent="15" unit="character" />
   
 </ab></div>
  <div subtype="section" type="textpart" n="M">
@@ -224,7 +224,7 @@
             <div subtype="section" type="textpart" n="A-N, I, Column 2">
    <ab><lb n="0"/><note>Chapter  XIX, line 74 - Chapter XXII, line 17</note>
 <lb n="1"/><note>74 = 63</note> <w><supplied reason="lost">D</supplied>almaticomafortium</w> <w>leporinum</w> <w>clauans</w> <supplied reason="lost"><w>purpurae</w></supplied>
-<lb n="2"/><space extent="8" unit="character"/> <w><expan><abbr>po</abbr><ex>ndum</ex></expan></w> <w>unum</w> <w>semis</w> <g ref="symbols.xml#denarius"/> <w>septem</w> <w><supplied reason="omitted">m</supplied>i<supplied reason="lost">libus</supplied></w>
+<lb n="2"/> <space extent="8" unit="character"/> <w><expan><abbr>po</abbr><ex>ndum</ex></expan></w> <w>unum</w> <w>semis</w> <g ref="symbols.xml#denarius"/> <w>septem</w> <w><supplied reason="omitted">m</supplied>i<supplied reason="lost">libus</supplied></w>
 <note>Chapter XX</note>
       <lb n="3"/> <supplied reason="lost"><w>De</w></supplied> <w><supplied reason="lost">mercedi</supplied>bus</w> <w>plumariorum</w> <w>et</w> <w>sericarioru<supplied reason="lost">m</supplied></w>
 <lb n="4"/><note>1a</note> <w><supplied reason="lost">Plumari</supplied>o</w> <w>in</w> <w>strictoria</w> <w>subserica</w> <w>pro</w> <w>uncia</w> <supplied reason="lost"><w>una</w> <g ref="symbols.xml#denarius"/> <w>ducentos</w></supplied>
@@ -232,14 +232,14 @@
 <lb n="6"/><note>3</note> <w>In</w> <w>chlamydem</w> <placeName type="ethnic">Mutinensi</placeName> <w>in</w> <w>uncia</w> <w>una</w> <g ref="symbols.xml#denarius"/> <w>viginti</w> <w>quinque</w>
 <lb n="7"/> <note>4</note> <w>In</w> <w>chlamydem</w> <w>Ladicena</w> <w>ut</w> <w><expan><abbr>s</abbr><ex>upra</ex></expan></w> <w>in</w> <w>uncia</w> <w>una</w> <g ref="symbols.xml#denarius"/> <w>vigi<supplied reason="lost">n</supplied>ti</w> <w>quinque</w>
 <lb n="8"/> <note>5</note> <w>Barbaricario</w> <w>ex</w> <w>a<supplied reason="lost">u</supplied>ro</w> <w>faciente</w> <w>operis</w> <w>primi</w> <w>in</w> <w>uncia</w> <w>una</w>
- <lb n="9"/><space extent="35" unit="character"/> <g ref="symbols.xml#denarius"/> <w>mille</w>
+ <lb n="9"/> <space extent="35" unit="character"/> <g ref="symbols.xml#denarius"/> <w>mille</w>
 <lb n="10"/><note>6</note> <w>Operis</w> <w>secundi</w> <space extent="12" unit="character"/> <g ref="symbols.xml#denarius"/> <w>septingentos</w> <w>quinquaginta</w>
 <lb n="0"/><note>XIX</note>
 <lb n="11"/><note>7</note> <w>Barbaricari<supplied reason="lost">o</supplied></w> <w><supplied reason="lost">i</supplied>n</w><w>holos<supplied reason="lost">eri</supplied>cai</w> <w>in</w> <w>uncia</w> <w>una</w> <g ref="symbols.xml#denarius"/> <w>quingentos</w>
 <lb n="12"/><note>8</note> <w>Operis</w> <w>secundi</w> <w>in</w> <w>uncia</w> <w>una</w> <g ref="symbols.xml#denarius"/> <w>quadringentos</w>
 <lb n="13"/><note>9</note> <w>Sericario</w> <w>in</w> <w>subserica</w> <w>pasto</w> <w>diurnos</w> <g ref="symbols.xml#denarius"/> <w>viginti</w> <w>quinque</w>
 <lb n="14"/><note>1O</note> <w>In</w> <w>holoserica</w> <w>pura</w> <w>pasto</w> <w>diurnos</w> <g ref="symbols.xml#denarius"/> <w>viginti</w> <w>quinque</w>
-<lb n="15"/><note>11</note> <w>In</w> <w>holoserica</w> <w><expan><abbr>scut</abbr><ex>u</ex><abbr>lata</abbr></expan></w><space extent="5" unit="character"/><g ref="symbols.xml#denarius"/> <w>quadraginta</w>
+<lb n="15"/><note>11</note> <w>In</w> <w>holoserica</w> <w><expan><abbr>scut</abbr><ex>u</ex><abbr>lata</abbr></expan></w> <space extent="5" unit="character"/><g ref="symbols.xml#denarius"/> <w>quadraginta</w>
 <lb n="16"/><note>12</note> <w>Gerdiae</w> <w>pastae</w> <w>in</w> <w>tunica</w> <w>pexa</w> <w>indictionali</w> <g ref="symbols.xml#denarius"/> <w>duodecim</w>
 <lb n="17"/><note>13</note> <w>In</w> <w>tunicis</w> <placeName type="ethnic">Mutinensibus</placeName> <w>uel</w> <w>ceteris</w> <w>pastae</w> <g ref="symbols.xml#denarius"/> <w>sedecim</w>
 <lb n="0"/><note>XXI</note>
@@ -253,7 +253,7 @@
 <lb n="25"/><note>6</note> <w>In</w> <w>opere</w> <w>secundo</w> <w>pasto</w> <g ref="symbols.xml#denarius"/> <w>viginti</w>
 <lb n="0"/><note>XXII</note>
 <lb n="26"/><note>1</note> <w>De</w> <w>fullonibus</w>
-<lb n="27"/><note>1a</note> <w>Fulloni</w> <w>in</w> <w>chlamyde</w> <w>indictionali</w> <w>rudi</w><space extent="2" unit="character"/><g ref="symbols.xml#denarius"/> <w>quinquaginta</w>
+<lb n="27"/><note>1a</note> <w>Fulloni</w> <w>in</w> <w>chlamyde</w> <w>indictionali</w> <w>rudi</w> <space extent="2" unit="character"/><g ref="symbols.xml#denarius"/> <w>quinquaginta</w>
 <lb n="28"/><note>2</note> <w>In</w> <w>strictoria</w> <w>indictionali</w> <w>rudi</w> <space extent="10" unit="character"/><g ref="symbols.xml#denarius"/> <w>uigintiquinque</w>
 <lb n="29"/><note>3</note> <w>In</w> <w>asema</w> <w>ex</w> <w>lanis</w> <w>grossioribus</w> <space extent="10" unit="character"/><g ref="symbols.xml#denarius"/> <w>uiginti</w>
 <lb n="30"/><note>4</note> <w>In</w> <w>rachana</w> <w>rudi</w> <space extent="16" unit="character"/><g ref="symbols.xml#denarius"/> <w>triginta</w>
@@ -261,8 +261,8 @@
 <lb n="32"/><note>6</note> <w>In</w> <w>dalmaticomafortio</w> <w>pexo</w> <w>tenuiori</w> <w>rudi</w> <space extent="6" unit="character"/><g ref="symbols.xml#denarius"/> <w>centum</w>
 <lb n="33"/><note>7</note> <w>In</w> <w>strictoria</w> <w>pexa</w> <w>tenui</w> <w>rudi</w> <space extent="12" unit="character"/><g ref="symbols.xml#denarius"/> <w>quinquaginta</w>
 <lb n="34"/><note>8</note> <w>In</w> <w>dalmatica</w> <w>uirili</w> <w>subserica</w> <w>rudi</w> <space extent="6" unit="character"/> <g ref="symbols.xml#denarius"/> <w>ducentos</w>
-<lb n="35"/><note>9</note> <w>In</w> <w>strictoria</w> <w>subserica</w> <w>rudi</w><space extent="4" unit="character"/> <g ref="symbols.xml#denarius"/> <w>centum</w> <w>septuagin<supplied reason="lost">ta</supplied></w> <supplied reason="lost"><w>quinque</w></supplied>
-<lb n="36"/><note>10</note> <w>In</w> <w>asema</w> <w>subserica</w> <w>rudi</w><space extent="6" unit="character"/> <g ref="symbols.xml#denarius"/> <w>centum</w> <w>vi<supplied reason="lost">ginti</supplied></w> <supplied reason="lost"><w>quinque</w></supplied>
+<lb n="35"/><note>9</note> <w>In</w> <w>strictoria</w> <w>subserica</w> <w>rudi</w> <space extent="4" unit="character"/> <g ref="symbols.xml#denarius"/> <w>centum</w> <w>septuagin<supplied reason="lost">ta</supplied></w> <supplied reason="lost"><w>quinque</w></supplied>
+<lb n="36"/><note>10</note> <w>In</w> <w>asema</w> <w>subserica</w> <w>rudi</w> <space extent="6" unit="character"/> <g ref="symbols.xml#denarius"/> <w>centum</w> <w>vi<supplied reason="lost">ginti</supplied></w> <supplied reason="lost"><w>quinque</w></supplied>
 <lb n="37"/><note>11</note> <w>In</w> <w>d<supplied reason="lost">almaticomafortio</supplied></w> <supplied reason="lost"> <w>subserico</w> <w>rudi</w> <note>300 denarii</note></supplied>
 <lb n="38"/><note>12</note> <w>In</w> <supplied reason="lost"><w>dalmatica</w> <w>holoserica</w> <w>uirili</w> <w>rudi</w> <note>40O denarii</note></supplied>
 <lb n="39"/><note>13</note> <w>In</w> <w>d<supplied reason="lost">almaticomafortio</supplied></w> <supplied reason="lost"><w>holoserico</w> <w>rudi</w> <note>600 denarii</note></supplied>
@@ -293,8 +293,8 @@
       <lb n="0"/><note>Preamble, II.26, and Chapter I, 14-18</note>
 <gap reason="lost" extent="unknown" unit="line"/>
 <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">mitigar</supplied>e</w> <w>aut</w> <w>sariare</w> <w>p<supplied reason="lost">otuerunt</supplied></w>
-<lb n="2"/><space extent="1" unit="line"/>
-      <lb n="3"/><space extent="1" unit="line"/>
+<lb n="2"/> <space extent="1" unit="line"/>
+      <lb n="3"/> <space extent="1" unit="line"/>
 <lb n="4"/><w>unum</w> <g ref="symbols.xml#denarius"/> <w>sexagin<supplied reason="lost">ta</supplied></w>
 <lb n="5"/><w><supplied reason="lost">un</supplied>um</w> <g ref="symbols.xml#denarius"/> <w>centum</w>
 <lb n="6"/><gap reason="lost" extent="3" unit="character"/> <g ref="symbols.xml#denarius"/> <w>centum</w>
@@ -339,17 +339,17 @@
 <lb n="1"/><w>de</w> <w>pretiis</w> <w part="I">m</w> <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="2"/><w part="I">mancipi</w> <gap reason="lost" extent="unknown" unit="character"/>
 <lb n="3"/><orig>aban</orig><gap reason="lost" extent="unknown" unit="character"/>
-<lb n="4"/><space extent="4" unit="character"/>
+<lb n="4"/> <space extent="4" unit="character"/>
       <gap reason="lost" extent="unknown" unit="line"/>
 </ab>
 </div>
                                             <div subtype="section" type="textpart" n="U">
    <ab>
       <gap reason="lost" extent="unknown" unit="line"/>
-<lb n="1"/><space extent="10" unit="character"/> <w>cum</w> <gap reason="lost" extent="unknown" unit="character"/>
-<lb n="2"/><space extent="10" unit="character"/> <orig>palo</orig><gap reason="lost" extent="unknown" unit="character"/>
-<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">is</w><space extent="4" unit="character"/><orig>cumi</orig><gap reason="lost" extent="unknown" unit="character"/>
-<lb n="4"/><space extent="unknown" unit="character"/>
+<lb n="1"/> <space extent="10" unit="character"/> <w>cum</w> <gap reason="lost" extent="unknown" unit="character"/>
+<lb n="2"/> <space extent="10" unit="character"/> <orig>palo</orig><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">is</w> <space extent="4" unit="character"/><orig>cumi</orig><gap reason="lost" extent="unknown" unit="character"/>
+<lb n="4"/> <space extent="unknown" unit="character"/>
       <gap reason="lost" extent="unknown" unit="line"/>
 </ab>
 </div>
@@ -368,7 +368,7 @@
    <ab><lb n="0"/><note>Chapter V, 1a-4</note>
       <gap reason="lost" extent="unknown" unit="line"/>
   <lb n="1"/><supplied reason="lost"><w>piscis</w> <w>aspratilis</w> <w>marini</w> <w><expan><abbr>Ital</abbr><ex>icum</ex></expan></w> <w><expan><abbr>po</abbr><ex>ndo</ex></expan></w></supplied> <w><supplied reason="lost">unu</supplied>m</w> <g ref="symbols.xml#denarius"/> <w>viginti</w>
-  <lb n="2"/><space extent="1" unit="line"/>
+  <lb n="2"/> <space extent="1" unit="line"/>
    <lb n="3"/><supplied reason="lost"><w>piscis</w> <w>secundi</w> <space extent="6" unit="character"/> <w><expan><abbr>Ital</abbr><ex>icum</ex></expan></w> <w><expan><abbr>po</abbr><ex>ndo</ex></expan></w> <w>unum</w> <g ref="symbols.xml#denarius"/> </supplied> <w><supplied reason="lost">sed</supplied>ecim</w>
   <lb n="4"/><supplied reason="lost"><w>piscis</w> <w>flubialis</w> <w>optimi</w> <w><expan><abbr>Ital</abbr><ex>icum</ex></expan></w> <w><expan><abbr>po</abbr><ex>ndo</ex></expan></w> <w>unum</w> <g ref="symbols.xml#denarius"/></supplied> <w><supplied reason="lost">d</supplied>uodecim</w>
    <lb n="5"/><supplied reason="lost"><w>piscis</w> <w>secundi</w> <w>flubialis</w> <w><expan><abbr>Ital</abbr><ex>icum</ex></expan></w> <w><expan><abbr>po</abbr><ex>ndo</ex></expan></w> <w>unum</w> <g ref="symbols.xml#denarius"/> </supplied> <w><supplied reason="lost">o</supplied>cto</w>
@@ -395,7 +395,7 @@
             <div subtype="section" type="textpart" n="Z.f">
    <ab><lb n="0"/><note>From Chapter XXVI</note>
       <gap reason="lost" extent="unknown" unit="line"/>
-      <lb n="1"/><space extent="4" unit="character"/><placeName type="ethnic">Tarsico</placeName> <placeName type="ethnic"><unclear>A</unclear><supplied reason="lost">lexandrinarum</supplied></placeName><gap reason="lost" extent="unknown" unit="character"/>
+      <lb n="1"/> <space extent="4" unit="character"/><placeName type="ethnic">Tarsico</placeName> <placeName type="ethnic"><unclear>A</unclear><supplied reason="lost">lexandrinarum</supplied></placeName><gap reason="lost" extent="unknown" unit="character"/>
       <lb n="2"/><placeName type="ethnic">Dalmatic<supplied reason="lost">arum</supplied></placeName><gap reason="lost" extent="unknown" unit="character"/>
       <gap reason="lost" extent="unknown" unit="line"/>
 </ab>

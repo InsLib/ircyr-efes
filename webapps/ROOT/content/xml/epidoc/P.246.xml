@@ -126,8 +126,8 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="16">ιϛ</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιαχὶ</w></rs> <num value="22">κβ</num> 
                     <persName type="attested" key="lgpn:V1-61562"><name nymRef="Ποπλιος"><unclear>Π</unclear>όπ<unclear>λι</unclear>οϲ</name> <persName type="attested" key="lgpn:V1-61585"><name nymRef="Σαβῖνος">Ϲαβεί<lb n="2" break="no"/>νω</name></persName></persName> 
-                    <lb n="3"/><space quantity="1" unit="character"/> <w lemma="ἔτος"><unclear>ἐ</unclear>τῶν</w>
-                    <lb n="4"/><space quantity="1" unit="character"/> <num value="22">κβ</num>
+                    <lb n="3"/> <space quantity="1" unit="character"/> <w lemma="ἔτος"><unclear>ἐ</unclear>τῶν</w>
+                    <lb n="4"/> <space quantity="1" unit="character"/> <num value="22">κβ</num>
                 </ab>
 </div>
          <div type="apparatus">

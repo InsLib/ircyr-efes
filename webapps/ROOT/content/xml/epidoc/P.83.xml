@@ -122,7 +122,7 @@
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
              <w part="F">ano</w> <w lemma="consul"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex cert="low">ulibus</ex></expan></w>
-                    <lb n="1a"/><space quantity="2" unit="line"/>
+                    <lb n="1a"/> <space quantity="2" unit="line"/>
                     <lb n="2"/><w lemma="proconsul" part="I"><expan><abbr><supplied reason="lost">pr</supplied>oco</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/>
              <w lemma="adhibeo"><unclear>a</unclear>dhibi<lb n="4" break="no"/><supplied reason="lost">tis</supplied></w>

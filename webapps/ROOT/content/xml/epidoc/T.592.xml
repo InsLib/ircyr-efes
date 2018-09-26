@@ -140,9 +140,9 @@
                     <lb n="2"/><num value="20" xml:lang="grc">κ</num>  
                         <persName type="attested"><orig><unclear>αελα</unclear></orig>
                     <lb n="3"/><orig><unclear>τε</unclear>ι</orig><supplied reason="lost" cert="low"><orig>α</orig></supplied><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><space quantity="1" unit="character"/> 
+                    <lb n="4"/> <space quantity="1" unit="character"/> 
                        <orig>λ</orig><gap reason="lost" quantity="2" unit="character"/><orig><unclear>ου</unclear></orig></persName>
-                    <lb n="5"/><space quantity="1" unit="character"/> 
+                    <lb n="5"/> <space quantity="1" unit="character"/> 
                     <date type="life-span" dur="P14Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="14" xml:lang="grc"><unclear>ι</unclear>δ</num> </date>
                 </ab>

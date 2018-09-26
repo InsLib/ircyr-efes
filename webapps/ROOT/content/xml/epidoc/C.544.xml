@@ -119,7 +119,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                  <lb n="1"/><space extent="01" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                  <lb n="1"/> <space extent="01" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                <num value="5">ε</num>
                  <lb n="2"/><rs type="month" key="Ἐπιφί"><w>Ἐπιφὶ</w></rs> <num value="23">γκ</num> 
                  <lb n="4"/><persName type="attested"><name nymRef="Ἰάσων">Ἰάσων</name>

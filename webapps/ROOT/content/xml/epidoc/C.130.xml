@@ -264,7 +264,7 @@
                             <lb n="37"/> <w lemma="ὁ">οἱ</w> <persName type="attested" key="lgpn:V1-65526"><name nymRef="Πτολεμαῖος">Πτολεμαίω</name></persName></persName></persName>
                             <lb n="38"/> <persName type="divine" key="hermes"><name nymRef="Ἑρμῆς">Ἑρμαῖ</name></persName>
                             <lb n="39"/> <persName type="divine" key="herakles"><name nymRef="Ἡρακλῆς">Ἡρακλεῖ</name></persName>
-                            <lb n="40"/>  <space extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-66072"><name nymRef="Φίλων">Φίλων</name> <persName type="attested" key="lgpn:V1-63921"><name nymRef="Εὐφράνωρ">Εὐ<lb n="40" break="no"/><space extent="unknown" unit="character"/>φράνορος</name></persName></persName>
+                            <lb n="40"/>  <space extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-66072"><name nymRef="Φίλων">Φίλων</name> <persName type="attested" key="lgpn:V1-63921"><name nymRef="Εὐφράνωρ">Εὐ<lb n="40" break="no"/> <space extent="unknown" unit="character"/>φράνορος</name></persName></persName>
                   </ab>
                </div>
             </div>
@@ -300,7 +300,7 @@
                       <lb n="22"/> <date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                       <num value="55">εν</num></date> <space quantity="12" unit="character"/> <persName type="attested" key="lgpn:V1-65508"><name nymRef="Πρωτόμαχος"><expan><abbr>Πρωτόμ</abbr><ex>αχος</ex></expan></name></persName>
                       <lb n="23"/><date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                      <num value="55">νε</num></date><space quantity="12" unit="character"/> <persName type="attested" key="lgpn:V1-65917"><name nymRef="Φιλῖνος">Φιλῖνος</name>
+                      <num value="55">νε</num></date> <space quantity="12" unit="character"/> <persName type="attested" key="lgpn:V1-65917"><name nymRef="Φιλῖνος">Φιλῖνος</name>
                           <persName type="attested" key="lgpn:V1-62997"><name nymRef="Ἀπολλώνιος">Ἀ<lb n="24" break="no"/>πολλωνίω</name></persName></persName> 
                       <lb n="24a"/><persName type="attested"><name nymRef="Διο-"><seg part="I">Δι<unclear>ο</unclear></seg></name> <!-- check layout -->
                       <gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name"/></gap>  <space extent="unknown" unit="character"/> </persName>
@@ -461,12 +461,12 @@
                   <persName type="attested"><name nymRef="Εὐδ-"><seg part="I">Εὐδ</seg><!-- check --></name></persName> 
                   <date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                   <num value="55">νε</num></date> 
-                  <lb n="40"/><space extent="unknown" unit="character"/> 
+                  <lb n="40"/> <space extent="unknown" unit="character"/> 
                   <persName type="attested" key="lgpn:V1-63611"><name nymRef="Δίων">Δίω<lb
                      n="41" break="no"/><surplus>ω</surplus>νοϲ</name></persName> 
                   <persName type="attested" key="lgpn:V1-63447"><name nymRef="Δαμακλῆς">Δαμακλῆς</name> 
                   <persName type="attested" key="lgpn:V1-63446"><name nymRef="Δαμακλῆς"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Δαμακλεῦς</ex></expan></name></persName></persName>
-                  <lb n="42"/><orig><unclear>Α</unclear><space extent="4" unit="character"/>
+                  <lb n="42"/><orig><unclear>Α</unclear> <space extent="4" unit="character"/>
                            Ε</orig>
                   </ab>
             </div>

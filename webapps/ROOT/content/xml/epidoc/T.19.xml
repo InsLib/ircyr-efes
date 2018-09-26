@@ -122,7 +122,7 @@
                     <num value="18">ιη</num> 
                     <lb n="2"/><persName type="attested"><name nymRef="Λούκιος">Λουκις</name> 
                     <lb n="3"/><name nymRef="Ἀνθέστιος">Ἀνθεστις</name> 
-                    <lb n="4"/><name nymRef="Ἀπολλώνιος" cert="low">Ἀπολλην<lb n="5" break="no"/><space quantity="1" unit="character"/> ις</name></persName> <space quantity="1" unit="character"/>
+                    <lb n="4"/><name nymRef="Ἀπολλώνιος" cert="low">Ἀπολλην<lb n="5" break="no"/> <space quantity="1" unit="character"/> ις</name></persName> <space quantity="1" unit="character"/>
                 </ab>
 </div>
          

@@ -124,7 +124,7 @@
 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ιι</unclear>ν<unclear>λ</unclear>ιπ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Πάκκιος"><seg part="I">Πακκι<unclear>ο</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Πάκκιος"><seg part="I">Πακκι<unclear>ο</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
 </div>

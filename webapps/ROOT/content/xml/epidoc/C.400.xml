@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Fragmentary <rs type="textType">imperial</rs> <rs type="textType">honours</rs></title>
+            <title>Fragmentary <rs type="textType">imperial</rs> <rs type="textType">honours</rs> for Trajan</title>
             <editor>Joyce M. Reynolds</editor>
          </titleStmt>
          <publicationStmt>
@@ -46,7 +46,7 @@
                <history>
                   <origin>
                      <origPlace>Unknown.</origPlace>
-                     <origDate notAfter="0200" notBefore="0001" evidence="lettering" precision="low">First to second century C.E.</origDate>
+                     <origDate notAfter="0117" notBefore="0098" evidence="reign">98-117 C.E.</origDate>
                   </origin>
                   
                      
@@ -116,16 +116,15 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><w><unclear>Αὐτ</unclear><supplied reason="lost">οκράτορα</supplied></w>
-                    <lb n="2"/><persName type="emperor" key="traianus"><name nymRef="Καῖσαρ">Καίσ<unclear>α</unclear><supplied reason="lost">ρα</supplied></name> <name nymRef="Νέρβα">Ν<unclear>ε</unclear>ρβα</name> <name nymRef="Τραιανός">Τραι
-                    <lb n="3"/>άνον</name> <name nymRef="Σεβαστός">Σεβασ<supplied reason="lost">τόν</supplied></name></persName>
+                    <lb n="2"/><persName type="emperor" key="traianus"><name nymRef="Καῖσαρ">Καίσ<unclear>α</unclear><supplied reason="lost">ρα</supplied></name> <name nymRef="Νέρβα">Ν<unclear>έ</unclear>ρβα</name> <name nymRef="Τραιανός">Τραι
+                    <lb n="3" break="no"/>άνον</name> <name nymRef="Σεβαστός">Σεβασ<supplied reason="lost">τόν</supplied></name></persName>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>Trajan is the only emperor whose name fits the traces of the space available. 
-               Αὐτ[οκράτορα] / Καίσα[ρα Ν]Ε[ρβα Τραι] / </p>
+            <p>Trajan is the only emperor whose name fits the traces of the space available. </p>
          </div>
          
       </body>

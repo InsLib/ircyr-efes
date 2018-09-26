@@ -124,7 +124,8 @@
 <ab>
                     <lb n="1"/><w>εἰσηλθαμε<supplied reason="lost">ν</supplied></w>
                     <lb n="2"/><w>εἰς</w> <persName type="divine" key="nymphae"><w>τὰς</w> <name nymRef="Νύμφη">νύμφας</name></persName>
-            <lb n="3"/><w>ἐ<supplied reason="lost">πὶ</supplied></w> <w><supplied reason="lost">ἱ</supplied><unclear>ε</unclear>ρέος</w> <persName type="attested" key="lgpn:V1-63868"><name nymRef="Εὐόνυμος">Εὐον<lb n="4" break="no"/><supplied reason="lost" cert="low">ύμου</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+            <lb n="3"/><date><w>ἐ<supplied reason="lost">πὶ</supplied></w> <w><supplied reason="lost">ἱ</supplied><unclear>ε</unclear>ρέος</w> 
+   <persName type="attested" key="lgpn:V1-63868"><name nymRef="Εὐόνυμος">Εὐον<lb n="4" break="no"/><supplied reason="lost" cert="low">ύμου</supplied></name></persName></date><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4a"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="4b"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="4c"/><gap reason="lost" quantity="1" unit="line"/>

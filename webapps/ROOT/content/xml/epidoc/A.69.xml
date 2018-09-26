@@ -138,7 +138,7 @@
                    <lb n="5"/><w lemma="et">et</w> <persName type="emperor" key="constantius1"><name type="cognomen" nymRef="Constantius">Constantio</name></persName>
                    <lb n="6"/> <w lemma="et">et</w> <persName type="emperor" key="galerius"><name type="cognomen" nymRef="Maximianus">Maximiano</name>
                    <lb n="7"/><name nymRef="Caesar">Caesari<supplied reason="lost">bus</supplied></name></persName>
-                   <lb n="8"/><space quantity="3" unit="character"/><num value="15">XV</num><space quantity="3" unit="character"/>
+                   <lb n="8"/> <space quantity="3" unit="character"/><num value="15">XV</num> <space quantity="3" unit="character"/>
             </ab>
          </div>
          <div type="translation" xml:space="preserve">

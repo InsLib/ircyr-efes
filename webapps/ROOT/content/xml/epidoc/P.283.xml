@@ -121,7 +121,7 @@
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Iulia">Iulia</name> 
-                    <lb n="2"/><name nymRef="Lungina">Lungi<lb n="3" break="no"/><space quantity="1" unit="character"/>na<space quantity="1" unit="character"/></name> 
+                    <lb n="2"/><name nymRef="Lungina">Lungi<lb n="3" break="no"/> <space quantity="1" unit="character"/>na<space quantity="1" unit="character"/></name> 
                     <lb n="4"/><persName type="attested"><name nymRef="Gaius"><expan><abbr>G</abbr><ex>aii</ex></expan></name> 
                     <name nymRef="Iulius"><expan><abbr>I</abbr><ex>uli</ex></expan></name> <name nymRef="Lunginus"><expan><abbr>L</abbr><ex>ungini</ex></expan></name></persName> 
                         <w lemma="filia"><expan><abbr>f</abbr><ex>ilia</ex></expan></w></persName> <date type="life-span" dur="P9Y"><w lemma="annus"><expan><abbr>an</abbr><ex>norum</ex></expan></w> <num value="9">VIIII</num> </date>

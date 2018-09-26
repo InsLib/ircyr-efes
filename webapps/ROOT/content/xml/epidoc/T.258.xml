@@ -120,10 +120,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><space quantity="4" unit="character"/> <rs type="month" key="Θώθ"><w>Θῶ<supplied reason="lost">θυ</supplied></w></rs>
+                    <lb n="1"/> <space quantity="4" unit="character"/> <rs type="month" key="Θώθ"><w>Θῶ<supplied reason="lost">θυ</supplied></w></rs>
                     <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="14">ιδ</num> <persName type="attested" key="lgpn:V1-60389"><name nymRef="Μουσαῖος">Μουσα<supplied reason="lost">ῖος</supplied></name></persName>
-                    <lb n="0"/><space quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="0"/> <space quantity="4" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
                   </ab>
 </div>
          

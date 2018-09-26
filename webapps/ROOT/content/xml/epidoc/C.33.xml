@@ -121,11 +121,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><supplied reason="lost" cert="low"><space quantity="3" unit="character"/></supplied>
+                    <lb n="1"/><supplied reason="lost" cert="low"> <space quantity="3" unit="character"/></supplied>
                     <persName type="attested"><name nymRef="Ἀρχίστρατος">Ἀρχίστρατος</name>
-                        <supplied reason="lost" cert="low"><space quantity="3" unit="character"/></supplied>
-                    <lb n="2"/><supplied reason="lost" cert="low"><space quantity="3" unit="character"/></supplied> <persName type="attested"><name nymRef="Καρτισθένης">Καρτισθένευς</name></persName></persName>
-                    <space quantity="1" unit="character"/><supplied reason="lost" cert="low"><space quantity="3" unit="character"/></supplied>
+                        <supplied reason="lost" cert="low"> <space quantity="3" unit="character"/></supplied>
+                    <lb n="2"/><supplied reason="lost" cert="low"> <space quantity="3" unit="character"/></supplied> <persName type="attested"><name nymRef="Καρτισθένης">Καρτισθένευς</name></persName></persName>
+                    <space quantity="1" unit="character"/><supplied reason="lost" cert="low"> <space quantity="3" unit="character"/></supplied>
                     <lb n="3"/><persName type="attested"><supplied reason="lost"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> 
                         <name nymRef="Κλαύδιος">Κλαύδιος</name></supplied>
                         <persName type="attested"><name nymRef="Σεραπίων"><supplied reason="lost">Σερ</supplied><unclear>απ</unclear><supplied reason="lost">ίωνος</supplied></name></persName>

@@ -137,7 +137,7 @@
                     <lb n="3"/><w><expan><abbr>c</abbr><ex>o</ex><abbr><unclear>h</unclear>ortis</abbr></expan></w>
                     <placeName type="ethnic" nymRef="Hispanus"><expan><abbr>Hispanor</abbr><ex>um</ex></expan></placeName> 
                     <lb n="4"/> <space quantity="1" unit="line"/> 
-                    <lb n="5"/><space quantity="3" unit="character"/>
+                    <lb n="5"/> <space quantity="3" unit="character"/>
                     <persName type="attested"><name nymRef="Venusta">Ve<unclear>n</unclear>usta</name> <w lemma="liberta"><expan><abbr>lib</abbr><ex>erta</ex></expan></w></persName> <space quantity="3" unit="character"/>
                 </ab>
 </div>

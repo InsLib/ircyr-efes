@@ -130,7 +130,7 @@
                     <num value="22"><supplied reason="lost">XX</supplied>II</num> 
                     <w lemma="mensis">mens<unclear>e</unclear><supplied reason="lost">s</supplied></w></date> 
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><space quantity="5" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/> <space quantity="5" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
          </ab><ab xml:lang="grc">
                     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><orig>ετο</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><orig>ινου</orig><gap reason="lost" extent="unknown" unit="character"/>

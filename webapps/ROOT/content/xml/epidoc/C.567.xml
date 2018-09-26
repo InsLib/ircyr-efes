@@ -133,11 +133,11 @@
                             <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><date type="life-span" dur="P51Y"><num value="51">να</num> </date>
                         </ab></div><div subtype="column" n="ii" type="textpart"><ab>
                         <lb n="1"/><orig>κ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><space quantity="3" unit="character"/><gap reason="lost" extent="5" unit="character"/><space quantity="3" unit="character"/>
-                        <lb n="3"/><space quantity="3" unit="character"/><gap reason="lost" extent="1" unit="character"/><orig><unclear>ορ</unclear><gap reason="lost" extent="2" unit="character"/><unclear>ακ</unclear></orig><space quantity="3" unit="character"/>
-                        <lb n="4"/><orig>ε<unclear>ληικολφ</unclear>ον</orig><space quantity="3" unit="character"/>
-                        <lb n="5"/><orig><unclear>σ</unclear>χε<unclear>σ</unclear><gap reason="lost" quantity="2" unit="character"/><unclear>ο</unclear></orig><space quantity="3" unit="character"/>
-                        <lb n="6"/><date type="life-span" dur="P75Y"><num value="75"><unclear>ο</unclear>ε</num> </date><space quantity="6" unit="character"/>
+                        <lb n="2"/> <space quantity="3" unit="character"/><gap reason="lost" extent="5" unit="character"/> <space quantity="3" unit="character"/>
+                        <lb n="3"/> <space quantity="3" unit="character"/><gap reason="lost" extent="1" unit="character"/><orig><unclear>ορ</unclear><gap reason="lost" extent="2" unit="character"/><unclear>ακ</unclear></orig> <space quantity="3" unit="character"/>
+                        <lb n="4"/><orig>ε<unclear>ληικολφ</unclear>ον</orig> <space quantity="3" unit="character"/>
+                        <lb n="5"/><orig><unclear>σ</unclear>χε<unclear>σ</unclear><gap reason="lost" quantity="2" unit="character"/><unclear>ο</unclear></orig> <space quantity="3" unit="character"/>
+                        <lb n="6"/><date type="life-span" dur="P75Y"><num value="75"><unclear>ο</unclear>ε</num> </date> <space quantity="6" unit="character"/>
                     </ab>
 </div>
 </div>

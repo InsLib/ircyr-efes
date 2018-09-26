@@ -204,7 +204,7 @@
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ου</w>
                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>α</unclear></w>
                         <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ω</w>
-                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><space quantity="1" unit="character"><certainty match=".." locus="name" cert="low"/></space>
+                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <space quantity="1" unit="character"><certainty match=".." locus="name" cert="low"/></space>
                         <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><supplied reason="lost">ε</supplied>υς</w>
                         <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>α</unclear></w>
                         <lb n="6a"/><gap reason="lost" extent="unknown" unit="line"/>

@@ -130,7 +130,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="column" n="i" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor" key="claudius"><name nymRef="Σεβαστός"><unclear>Σ</unclear>εβαστός</name></persName>
-                        <lb n="2"/><space quantity="8" unit="character"/> 
+                        <lb n="2"/> <space quantity="8" unit="character"/> 
                     </ab></div><div subtype="column" n="ii" type="textpart"><ab>
                     <lb n="1"/><persName type="emperor" key="antonia"><name nymRef="Ἀντωνία">Ἀντωνία</name>
                         <persName type="emperor" key="claudius"><name nymRef="Κλαύδιος">Κλαυδ<supplied reason="lost">ίου</supplied></name>

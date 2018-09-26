@@ -125,7 +125,7 @@
                         <w>ἀρετᾶς</w> <w lemma="ἕνεκα">ἕνεκα</w>
                     <lb n="3"/><w lemma="καί">καὶ</w> <w lemma="εὔνοια">εὐνοίας</w> <w>τᾶς</w> <w lemma="εἰς">ἐς</w> 
                         <w>τὰν</w> <w lemma="πόλις">πόλιν</w>
-                    <lb n="4"/><space quantity="3" unit="character"/> 
+                    <lb n="4"/> <space quantity="3" unit="character"/> 
                         <placeName nymRef="Ἀρσινόη">Ἀρσίνοες</placeName> 
                         <space extent="unknown" unit="character"/>
          </ab>

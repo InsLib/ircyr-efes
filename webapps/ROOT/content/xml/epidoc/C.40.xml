@@ -109,7 +109,7 @@
                            <name nymRef="Νώνιος">Νώνιο<supplied reason="lost">ϲ</supplied></name>
                            <gap reason="lost" quantity="4" unit="character"
                            /><name><seg part="F">εινοϲ</seg></name></persName> 
-                    <lb n="2"/><space quantity="1" unit="character"/> <w lemma="ὁ">τῆι</w> <w lemma="θεός">θεῶι</w>
+                    <lb n="2"/> <space quantity="1" unit="character"/> <w lemma="ὁ">τῆι</w> <w lemma="θεός">θεῶι</w>
                            <space quantity="1" unit="character"/>
                     <lb n="3"/><placeName type="ethnic"><w lemma="Μιλήσιος">Μιλήϲιοϲ</w></placeName> <w lemma="ὁ">ὁ</w>
                            <w lemma="καί">καὶ</w> <placeName type="ethnic"><w lemma="Κυρηναῖος">Κυρηνε<unclear>ο</unclear><supplied reason="lost">ϲ</supplied></w></placeName><gap

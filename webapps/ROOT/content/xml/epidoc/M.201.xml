@@ -137,7 +137,7 @@
                     <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName>
                     <lb n="11"/><w lemma="restituo">restituerunt</w>
                     <lb n="12"/><w lemma="ab">a</w> <placeName nymRef="Cyrenae">Cyrenis</placeName>
-                    <lb n="12a"/><space quantity="1" unit="line"/> 
+                    <lb n="12a"/> <space quantity="1" unit="line"/> 
                     <lb n="13"/><w><expan><abbr>m</abbr><ex>ilia</ex></expan></w> 
                     <w><expan><abbr>p</abbr><ex>assuum</ex></expan></w> <num value="10">X</num>
                 </ab>

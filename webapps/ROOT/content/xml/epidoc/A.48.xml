@@ -227,7 +227,7 @@
                         <milestone unit="block"/> <w lemma="perpetuus"><unclear>p</unclear>erpe<milestone unit="bay"/><supplied reason="lost">tuo</supplied></w>
                         <supplied reason="lost"><expan><w lemma="pater"><abbr>p</abbr><ex>atre</ex></w>
                             <w lemma="patria"><abbr>p</abbr><ex>atriae</ex></w></expan></supplied>
-                        <supplied reason="lost" cert="low"><space quantity="4" unit="character"/></supplied>
+                        <supplied reason="lost" cert="low"> <space quantity="4" unit="character"/></supplied>
                         <milestone unit="bay"/>
                </ab>
             </div>

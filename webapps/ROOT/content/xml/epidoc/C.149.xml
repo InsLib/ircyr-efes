@@ -154,11 +154,11 @@
                     <lb n="5"/><persName type="attested" key="lgpn:V1-65504"><name nymRef="Πρώταρχος">Πρώταρχος</name> <persName
                         type="attested" key="lgpn:V1-66063"><name nymRef="Φίλων">Φίλωνο<hi rend="sling-above small">ς</hi></name></persName></persName>
                     
-                    <lb n="6"/><persName type="attested" key="lgpn:V1-65493"><name nymRef="Πρῶρος">Πρῶρος</name><space quantity="1" unit="character"/><del rend="erasure" cert="low"><gap
+                    <lb n="6"/><persName type="attested" key="lgpn:V1-65493"><name nymRef="Πρῶρος">Πρῶρος</name> <space quantity="1" unit="character"/><del rend="erasure" cert="low"><gap
                         reason="lost" atLeast="2" atMost="3" unit="character"/></del> <persName 
                         type="attested" key="lgpn:V1-65740"><name nymRef="Σώστρατος">Σωστράτω</name></persName></persName>
                     
-                    <lb n="6a"/><space quantity="2" unit="line"/>
+                    <lb n="6a"/> <space quantity="2" unit="line"/>
                     
                     <lb n="7"/><w>ἐπιμεληθέντες</w>
                     
@@ -171,7 +171,7 @@
                     
                     <lb n="12"/><handShift new="a"/> <w>τὸν</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλω</name></persName>
                     
-                    <lb n="13"/><space quantity="1" unit="character"/> <w>ἀνέθηκαν</w>.
+                    <lb n="13"/> <space quantity="1" unit="character"/> <w>ἀνέθηκαν</w>.
                 </ab>
             </div>
             

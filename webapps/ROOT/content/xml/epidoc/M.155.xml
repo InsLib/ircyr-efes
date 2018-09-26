@@ -117,7 +117,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/> <persName type="attested"><name nymRef="Σῶσις">Σῶσις</name> <persName type="attested"><name nymRef="Αἰάλαν">Αἰ<lb n="2" break="no"/>άλαντος</name></persName></persName>
-                    <lb n="3"/><space quantity="2" unit="character"/> <date type="life-span" dur="P22Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+                    <lb n="3"/> <space quantity="2" unit="character"/> <date type="life-span" dur="P22Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="22">κβ</num> </date> 
             <lb n="4"/> <persName type="attested"><name nymRef="Σω-"><seg part="I">Σω</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

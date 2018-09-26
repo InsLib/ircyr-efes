@@ -183,22 +183,22 @@
                        <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ίου</w>
                        <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">οϲ</w>
                        <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">φη</w>
-                       <lb n="7"/><space quantity="1" unit="line"/>
+                       <lb n="7"/> <space quantity="1" unit="line"/>
                        <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">νίο</w>
                        <lb n="9"/><persName type="attested"><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F">νουτίου</seg></name></persName>
                        <lb n="10"/><persName type="attested"><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F">νουφίδου</seg></name></persName>
-                       <lb n="11"/><space quantity="1" unit="line"/>
+                       <lb n="11"/> <space quantity="1" unit="line"/>
                        <lb n="12"/><persName type="attested"><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F">η<gap reason="lost" quantity="1" unit="character"/>είου</seg></name></persName>
                        <lb n="13"/><gap reason="lost" extent="unknown" unit="character"/>
                         <persName type="attested" key="lgpn:V1-62159"><name nymRef="Πτολεμαῖος"><supplied reason="lost">Π</supplied>τολεμεου</name></persName> 
-                       <lb n="14"/><space quantity="1" unit="line"/>
+                       <lb n="14"/> <space quantity="1" unit="line"/>
                        <lb n="15"/><persName type="attested"><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F">ι<gap reason="lost" quantity="2" unit="character"/>ου</seg></name></persName>
-                       <lb n="16"/><space quantity="1" unit="line"/>
+                       <lb n="16"/> <space quantity="1" unit="line"/>
                        <lb n="17"/><persName type="attested"><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F"><unclear>λ</unclear>ογίου</seg></name></persName>
                        <lb n="18"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-62155"><name nymRef="Κρίσπος"><supplied reason="lost">Κρί</supplied>ϲπου</name></persName>
-                       <lb n="19"/><space quantity="1" unit="line"/>
+                       <lb n="19"/> <space quantity="1" unit="line"/>
                        <lb n="20"/><persName type="attested"><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F">ου</seg></name></persName>
-                       <lb n="21"/><space quantity="1" unit="line"/>
+                       <lb n="21"/> <space quantity="1" unit="line"/>
                        <lb n="22"/><persName type="attested"><gap reason="lost" extent="unknown" unit="character"/> <name><seg part="F">όνου</seg></name></persName>  
                      </ab>
                  </div>

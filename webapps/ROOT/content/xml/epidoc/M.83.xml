@@ -119,14 +119,14 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                         <num value="12" xml:lang="grc">ιβ</num> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><space quantity="3" unit="character"/> 
+                    <lb n="2"/> <space quantity="3" unit="character"/> 
                         <orig>β</orig> <space quantity="3" unit="character"/> 
                         <orig>σ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><note>sic</note> 
                         <persName type="attested"><name nymRef="Τμολίκα"><unclear>Τ</unclear>μο<unclear>λ</unclear>ί<unclear>κ</unclear>α</name> 
                         <name nymRef="Ἀριπαχθίς">Ἀρι<unclear>π</unclear><supplied reason="lost">α</supplied><lb n="4" break="no"/>χθὶς</name></persName> <space quantity="3" unit="character"/> 
                         <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><space quantity="3" unit="character"/> 
+                    <lb n="5"/> <space quantity="3" unit="character"/> 
                         <date type="life-span" dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                         <num value="45">με</num> </date> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

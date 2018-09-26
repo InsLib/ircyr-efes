@@ -122,9 +122,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w><supplied reason="lost">ἐ</supplied>π’</w> <w><supplied reason="lost">ἱερ</supplied>έυς</w> 
+                    <lb n="1"/><date><w><supplied reason="lost">ἐ</supplied>π’</w> <w><supplied reason="lost">ἱερ</supplied>έυς</w> 
                     <persName type="divine" key="apollo"><w><supplied reason="omitted">τ</supplied>οῦ</w>
-                    <lb n="2"/><supplied reason="lost"><w>κτιστοῦ</w> <name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></supplied></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><supplied reason="lost"><w>κτιστοῦ</w> <name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></supplied></persName></date><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
 </div>

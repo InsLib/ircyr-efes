@@ -160,7 +160,7 @@
                         <name nymRef="Σωι-"><seg part="I">Σω<unclear>Ι</unclear></seg></name></persName><gap reason="lost" quantity="6" unit="character" precision="low"/>
                         <lb n="18"/><w lemma="καί">καὶ</w>
                   <persName type="attested" key="lgpn:V1-64373"><name nymRef="Ἰγίσαν">Ἡγίσαν<unclear>τ</unclear><supplied reason="lost">ος</supplied></name>
-                        <supplied reason="lost"><space quantity="1" unit="character"/></supplied> 
+                        <supplied reason="lost"> <space quantity="1" unit="character"/></supplied> 
                         <lb n="19"/><w lemma="ὁ">τοῦ</w> <persName type="attested" key="lgpn:V1-63419"><name nymRef="Βωλακλῆς">Βωλακλέος</name></persName></persName> 
                         <w lemma="ἱέρεια">ἱ<lb n="20" break="no"/>έρεια</w>
                         <persName type="divine" key="artemis"><name nymRef="Ἄρτεμις">Ἀρτέμιδος</name></persName> 

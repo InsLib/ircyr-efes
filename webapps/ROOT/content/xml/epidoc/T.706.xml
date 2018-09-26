@@ -130,10 +130,10 @@
                        <w lemma="magnus">maximus</w></supplied> <w><expan><abbr><supplied reason="lost">t</supplied>ribu<supplied reason="lost">nic</supplied></abbr><supplied reason="lost"><ex>ia</ex></supplied></expan></w>
                     <supplied reason="lost"><w><expan><abbr>potest</abbr><ex>ate</ex></expan></w> 
                         <num value="7">VII</num> </supplied>
-                    <lb n="2"/><space quantity="1" unit="character"/> <w><expan><supplied reason="lost"><abbr>co</abbr><ex>n</ex></supplied><abbr><unclear>s</unclear></abbr><ex>ul</ex></expan></w> 
+                    <lb n="2"/> <space quantity="1" unit="character"/> <w><expan><supplied reason="lost"><abbr>co</abbr><ex>n</ex></supplied><abbr><unclear>s</unclear></abbr><ex>ul</ex></expan></w> 
                <num value="3"><unclear>III</unclear></num> </persName>
                     <supplied reason="lost" cert="low"><w lemma="ciuitas">ciuitati</w> <w lemma="do">dedit</w></supplied>
-               <lb n="2a"/><space quantity="1" unit="line"/>
+               <lb n="2a"/> <space quantity="1" unit="line"/>
             <space quantity="1" unit="character"/>
                 </ab></div>
             <div xml:lang="grc" type="textpart"><ab>
@@ -147,22 +147,22 @@
                        <name nymRef="Τραιανός">Τραιαν<unclear>ὸ</unclear><supplied reason="lost">ς</supplied></name> 
                        <name nymRef="Ἁδριανός">Ἀδρι<unclear>αν</unclear>ὸς</name> <name nymRef="Σεβαστός">Σεβαστός</name>
                    <space quantity="1" unit="character"/>
-                    <lb n="5"/><supplied reason="lost"><space quantity="1" unit="character"/></supplied> 
+                    <lb n="5"/><supplied reason="lost"> <space quantity="1" unit="character"/></supplied> 
                    <w>ἀρχιερεὺ<supplied reason="lost">ς</supplied></w> 
                    <supplied reason="lost"><w>μέγιστος</w></supplied> 
                    <w><supplied reason="lost">δημα</supplied>ρχικῆς</w> 
                   <w> <unclear>ἐ</unclear><supplied reason="lost">ξ</supplied>ουσί<unclear>α</unclear>ς</w>  
                    <g ref="symbols.xml#leaf"/><g ref="symbols.xml#leaf"/> <w>τὸ</w> <num value="7">ζ</num> 
                    <space quantity="1" unit="character"/>
-                    <lb n="6"/><supplied reason="lost"><space quantity="1" unit="character"/></supplied>
+                    <lb n="6"/><supplied reason="lost"> <space quantity="1" unit="character"/></supplied>
                    <w><supplied reason="lost">ὕ</supplied>πατ<supplied reason="lost">ος</supplied> </w>
                    <supplied reason="lost"><w>τὸ</w> <num value="3">γ</num> </supplied></persName><supplied reason="lost" cert="low"><w>τῇ</w> <w>πόλει</w></supplied>  
-                    <g ref="symbols.xml#leaf"/> <w>ἔδωκεν</w><space quantity="1" unit="character"/>
+                    <g ref="symbols.xml#leaf"/> <w>ἔδωκεν</w> <space quantity="1" unit="character"/>
                 </ab>
                 </div>
           <!--   <lb n="1"/><foreign xml:lang="la"><orig>ribu</orig></foreign>
                     </ab></div><div subtype="part" n="2" xml:lang="grc" type="textpart"><ab>
-                        <lb n="1"/><space quantity="1" unit="character"/>    <gap reason="lost" quantity="2" unit="character"/><foreign xml:lang="la"><unclear>s</unclear> 
+                        <lb n="1"/> <space quantity="1" unit="character"/>    <gap reason="lost" quantity="2" unit="character"/><foreign xml:lang="la"><unclear>s</unclear> 
                                 <unclear>lll</unclear></foreign> <gap reason="lost" quantity="5" unit="character" precision="low"/>
                         <space quantity="1" unit="character"/>
                         <lb n="2"/><orig><unclear>υ</unclear>τοκρατωρκαισαρ<unclear>θ</unclear></orig>

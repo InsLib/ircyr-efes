@@ -172,7 +172,7 @@
                                  <lb n="2"/><rs type="month" key="Θώθ"><w lemma="Θώθ">Θώθυ</w></rs> <num value="13">ιγ</num>
                                  <lb n="3"/><persName type="attested"><name nymRef="Ἀρθαππα">Ἀρθαπ<unclear>π</unclear>α</name>
                                  <lb n="4"/><persName type="attested"><name nymRef="Ἀρίμμας">Ἀρίμμα</name></persName></persName>
-                                 <lb n="5"/><space/> 
+                                 <lb n="5"/> <space/> 
                                  <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>έτῶν</ex></expan></w> <num value="40">μ</num> </date>
                               </ab>
                         </div>
@@ -201,7 +201,7 @@
             
             <div subtype="section" n="6c" type="textpart">
                <ab><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Σώτιμος"><unclear>Σ</unclear>ώτειμος</name></persName> <persName type="attested"><name nymRef="Εὐκλίδας">Ε<supplied reason="lost">ὐ</supplied>κλίδα</name></persName>
-                  <lb n="2"/><space quantity="3" unit="character"/> <date type="life-span" dur="P98Y"><w lemma="ἔτος">ἐτῶν</w> <num value="98">ϙη</num> </date></ab></div>
+                  <lb n="2"/> <space quantity="3" unit="character"/> <date type="life-span" dur="P98Y"><w lemma="ἔτος">ἐτῶν</w> <num value="98">ϙη</num> </date></ab></div>
             
             <div subtype="section" n="7" type="textpart"><ab>
                <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>κ</unclear>

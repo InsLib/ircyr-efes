@@ -149,7 +149,7 @@
                     <lb n="8"/><persName type="attested" key="lgpn:V1-65930"><name nymRef="Φίλιππος">Φίλιππος</name> <space quantity="3" unit="character"/> <persName
                         type="attested" key="lgpn:V1-65929"><name type="patronymic" nymRef="Φίλιππος">Φιλίππω</name></persName></persName>
                     
-                    <lb n="8a"/><space quantity="1" unit="line"/>
+                    <lb n="8a"/> <space quantity="1" unit="line"/>
                     
                     <lb n="9"/><w>τὰν</w> <persName type="divine" key="agathetyche"><w>Ἀγαθὰν</w> <name nymRef="Τύχα">Τύχαν</name></persName>.
                 

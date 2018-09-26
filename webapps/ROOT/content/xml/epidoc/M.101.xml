@@ -129,7 +129,7 @@
                         <date type="life-span" dur="P70Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                         <num value="70" xml:lang="grc"><unclear>ο</unclear></num> </date> <persName type="attested"><name nymRef="Καλλώ">Καλλὼ</name>
                     <lb n="5"/><persName type="attested"><name nymRef="Νίκων">Νίκωνοϲ</name></persName></persName> 
-                    <lb n="6"/><space quantity="1" unit="character"/> 
+                    <lb n="6"/> <space quantity="1" unit="character"/> 
                         <date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                         <num value="60" xml:lang="grc">ξ</num> </date>
                 </ab>

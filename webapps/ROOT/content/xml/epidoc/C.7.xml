@@ -183,7 +183,7 @@
             <div subtype="section" n="b" type="textpart">
                <ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" 
-                           unit="character"/><space quantity="1" unit="character"/> 
+                           unit="character"/> <space quantity="1" unit="character"/> 
                         <lb n="2"/><gap reason="lost" extent="unknown" 
                            unit="character"/> <w><supplied 
                               reason="lost">ἀρχ</supplied><unclear>ι</unclear>ερε<unclear>ύ</unclear>ς</w> 
@@ -258,7 +258,7 @@
                     <w lemma="Caesareum"><supplied reason="lost">Caesareu</supplied><unclear>m</unclear></w> 
                   <w lemma="tumultus">tumul<supplied reason="lost">tu</supplied></w> <placeName type="ethnic"><w lemma="Iudaicus"><supplied reason="lost">Iudaic</supplied>o</w></placeName>
                     <w lemma="diruo">dirutum</w> <supplied reason="lost"><w>et</w> <w lemma="exura">exustum</w></supplied> 
-                  <supplied reason="lost" cert="low"><w lemma="restituo">restitui</w> <w lemma="iubeo">iussit</w></supplied><space unit="character" quantity="2"/>
+                  <supplied reason="lost" cert="low"><w lemma="restituo">restitui</w> <w lemma="iubeo">iussit</w></supplied> <space unit="character" quantity="2"/>
                     <lb n="3"/><persName type="emperor" key="hadrianus"><w><supplied reason="lost">Αὐτοκράτωρ</supplied></w> 
                   <name nymRef="Καῖσαρ">Καῖσαρ</name> 
                   <w>θ<supplied reason="lost">εοῦ</supplied></w> 
@@ -268,7 +268,7 @@
                     <w>θεοῦ</w> <persName type="emperor" key="hadrianus"><name nymRef="Νέρβα">Νέρου<supplied reason="lost">α</supplied></name></persName> 
                   <supplied reason="lost"><w>υἱωνὸς</w> 
                      <name nymRef="Τραιανός">Τραιανὸς</name> <name nymRef="Ἁδριανός">Ἁδριανὸς</name> 
-                  <name nymRef="Σεβαστός">Σεβαστὸς</name></supplied></persName> <w><supplied reason="lost">ἀρ</supplied>χιερεὺς</w><space unit="character" quantity="2"/>
+                  <name nymRef="Σεβαστός">Σεβαστὸς</name></supplied></persName> <w><supplied reason="lost">ἀρ</supplied>χιερεὺς</w> <space unit="character" quantity="2"/>
                     <lb n="4"/><w><supplied reason="lost">μέγιστος</supplied></w> <w>δημαρχικῆς</w> 
                     <w><supplied reason="lost">ἐξουσία</supplied><unclear>ς</unclear></w> <w>τὸ</w> 
                   <num value="2"><unclear>β</unclear></num> 

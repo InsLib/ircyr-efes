@@ -184,8 +184,8 @@
                         <w>άρχιερεὺς</w>
                         <lb n="20"/><w><unclear>μ</unclear>έγιστος</w> <w>δημαρ<lb n="21" break="no"/><unclear>χ</unclear>ικῆς</w> <w>ἐξουσία<unclear>ς</unclear></w>
                         <lb n="22"/><w><unclear>α</unclear>ὐτοκράτωρ</w>
-                        <lb n="23"/><space quantity="1" unit="character"/> <w>ὕπατος</w>
-                        <lb n="23a"/><space quantity="1" unit="line"/>
+                        <lb n="23"/> <space quantity="1" unit="character"/> <w>ὕπατος</w>
+                        <lb n="23a"/> <space quantity="1" unit="line"/>
                </ab>
             </div>
             <div subtype="face" n="c" xml:lang="grc" type="textpart">
@@ -199,7 +199,7 @@
                     <lb n="27"/><w><supplied reason="lost">ὅρ</supplied>ου<unclear>ς</unclear></w>
                        <w>διακατεχ<unclear>ο</unclear><lb n="28" break="no"/>μένους</w> <w>ὐπὸ</w><w> ἰδι<unclear>ω</unclear><lb n="29" break="no"/>τῶν</w> <w>δήμῳ</w>
                     <placeName type="ethnic"><w lemma="Ῥωμαῖος">Ῥω<space quantity="1" unit="character"/><lb n="30" break="no"/><supplied reason="lost">μ</supplied>αί<supplied reason="lost">ων</supplied></w></placeName> 
-                    <w>ἀποκατέσ<lb n="31" break="no"/><space quantity="3" unit="character"/>τησεν</w>
+                    <w>ἀποκατέσ<lb n="31" break="no"/> <space quantity="3" unit="character"/>τησεν</w>
                     <space quantity="4" unit="character"/>
                </ab>
             </div>

@@ -151,9 +151,9 @@
                     <w lemma="ὁ"><unclear>τὰ</unclear></w> 
                     <supplied reason="lost"><w lemma="πάτριος">πάτρια</w> <w lemma="καί">καὶ</w> <w lemma="ὁ">τῶι</w></supplied> 
                         <persName type="emperor" key="augustus"><supplied reason="lost"><name nymRef="Σεβαστός">Σεβαστῶι</name></supplied> 
-                    <name nymRef="Καῖσαρ"><supplied reason="lost">Καίσα</supplied><lb n="4" break="no"/><space quantity="3" unit="character"/> ρος</name></persName> <w>τὰν</w> 
+                    <name nymRef="Καῖσαρ"><supplied reason="lost">Καίσα</supplied><lb n="4" break="no"/> <space quantity="3" unit="character"/> ρος</name></persName> <w>τὰν</w> 
                     <w lemma="ἱερατεία">ἱερ<supplied reason="lost">ατείαν</supplied></w> <space quantity="3" unit="character"/> 
-                    <lb n="5"/><space quantity="1" unit="character"/> <date corresp="https://godot.date/id/UyJESVqvsYT96izftTB5Km"><w lemma="ἐπί">ἐπὶ</w> 
+                    <lb n="5"/> <space quantity="1" unit="character"/> <date corresp="https://godot.date/id/UyJESVqvsYT96izftTB5Km"><w lemma="ἐπί">ἐπὶ</w> 
                     <persName type="attested"><name nymRef="Πανταλέων">Πάντα<supplied reason="lost">λεοντος</supplied></name></persName> <w>ἱέρεως</w> 
                     <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων"><supplied reason="lost">Ἀπόλλωνος</supplied></name></persName></date> 
                     <lb n="6"/><w lemma="ἐπεί"><supplied reason="lost">ἐ</supplied>πεὶ</w> <persName type="attested" key="lgpn:V1-63374"><name nymRef="Βαρκαῖος">Βαρκαῖος</name> 
@@ -306,7 +306,7 @@
                                    <w><supplied reason="lost">ψάφισ</supplied><lb n="51" break="no"/>μα</w> 
                                    <w>κύριον</w> <w>ἦμεν</w> <w lemma="εἰς">ἐς</w> <w lemma="πᾶς">πάντα</w> 
                                    <w lemma="ὁ">τὸν</w> <w lemma="χρόνος"><supplied reason="lost">χρόνον</supplied></w> 
-                    <lb n="52"/><space extent="unknown" unit="line"/>
+                    <lb n="52"/> <space extent="unknown" unit="line"/>
                </ab>
 </div>
          

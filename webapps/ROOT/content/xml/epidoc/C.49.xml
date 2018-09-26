@@ -132,7 +132,7 @@
                        <g ref="symbols.xml#stop"/> <persName type="attested"><name nymRef="Πτολεμαῖος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Πτολεμαίου</ex></expan></name>
                        <g ref="symbols.xml#stop"/><name nymRef="Πτολεμαῖος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Πτολεμαίου</ex></expan></name>
                        <g ref="symbols.xml#stop"/><name nymRef="Πτολεμαῖος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Πτολεμαίου</ex></expan></name></persName><g ref="symbols.xml#stop"/> <w lemma="υἱός">ὑιὸς</w></supplied></persName>
-                    <lb n="3"/><supplied reason="lost" cert="low"><space quantity="1" unit="character"/></supplied>  
+                    <lb n="3"/><supplied reason="lost" cert="low"> <space quantity="1" unit="character"/></supplied>  
                         <persName type="attested"><name nymRef="Αἰγλάνωρ"><supplied reason="lost" cert="low">Α</supplied><unclear>ἰγ</unclear>λάνω<unclear>ρ</unclear></name></persName>
                     <space quantity="3" unit="character"/> 
                     <lb n="4"/><persName type="attested"><name nymRef="Μητρόδωρος"><supplied reason="lost">Μητ</supplied><unclear>ρ</unclear>όδωρος</name> <persName type="attested"><name nymRef="Μητρόδωρος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Μητροδώρου</ex></expan></name> 
@@ -141,14 +141,14 @@
                     <lb n="6"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
                     <num value="98"><unclear>ϙ</unclear>η</num> <persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> 
                     <name nymRef="Κλαύδιος">Κλαύδιος</name> <name nymRef="Ἄρχιππος">Ἀρχίππο<supplied reason="lost">υ</supplied></name>
-                    <lb n="7"/><space quantity="1" unit="character"/>  <w lemma="υἱός">υἱός</w> <g ref="symbols.xml#leaf"/> <name nymRef="Ἄρχιππος">Ἄρχιππος</name> <g ref="symbols.xml#leaf"/></persName>
+                    <lb n="7"/> <space quantity="1" unit="character"/>  <w lemma="υἱός">υἱός</w> <g ref="symbols.xml#leaf"/> <name nymRef="Ἄρχιππος">Ἄρχιππος</name> <g ref="symbols.xml#leaf"/></persName>
                     <space quantity="1" unit="character"/> 
                     <lb n="8"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied>
                     <num value="99">ϙθ</num> <persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> 
                     <name nymRef="Ἀντώνιος">Ἀντώνιος</name> <name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> 
                     <persName type="attested"><name nymRef="Ἀντώνιος">Ἀντωνίου</name>
-                    <lb n="9"/><space quantity="3" unit="character"/> <name nymRef="Φλάμμα">Φλάμμα</name></persName> <w lemma="υἱός">υἱός</w> <name nymRef="Κασκέλλιος">Κασκέλλιος</name></persName>
-                    <lb n="10"/><space quantity="4" unit="line"/>
+                    <lb n="9"/> <space quantity="3" unit="character"/> <name nymRef="Φλάμμα">Φλάμμα</name></persName> <w lemma="υἱός">υἱός</w> <name nymRef="Κασκέλλιος">Κασκέλλιος</name></persName>
+                    <lb n="10"/> <space quantity="4" unit="line"/>
                     <lb n="11"/><persName type="attested"><name nymRef="Σώτας"><supplied reason="lost">Σ</supplied>ώτας</name> <persName type="attested"><name nymRef="Διονύσιος">Διονυσίου</name></persName></persName>
                     <lb n="12"/><persName type="attested"><name nymRef="Τιβέριος"><supplied reason="lost"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></supplied></name> 
                         <name nymRef="Κλαύδιος"><supplied reason="lost">Κλα</supplied>ύδιος</name>

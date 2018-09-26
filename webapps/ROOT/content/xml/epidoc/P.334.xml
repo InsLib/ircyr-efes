@@ -124,7 +124,7 @@
             <ab>
                     <lb n="1"/><persName type="divine" key="theoipatrooi"><w lemma="θεός">Θεοῖς</w> 
                     <lb n="2"/><w>πατρώοις</w></persName> 
-                    <lb n="3"/><space quantity="3" unit="character"/> <w lemma="καί">καὶ</w> <space quantity="3" unit="character"/> 
+                    <lb n="3"/> <space quantity="3" unit="character"/> <w lemma="καί">καὶ</w> <space quantity="3" unit="character"/> 
                     <lb n="3a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
          </div>

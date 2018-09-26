@@ -107,7 +107,7 @@
          <div type="edition" xml:lang="la" xml:space="preserve">
              
             <ab>
-            <lb n="1"/><persName type="emperor" key="hadrianus"><name nymRef="Hadrianus"><supplied reason="lost">Ha</supplied><milestone unit="block"/><space quantity="3" unit="character"/><seg part="M">dria</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
+            <lb n="1"/><persName type="emperor" key="hadrianus"><name nymRef="Hadrianus"><supplied reason="lost">Ha</supplied><milestone unit="block"/> <space quantity="3" unit="character"/><seg part="M">dria</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
             </ab>
          </div>
 

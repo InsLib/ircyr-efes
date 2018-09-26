@@ -108,7 +108,7 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="section" n="i" type="textpart"><ab>
-                    <lb n="1"/><space quantity="3" unit="character"/> 
+                    <lb n="1"/> <space quantity="3" unit="character"/> 
                     <persName type="attested"><name nymRef="Σωσίστρατος">Σωσίστρ<unclear>α</unclear><supplied reason="lost">το</supplied>ς</name></persName> 
                     <w><expan><abbr><hi rend="ligature">φίλ</hi></abbr><ex>ος</ex></expan></w>
                 </ab></div><div subtype="section" n="ii" type="textpart"><ab>

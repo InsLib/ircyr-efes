@@ -123,7 +123,7 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="17">ιζ</num> 
                     <persName type="attested"><name nymRef="Λούκιος"><expan><abbr><hi rend="superscript">Λ</hi></abbr><ex>ούκιος</ex></expan></name>
-                    <name nymRef="Τιτίνιος">Τιτ<unclear>ί</unclear><lb n="2" break="no"/><space quantity="1" unit="character"/> νιος</name>
+                    <name nymRef="Τιτίνιος">Τιτ<unclear>ί</unclear><lb n="2" break="no"/> <space quantity="1" unit="character"/> νιος</name>
                     <lb n="3"/><name nymRef="Λόπος"><unclear>Λ</unclear>ό<unclear>π</unclear>ος</name></persName> 
                 </ab>
 </div>

@@ -128,7 +128,7 @@
                    
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> <persName type="attested"><name nymRef="Ὦλος">Ὦλος</name> <name nymRef="Πούφιος">Πού<lb n="2" break="no"/>φιος</name> 
                     <name nymRef="Αὔδαξ">Αὔδαξ</name></persName> <space quantity="2" unit="character"/>
-                    <lb n="3"/><space quantity="2" unit="character"/> <w>φίλος</w> <space quantity="3" unit="character"/>
+                    <lb n="3"/> <space quantity="2" unit="character"/> <w>φίλος</w> <space quantity="3" unit="character"/>
                     <lb n="4"/><persName type="attested"><name nymRef="Εὐδαίμων">Εὐδαί<unclear>μον</unclear><supplied reason="lost">ος</supplied></name></persName>
                     <lb n="5"/><persName type="attested"><name nymRef="Θεοφείδης">Θεοφείδους</name></persName>
                        <lb n="6"/><persName type="attested"><name nymRef="Μᾶρκος">Μάρκου</name></persName> 

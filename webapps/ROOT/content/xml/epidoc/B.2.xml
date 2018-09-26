@@ -105,7 +105,7 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><ab><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>π</unclear>ο<unclear>π</unclear>α<unclear>τ</unclear>ηιο</orig><gap reason="lost" extent="unknown" unit="character"/>
-                <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>π</unclear></orig><space quantity="3" unit="character"/><orig>ο</orig><space quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></ab>
+                <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>π</unclear></orig> <space quantity="3" unit="character"/><orig>ο</orig> <space quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/></ab>
 </div>
          <div type="apparatus">
             <head>Apparatus</head>

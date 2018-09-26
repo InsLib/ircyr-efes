@@ -127,7 +127,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="lin3"><certainty match=".." locus="name"/></gap> 
-                    <lb n="1"/><space quantity="1" unit="character"/> 
+                    <lb n="1"/> <space quantity="1" unit="character"/> 
                     <orig><unclear>I</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/> <persName type="attested" key="lgpn:V1-60843"><name nymRef="Ἄλεξις">Ἄλεξις</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-64552"><name nymRef="Καρνήδας">Καρνήδ<supplied reason="lost">ας</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>

@@ -130,7 +130,7 @@
                     <ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig><unclear>ΙΝΚ</unclear></orig>
                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character" cert="low"/>
-                        <lb n="3"/><space extent="unknown" unit="character"/> <date type="life-span" dur="P14Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="14"><unclear>ι</unclear>δ</num> </date>
+                        <lb n="3"/> <space extent="unknown" unit="character"/> <date type="life-span" dur="P14Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="14"><unclear>ι</unclear>δ</num> </date>
                     </ab>
             </div>
             
