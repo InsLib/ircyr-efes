@@ -114,8 +114,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="4">δ</num>
+                    <lb n="1"/><date corresp="https://godot.date/id/aFMpYxvXxYJ2jYWrjL2K37"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="4">δ</num></date>
                     <lb n="2"/><persName type="attested"><name nymRef="Θεύδωρος">Θεύδωρος</name>
                     <lb n="3"/><persName type="attested"><name nymRef="Τίμαρχος">Τιμά<unclear>ρ</unclear>χω</name></persName></persName>
                     <lb n="3a"/> <space quantity="1" unit="line"/>
