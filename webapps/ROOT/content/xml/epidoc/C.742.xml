@@ -112,12 +112,7 @@
       </revisionDesc>
    </teiHeader><facsimile><graphic url="JMRNB06_042" decls="#photograph"><desc>Face (Reynolds VI.42: Alföldi-Rosenbaum)</desc></graphic>
       <graphic url="JMR_1092_002front" decls="#photograph"><desc>Face (1961, Joyce Reynolds)</desc></graphic>
-      <graphic url="JMR_1092_001front" decls="#photograph"><desc>Face (1981)</desc></graphic><!--Dept. JR.--><!--
-                    --><!--
-                    
-                    --><!--
-                    --><!--
-                --></facsimile>
+      <graphic url="JMR_1092_001front" decls="#photograph"><desc>Face (1981)</desc></graphic><!--Dept. JR.--></facsimile>
    <text>
       <body>
          <div type="bibliography">
@@ -130,8 +125,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Πρατίας">Πρατίας</name></persName>
-                    <lb n="1"/><date type="life-span" dur="P90Y"><w lemma="ἔτος">ἐτῶν</w> <num value="90"><w>ἐ<unclear>ν</unclear>
-                       <lb n="1" break="no"/>ενήκο<lb n="1" break="no"/>νττα</w></num> </date>
+                    <lb n="2"/><date type="life-span" dur="P90Y"><w lemma="ἔτος">ἐτῶν</w> <w>ἐ<unclear>ν</unclear><lb n="3" break="no"/>ενήκο<lb n="1" break="no"/>νττα</w> </date>
                 </ab>
 </div>
          

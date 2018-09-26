@@ -44,7 +44,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Very irregular: lines1,2, <height precision="low">0.03</height>; line 3-10, <height precision="low">0.02</height>. Each entry in a different 
+                     <handNote>Very irregular: lines 1,2, <height precision="low">0.03</height>; line 3-10, <height precision="low">0.02</height>. Each entry in a different 
                         hand; cursive omega throughout and lunate epsilon in the second entry.</handNote>
                   </handDesc>
                </physDesc>
@@ -125,7 +125,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="86">π<unclear>ς</unclear></num> <w>ἐπὶ</w> 
+                    <num value="86">π<unclear>ϛ</unclear></num> <w>ἐπὶ</w> 
                     <lb n="2"/><w lemma="ἱερεύς">ἱερέ<lb n="3" break="no"/>ως</w> <persName type="attested"><name nymRef="Παγκλῆς">Πα<lb n="4" break="no"/>γκλεῦς</name></persName>
                     <lb n="5"/><persName type="attested"><name nymRef="Ἐπαγώ">Ἐ<unclear>π</unclear>α<unclear>γὼ</unclear></name>
                     <lb n="6"/><persName type="attested"><name nymRef="Φίλων">Φίλωνος</name></persName></persName>

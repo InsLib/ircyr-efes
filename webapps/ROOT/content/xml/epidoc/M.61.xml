@@ -163,7 +163,7 @@
                         <lb n="2"/><w><orig>σ</orig></w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> 
                         <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="16">ςι</num>
+                        <num value="16">ϛι</num>
                     </ab>
                     </div>
             <div subtype="section" n="f" type="textpart">
