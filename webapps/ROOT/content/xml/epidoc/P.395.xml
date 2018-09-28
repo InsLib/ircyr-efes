@@ -117,10 +117,10 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
             <ab> 
-            <lb n="1"/><space extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Ἄστυλος">Ἄστυλος</name>
+            <lb n="1"/> <space extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Ἄστυλος">Ἄστυλος</name>
             <lb n="2"/><persName type="attested"><name nymRef="Ἄστυλος"><supplied reason="lost">Ἄσ</supplied><unclear>τ</unclear>υλου</name></persName> </persName>
                <space extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Ἄστυλος">Ἄστυλου</name></persName> <persName type="attested"><name nymRef="A-">Α<space extent="unknown" unit="character"/><!-- check --></name></persName>
-            <lb n="3"/><space extent="unknown" unit="character"/>  
+            <lb n="3"/> <space extent="unknown" unit="character"/>  
             </ab>
          </div>
          

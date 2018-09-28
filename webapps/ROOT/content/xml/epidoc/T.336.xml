@@ -116,7 +116,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Ἰούλιος" cert="low"><unclear>Ἰ</unclear>ο<supplied reason="lost" cert="low">ύλιος</supplied></name>
-                    <lb n="2"/><persName type="attested"><name nymRef="Γάϊος"><unclear>Γαί</unclear>ο<supplied reason="lost" cert="low">υ</supplied></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><persName type="attested"><name nymRef="Γάϊος"><unclear>Γαί</unclear>ο<supplied reason="lost" cert="low">υ</supplied></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

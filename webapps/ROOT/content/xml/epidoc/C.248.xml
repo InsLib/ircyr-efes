@@ -131,8 +131,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested" key="lgpn:V1-64551"><name nymRef="Καρνήδας">Καρνήδας</name> <name nymRef="Α-"><seg part="I">Α</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><w>ἱερατεύων</w> <supplied reason="lost"><w lemma="ἀνατίθημι">ἀνέθηκεν</w></supplied>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-64551"><name nymRef="Καρνήδας">Καρνήδας</name> <name nymRef="Α-"><seg part="I">Α</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/> <w>ἱερατεύων</w> <supplied reason="lost"><w lemma="ἀνατίθημι">ἀνέθηκεν</w></supplied>
                 </ab>
 </div>
          <div type="apparatus">

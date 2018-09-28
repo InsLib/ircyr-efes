@@ -127,7 +127,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><w lemma="εὐτυχής">εὐτυ<supplied reason="lost">χῶς</supplied></w>
-                    <lb n="2"/><w><supplied reason="lost">Εὐ</supplied>φρο<unclear>ι</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/> <w><supplied reason="lost">Εὐ</supplied>φρο<unclear>ι</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><orig>συνορι</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><orig>φιισ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

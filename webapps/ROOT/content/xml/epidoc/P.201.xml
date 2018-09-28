@@ -130,7 +130,7 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w><expan><abbr>Ped</abbr><ex>atura</ex></expan></w>
+                    <lb n="1"/> <w><expan><abbr>Ped</abbr><ex>atura</ex></expan></w>
                     <w lemma="uexillatio"><expan><abbr>uexil</abbr><ex>lationis</ex></expan></w>
                     <w lemma="legio"><expan><abbr>leg</abbr><ex>ionis</ex></expan></w> 
                     <lb n="2"/><num value="3"><supplied reason="lost">I</supplied>II</num> 

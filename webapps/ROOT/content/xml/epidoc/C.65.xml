@@ -130,9 +130,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Ἡσύχιος">Ἡσύχιος</name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><space quantity="1" unit="character"/> <orig>κο</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><w>οὗτος</w> <orig>ο</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name nymRef="Ἡσύχιος">Ἡσύχιος</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/> <space quantity="1" unit="character"/> <orig>κο</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/> <w>οὗτος</w> <orig>ο</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

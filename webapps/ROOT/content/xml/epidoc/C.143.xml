@@ -145,7 +145,7 @@
         <name nymRef="Σεβαστός"><unclear>Σ</unclear><supplied reason="lost">εβαστῶ</supplied></name>
 	<lb n="5"/><name nymRef="Ἀρμενιακός"><supplied reason="lost">Ἀρ</supplied><unclear>μ</unclear><supplied reason="lost">ε</supplied>νιακῶ</name> 
         <name nymRef="Παρθικός">Παρθικῶ</name> <name nymRef="Μηδικός">Μ<supplied reason="lost">ηδι</supplied><lb break="no" n="6"/>κῶ</name> <name nymRef="Γερμανικός">Γερμανικῶ</name> <w>μ<unclear>εγ</unclear>ίστω</w></persName> 
-        <supplied reason="lost"><space extent="unknown" unit="character"/></supplied></date>
+        <supplied reason="lost"> <space extent="unknown" unit="character"/></supplied></date>
 	<lb n="7"/><date><w>Ἐφ'</w><w>ἱ<unclear>αρ</unclear>έος</w> 
         <w>τῶ</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνο<supplied reason="lost">ς</supplied></name></persName>
 	<lb n="8"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκω</ex></expan></name> 
@@ -154,8 +154,8 @@
         <persName type="attested"><name nymRef="Νουμίσιος">Νουμισ<unclear>ί</unclear><supplied reason="lost">ω</supplied></name>
 	<lb n="10"/><name nymRef="Μαρκελλιανός">Μαρκελλιαν<unclear>ῶ</unclear></name></persName> <w>τῶ</w> 
         <w>κ<supplied reason="lost">ρ</supplied>ατίστω</w> <surplus><orig>ς</orig></surplus>
-	<lb n="11"/><w>ἀνθυπάτω</w> <space extent="unknown" unit="character"/>
-	<lb n="12"/><space extent="unknown" unit="character"/> <w>ἐφηβαρχέντων</w> 
+	<lb n="11"/> <w>ἀνθυπάτω</w> <space extent="unknown" unit="character"/>
+	<lb n="12"/> <space extent="unknown" unit="character"/> <w>ἐφηβαρχέντων</w> 
         <space extent="unknown" unit="character"/>
 	<lb n="13"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ουκίω</ex></expan></name> 
 	    <name nymRef="Ἀνθέστιος">Ἀνθεστίω</name> <name nymRef="Πολύβιος">Πολυβίω</name> 
@@ -171,7 +171,7 @@
 	<lb n="17"/><name nymRef="Ἀνθέστιος">Ἀνθεστίω</name> <name nymRef="Βαλεριανός">Βαλεριανῶ</name></persName> <w>καὶ</w> 
         <persName type="attested"><name nymRef="Σέξτος"><expan><abbr>Σέξ</abbr><ex>τω</ex></expan></name> <name nymRef="Βαλέριος">Βαλερίω</name>
 	<lb n="18"/><name nymRef="Φορτουνᾶτος">Φορτουνάτω</name></persName> <space extent="unknown" unit="character"/>
-	<lb n="19"/><space extent="unknown" unit="character"/> 
+	<lb n="19"/> <space extent="unknown" unit="character"/> 
         <w>Ἔφηβοι</w> <space extent="unknown" unit="character"/></ab>
                 </div>
                 <div type="textpart" subtype="text" n="b">
@@ -196,7 +196,7 @@
                   	<lb n="16"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr><unclear>Λ</unclear></abbr><ex>ούκιος</ex></expan></name> <name nymRef="Βείβιος">Βείβιος</name> <name nymRef="Κέλερ">Κέλερ</name></persName>
                   	<lb n="17"/><persName type="attested"><name nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτος</ex></expan></name> <name nymRef="Φλάβιος">Φλάβιος</name> <name nymRef="Ἀθηνόδωρος">Ἀθηνόδωρος</name></persName>
                   	<lb n="18"/><persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>áϊος</ex></expan></name> <name nymRef="Ἰούλιος">Ἰούλιος</name> <name nymRef="Λούκιος">Λούκιος</name>	
-                  	<lb n="19"/><space quantity="1" unit="character"/> <name nymRef="Ἀνχαρηνὸς">Ἀνχαρηνὸς</name> <name nymRef="Σερῆνος">Σερῆνος</name></persName>
+                  	<lb n="19"/> <space quantity="1" unit="character"/> <name nymRef="Ἀνχαρηνὸς">Ἀνχαρηνὸς</name> <name nymRef="Σερῆνος">Σερῆνος</name></persName>
                   	<lb n="20"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> <name nymRef="Ἰούλιος">Ἰούλιος</name> <name nymRef="Εὐφρόσυνος">Εὐφρόσυνος</name></persName>
                   	<lb n="21"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> <name nymRef="Μουσίδιος">Μουσίδιος</name> <name nymRef="Σεραπίων">Σε<space quantity="1" unit="character"/>ραπίων</name></persName>	
                   	<lb n="22"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἔππιος">Ἔππιος</name> <name nymRef="Λούκιος">Λούκιος</name>	</persName>
@@ -204,9 +204,9 @@
                   	<lb n="24"/><persName type="attested"><name nymRef="Πόπλιος"><expan><abbr>Π</abbr><ex>όπλιος</ex></expan></name> <name nymRef="Κορνήλιος">Κορνήλιος</name> <name nymRef="Διόδωρος">Διόδωρος</name></persName>
                   	<lb n="25"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Λούριος">Λούριος</name> <name nymRef="Ἰαμβάριος">Ἰαμβάριος</name>	</persName>
                   	<lb n="26"/><persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>άϊος</ex></expan></name> <name nymRef="Κορνήλιος">Κορνήλιος</name> <name nymRef="Πουπλιανός">Πουπλιανός</name>	</persName>
-                  	<lb n="27"/><space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Πόντιος">Πόντιος</name> <name nymRef="Νατᾶλις">Νατᾶλις</name></persName>
+                  	<lb n="27"/> <space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Πόντιος">Πόντιος</name> <name nymRef="Νατᾶλις">Νατᾶλις</name></persName>
                   	<lb n="28"/><persName type="attested"><name nymRef="Πόπλιος"><expan><abbr>Π</abbr><ex>όπλιος</ex></expan></name> <name nymRef="Αἴλιος">Αἴλιος</name> <name nymRef="Καλλίτυχος">Καλλίτυχος</name></persName>
-                  	<lb n="29"/><space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Νεμέσιος">Νεμέσιος</name> <name nymRef="Γάϊος">Γάϊος</name></persName>
+                  	<lb n="29"/> <space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Νεμέσιος">Νεμέσιος</name> <name nymRef="Γάϊος">Γάϊος</name></persName>
                   	<lb n="30  "/><persName type="attested"><name nymRef="Ῥοῦφος">Ῥοῦφος</name> <name nymRef="Σταλάκκιος">Στ<unclear>α</unclear>λάκκιος</name> <name nymRef="Πρόκλος">Πρόκλος</name></persName>
 	</ab>
                     </div>
@@ -216,7 +216,7 @@
                            <lb n="2"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> <name nymRef="Νόβιος">Νόβιος</name> <name nymRef="Σεκοῦνδος">Σεκοῦνδος</name></persName>
                            <lb n="3"/>	<space quantity="1" unit="character"/>  <persName type="attested"><name nymRef="Αἴλιος">Αἴλιος</name> <name nymRef="Τύραννος">Τύραννος</name></persName>
                            <lb n="4"/><persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name> <name nymRef="Σατορνεῖλος">Σατορνεῖλος</name></persName>
-                           <lb n="5"/><space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Ἡλιόδωρος">Ἡλιόδωρος</name> <persName type="attested"><name nymRef="Ἡλιόδωρος">Ἡλιοδώρου</name></persName></persName>
+                           <lb n="5"/> <space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Ἡλιόδωρος">Ἡλιόδωρος</name> <persName type="attested"><name nymRef="Ἡλιόδωρος">Ἡλιοδώρου</name></persName></persName>
                            <lb n="6"/>	<space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Βάθυλλος">Βάθυλλος</name> <persName type="attested"><name nymRef="Λόγγος">Λόνγου</name></persName></persName>
                            <lb n="7"/><persName type="attested"><name nymRef="Ἱππίας">Ἱππίας</name> <persName type="attested"><name nymRef="Ἱππίας">Ἱππίου</name></persName></persName>
                            <lb n="8"/><persName type="attested"><name nymRef="Ἀριστομήδης">Ἀριστομήδης</name> <persName type="attested"><name nymRef="Γάβιος">Γαβίου</name></persName></persName>
@@ -247,12 +247,12 @@
                 </div>
                 <div type="textpart" subtype="text" n="c">
                     <ab>
-	    <lb n="1"/><space extent="unknown" unit="character"/> <w>παιδονομέντων</w> 
+	    <lb n="1"/> <space extent="unknown" unit="character"/> <w>παιδονομέντων</w> 
 	    <w>καὶ</w> <w>ἐπιστατέντων</w> <space extent="unknown" unit="character"/>	
-	<lb n="2"/><space quantity="2" unit="character"/> <w>κατὰ</w> <w>τὸ</w> 
-	    <w>διατάγμα</w> <persName type="attested"><name nymRef="Νουμίσιος">Νομισίω</name> <name nymRef="Μαρκελλιανός">Μαρκελ<lb break="no" n="3"/><space quantity="2" unit="character"/>λιανῶ</name></persName> <w>τῶ</w> <w>κρατίστω</w> 
+	<lb n="2"/> <space quantity="2" unit="character"/> <w>κατὰ</w> <w>τὸ</w> 
+	    <w>διατάγμα</w> <persName type="attested"><name nymRef="Νουμίσιος">Νομισίω</name> <name nymRef="Μαρκελλιανός">Μαρκελ<lb break="no" n="3"/> <space quantity="2" unit="character"/>λιανῶ</name></persName> <w>τῶ</w> <w>κρατίστω</w> 
 	    <w>ἀνθυπάτω</w>	
-	<lb n="4"/><space extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Ἰούλιος">Ἰουλίω</name> </persName>
+	<lb n="4"/> <space extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Ἰούλιος">Ἰουλίω</name> </persName>
 	    <w><unclear>κ</unclear>αλλιέτα</w>
 	    <space quantity="1" unit="character"/> <w>καὶ</w> <persName type="attested"><name nymRef="Αἴλιος">Αἰλίω</name> <name nymRef="Ἐπαφροδιτᾶς">Ἐπαφροδείτω</name></persName>
                     </ab>

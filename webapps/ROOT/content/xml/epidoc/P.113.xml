@@ -113,7 +113,7 @@
          </div>
          
          <div type="edition" xml:lang="la" xml:space="preserve"><div subtype="fragment" n="a" type="textpart"><ab>
-                            <lb n="1"/><space quantity="1" unit="character"/><orig>s</orig><gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="1"/> <space quantity="1" unit="character"/><orig>s</orig><gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div><div subtype="fragment" n="b" type="textpart"><ab><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <orig>o</orig>
                         <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="fragment" n="c" type="textpart"><ab>

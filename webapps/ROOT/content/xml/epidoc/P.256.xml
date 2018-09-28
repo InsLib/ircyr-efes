@@ -118,7 +118,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-61106"><name nymRef="Τιβέριος"><seg part="I"><expan><abbr>Τι</abbr><ex>βερι</ex></expan></seg></name> <g ref="symbols.xml#stop"/> <name nymRef="Κλαύδιος"><seg part="I"><expan><abbr>Κλ</abbr><ex>αυδι</ex></expan></seg></name> <g ref="symbols.xml#stop"/> <name nymRef="Ἀπολλω-"><seg part="I">Ἀπολλω</seg></name></persName>
-                    <lb n="2"/><space quantity="3" unit="character"/>  <date type="life-span" dur="P36Y">
+                    <lb n="2"/> <space quantity="3" unit="character"/>  <date type="life-span" dur="P36Y">
                     <supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="36"><unclear>δ</unclear>ϛ</num> </date>
                 </ab>
 </div>

@@ -114,7 +114,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><head xml:lang="en">Text
                        </head><div subtype="section" n="i" type="textpart"><ab>
-                <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Κλαύδιος"><seg part="M"><unclear>υ</unclear>διο</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/></ab></div>
+                <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Κλαύδιος"><seg part="M"><unclear>υ</unclear>διο</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/></ab></div>
             <div subtype="section" n="ii" type="textpart"><ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="18">ιη</num> <persName type="attested" key="lgpn:V1-61526"><name nymRef="Νύμφις">Νύμφι<unclear>οϲ</unclear></name></persName></ab></div>
             <div subtype="section" n="iii" type="textpart"><ab>

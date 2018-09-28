@@ -131,7 +131,7 @@
             <lb n="4"/><persName type="attested" key="lgpn:V1-61712"><name nymRef="Χιμαλυαν"><unclear>Χ</unclear>ι<unclear>μ</unclear>αλυαν</name>
                <persName type="attested"><name nymRef="Ἀριμμαλυνος">Ἀριμμα<unclear>λ</unclear>υνω</name></persName></persName>
             <lb n="5"/><persName type="attested"><name nymRef="Ἀρίμμας">Ἀρί<supplied reason="lost">μ</supplied>μας</name>
-              <persName type="attested"><name nymRef="Ἀρίσαν">Ἀ<unclear>ρι</unclear><space/>σαν<supplied reason="lost">τος</supplied></name></persName></persName> 
+              <persName type="attested"><name nymRef="Ἀρίσαν">Ἀ<unclear>ρι</unclear> <space/>σαν<supplied reason="lost">τος</supplied></name></persName></persName> 
             <lb n="6"/><persName type="attested"><gap reason="lost" quantity="1" unit="character"/> <name><seg part="F"><unclear>οι</unclear>ριων</seg></name>
                <space/> <persName type="attested"><name nymRef="Ἰάσων">Ἰάσονο<unclear>ς</unclear></name></persName></persName> 
             <lb n="7"/><persName type="attested"><name nymRef="Παυσανίας"><supplied reason="lost">Π</supplied><unclear>αυσ</unclear>ανίας</name>

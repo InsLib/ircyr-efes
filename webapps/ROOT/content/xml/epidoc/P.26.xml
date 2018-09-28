@@ -146,7 +146,7 @@
             <div subtype="fragment" n="ii" type="textpart">
                <ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Φιλιππίων">Φιλιππίων</name></persName> 
-                        <lb n="2"/><w><expan><abbr><hi rend="ligature">φιλ</hi></abbr><ex>ος</ex></expan></w> 
+                        <lb n="2"/> <w><expan><abbr><hi rend="ligature">φιλ</hi></abbr><ex>ος</ex></expan></w> 
                         <hi rend="ligature"><orig>γπα</orig></hi>
                     </ab>
                     </div>

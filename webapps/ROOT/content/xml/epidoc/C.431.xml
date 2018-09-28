@@ -167,13 +167,13 @@
                         <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                         <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                         <lb n="1"/><persName type="attested" key="lgpn:V1-66065"><name nymRef="Φίλων">Φίλωνα</name>
-                           <persName type="attested"><name nymRef="Θε-"><seg part="I">Θε</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                           <persName type="attested"><name nymRef="Θε-"><seg part="I">Θε</seg></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="2"/><persName type="attested" key="lgpn:V1-66066"><name nymRef="Φίλων">Φίλωνα</name>
-                          <persName type="attested"><name nymRef="Θε-"><seg part="I">Θε</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                          <persName type="attested"><name nymRef="Θε-"><seg part="I">Θε</seg></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3"/><persName type="attested" key="lgpn:V1-66160"><name nymRef="Χαρίτιμος">Χαρίτιμον</name>
-                           <persName type="attested" key="lgpn:V1-63886"><name nymRef="Εὐρυπτόλεμος">Εὐρυ<supplied reason="lost">πτολέμω</supplied></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                           <persName type="attested" key="lgpn:V1-63886"><name nymRef="Εὐρυπτόλεμος">Εὐρυ<supplied reason="lost">πτολέμω</supplied></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="4"/><persName type="attested" key="lgpn:V1-66168"><name nymRef="Χαρτάδας">Χαρτάδαν</name>
-                           <persName type="attested" key="lgpn:V1-64067"><name nymRef="Θαλίαρχος">Θαλι<supplied reason="lost">άρχω</supplied><supplied reason="lost">άρχω</supplied></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                           <persName type="attested" key="lgpn:V1-64067"><name nymRef="Θαλίαρχος">Θαλι<supplied reason="lost">άρχω</supplied><supplied reason="lost">άρχω</supplied></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="5"/><persName type="attested" key="lgpn:V1-66186"><name nymRef="Ὠρίων">Ὠρίωνα</name>
                            <persName type="attested" key="lgpn:V1-65866"><name nymRef="Φᾶμος">Φαμου</name></persName></persName><!-- check <unclear>τ</unclear> --><gap reason="lost" extent="unknown" unit="character"/>
                      

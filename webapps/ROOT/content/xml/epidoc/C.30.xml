@@ -127,7 +127,7 @@
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
             <persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name>
-                    <name nymRef="Ι-"><seg part="I"><unclear>Ι</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <name nymRef="Ι-"><seg part="I"><unclear>Ι</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="1a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
 </div>
@@ -140,7 +140,7 @@
 <div type="textpart" n="c">
    <ab>
       <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">διο<unclear>ς</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">διο<unclear>ς</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
    </ab>
 </div>            
 </div>

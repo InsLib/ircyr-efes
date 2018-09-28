@@ -122,7 +122,7 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Κάρτυλος">Κάρτυ<lb n="2" break="no"/>λος</name> </persName>
                     <lb n="3"/><date type="life-span" dur="P26Y"><w lemma="ἔτος">ἐτῶν</w> 
-                    <lb n="4"/><num value="26">ςκ</num> <w lemma="ἡμέρα"><expan><abbr>ἡ</abbr><ex>μερῶν</ex></expan></w></date> <gap reason="lost" quantity="1" unit="character"/>
+                    <lb n="4"/><num value="26">ϛκ</num> <w lemma="ἡμέρα"><expan><abbr>ἡ</abbr><ex>μερῶν</ex></expan></w></date> <gap reason="lost" quantity="1" unit="character"/>
                 </ab>
 </div>
          

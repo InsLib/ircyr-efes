@@ -120,11 +120,11 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="a" type="textpart"><ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><space quantity="1" unit="character"/> <orig>Υ</orig> <space quantity="1" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <space quantity="1" unit="character"/> <orig>Υ</orig> <space quantity="1" unit="character"/>
                     <orig>Τ</orig> <space quantity="1" unit="character"/> <orig>Η</orig> <space quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg  part="F"><unclear>ο</unclear>υιανὸς</seg></name></persName> <w>ἐφήβαρχος</w> 
                 </ab></div><div subtype="part" n="b" type="textpart"><ab>
-                   <lb n="1"/><space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Εὐφροσυν-"><seg part="I">Εὐφρο<supplied reason="lost">συν</supplied></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/></ab>
+                   <lb n="1"/> <space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Εὐφροσυν-"><seg part="I">Εὐφρο<supplied reason="lost">συν</supplied></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/></ab>
 </div>
 </div>
          

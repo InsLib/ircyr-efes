@@ -130,7 +130,7 @@
                 <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                 <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ιδ<unclear>οι</unclear>εκλ</orig><gap reason="lost" extent="unknown" unit="character"/>
                 <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ι</unclear>υραδικω<unclear>ο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
-                <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><space quantity="1" unit="character"/> <w lemma="ἔτος">ἐτῶ<supplied reason="lost">ν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
+                <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <space quantity="1" unit="character"/> <w lemma="ἔτος">ἐτῶ<supplied reason="lost">ν</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
             </ab>
 </div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p>...  </p></div>

@@ -125,7 +125,7 @@
             <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Ἐρώτιος">Ἐρωτίω</name> <w lemma="ὁ">τοῦ</w>
                     <lb n="2"/><persName type="attested"><name nymRef="Δωσίθεος">Δωσιθέου</name></persName></persName> <w lemma="τίς">τίς</w>
-                    <lb n="3"/><w>κ’</w> <w lemma="ἄν">ἄν</w> <w>ἀνύξη</w>
+                    <lb n="3"/> <w>κ’</w> <w lemma="ἄν">ἄν</w> <w>ἀνύξη</w>
                <w>ἕχ<unclear>σ</unclear><supplied reason="omitted">ε</supplied>ι<lb n="4" break="no"/><del rend="erasure">τ<unclear>α</unclear>ν</del></w> 
                <w><del rend="erasure">ἀρ<supplied reason="lost">αν</supplied></del></w>
                <gap reason="lost" extent="unknown" unit="character"><certainty match=".." locus="name" cert="low"/></gap>

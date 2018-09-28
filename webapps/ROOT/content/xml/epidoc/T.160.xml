@@ -139,7 +139,7 @@
                         <persName type="attested"><name nymRef="Κρίτων">Κρίτων</name></persName>
                     </ab></div><div subtype="part" n="ii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Τήλεφος"><del rend="erasure">Τήλ</del>εφος</name>
-                            <persName type="attested"><name nymRef="Τήλεφος">Τηλέφω</name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                            <persName type="attested"><name nymRef="Τήλεφος">Τηλέφω</name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="part" n="iii" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="56">νϛ</num> 

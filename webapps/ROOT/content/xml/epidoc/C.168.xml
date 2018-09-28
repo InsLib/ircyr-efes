@@ -117,13 +117,13 @@
 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><persName type="attested"><name nymRef="Lucius"><seg part="I"><expan><abbr>L</abbr><ex>uci</ex></expan></seg></name> 
-                    <name nymRef="Appius">A<unclear>pp</unclear><supplied reason="lost">i</supplied></name></persName><gap reason="lost" quantity="8" unit="character" precision="low"/>
+                    <name nymRef="Appius">A<unclear>pp</unclear><supplied reason="lost">i</supplied></name></persName> <gap reason="lost" quantity="8" unit="character" precision="low"/>
                     <lb n="2"/><w lemma="ueteranus" part="I"><expan><abbr>uet</abbr><ex>eran</ex></expan></w> 
                     <w lemma="legio">leg<supplied reason="lost">ionis</supplied></w> <supplied reason="lost"><num value="10">X</num> </supplied>
-                    <lb n="3"/><w>Fretens<unclear>i</unclear><supplied reason="lost">s</supplied></w> <gap reason="lost" quantity="5" unit="character" precision="low"/>                    
-                    <lb n="4"/><space quantity="1" unit="character"/> 
+                    <lb n="3"/> <w>Fretens<unclear>i</unclear><supplied reason="lost">s</supplied></w> <gap reason="lost" quantity="5" unit="character" precision="low"/>                    
+                    <lb n="4"/> <space quantity="1" unit="character"/> 
                     <w lemma="annus">anno<unclear>r</unclear><supplied reason="lost">um</supplied></w> <gap reason="lost" quantity="5" unit="character" precision="low"/>
-                    <lb n="5"/><space quantity="1" unit="character"/>
+                    <lb n="5"/> <space quantity="1" unit="character"/>
                     <w lemma="uictor"><unclear>uicto</unclear><supplied reason="lost">r</supplied></w>
                     <lb n="5a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>

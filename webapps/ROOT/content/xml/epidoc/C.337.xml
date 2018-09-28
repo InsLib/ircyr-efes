@@ -125,7 +125,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w>ου</w><gap reason="illegible" quantity="2" unit="character"/>
-                    <lb n="2"/><space extent="unknown" unit="character"/> <w>νεος</w>
+                    <lb n="2"/> <space extent="unknown" unit="character"/> <w>νεος</w>
                 </ab>
 </div>
          

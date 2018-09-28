@@ -131,13 +131,13 @@
                             <persName type="attested"><name nymRef="Πραξιτέλης">Πραξιτέλης</name></persName>
                         </ab></div>
             <div subtype="part" n="ii" type="textpart"><ab>
-                           <lb n="1"/><persName type="attested"><name nymRef="Διφάνης"><seg part="I">Δ<unclear>ιφαν</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                           <lb n="1"/><persName type="attested"><name nymRef="Διφάνης"><seg part="I">Δ<unclear>ιφαν</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                        </ab></div>
             <div subtype="part" n="iii" type="textpart"><ab>
                            <lb n="1"/><orig><unclear>Ν</unclear>χωρα</orig>
                        </ab></div><div subtype="part" n="iv" type="textpart"><ab>
                          <lb n="1"/><persName type="attested"><name nymRef="Παυσανίας">Π<unclear>α</unclear>υσανίας</name></persName>
-                         <persName type="attested"><name nymRef="Ἀρ-"><seg part="I">Ἀρ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                         <persName type="attested"><name nymRef="Ἀρ-"><seg part="I">Ἀρ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                      </ab>
 </div>
 </div>

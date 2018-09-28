@@ -121,7 +121,7 @@
                     <lb n="1"/><persName type="attested" key="lgpn:V1-64556"><name nymRef="Πόπλιος"><expan><abbr>Π</abbr><ex>όπλιος</ex></expan></name>
                     <lb n="2"/><name nymRef="Κανάραδης">Κανά<subst><del><unclear>π</unclear></del><add place="overstrike"><unclear>ρ</unclear></add></subst>ης</name></persName>
                     <lb n="3"/><orig>δ γ φ</orig> 
-                    <lb n="3a"/><space quantity="1" unit="line"/>
+                    <lb n="3a"/> <space quantity="1" unit="line"/>
                     <lb n="4"/><persName type="attested" key="lgpn:V1-65900"><name nymRef="Φιλαράδης">Φιλαρ<unclear>ά</unclear>δης</name></persName>
                 </ab>
 </div>

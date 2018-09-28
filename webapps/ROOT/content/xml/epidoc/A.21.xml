@@ -129,7 +129,7 @@
                     <lb n="1"/>
                     <gap reason="lost" extent="unknown" unit="character"/><orig>ικο</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><gap reason="illegible" quantity="1" unit="character"/><orig><unclear>τι</unclear></orig><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><space quantity="1" unit="character"/> <orig>σπ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/> <space quantity="1" unit="character"/> <orig>σπ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
 </div>

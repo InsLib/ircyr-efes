@@ -128,9 +128,9 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="divine" key="kyrios"><w>Θεὸς</w> </persName>
-                    <lb n="2"/><w>βοηθὸς</w> 
+                    <lb n="2"/> <w>βοηθὸς</w> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-64058"><name nymRef="Ἡσύχιος">Ἡσυχίῳ </name></persName>
-                    <lb n="4"/><w>διὰ</w> <w>πάν<lb n="5" break="no"/>τος</w>
+                    <lb n="4"/> <w>διὰ</w> <w>πάν<lb n="5" break="no"/>τος</w>
                 </ab>
 </div>
          

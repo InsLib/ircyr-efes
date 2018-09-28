@@ -131,7 +131,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><w>εὐτυχῶς</w> <persName type="attested" key="lgpn:V1-64058"><name nymRef="Ἠσύχιος">Ἠσυχίῳ</name></persName> <w>ἐν</w>
+                    <lb n="1"/> <w>εὐτυχῶς</w> <persName type="attested" key="lgpn:V1-64058"><name nymRef="Ἠσύχιος">Ἠσυχίῳ</name></persName> <w>ἐν</w>
                         <persName type="divine" key="kyrios"><w>θεῷ</w></persName> <w>διὰ</w> <w>πάντος</w> <w>αὔξη</w> <w>βίου</w>
                 </ab>
          </div>

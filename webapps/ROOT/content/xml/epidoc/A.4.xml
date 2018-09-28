@@ -151,7 +151,7 @@
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/>
                     <supplied reason="lost"><w lemma="ὁ">τοῦ</w></supplied>
                     <w><supplied reason="lost">λαμ</supplied>προτάτου</w>
-                    <lb n="6"/><supplied reason="lost" cert="low"><space quantity="3" unit="character"/>
+                    <lb n="6"/><supplied reason="lost" cert="low"> <space quantity="3" unit="character"/>
                         <w>ἡγεμόνος</w> <space quantity="3" unit="character"/></supplied>
                 </ab>
          </div>

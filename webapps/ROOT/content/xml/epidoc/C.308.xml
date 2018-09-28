@@ -133,8 +133,8 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-65417"><name nymRef="Ποσειδώνιος"><supplied reason="lost">Ποσει</supplied>δώνιος</name> <persName type="attested" key="lgpn:V1-65418"><name nymRef="Ποσειδώνιος">Ποσειδωνίω</name></persName></persName>
-                    <lb n="2"/><w><supplied reason="lost">ἱερατ</supplied><unclear>ε</unclear>ύων</w> <persName type="divine" key="dionysus"><name nymRef="Διόνυσος">Διόνυσον</name>
-                    <lb n="3"/><w><supplied reason="lost">Χ</supplied><unclear>α</unclear>ριδώταν</w></persName>
+                    <lb n="2"/> <w><supplied reason="lost">ἱερατ</supplied><unclear>ε</unclear>ύων</w> <persName type="divine" key="dionysus"><name nymRef="Διόνυσος">Διόνυσον</name>
+                    <lb n="3"/> <w><supplied reason="lost">Χ</supplied><unclear>α</unclear>ριδώταν</w></persName>
                 </ab>
 </div>
          

@@ -121,7 +121,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="divine" key="zeus"><name nymRef="Ζεύς">Διὶ</name> <placeName type="ethnic"><w lemma="Ὀλύμπιος">Ὀλυμπίῳ</w></placeName></persName>
-                    <lb n="2"/><w>θεῷ</w> <w>ἐπηκόῳ</w>
+                    <lb n="2"/> <w>θεῷ</w> <w>ἐπηκόῳ</w>
                     <lb n="3"/><persName type="attested"><name nymRef="Αὐρήλιος">Αὐρήλιος</name> 
                     <lb n="4"/> <name nymRef="Ῥοῦφος">Ῥοῦφος</name></persName> <w>ἀρχι<lb n="5" break="no"/>τέκτων</w> <w>εὐ<lb n="6" break="no"/>χὴν</w> <w>ἀπέδωκα</w>
                 </ab>

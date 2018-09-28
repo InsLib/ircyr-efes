@@ -128,7 +128,7 @@
                     <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="17">ιζ</num> <persName type="attested"><name nymRef="Ἀρταφάν">Ἀρταφὰ<supplied reason="lost">ν</supplied></name>
                      <lb n="5"/><name nymRef="Γάϊος">Γαΐου</name></persName>
-                     <lb n="6"/><w>φίλοι</w>
+                     <lb n="6"/> <w>φίλοι</w>
                 </ab>
 </div>
          <div type="apparatus">

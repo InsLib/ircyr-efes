@@ -122,7 +122,7 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Αἰάλαν">Αἰάλαν</name> 
                     <lb n="2"/><persName type="attested"><name nymRef="Αἰάλαν">Αἰαλάντος</name></persName></persName>
-                    <lb n="3"/><space quantity="3" unit="character"/> <date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
+                    <lb n="3"/> <space quantity="3" unit="character"/> <date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <space quantity="1" unit="character"/> <num value="60">ξ</num> </date> <space quantity="3" unit="character"/>
                     <lb n="4"/><persName type="attested"><name nymRef="Πελήα">Πελήα</name> <persName type="attested"><name nymRef="Σώσις">Σώσις</name></persName></persName>  
                     <lb n="5"/><date type="life-span" dur="P1Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex cert="low">ἐτῶν</ex></expan></w>
@@ -134,7 +134,7 @@
                     <date type="life-span" dur="P52Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="52">νβ</num> </date> 
                     <lb n="9"/><persName type="attested"><name nymRef="Αἰάλαν">Αἰάλαν</name> <persName type="attested"><name nymRef="Ἀρίστιππος">Ἀριστίππω</name></persName></persName>
-                    <lb n="10"/><space quantity="3" unit="character"/>
+                    <lb n="10"/> <space quantity="3" unit="character"/>
                     <date type="life-span" dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="25">κε</num> <space quantity="3" unit="character"/></date>
                 </ab>

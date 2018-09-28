@@ -124,7 +124,7 @@
 <ab>
                      <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="15">ιε</num> 
-                    <persName type="attested"><name nymRef="Ἀρίμμαν">Ἀρ<supplied reason="lost" cert="low">ίμμα</supplied><lb n="2" break="no"/>ν</name> <persName type="attested"><name nymRef="Καπ-"><seg part="I">Καπ</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <persName type="attested"><name nymRef="Ἀρίμμαν">Ἀρ<supplied reason="lost" cert="low">ίμμα</supplied><lb n="2" break="no"/>ν</name> <persName type="attested"><name nymRef="Καπ-"><seg part="I">Καπ</seg></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
    <lb n="2a"/><gap reason="lost" quantity="1" unit="line"/>
                 </ab>
 </div>

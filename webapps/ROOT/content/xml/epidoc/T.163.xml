@@ -138,7 +138,7 @@
                     </ab></div>
             <div subtype="fragment" n="iii" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="40">μ</num> <persName type="attested"><name nymRef="Φιλ-"><seg part="I">Φιλ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <num value="40">μ</num> <persName type="attested"><name nymRef="Φιλ-"><seg part="I">Φιλ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div subtype="fragment" n="iv" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 

@@ -117,14 +117,14 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><persName type="attested"><name nymRef="Κ-"><seg part="I">Κ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><persName type="attested"><name nymRef="Ο-"><seg part="I">Ο</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><persName type="attested"><name nymRef="Κλ-"><seg part="I">Κλ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><persName type="attested"><name nymRef="Φλ-"><seg part="I">Φλ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><persName type="attested"><name nymRef="Ἀγχ-"><seg part="I">Ἀγχ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><persName type="attested"><name nymRef="Ἀγχ-"><seg part="I">Ἀγχ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="7"/><persName type="attested"><name nymRef="Κλ-"><seg part="I">Κλ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="8"/><persName type="attested"><name nymRef="Αν-"><seg part="I">Αν-</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name nymRef="Κ-"><seg part="I">Κ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><persName type="attested"><name nymRef="Ο-"><seg part="I">Ο</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><persName type="attested"><name nymRef="Κλ-"><seg part="I">Κλ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><persName type="attested"><name nymRef="Φλ-"><seg part="I">Φλ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5"/><persName type="attested"><name nymRef="Ἀγχ-"><seg part="I">Ἀγχ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/><persName type="attested"><name nymRef="Ἀγχ-"><seg part="I">Ἀγχ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="7"/><persName type="attested"><name nymRef="Κλ-"><seg part="I">Κλ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="8"/><persName type="attested"><name nymRef="Αν-"><seg part="I">Αν-</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="8a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
 </div>

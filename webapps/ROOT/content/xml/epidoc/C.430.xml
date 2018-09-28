@@ -118,16 +118,16 @@
                         <lb n="1"/><persName type="emperor" key="vespasianus"><w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar">Cae<lb n="2" break="no"/>sar</name>
                     <name nymRef="Vespasianus">Vespasi<lb n="3" break="no"/>anus</name>
                     <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName> <expan><w><abbr>pont</abbr><ex>ifex</ex></w> 
-                    <lb n="4"/><w><abbr>max</abbr><ex>imus</ex></w></expan> <expan><w><abbr>trib</abbr><ex>unicia</ex></w>
+                    <lb n="4"/> <w><abbr>max</abbr><ex>imus</ex></w></expan> <expan><w><abbr>trib</abbr><ex>unicia</ex></w>
                     <w><abbr>pot</abbr><ex>estate</ex></w></expan> <num value="4">IIII</num>
-                    <lb n="5"/><w><expan><abbr>imp</abbr><ex>erator</ex></expan></w>
+                    <lb n="5"/> <w><expan><abbr>imp</abbr><ex>erator</ex></expan></w>
                     <num value="8">VIII</num> <expan><w lemma="pater"><abbr>p</abbr><ex>ater</ex></w> 
                     <w lemma="patria"><abbr>p</abbr><ex>atriae</ex></w></expan> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
                     <num value="4">IIII</num>
                     <lb n="6"/><w lemma="per">per</w> <persName type="attested"><name nymRef="Quintus"><expan><abbr>Q</abbr><ex>uintum</ex></expan></name> <name nymRef="Paconius">Paconi<lb n="7" break="no"/>um</name>
-                    <name nymRef="Agrippinus">Agrippinum</name></persName><lb n="8"/><w><expan><abbr>leg</abbr><ex>atum</ex></expan></w>
+                    <name nymRef="Agrippinus">Agrippinum</name></persName><lb n="8"/> <w><expan><abbr>leg</abbr><ex>atum</ex></expan></w>
                     <w lemma="suus">suum</w> <expan><w><abbr>P</abbr><ex>opulo</ex></w> <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName></expan> 
-                    <w lemma="res">res<lb n="9" break="no"/><space quantity="1" unit="character"/>tituit</w> <space quantity="1" unit="character"/> 
+                    <w lemma="res">res<lb n="9" break="no"/> <space quantity="1" unit="character"/>tituit</w> <space quantity="1" unit="character"/> 
                 </ab></div><div subtype="face" n="b" xml:lang="grc" type="textpart"><ab>
                         <lb n="1"/><persName type="emperor" key="vespasianus"><w>Αὐτοκράτωρ</w><lb n="2"/><name nymRef="Καῖσαρ">Καῖσαρ</name> <name nymRef="Οὐεσπασιανός">Οὐεσ<lb n="3" break="no"/>πασιανὸς</name></persName>
                         <w>ἀρχιε<lb n="4" break="no"/>ρεὺς</w>
@@ -139,8 +139,8 @@
                         <name nymRef="Πακώνιος">Πα<lb n="9" break="no"/><supplied reason="lost">κ</supplied>ωνίου</name>
                         <name nymRef="Ἀγριππῖνος">Ἀγριππεί<lb n="10" break="no"/><unclear>ν</unclear>ου</name></persName> <w>ἰδίου</w> <w>πρεσ<lb n="11" break="no"/>βευτοῦ</w>
                         <w><expan><abbr>δ</abbr><ex>ήμῳ</ex></expan></w>
-                        <placeName type="ethnic"><w lemma="Ῥωμαῖος">Ῥωμαίων</w></placeName> <space extent="character"/><lb n="12"/><w>ἀποκατέ <space extent="character"/>σ
-                        <lb n="12" break="no"/><space extent="character"/>τησεν</w> <space extent="character"/>
+                        <placeName type="ethnic"><w lemma="Ῥωμαῖος">Ῥωμαίων</w></placeName> <space extent="character"/><lb n="12"/> <w>ἀποκατέ <space extent="character"/>σ
+                        <lb n="12" break="no"/> <space extent="character"/>τησεν</w> <space extent="character"/>
                 </ab>
 </div>
 </div>

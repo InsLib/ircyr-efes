@@ -119,7 +119,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-64441"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name> <name nymRef="Ἴστρος">Ἴστρος</name></persName> <w>τοῖς</w> <w>θεοῖς</w>
-                    <lb n="2"/><w>ἀπέδωκε</w> <w>τὴν</w> <w>θυσίαν</w>.
+                    <lb n="2"/> <w>ἀπέδωκε</w> <w>τὴν</w> <w>θυσίαν</w>.
                 </ab>
 </div>
          

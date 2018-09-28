@@ -142,7 +142,7 @@
                         <w>γυ<lb n="5" break="no"/>μνασιαρχούνων</w> <persName type="attested" key="lgpn:V1-61313"><name nymRef="Θεόδωρος">θεοδώρου</name> <w lemma="ὁ">τοῦ</w> <persName type="attested" key="lgpn:V1-61504"><name nymRef="Νίκαιος">Ν<supplied reason="lost">ι</supplied><lb n="6" break="no"/>καίου</name></persName> </persName>,
                         <persName type="attested" key="lgpn:V1-61201"><name nymRef="Δεξικράτης">Δεξικ<unclear>ρ</unclear>άτους</name> <w lemma="ὁ">τοῦ</w> <persName type="attested" key="lgpn:V1-61561"><name nymRef="Πολυκλῆς">Πολύκλε<lb n="7" break="no"/>ους</name></persName></persName>, 
                         <persName type="attested" key="lgpn:V1-61653"><name nymRef="Τιμοῦχος">Τιμούχου</name> <w lemma="ὁ">τοῦ</w> <persName type="attested" key="lgpn:V1-61688"><name nymRef="Φιλόκωμος">Φιλοκώμου</name></persName></persName>, <w>ὑπ<supplied reason="lost">η</supplied></w>
-                        <lb n="8"/><w>ρετοῦντος</w> <persName type="attested" key="lgpn:V1-61214"><name nymRef="Δημήτριος">Δημητρίου</name> <w lemma="ὁ">τοῦ</w> <persName type="attested" key="lgpn:V1-61283"><name nymRef="Ζηνόδοτος">Ζην<unclear>ο</unclear><lb n="9" break="no"/>δότου</name></persName></persName>, 
+                        <lb n="8"/> <w>ρετοῦντος</w> <persName type="attested" key="lgpn:V1-61214"><name nymRef="Δημήτριος">Δημητρίου</name> <w lemma="ὁ">τοῦ</w> <persName type="attested" key="lgpn:V1-61283"><name nymRef="Ζηνόδοτος">Ζην<unclear>ο</unclear><lb n="9" break="no"/>δότου</name></persName></persName>, 
                         <w lemma="ὁ">τοὺς</w> <w>ὐπ'</w><w>αὐτοὺς</w> <w>ἐφηβεύσαντ<supplied reason="lost">ας</supplied></w>. 
                     </ab></div>
             <div subtype="section" n="b" type="textpart"><div subtype="column" n="i" type="textpart"><ab>
@@ -196,7 +196,7 @@
                         <lb n="20"/><persName type="attested" key="lgpn:V1-61131"><name nymRef="Ἀρίμμαν">Ἀρίμμαν</name></persName> <space quantity="12" unit="character"/>
                         <lb n="21"/><persName type="attested"><persName type="attested" key="lgpn:V1-61229"><name nymRef="Δωρίων">Δωρίωνος</name></persName></persName> 
                         <lb n="22"/><persName type="attested" key="lgpn:V1-61635"><name nymRef="Σωσίστρατος">Σωρίστ<supplied reason="lost">ρ</supplied>ατος</name></persName>
-                        <lb n="23"/><persName type="attested"><persName type="attested" key="lgpn:V1-61659"><name nymRef="Ὑπέρβασσας">Ὑπερ<supplied reason="lost" cert="low">βάσσου</supplied></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="23"/><persName type="attested"><persName type="attested" key="lgpn:V1-61659"><name nymRef="Ὑπέρβασσας">Ὑπερ<supplied reason="lost" cert="low">βάσσου</supplied></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div></div>
             <div subtype="section" n="c" type="textpart"><ab> 
                         <lb n="1"/><gap reason="lost" quantity="9" unit="character"/> <persName type="divine" key="zeus" cert="low"><w><supplied reason="lost">Πά</supplied><unclear>τρι</unclear>ε</w> 

@@ -124,7 +124,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60347"><name nymRef="Σωγένης">Σωγ<supplied reason="lost">ένης</supplied></name> 
-                        <gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="M"><unclear>κρ</unclear>ατ</seg></name></persName></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="M"><unclear>κρ</unclear>ατ</seg></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
@@ -134,10 +134,10 @@
                     </ab></div>
             <div subtype="fragment" n="iii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60346"><name nymRef="Ἀρίμμας">Ἀρίμμας</name></persName> <persName type="attested" key="lgpn:V1-60345"><name nymRef="῎Απρων">῎Απρων</name></persName> 
-            <persName type="attested"><name><seg part="I">Ἀπολ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>   
+            <persName type="attested"><name><seg part="I">Ἀπολ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>   
                     </ab></div>
             <div subtype="fragment" n="iv" type="textpart"><ab>
-                        <lb n="1"/><persName type="attested"><name nymRef="Κλεογένης" cert="low"><seg part="I">Κλεογ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><persName type="attested"><name nymRef="Κλεογένης" cert="low"><seg part="I">Κλεογ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
 </div>
 </div>

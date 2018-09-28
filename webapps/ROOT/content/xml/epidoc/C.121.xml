@@ -128,7 +128,7 @@
 <ab>
                     <lb n="1"/><persName type="emperor"><gap reason="lost" extent="unknown" unit="character"/><date><supplied reason="lost"><w lemma="δημαρχικός">δημαρχικῆς</w></supplied> <w>ἐξουσίας</w> <w lemma="ὁ">τὸ</w>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/></date><date><w><supplied reason="lost">αὐτοκράτορ</supplied>α</w> <w lemma="ὁ">τὸ</w> <w lemma="ἕβδομος">ἕβδομον</w></date></persName>
-                    <lb n="3"/> <supplied reason="lost"><space extent="unknown" unit="character"><certainty match=".." locus="name"/></space> <w lemma="ὁ">οἱ</w></supplied> <placeName type="ethnic"><w lemma="Κυραναῖος"><supplied reason="lost">Κυραν</supplied>αῖοι</w></placeName> <space quantity="1" unit="character"/>
+                    <lb n="3"/> <supplied reason="lost"> <space extent="unknown" unit="character"><certainty match=".." locus="name"/></space> <w lemma="ὁ">οἱ</w></supplied> <placeName type="ethnic"><w lemma="Κυραναῖος"><supplied reason="lost">Κυραν</supplied>αῖοι</w></placeName> <space quantity="1" unit="character"/>
                 </ab>
 </div>
          

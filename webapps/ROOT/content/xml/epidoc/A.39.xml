@@ -160,7 +160,7 @@
             <num value="21">κα</num> </date> 
                     <lb n="10"/> <date corresp="https://godot.date/id/YyiXejieQ9dgz48KjePXMf"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="100">ρ</num></date>
-            <persName type="attested"><name nymRef="Τι-"><seg part="I">Τι</seg></name></persName><gap reason="lost" atLeast="6" atMost="7" unit="character"/>
+            <persName type="attested"><name nymRef="Τι-"><seg part="I">Τι</seg></name></persName> <gap reason="lost" atLeast="6" atMost="7" unit="character"/>
                     <lb n="11"/><gap reason="lost" quantity="3" unit="character"/> 
                     <persName type="attested" key="lgpn:V1-62068"><name nymRef="Εἰρήνη">Εἰρήνη</name></persName>
                         <gap reason="lost" quantity="2" unit="character"/>

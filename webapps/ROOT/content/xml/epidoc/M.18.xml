@@ -127,9 +127,9 @@
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="70">ο</num>
                     <persName type="attested"><name nymRef="Θεο-νας">Θεο<gap reason="lost" quantity="2" unit="character"/><unclear>ι</unclear>ας</name> 
                     <persName type="attested" key="lgpn:V1-62013"><name nymRef="Ἀριστόδημος">Ἀρ<unclear>ι</unclear><supplied reason="lost">σ</supplied><unclear>τ</unclear>οδή<supplied reason="lost">μ</supplied>ω</name></persName></persName>
-                    <lb n="2"/><w>κεντυρ<supplied reason="lost">ίω</supplied><unclear>ν</unclear></w> 
+                    <lb n="2"/> <w>κεντυρ<supplied reason="lost">ίω</supplied><unclear>ν</unclear></w> 
                     <gap reason="lost" quantity="1" unit="character"/><orig>ησ<unclear>λ</unclear>υ<unclear>ακ</unclear>ος</orig>
-                    <lb n="3"/><w>ἥκω</w>
+                    <lb n="3"/> <w>ἥκω</w>
                 </ab>
 </div>
          <div type="apparatus">

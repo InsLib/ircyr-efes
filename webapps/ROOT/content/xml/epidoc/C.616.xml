@@ -119,7 +119,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
+<<<<<<< HEAD
                     <lb n="1"/><date corresp="https://godot.date/id/PT2a48jirmisCcxHkqbKc9"><w><supplied reason="lost">Ἔ</supplied>τουϲ</w> <num atLeast="10">ι<gap reason="lost" quantity="1" unit="character"/></num></date> 
+=======
+                    <lb n="1"/> <w><supplied reason="lost">Ἔ</supplied>τουϲ</w> <num atLeast="10">ι<gap reason="lost" quantity="1" unit="character"/></num> 
+>>>>>>> branch 'develop' of https://github.com/InsLib/ircyr-efes
             <lb n="2"/><persName type="attested" key="lgpn:VI-64740"><name nymRef="Κτησικλῆς">Κτηϲικ<unclear>λ</unclear><lb n="3" break="no"/>ῆϲ</name> <persName type="attested" key="lgpn:VI-64739"><name nymRef="Κτησικλῆς">Κτηϲι<unclear>κ</unclear><lb n="4" break="no"/><unclear>λεῦϲ</unclear></name></persName></persName>
                     <lb n="5"/><date type="life-span" dur="P70Y"><w><unclear>ἐτῶν</unclear></w> <num value="70">ο</num> </date>
                 </ab>

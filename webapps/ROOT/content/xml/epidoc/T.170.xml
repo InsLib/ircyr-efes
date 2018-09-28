@@ -146,7 +146,7 @@
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60265"><name nymRef="Κυραναῖος">Κυρα<unclear>ν</unclear><supplied reason="lost">αῖος</supplied></name></persName>
                     </ab></div>
              <div subtype="fragment" n="v" type="textpart"><ab>
-                        <lb n="1"/><persName type="attested"><name nymRef="Εὐ-"><seg part="I">Εὐ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><persName type="attested"><name nymRef="Εὐ-"><seg part="I">Εὐ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
              <div subtype="fragment" n="vi" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Δημήτριος"><seg part="I">Δη<supplied reason="lost">μητρι</supplied></seg></name></persName>
@@ -178,7 +178,7 @@
                     </ab></div>
              <div subtype="fragment" n="xiv" type="textpart"><ab>
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60282"><name nymRef="Πασίων">Πασίων</name></persName>
-                        <w>ἔθη</w> <persName type="attested"><name nymRef="Λυ-"><seg part="I">Λυ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <w>ἔθη</w> <persName type="attested"><name nymRef="Λυ-"><seg part="I">Λυ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
 </div>
 </div>

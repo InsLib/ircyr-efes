@@ -110,8 +110,8 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
                <ab>   
                     <lb n="1"/><persName type="attested" key="lgpn:V1-65746"><name nymRef="Σωτάδας">Σωτάδα</name></persName> <w>τὸ</w> <w>σαμᾷον</w> <w>καὶ</w> <w>τὸ</w> <w>δει
-                    <lb n="2" break="no"/><space extent="14" unit="character"/><unclear>π</unclear>νιστηρυον</w>
-                    <lb n="3"/><space extent="12" unit="character"/><orig>ΑΞΙΟΝ</orig>                           
+                    <lb n="2" break="no"/> <space extent="14" unit="character"/><unclear>π</unclear>νιστηρυον</w>
+                    <lb n="3"/> <space extent="12" unit="character"/><orig>ΑΞΙΟΝ</orig>                           
             </ab>
              </div>
 

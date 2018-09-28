@@ -160,10 +160,10 @@
                     </ab></div>
             <div subtype="section" n="e" type="textpart"><ab>
                         <lb n="1"/> <persName type="attested"><name nymRef="Ἀλέξων">Ἀλέξων</name> <orig>αμμ</orig> <persName type="attested" key="lgpn:V1-60852"><name nymRef="Ἀρίμμας">Ἀρίμμα</name></persName></persName>
-                        <lb n="2"/><w><orig>σ</orig></w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/> <w><orig>σ</orig></w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> 
                         <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="16">ςι</num>
+                        <num value="16">ϛι</num>
                     </ab>
                     </div>
             <div subtype="section" n="f" type="textpart">

@@ -119,7 +119,7 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>αν</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ου</orig> 
                     <space quantity="1" unit="character"/>
-                    <persName type="attested"><name nymRef="Εἰσιλ-"><seg part="I">Εἰσι<unclear>λ</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <persName type="attested"><name nymRef="Εἰσιλ-"><seg part="I">Εἰσι<unclear>λ</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

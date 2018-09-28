@@ -142,15 +142,15 @@
                     <lb n="1"/><persName type="emperor" key="tiberius"><name nymRef="Tiberius"><expan><abbr><supplied reason="lost">T</supplied><unclear>i</unclear></abbr><ex>berius</ex></expan></name>
                     <name nymRef="Iulius"><unclear>I</unclear>ulius</name> <persName type="emperor" key="augustus"><name nymRef="Augustus">Aug<supplied reason="lost">usti</supplied></name>
                     <supplied reason="lost"><name nymRef="Caesar">Caesaris</name></supplied></persName>  <supplied reason="lost"><w lemma="filius">filius</w></supplied> 
-                    <lb n="2"/><space quantity="1" unit="character"/> <w lemma="diuus">diui</w> <w lemma="nepos">nepos</w> 
-                    <persName type="emperor" key="juliuscaesar"><name nymRef="Caesar">Ca<supplied reason="lost">esaris</supplied></name></persName></persName><gap reason="lost" quantity="12" unit="character" precision="low"/>
-                    <lb n="3"/><space quantity="3" unit="character"/> 
-                    <lb n="4"/><space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name nymRef="Sufenas">Sufenas</name> 
+                    <lb n="2"/> <space quantity="1" unit="character"/> <w lemma="diuus">diui</w> <w lemma="nepos">nepos</w> 
+                    <persName type="emperor" key="juliuscaesar"><name nymRef="Caesar">Ca<supplied reason="lost">esaris</supplied></name></persName></persName> <gap reason="lost" quantity="12" unit="character" precision="low"/>
+                    <lb n="3"/> <space quantity="3" unit="character"/> 
+                    <lb n="4"/> <space quantity="1" unit="character"/> <persName type="attested"><name nymRef="Marcus"><expan><abbr>M</abbr><ex>arcus</ex></expan></name> <name nymRef="Sufenas">Sufenas</name> 
                     <name nymRef="Marcus"><expan><abbr>M</abbr><ex>arci</ex></expan></name> <w lemma="filius"><expan><abbr>f</abbr><ex>ilius</ex></expan></w> 
                     <name nymRef="Proculus">P<supplied reason="lost">roculus</supplied></name></persName>
                     <supplied reason="lost" cert="low"><w lemma="praefectus"><expan><abbr>praef</abbr><ex>ectus</ex></expan></w></supplied> 
                     <space quantity="1" unit="character"/>
-                    <lb n="5"/><space quantity="1" unit="character"/>  
+                    <lb n="5"/> <space quantity="1" unit="character"/>  
                     <w lemma="cohors"><expan><abbr>coh</abbr><ex>ortis</ex></expan></w> <placeName type="ethnic"><w lemma="Lusitanus">Lusitanor<unclear>u</unclear><supplied reason="lost">m</supplied></w></placeName> 
                     <gap reason="lost" quantity="12" unit="character" precision="low"/> <space quantity="1" unit="character"/>
          </ab>

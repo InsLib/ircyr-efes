@@ -134,7 +134,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="section" n="a" type="textpart"><ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Αὖλος">Αὔλου</name> <name nymRef="Καρτίλιος">Καρτιλίου</name>
-                    <lb n="2"/><space quantity="1" unit="character"/> <name nymRef="Καπίτων">Κα <g ref="symbols.xml#leaf"/> πίτωνοϲ</name></persName>
+                    <lb n="2"/> <space quantity="1" unit="character"/> <name nymRef="Καπίτων">Κα <g ref="symbols.xml#leaf"/> πίτωνοϲ</name></persName>
                 </ab></div>
             <div subtype="section" n="b" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6">ϛ</num> 
@@ -148,7 +148,7 @@
                        <num value="12">ιβ</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοι<supplied reason="lost">ὰ</supplied><unclear>κ</unclear></w></rs> <num value="27">κζ</num>
                         <lb n="2"/><persName type="attested"><name nymRef="Καρτιλία">Καρτιλ<supplied reason="lost">ί</supplied>α</name> 
                             <name nymRef="Πετρωνία">Π<unclear>ε</unclear><lb n="3" break="no"/>τρωνία</name></persName> 
-                        <lb n="4"/><space quantity="1" unit="character"/> 
+                        <lb n="4"/> <space quantity="1" unit="character"/> 
                        <date type="life-span" dur="P70Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> 
                         <num atLeast="70">ο<gap reason="lost" quantity="1" unit="character"/></num> </date>
                     </ab></div>

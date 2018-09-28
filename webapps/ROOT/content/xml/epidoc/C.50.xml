@@ -182,9 +182,9 @@
                         unit="character" quantity="3"/> <w>τόπος</w>
                     <lb n="29"/><persName type="attested" key=""><name nymRef="Ἀπολλώνιος"><supplied reason="lost">Ἀ</supplied><unclear>π</unclear>ολλω<supplied reason="lost">νίω</supplied></name></persName> <space 
                         unit="character" quantity="5"/> <w>τόπος</w>
-                    <lb n="30"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/></name></persName> <supplied reason="lost"><space 
+                    <lb n="30"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/></name></persName> <supplied reason="lost"> <space 
                         unit="character" extent="unknown"/></supplied> <w lemma="τόπος"><supplied reason="lost">τ</supplied>όπος</w>
-                    <lb n="31"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/></name></persName> <supplied reason="lost"><space unit="character" 
+                    <lb n="31"/><persName type="attested"><name><gap reason="lost" extent="unknown" unit="character"/></name></persName> <supplied reason="lost"> <space unit="character" 
                         extent="unknown"/></supplied> <w lemma="τόπος"><supplied reason="lost">τό</supplied><unclear>π</unclear>ος</w>
                     <lb n="31a"/><gap reason="lost" extent="unknown" unit="line"/> 
 

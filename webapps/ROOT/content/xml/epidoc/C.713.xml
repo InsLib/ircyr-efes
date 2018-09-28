@@ -132,7 +132,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div type="textpart" n="a">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Κλαυδία"><supplied reason="lost">Κλαυ</supplied><unclear>δ</unclear>ία</name> <name nymRef="Μ-"><seg part="I">Μ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Κλαυδία"><supplied reason="lost">Κλαυ</supplied><unclear>δ</unclear>ία</name> <name nymRef="Μ-"><seg part="I">Μ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
  <div type="textpart" n="b">

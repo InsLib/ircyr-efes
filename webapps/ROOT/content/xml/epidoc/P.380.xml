@@ -125,8 +125,8 @@
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>άϊος</ex></expan></name> <name nymRef="Πομπίλιος">Πομπίλιος</name> 
                     <lb n="2"/><name nymRef="Σύρος">Σύρος</name></persName> <w>βενεφι<lb n="3" break="no"/>κιάρις</w> <space quantity="3" unit="character"/> 
-                    <lb n="4"/><w>ἐστρατεύ<lb n="5" break="no"/>σατο</w> <num value="25">κε</num>
-                    <lb n="6"/><space quantity="3" unit="character"/> <date type="life-span" dur="P83Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am/></abbr><ex>ἐτῶν</ex></expan></w></supplied>
+                    <lb n="4"/> <w>ἐστρατεύ<lb n="5" break="no"/>σατο</w> <num value="25">κε</num>
+                    <lb n="6"/> <space quantity="3" unit="character"/> <date type="life-span" dur="P83Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am/></abbr><ex>ἐτῶν</ex></expan></w></supplied>
                     <num value="83"><unclear>π</unclear>γ</num> </date> <space quantity="3" unit="character"/>
                 </ab>
 </div>

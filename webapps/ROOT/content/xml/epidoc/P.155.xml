@@ -114,7 +114,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><head xml:lang="en">Text</head>
             <ab>
                 <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                <lb n="1"/><persName type="attested"><name nymRef="Γάϊος"><seg part="I"><expan><abbr><unclear>Γ</unclear></abbr><ex>αιο</ex></expan></seg></name> <name nymRef="Ἰούλιος"><seg part="I"><expan><abbr>Ἰουλ</abbr><ex>ιο</ex></expan></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                <lb n="1"/><persName type="attested"><name nymRef="Γάϊος"><seg part="I"><expan><abbr><unclear>Γ</unclear></abbr><ex>αιο</ex></expan></seg></name> <name nymRef="Ἰούλιος"><seg part="I"><expan><abbr>Ἰουλ</abbr><ex>ιο</ex></expan></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 <lb n="2"/><persName type="attested"><name nymRef="Μᾶρκος"><seg part="I"><expan><abbr>Μ</abbr><ex>αρκ</ex></expan></seg></name> <name nymRef="Ἰούλιος"><seg part="I"><expan><abbr>Ἰουλ</abbr><ex>ιο</ex></expan></seg></name>
                 <name nymRef="Κι-"><seg part="I">Κ<unclear>ι</unclear><gap reason="lost" extent="unknown" unit="character"/></seg></name></persName>
                 <lb n="3"/><persName type="attested"><name><seg part="I"><expan><abbr>Ἰουλ</abbr><ex>ιο</ex></expan></seg></name> 

@@ -129,7 +129,7 @@
                     </ab></div>
             <div subtype="fragment" n="b" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor"><w>ν</w> 
-                       <name nymRef="Γερμανικός">Γε<supplied reason="lost">ρμανικόν</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                       <name nymRef="Γερμανικός">Γε<supplied reason="lost">ρμανικόν</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
          </div><div subtype="graffiti" n="ii" type="textpart"><div subtype="fragment" n="a" type="textpart"><ab>
                         <lb n="1"/><w part="I"><unclear>Α</unclear>ὐτο</w> <gap reason="lost" extent="unknown" unit="character"/>

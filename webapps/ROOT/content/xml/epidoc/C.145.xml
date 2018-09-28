@@ -120,7 +120,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="divine" key="eunomia"><certainty locus="value" match="../@key" assertedValue="eunoia"/><name nymRef="Εὐνο-"><seg part="I">Εὐνο<unclear>ι</unclear></seg></name></persName><gap reason="lost" atLeast="2" atMost="3" unit="character"/>
+                    <lb n="1"/><persName type="divine" key="eunomia"><certainty locus="value" match="../@key" assertedValue="eunoia"/><name nymRef="Εὐνο-"><seg part="I">Εὐνο<unclear>ι</unclear></seg></name></persName> <gap reason="lost" atLeast="2" atMost="3" unit="character"/>
                 </ab>
 </div>
          

@@ -135,7 +135,7 @@
                     <persName type="attested" key="lgpn:V1-60604"><name nymRef="Σεκόνδα"><supplied reason="lost">Σε</supplied>
                     <lb n="3" break="no"/><unclear>κόνδα</unclear></name> 
                     <lb n="4"/><persName type="attested" key="lgpn:V1-60605"><name nymRef="Γάϊος">Γαΐ<unclear>ω</unclear></name></persName></persName>
-                    <lb n="5"/><w><supplied reason="lost">ἐτ</supplied>ῶ<supplied reason="lost">ν</supplied></w> 
+                    <lb n="5"/> <w><supplied reason="lost">ἐτ</supplied>ῶ<supplied reason="lost">ν</supplied></w> 
                     <gap reason="lost" quantity="1" unit="character"/>
                 </ab>
 </div>

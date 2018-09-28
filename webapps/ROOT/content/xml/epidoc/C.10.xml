@@ -129,7 +129,7 @@
          <div type="edition" xml:lang="la" xml:space="preserve">
             <div subtype="fragment" n="a" type="textpart">
                <ab>
-                    <lb n="1"/><space quantity="1" unit="character"/>
+                    <lb n="1"/> <space quantity="1" unit="character"/>
                     <w lemma="imperator"><expan><abbr>Im<unclear>p</unclear></abbr><ex>erator</ex></expan></w>
                     <gap reason="lost" extent="unknown" unit="character"/>
          </ab>
@@ -144,10 +144,10 @@
             </div>
             <div subtype="fragment" n="c" type="textpart">
                <ab>
-                        <lb n="1"/><space quantity="1" unit="character"/>
+                        <lb n="1"/> <space quantity="1" unit="character"/>
                         <persName type="emperor" key="nerva"><w lemma="diuus">diui</w> <name nymRef="Nerva">Nerva<unclear>e</unclear></name>
                         <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><space/> <w lemma="pontifex" part="I"><expan><abbr>pontif</abbr><ex>ic-</ex></expan></w>
+                        <lb n="2"/> <space/> <w lemma="pontifex" part="I"><expan><abbr>pontif</abbr><ex>ic-</ex></expan></w>
                         <w part="I"><expan><abbr>max</abbr><ex>im-</ex></expan></w>
                         <date><w lemma="tribunicius"><unclear>t</unclear><supplied reason="lost">ribunicia</supplied></w>
                         <w lemma="potestas"><supplied reason="lost">potestate</supplied></w>

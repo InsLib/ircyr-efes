@@ -135,7 +135,7 @@
          <div type="edition" xml:lang="la" xml:space="preserve"><div subtype="section" n="a" type="textpart"><ab>
                         <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/> 
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>o</unclear></w>
-                        <persName type="emperor" key="titus"><name nymRef="Titus">Tito</name> <name nymRef="Caesar"><unclear>C</unclear><supplied reason="lost">aesar</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
+                        <persName type="emperor" key="titus"><name nymRef="Titus">Tito</name> <name nymRef="Caesar"><unclear>C</unclear><supplied reason="lost">aesar</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
                         <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="populus"><unclear>p</unclear>opuli</w> 
                         <placeName type="ethnic"><w lemma="Romanus"><unclear>R</unclear>omani</w></placeName> <gap reason="lost" extent="unknown" unit="character"/> 
                         <lb n="2a"/><gap reason="lost" extent="unknown" unit="line"/> 

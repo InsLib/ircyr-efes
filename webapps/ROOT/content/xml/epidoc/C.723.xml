@@ -128,8 +128,8 @@
                     <lb n="2"/><w lemma="ὁ">τὴν</w> <orig><unclear>τ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><orig>γιον</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><orig>τε<unclear>ον</unclear></orig> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5"/><space quantity="1" unit="character"/> <orig>τ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="5a"/><space quantity="1" unit="line"/>
+                    <lb n="5"/> <space quantity="1" unit="character"/> <orig>τ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="5a"/> <space quantity="1" unit="line"/>
                 </ab>
 </div>
          <div type="apparatus">

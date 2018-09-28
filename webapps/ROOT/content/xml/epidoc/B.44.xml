@@ -116,10 +116,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><w>τῳ</w> <orig>ε</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/> <w>τῳ</w> <orig>ε</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><orig>κιννα</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><w part="I">εὐτυχ</w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><persName type="attested"><name><seg type="F">λεον</seg></name></persName><space quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><persName type="attested"><name><seg type="F">λεον</seg></name></persName> <space quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
          </div>
          

@@ -102,10 +102,10 @@
             <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>Ἔτουϲ</ex></expan></w> 
                <num value="100"><unclear cert="low">ρ</unclear></num>, <w>ἐπὶ</w> <w><unclear>ἱ</unclear>αρέ
             <lb n="2" break="no"/><unclear>ω</unclear>ϲ</w> <persName type="attested"><name nymRef="Μάξιμος">Μαξίμω</name></persName>,
-            <lb n="3"/><rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χυαχὶ</w></rs> <num value="26">ςκ</num>,
+            <lb n="3"/><rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χυαχὶ</w></rs> <num value="26">ϛκ</num>,
             <lb n="4"/><persName type="attested"><name nymRef="Λύων"><unclear>Λύ</unclear>ων</name>
                <persName type="attested"><name nymRef="Ἀνδροκλῆς">Ἀν<lb n="5" break="no"/>δροκλεῦϲ</name></persName></persName>
-            <lb n="6"/><space extent="unknown" unit="character"/>
+            <lb n="6"/> <space extent="unknown" unit="character"/>
                <date type="life-span" dur="P87Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                   <num value="21">κα</num> </date>
             </ab>

@@ -147,35 +147,35 @@
                <persName type="attested" key="lgpn:V1-63395"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></name>
                     <name nymRef="Κλαύδιος"><expan><abbr>Κλ</abbr><ex>αυδίου</ex></expan></name>
                     <lb n="8"/><name nymRef="Βάττος">Βάττου</name></persName>
-                    <lb n="9"/><w>παραϲτήσαντοϲ</w> <w lemma="λίτρα"><expan><abbr>λ</abbr><ex>ίτρας</ex></expan></w> <!-- check -->
+                    <lb n="9"/> <w>παραϲτήσαντοϲ</w> <w lemma="λίτρα"><expan><abbr>λ</abbr><ex>ίτρας</ex></expan></w> <!-- check -->
                     <num value="17">ιζ</num> <g ref="symbols.xml#onchias"/> <num value="8">η</num> <persName type="attested"><name nymRef="Βάττος">Βάττῳ</name></persName>
                     <lb n="10"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name>
                        <name nymRef="Ἀντώνιος">Ἀντωνίου</name> 
                     <name nymRef="Σεκοῦνδος">Σεκούνδου</name></persName> <w>νεωκόρου</w> <w>ἱερειῶν</w> 
                    <persName type="divine" key="artemis"><name nymRef="Ἄρτεμις">Ἀρτέμ<unclear>ι</unclear>
-                      <lb n="11" break="no"/><space quantity="12" unit="character"/>δος</name></persName> <w lemma="ὅδε">τῶνδε</w><space quantity="12" unit="character"/>
+                      <lb n="11" break="no"/> <space quantity="12" unit="character"/>δος</name></persName> <w lemma="ὅδε">τῶνδε</w> <space quantity="12" unit="character"/>
                     <lb n="12"/><persName type="attested" key="lgpn:V1-63019"><name nymRef="Κλαυδία"><expan><abbr>Κλ</abbr><ex>αυδία</ex></expan></name>
                        <name nymRef="Ἀράτα">Ἀράτα</name></persName> <space quantity="10" unit="character"/>
                     <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="3">γ</num>
                     <lb n="13"/><persName type="attested" key="lgpn:V1-63020"><name nymRef="Μουνατία">Μουνατία</name>
-                      <name nymRef="Ἀράτα">Ἀράτα</name></persName><space quantity="7" unit="character"/>
+                      <name nymRef="Ἀράτα">Ἀράτα</name></persName> <space quantity="7" unit="character"/>
                <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan><del rend="erasure">ε</del></w> <num value="8">η</num>
                     <lb n="14"/><persName type="attested" key="lgpn:V1-65208"><name nymRef="Ὀλυμπιάς">Ὀλυμπιὰ<unclear>ϲ</unclear></name>
-                       <persName type="attested" key="lgpn:V1-64539"><name nymRef="Καρνεάδης">Κ<unclear>α</unclear>ρνεάδου</name></persName></persName><space quantity="5" unit="character"/>
+                       <persName type="attested" key="lgpn:V1-64539"><name nymRef="Καρνεάδης">Κ<unclear>α</unclear>ρνεάδου</name></persName></persName> <space quantity="5" unit="character"/>
                <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="5">ε</num> 
                     <lb n="15"/><persName type="attested"><name nymRef="Ἀντωνία">Ἀντωνία</name> 
                        <name nymRef="Πρόκλα">Πρό<supplied reason="lost">κ</supplied><unclear>λ</unclear>α</name></persName> <space quantity="8" unit="character"/>
                <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="6">ϛ</num> 
-                    <lb n="16"/><persName type="attested" key="lgpn:V1-65838"><name nymRef="Ἀνχαρήνα">Ἀνχαρήνα</name> <name nymRef="Τειμώ">Τειμὼ</name></persName><space quantity="7" unit="character"/>
+                    <lb n="16"/><persName type="attested" key="lgpn:V1-65838"><name nymRef="Ἀνχαρήνα">Ἀνχαρήνα</name> <name nymRef="Τειμώ">Τειμὼ</name></persName> <space quantity="7" unit="character"/>
                <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="8">η</num> 
                     <lb n="17"/><persName type="attested"><name nymRef="Κλαυδία"><expan><abbr>Κλ</abbr><ex>αυδία</ex></expan></name>
-                       <name nymRef="Φαυστεῖνα">Φαυστεῖνα</name></persName><space quantity="7" unit="character"/>
+                       <name nymRef="Φαυστεῖνα">Φαυστεῖνα</name></persName> <space quantity="7" unit="character"/>
                     <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="6">ϛ</num> 
                     <lb n="18"/><persName type="attested" key="lgpn:V1-65782"><name nymRef="Τελεσώ">Τελεσὼ</name>
-                       <persName type="attested" key="lgpn:V1-64011"><name nymRef="Ἡγησίας">Ἡγησίου</name></persName></persName><space quantity="8" unit="character"/>
+                       <persName type="attested" key="lgpn:V1-64011"><name nymRef="Ἡγησίας">Ἡγησίου</name></persName></persName> <space quantity="8" unit="character"/>
                <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="6">ϛ</num> 
                     <lb n="19"/><persName type="attested" key="lgpn:V1-64453"><name nymRef="Ἀνχαρήνα">Ἀνχαρήνα</name> 
-                       <name nymRef="Καλιβώλα">Κ<unclear>α</unclear>λιβώλα</name></persName><space quantity="4" unit="character"/>
+                       <name nymRef="Καλιβώλα">Κ<unclear>α</unclear>λιβώλα</name></persName> <space quantity="4" unit="character"/>
                <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="5">ε</num> 
                     <lb n="20"/><persName type="attested"><name nymRef="Κλαυδία"><expan><abbr>Κλ</abbr><ex>αυδία</ex></expan></name>
                        <name nymRef="Πρόκλα">Πρόκλα</name></persName> <space quantity="10" unit="character"/>
@@ -184,25 +184,25 @@
                        <persName type="attested" key="lgpn:V1-639231"><name nymRef="Εὐφράνωρ"><unclear>Εὐ</unclear>φρανορο<supplied reason="lost">ς</supplied></name></persName></persName>
                     <space quantity="7" unit="character"/> <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="5">ε</num> 
                     <lb n="22"/><persName type="attested"><name nymRef="Κλαυδία"><expan><abbr>Κλ</abbr><ex>αυδία</ex></expan></name>
-                       <name nymRef="Φαυνίλλα">Φ<unclear>α</unclear>υνίλλ<unclear>α</unclear></name></persName><space quantity="8" unit="character"/> 
+                       <name nymRef="Φαυνίλλα">Φ<unclear>α</unclear>υνίλλ<unclear>α</unclear></name></persName> <space quantity="8" unit="character"/> 
                     <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="6">ϛ</num>
                     <w lemma="καί">καὶ</w> <w>βῶϲ</w> <w><expan><abbr>ὀν</abbr><ex>κίας</ex></expan></w> <num value="10">ι</num>
                     <w lemma="λίτρα"><expan><abbr>λ</abbr><ex>ίτρας</ex></expan></w> <num value="4"><unclear>δ</unclear></num> 
                     <lb n="23"/><persName type="attested" key="lgpn:V1-65209"><name nymRef="Ὀλυμπιάς">Ὀλυμπιὰϲ</name>
-                       <persName type="attested" key="lgpn:V1-64129"><name nymRef="Θεόφιλος">Θεοφίλου</name></persName></persName><space quantity="5" unit="character"/>
+                       <persName type="attested" key="lgpn:V1-64129"><name nymRef="Θεόφιλος">Θεοφίλου</name></persName></persName> <space quantity="5" unit="character"/>
                <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="3">γ</num> 
                     <lb n="24"/><persName type="attested" key="lgpn:V1-62854"><name nymRef="Ἀναξώ">Ἀναξὼ</name>
-                       <persName type="attested" key="lgpn:V1-63930"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name></persName></persName><space quantity="4" unit="character"/>
+                       <persName type="attested" key="lgpn:V1-63930"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name></persName></persName> <space quantity="4" unit="character"/>
                <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="3">γ</num> 
                     <lb n="25"/><persName type="attested"><name nymRef="Βηδία">Βη<unclear>δ</unclear>ία</name> 
-                       <name nymRef="Μαρεῖνα">Μαρεῖνα</name><space quantity="9" unit="character"/>
+                       <name nymRef="Μαρεῖνα">Μαρεῖνα</name> <space quantity="9" unit="character"/>
                     </persName> <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="3">γ</num>
                     <lb n="26"/><persName type="attested"><name nymRef="Φλαβία">Φλαβία</name> <name nymRef="Κυδιμάχη">Κυδι<space quantity="2" unit="character"/>μάχη</name></persName>
                <space quantity="3" unit="character"/> <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="4">δ</num>
                     <lb n="27"/><persName type="attested" key="lgpn:V1-64652"><name nymRef="Ἰουλία">Ἰουλία</name> <name nymRef="Κλεομήδα">Κλεομ<space quantity="2" unit="character"/>ήδα</name></persName>
                <space quantity="3" unit="character"/> <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="10">ι</num> 
                     <lb n="28"/><persName type="attested" key="lgpn:V1-64949"><name nymRef="Μεγώ">Μεγὼ</name>
-                       <persName type="attested" key="lgpn:V1-63792"><name nymRef="Εὔβουλος">Εὐβούλου</name></persName></persName><space quantity="6" unit="character"/>
+                       <persName type="attested" key="lgpn:V1-63792"><name nymRef="Εὔβουλος">Εὐβούλου</name></persName></persName> <space quantity="6" unit="character"/>
                <del rend="erasure"><orig>ο</orig></del> <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> 
                     <num value="4">δ</num> 
                     <lb n="29"/><persName type="attested" key="lgpn:V1-65144"><name nymRef="Φλαβία"><expan><abbr>Φλ</abbr><ex>αβία</ex></expan></name>
@@ -211,16 +211,16 @@
                     <lb n="30"/><persName type="attested"><name nymRef="Ἰουλία">Ἰουλία</name> <name nymRef="Φλακκίλλα">Φλακκίλλα</name></persName>
                <w lemma="λίτρα"><expan><abbr>λ</abbr><ex>ίτραν</ex></expan></w> <num value="1">α</num> 
                     <lb n="31"/><persName type="attested"><name nymRef="Φλαβία"><expan><abbr>Φλ</abbr><ex>αβία</ex></expan></name>
-                       <name nymRef="Ἰουστινίλλα">Ἰουϲτινίλλα</name></persName><space quantity="3" unit="character"/> 
+                       <name nymRef="Ἰουστινίλλα">Ἰουϲτινίλλα</name></persName> <space quantity="3" unit="character"/> 
                     <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="10">ι</num> 
                     <lb n="32"/><persName type="attested"><name nymRef="Σηστία">Ϲηϲτία</name> <name nymRef="Φαυστίλλα">Φαυϲτίλλα</name></persName> 
                     <space quantity="3" unit="character"/> <w><expan><abbr>ὀ<supplied reason="lost">γ</supplied></abbr><ex>κίας</ex></expan></w> 
             <num value="5"><unclear>ε</unclear></num> 
-                    <lb n="33"/><persName type="attested" key="lgpn:V1-63401"><name nymRef="Βελυδρία">Βελυδρία</name></persName><space quantity="10" unit="character"/>
+                    <lb n="33"/><persName type="attested" key="lgpn:V1-63401"><name nymRef="Βελυδρία">Βελυδρία</name></persName> <space quantity="10" unit="character"/>
                <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w> <num value="10"><unclear>ι</unclear></num> 
                     <lb n="34"/><persName type="attested" key="lgpn:V1-63395"><name nymRef="Βάττος">Βάττοϲ</name></persName>
                <w lemma="ὑπέρ">ὑπὲρ</w> <w lemma="ὁ">τῆϲ</w> <w lemma="πόλις">πόλεωϲ</w> <w><expan><abbr>ὀγ</abbr><ex>κίας</ex></expan></w>
-                    <num value="6"><unclear>ς</unclear></num>
+                    <num value="6"><unclear>ϛ</unclear></num>
                     <lb n="35"/><persName type="attested" key="lgpn:V1-62504"><name nymRef="Ἅβρολλα">Ἅβρο<unclear>λλ</unclear>α</name></persName>
                <w>ἔλα<unclear>φ</unclear>ον</w> <w lemma="καί">καὶ</w> <w>κάδιν</w>
                <w lemma="λίτρα"><expan><abbr>λ</abbr><ex>ίτραν</ex></expan></w> 

@@ -120,7 +120,7 @@
                     <lb n="1"/><persName type="divine" key="iatros"><name nymRef="Ἰατρός"><supplied reason="lost">Ἰατρῶι</supplied></name></persName> 
             <persName type="divine" key="iaso"><name nymRef="Ἰασώ"><supplied reason="lost">Ἰασ</supplied><unclear>ο</unclear>ῖ</name></persName> 
             <w>θεο<supplied reason="lost">ῖς</supplied></w> <w><supplied reason="lost">σωτῆρσι</supplied></w>
-                    <lb n="2"/><w><supplied reason="lost">ὑπὲρ</supplied></w>
+                    <lb n="2"/> <w><supplied reason="lost">ὑπὲρ</supplied></w>
             <persName type="emperor" key="antoninuspius"><w><supplied reason="lost">σωτηρίας</supplied></w> 
                     <w><supplied reason="lost">Αὐτοκράτορος</supplied></w> 
                <name nymRef="Καῖσαρ"><supplied reason="lost">Καίσαρος</supplied></name> 

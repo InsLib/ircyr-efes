@@ -117,7 +117,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="14">ιδ</num> <orig>ον</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15"><unclear>ι</unclear>ε</num> <persName type="attested"><name nymRef="Νυ-">Νυ<gap reason="lost" quantity="2" unit="character"/><seg part="M">ω</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15"><unclear>ι</unclear>ε</num> <persName type="attested"><name nymRef="Νυ-">Νυ<gap reason="lost" quantity="2" unit="character"/><seg part="M">ω</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="character"/> <date type="life-span" dur="P55Y"><num value="55">νε</num> </date><gap reason="lost" extent="unknown" unit="character"/>
               
                 </ab>

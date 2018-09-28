@@ -120,8 +120,8 @@
 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
                     <lb n="1"/><gap reason="lost" quantity="1" unit="character"/><orig>ΝΔ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><persName type="attested"><name nymRef="Φίλων" cert="low"><seg part="I">Φιλω<supplied reason="lost">ν</supplied></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><persName type="attested"><name nymRef="Πολυ-"><seg part="I">Πολυ</seg></name></persName><gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="2"/><persName type="attested"><name nymRef="Φίλων" cert="low"><seg part="I">Φιλω<supplied reason="lost">ν</supplied></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/><persName type="attested"><name nymRef="Πολυ-"><seg part="I">Πολυ</seg></name></persName> <gap reason="lost" quantity="3" unit="character"/>
                     <lb n="3a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
 </div>

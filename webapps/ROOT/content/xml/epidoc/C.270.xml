@@ -138,7 +138,7 @@
                     <lb n="1"/><persName type="attested" key="lgpn:V1-63158, lgpn:V1-65305"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> 
                     <name nymRef="Κλαύδιος">Κλαύδιος</name> <name nymRef="Ἀριστομένης">Ἀ<unclear>ριστομέ</unclear><lb n="2" break="no"/><unclear>ν</unclear>ης</name> <name nymRef="Μᾶγνος">Μᾶγνος</name></persName> 
    <w lemma="ὁ">ὁ</w> <w lemma="καί">καὶ</w>
-   <lb n="2a"/><space extent="1" unit="line"/>
+   <lb n="2a"/> <space extent="1" unit="line"/>
                     <lb n="3"/><persName type="attested"><name nymRef="Περικλῆς">Περικλῆς</name></persName> <w>ἱαρειτεύων</w>
                     <lb n="4"/><w lemma="ἐκ">ἐκ</w> <w>τᾶν</w> <surplus><w>ταν</w></surplus> <w>τῶ</w> 
                     <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλω<lb n="5" break="no"/>νος</name></persName> <w lemma="πρόσοδος">προσόδων</w>

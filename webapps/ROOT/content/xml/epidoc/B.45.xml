@@ -145,7 +145,7 @@
                                 <lb n="2"/><name nymRef="Γερμανικός">Γερμανικοῦ</name>
                             <w lemma="αὐτοκράτωρ">Αὐτοκράτορος</w></persName> 
                         <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιάχι</w></rs> <num value="7"><unclear>ζ</unclear></num></date> 
-                        <lb n="3"/><w>ἐφάνη</w> <w lemma="ἡ">τῇ</w> <w>συναγωγῇ</w> <w lemma="ὁ">τῶν</w> <w lemma="ἐν">ἐν</w> <placeName nymRef="Βερνεικίς">Βερνεικίδι</placeName> 
+                        <lb n="3"/> <w>ἐφάνη</w> <w lemma="ἡ">τῇ</w> <w>συναγωγῇ</w> <w lemma="ὁ">τῶν</w> <w lemma="ἐν">ἐν</w> <placeName nymRef="Βερνεικίς">Βερνεικίδι</placeName> 
                         <lb n="4"/><placeName type="ethnic"><w lemma="Ἰουδαῖος">Ἰουδαίων</w></placeName> <w lemma="ὁ">τοὺς</w> <w>ἐπιδίδοντ<unclear>ε</unclear>ς</w> <w lemma="εἰς">εἰς</w> <w>ἐπισκευ
                         <lb n="5" break="no"/>ὴν</w> <w lemma="ὁ">τῆς</w> <w>συναγωγῆς</w> <w lemma="ἀναγράφω">ἀναγράψαι</w> <w>αὐτοὺς</w> <w part="I">εἰστή</w> 
                     <lb n="6" break="no"/><w part="F">λην</w> <w>λίθου</w> <placeName type="ethnic"><w lemma="Πάριος">Παρίου</w></placeName> <space quantity="3" unit="character"/> </ab>
@@ -187,7 +187,7 @@
                             <lb n="6" break="no"/>πωλίω</name></persName></persName> <space quantity="1" unit="character"/> <w lemma="δραχμή"><expan><abbr><am><g ref="symbols.xml#drachma"/></am></abbr><ex>δραχμὰς</ex></expan></w> <num value="5">ε</num>
                         <lb n="7"/><persName type="attested" key="lgpn:V1-61851"><name nymRef="Πόλων">Πόλων</name> 
                         <lb n="8"/><persName type="attested" key="lgpn:V1-61852"><name nymRef="Δωσίθεος">Δωσιθέου</name></persName></persName> <w lemma="δραχμή"><expan><abbr><am><g ref="symbols.xml#drachma"/></am></abbr><ex>δραχμὰς</ex></expan></w> <num value="5">ε</num>
-                        <lb n="8a"/><space quantity="1" unit="line"/>
+                        <lb n="8a"/> <space quantity="1" unit="line"/>
                     </ab>
                </div>
          </div>

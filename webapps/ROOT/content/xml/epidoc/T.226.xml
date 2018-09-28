@@ -118,7 +118,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-60393"><name nymRef="Εὔκλαρος">Εὔκλα<unclear>ρ</unclear>ος</name></persName>
-                     <lb n="2"/><space quantity="1" unit="character"/> <w lemma="ἔθος">ἔθο<supplied reason="lost">ς</supplied></w>
+                     <lb n="2"/> <space quantity="1" unit="character"/> <w lemma="ἔθος">ἔθο<supplied reason="lost">ς</supplied></w>
                      <lb n="3"/><persName type="attested" key="lgpn:V1-60392"><name nymRef="Σωγένης">Σωγένι</name></persName>
                     <gap reason="lost" extent="unknown" unit="character"/> <orig>σ</orig>
                  </ab>

@@ -127,7 +127,7 @@
                     <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="1">α</num>
                     <persName type="attested"><name nymRef="Θεόδωρος">Θεόδωρος</name></persName> 
                     <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="3">γ</num>   
-                    <lb n="4"/><space quantity="3" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="13">ιγ</num> 
+                    <lb n="4"/> <space quantity="3" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="13">ιγ</num> 
                     <persName type="attested"><name nymRef="Ῥοῦφος">Ῥοῦφος</name></persName>
                 </ab>
 </div>

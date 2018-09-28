@@ -156,9 +156,9 @@
                         <persName type="attested"><name nymRef="Gaius"><expan><abbr>G</abbr><ex>aius</ex></expan></name> 
                         <name nymRef="Arinius">Arinius</name> <name nymRef="Modestus">Modes<lb n="4" break="no"/>tus</name> 
                         <w lemma="proconsul"><expan><abbr>pr<unclear>o</unclear>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
-                        <num value="2">II</num> </persName> <w lemma="chorium">choria</w> <placeName type="ethnic"><w lemma="Apolloniata">Apol<lb n="5" break="no"/>loniatarum</w></placeName> <w lemma="qui">quae</w> <w lemma="respublica">respu<lb n="6" break="no"/>bl<unclear>i</unclear><space quantity="1" unit="character"/> ca</w> <w lemma="cum">cum</w> 
+                        <num value="2">II</num> </persName> <w lemma="chorium">choria</w> <placeName type="ethnic"><w lemma="Apolloniata">Apol<lb n="5" break="no"/>loniatarum</w></placeName> <w lemma="qui">quae</w> <w lemma="respublica">respu<lb n="6" break="no"/>bl<unclear>i</unclear> <space quantity="1" unit="character"/> ca</w> <w lemma="cum">cum</w> 
                         <w lemma="socius">soci<supplied reason="omitted">i</supplied>s</w> <w lemma="emo">emerat</w> 
-                    <lb n="7"/><space quantity="1" unit="character"/> <w lemma="diuido">diuisa</w> <space quantity="1" unit="character"/>
+                    <lb n="7"/> <space quantity="1" unit="character"/> <w lemma="diuido">diuisa</w> <space quantity="1" unit="character"/>
                         <w lemma="loco">locauit</w> 
                     <lb n="8"/><w lemma="in">in</w> <w lemma="perpetuus">perpetuu<space quantity="1" unit="character"/>m</w> 
                         <persName type="attested"><name nymRef="Apollonius">Apol<lb n="9" break="no"/>ionio</name> <persName type="attested"><name nymRef="Paraebatas">Paraebatae</name></persName></persName> 
@@ -172,7 +172,7 @@
                         <name nymRef="Bathyllus">Bathylli</name></persName> <w lemma="in">i<unclear>n</unclear></w>
                     <lb n="14"/><w lemma="qui">quibus</w> <space quantity="1" unit="character"/> <w lemma="sum">sunt</w>
                         <w lemma="medimnus">medi<unclear>m</unclear>nia</w> 
-                    <lb n="15"/><space quantity="1" unit="character"/> <num value="23">XXIII</num> 
+                    <lb n="15"/> <space quantity="1" unit="character"/> <num value="23">XXIII</num> 
                         <space quantity="1" unit="character"/>
                         <w part="I"><expan><abbr>hemi</abbr><ex>su</ex></expan></w> <num value="1">I</num>
                         <space quantity="3" unit="character"/>

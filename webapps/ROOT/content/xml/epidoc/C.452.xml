@@ -120,7 +120,7 @@
               <orig>κα</orig><gap reason="lost" extent="unknown" unit="characters"/>
           <lb n="2"/> <persName type="attested"><name nymRef="Τίτος">Τίτω</name> <space quantity="3" unit="character"/> 
              <name nymRef="Τ-"><seg part="I">Τ</seg><gap reason="lost" extent="unknown" unit="characters"/></name></persName>
-             <lb n="3"/><w>τὰς</w> <w>υἱὸν</w> <gap reason="lost" extent="unknown" unit="characters"/>
+             <lb n="3"/> <w>τὰς</w> <w>υἱὸν</w> <gap reason="lost" extent="unknown" unit="characters"/>
              <lb n="4"/> <space quantity="3" unit="character"/>  <w>ἀνέ<supplied reason="lost">θηκε</supplied></w>
              
                 </ab>

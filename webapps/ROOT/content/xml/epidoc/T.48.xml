@@ -116,9 +116,9 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
-                        <lb n="1"/><persName type="attested"><name nymRef="Ζηνόδωρος">Ζηνόδ<supplied reason="lost">ωρος</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>   
+                        <lb n="1"/><persName type="attested"><name nymRef="Ζηνόδωρος">Ζηνόδ<supplied reason="lost">ωρος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>   
                     </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>       
-                        <lb n="1"/><persName type="attested"><name nymRef="Νικαδ-"><seg part="I">Νικαδ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><persName type="attested"><name nymRef="Νικαδ-"><seg part="I">Νικαδ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
 </div>
 </div>

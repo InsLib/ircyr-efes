@@ -128,40 +128,40 @@
                             <w>δαμοσίαι</w> <w>ἀνθέμεν</w> <w>δ’</w>  <w lemma="αὐτός">αὐτῶι</w>
                             <w>στάλαν</w></supplied> <w><supplied reason="lost">γρα</supplied> 
                         <lb n="6"/>πτὰν</w> <w lemma="ἐν">ἐν</w> <w>τᾶι</w> <supplied reason="lost"><w>ἀγορᾶι</w></supplied><gap reason="lost" extent="unknown" unit="character"/> 
-                        <lb n="7"/><w>ἀπαγγῆλαι</w> <w lemma="καί">κα<supplied reason="lost">ὶ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> 
+                        <lb n="7"/> <w>ἀπαγγῆλαι</w> <w lemma="καί">κα<supplied reason="lost">ὶ</supplied></w> <gap reason="lost" extent="unknown" unit="character"/> 
                         <lb n="8"/><w lemma="ὁ">ὁ</w> <w lemma="ἀνθύπατος">ἀνθύπατος</w> <w>συν</w> <gap reason="lost" extent="unknown" unit="character"/> 
-                        <lb n="9"/><w>πινα</w> <w>ἀναγράψαντι</w> <gap reason="lost" extent="unknown" unit="character"/> 
-                        <lb n="10"/><w>ἀποδείξωντι</w> <space quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> 
-                        <lb n="11"/><space quantity="1" unit="character"/> 
+                        <lb n="9"/> <w>πινα</w> <w>ἀναγράψαντι</w> <gap reason="lost" extent="unknown" unit="character"/> 
+                        <lb n="10"/> <w>ἀποδείξωντι</w> <space quantity="1" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/> 
+                        <lb n="11"/> <space quantity="1" unit="character"/> 
                         <lb n="12"/><w lemma="ἐπεί">ἐπεὶ</w> <persName type="attested"><name nymRef="Αὖλος">Αὖλος</name> <name nymRef="Πομπήϊος">Πομπήϊος</name> 
-                        <name nymRef="Μ-"><seg part="I">Μ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
-                        <lb n="13"/><w>ἁμῶν</w> <w lemma="καί">καὶ</w> <w>ἰδίαι</w> <w lemma="ἕκαστος">ἕκαστον</w> <w lemma="ὁ">τῶ<supplied reason="lost">ν</supplied>
+                        <name nymRef="Μ-"><seg part="I">Μ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
+                        <lb n="13"/> <w>ἁμῶν</w> <w lemma="καί">καὶ</w> <w>ἰδίαι</w> <w lemma="ἕκαστος">ἕκαστον</w> <w lemma="ὁ">τῶ<supplied reason="lost">ν</supplied>
                         </w> <gap reason="lost" extent="unknown" unit="character"/> 
                         <lb n="14"/><w lemma="ὁ">τὰ</w> <w>δ’</w>  <w>ἄλλειματα</w> <w lemma="ὅς">ἅ</w> <w lemma="τε">τε</w> <w>ἀὶ</w><!-- Pietro: ? --> 
                         <w part="I">αὐτ</w> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="15"/><w>των</w> <w>ταὶ</w> <w>ποτιδέξηται</w> <w>ἁ</w> <w lemma="πόλις">πόλις</w>
+                        <lb n="15"/> <w>των</w> <w>ταὶ</w> <w>ποτιδέξηται</w> <w>ἁ</w> <w lemma="πόλις">πόλις</w>
                         <w>Ι</w> <gap reason="lost" extent="unknown" unit="character"/> 
                         <lb n="16"/><w lemma="καθώς">καθὼς</w> <w lemma="ὁ">τὸ</w> <w>προγεγράμμενον</w>
                         <w>α</w> <gap reason="lost" extent="unknown" unit="character"/> 
                         <lb n="17"/><w lemma="καί">καὶ</w> <w>τὸς</w> <w>κατασταθησειμένος</w>
                         <w>ε</w> <gap reason="lost" extent="unknown" unit="character"/> 
-                        <lb n="18"/><w>ἐσφορᾶς</w> <w lemma="ἤ">ἢ</w> <w>δαμοσίων</w>
+                        <lb n="18"/> <w>ἐσφορᾶς</w> <w lemma="ἤ">ἢ</w> <w>δαμοσίων</w>
                         <w>δανείων</w> <gap reason="lost" extent="unknown" unit="character"/> 
-                        <lb n="19"/><w>σθων</w> <w lemma="καί">καὶ</w> <w>ἕκαστα</w>
+                        <lb n="19"/> <w>σθων</w> <w lemma="καί">καὶ</w> <w>ἕκαστα</w>
                         <w>δίοικεν</w> <w lemma="ἐκ">ἐκ</w> <w>τῶ</w> <gap reason="lost" extent="unknown" unit="character"/> 
                     </ab></div><div subtype="fragment" n="b" type="textpart"><ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>  
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ιν</orig><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ενα</orig><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost" cert="low">ἐπαι</supplied> 
                     <lb n="3"/>νεσθαι</w> <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="4"/><w>ἀνθέμεν</w> <w lemma="δέ">δὲ</w> <supplied reason="lost"><w lemma="αὐτός">αὐτῶι</w> <w>στάλαν</w>
+                    <lb n="4"/> <w>ἀνθέμεν</w> <w lemma="δέ">δὲ</w> <supplied reason="lost"><w lemma="αὐτός">αὐτῶι</w> <w>στάλαν</w>
                         <w>γράπταν</w> <w lemma="ἐν">ἐν</w> <w>ταὶ</w> <w>ἀγοραὶ</w> <w>ἐπιγραφὰν</w> <w lemma="ἔχω">ἔχουσαν</w></supplied> 
                     <persName type="attested"><name nymRef="Αὖλος">Αὖλον</name></persName> <persName type="attested"><name nymRef="Πομπήϊος">Πομ<supplied reason="lost">πή</supplied>ϊον</name></persName>
                     <persName type="attested"><name nymRef="Μ-"><seg part="I">Μ</seg></name> <gap reason="lost" extent="unknown" unit="character"/></persName> 
                     <lb n="5"/><w lemma="εἰς">ἐς</w> <w><supplied reason="omitted">σ</supplied>τάλαν</w>
                     <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="6"/><w>λωσωντ</w> <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="6a"/><space quantity="1" unit="line"/> 
+                    <lb n="6"/> <w>λωσωντ</w> <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="6a"/> <space quantity="1" unit="line"/> 
                     <lb n="7"/><gap reason="lost" quantity="1" unit="character"/><orig>επ</orig><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><orig>εν</orig><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="8a"/><gap reason="lost" quantity="1" unit="line"/> 

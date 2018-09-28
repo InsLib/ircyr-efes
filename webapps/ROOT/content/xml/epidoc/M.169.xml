@@ -121,14 +121,14 @@
                   <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="16">ι<unclear>ϛ</unclear></num>
                   <rs type="month"><w part="I">Με</w> <gap reason="lost" extent="unknown" unit="character"/></rs>
                   <lb n="2"/><num value="1"><unclear>α</unclear></num> <persName type="attested"><name nymRef="Τίμαρχος">Τίμαρχος</name>
-                  <lb n="3"/><gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name><seg part="M"><unclear>λιμ</unclear></seg></name></persName></persName><gap reason="lost" quantity="1" unit="character"/>
+                  <lb n="3"/><gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name><seg part="M"><unclear>λιμ</unclear></seg></name></persName></persName> <gap reason="lost" quantity="1" unit="character"/>
                   <date type="life-span" dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="5">ε</num> </date>
                </ab>
             </div>
             <div subtype="section" n="1b" type="textpart">
                <ab>
                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="83">π<unclear>γ</unclear></num>
-                  <rs type="month" key="Μεσορή"><w>Μεσορὴ</w></rs> <num value="6"><unclear>ς</unclear></num>
+                  <rs type="month" key="Μεσορή"><w>Μεσορὴ</w></rs> <num value="6"><unclear>ϛ</unclear></num>
                   <lb n="2"/> <persName type="attested"><name nymRef="Τίμαρχος">Τίμαρχος</name> <persName type="attested"><name nymRef="Π-"><seg part="I">Π</seg></name> <gap reason="lost" extent="unknown" unit="character"/></persName></persName>
                   <lb n="3"/><date type="life-span" dur="P10Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num atLeast="10">ι<gap reason="lost" extent="unknown" unit="character"/></num> </date>
                </ab>
@@ -153,7 +153,7 @@
             <div subtype="section" n="2c" type="textpart">
                         <ab>
                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="90"><unclear>ϙ</unclear></num>
-                           <persName type="attested"><name nymRef="Φα-"><seg part="I">Φ<unclear>α</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/><lb n="2" break="no"/><orig><unclear>εο</unclear>α<unclear>ν</unclear></orig>
+                           <persName type="attested"><name nymRef="Φα-"><seg part="I">Φ<unclear>α</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/><lb n="2" break="no"/><orig><unclear>εο</unclear>α<unclear>ν</unclear></orig>
                            <lb n="3"/><date type="life-span" dur="P15Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="15">ει</num> </date>
                         </ab>
             </div>
@@ -172,7 +172,7 @@
                                  <lb n="2"/><rs type="month" key="Θώθ"><w lemma="Θώθ">Θώθυ</w></rs> <num value="13">ιγ</num>
                                  <lb n="3"/><persName type="attested"><name nymRef="Ἀρθαππα">Ἀρθαπ<unclear>π</unclear>α</name>
                                  <lb n="4"/><persName type="attested"><name nymRef="Ἀρίμμας">Ἀρίμμα</name></persName></persName>
-                                 <lb n="5"/><space/> 
+                                 <lb n="5"/> <space/> 
                                  <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>έτῶν</ex></expan></w> <num value="40">μ</num> </date>
                               </ab>
                         </div>
@@ -201,7 +201,7 @@
             
             <div subtype="section" n="6c" type="textpart">
                <ab><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Σώτιμος"><unclear>Σ</unclear>ώτειμος</name></persName> <persName type="attested"><name nymRef="Εὐκλίδας">Ε<supplied reason="lost">ὐ</supplied>κλίδα</name></persName>
-                  <lb n="2"/><space quantity="3" unit="character"/> <date type="life-span" dur="P98Y"><w lemma="ἔτος">ἐτῶν</w> <num value="98">ϙη</num> </date></ab></div>
+                  <lb n="2"/> <space quantity="3" unit="character"/> <date type="life-span" dur="P98Y"><w lemma="ἔτος">ἐτῶν</w> <num value="98">ϙη</num> </date></ab></div>
             
             <div subtype="section" n="7" type="textpart"><ab>
                <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>κ</unclear>

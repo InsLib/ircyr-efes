@@ -117,10 +117,10 @@
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="105">ρε</num> <w part="I"><unclear>Π</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><persName type="attested"><name nymRef="Ἀκάμας"><seg part="I"><unclear>Ἀκ</unclear>αμ<unclear>α</unclear><supplied reason="lost">ντ</supplied></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><persName type="attested"><name nymRef="Ἀκάμας"><seg part="I"><unclear>Ἀκ</unclear>αμ<unclear>α</unclear><supplied reason="lost">ντ</supplied></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>μγ</unclear></orig> 
-                    <persName type="attested"><name nymRef="Νικίας">Νικία</name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig>ητ<unclear>α</unclear></orig><space quantity="1" unit="character"/>
+                    <persName type="attested"><name nymRef="Νικίας">Νικία</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig>ητ<unclear>α</unclear></orig> <space quantity="1" unit="character"/>
             <date type="life-span" dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="7"><unclear>ζ</unclear></num> </date> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

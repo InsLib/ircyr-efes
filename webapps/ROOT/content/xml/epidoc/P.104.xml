@@ -128,8 +128,7 @@
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="εἰς"><supplied reason="lost">ε</supplied><unclear>ἰ</unclear>ς</w> <w>στήλην</w> <w>λίθου</w>
                     <lb n="9"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">παρ</supplied>ὰ</w> <w>τὴ<del rend="erasure">ν <supplied reason="omitted">ε</supplied>ἰκόνα</del></w> <space quantity="1" unit="character"/>
                     <lb n="10"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">λευκα</supplied>ι</w>
-                    <space quantity="1" unit="character"/> <num value="120">ρ 
-                        <space quantity="1" unit="character"/> κ</num> <space quantity="3" unit="character"/>
+                    <space quantity="1" unit="character"/> <num value="120">ρ<space quantity="1" unit="character"/>κ</num> <space quantity="3" unit="character"/>
                 </ab>
 </div>
          

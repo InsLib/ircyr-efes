@@ -133,11 +133,11 @@
                 <w><supplied reason="lost">fe</supplied><unclear>cit</unclear></w> <w><unclear>per</unclear></w>	
 	<lb n="5"/><persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>ucium</ex></expan></name> <g ref="symbols.xml#stop"/> <name nymRef="Pedius"><unclear>Pe</unclear><supplied reason="lost">dium</supplied></name> 
                 <name nymRef="Blaesus"><supplied reason="lost">Blaes</supplied>um</name>	
-	<lb n="6"/><w><expan><abbr>p<supplied reason="lost">roco</supplied></abbr><supplied reason="lost"><ex>n</ex><abbr>s</abbr><ex>ulem</ex></supplied></expan></w></persName> 
+	<lb n="6"/> <w><expan><abbr>p<supplied reason="lost">roco</supplied></abbr><supplied reason="lost"><ex>n</ex><abbr>s</abbr><ex>ulem</ex></supplied></expan></w></persName> 
                 <placeName><supplied reason="lost">Cretae</supplied></placeName> 
                 <w lemma="et">e<supplied reason="lost">t</supplied></w>		
 	<lb n="7"/><placeName><supplied reason="lost" cert="low">Cyrenarum</supplied></placeName> 
-                <supplied reason="lost"><space extent="unknown" unit="character"/></supplied>
+                <supplied reason="lost"> <space extent="unknown" unit="character"/></supplied>
                 </ab>
             </div>
             <div xml:lang="grc" type="textpart">
@@ -148,15 +148,15 @@
                 <name nymRef="Καῖσαρ"><lb n="9"/>Κα<unclear>ῖσ</unclear><supplied reason="lost">αρ</supplied></name> 
                 <name nymRef="Σεβαστός"><supplied reason="lost">Σεβαστὸς</supplied></name>
 <lb n="10"/><name nymRef="Γερμανικός">Γερμ<unclear>α</unclear><supplied reason="lost">νικ</supplied>ὸ<supplied reason="lost">ς</supplied></name>
-<lb n="11"/><w><unclear>Αὐ</unclear><supplied reason="lost">τοκράτωρ</supplied></w></persName>
-<lb n="12"/><w>ὁδο<unclear>ὺ</unclear>ς</w> <w>ἐ<supplied reason="lost">π</supplied>όησε</w> <w><unclear>διὰ</unclear></w>
+<lb n="11"/> <w><unclear>Αὐ</unclear><supplied reason="lost">τοκράτωρ</supplied></w></persName>
+<lb n="12"/> <w>ὁδο<unclear>ὺ</unclear>ς</w> <w>ἐ<supplied reason="lost">π</supplied>όησε</w> <w><unclear>διὰ</unclear></w>
 <lb n="13"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name> <g ref="symbols.xml#stop"/> <name nymRef="Πέδιος">Πε<unclear>δίο</unclear><supplied reason="lost">υ</supplied></name> 
                 <name nymRef="Βλαῖσος"><supplied reason="lost">Βλαίσου</supplied></name>
-<lb n="14"/><w>ἀν<unclear>θυπ</unclear><supplied reason="lost">άτου</supplied></w> </persName>
+<lb n="14"/> <w>ἀν<unclear>θυπ</unclear><supplied reason="lost">άτου</supplied></w> </persName>
                 <placeName><supplied reason="lost">Κρήτης</supplied></placeName> 
                 <w><supplied reason="lost">καὶ</supplied></w>
 <lb n="15"/><placeName><supplied reason="lost" cert="low">Κυρηνῶν</supplied></placeName>
-                <supplied reason="lost"><space extent="unknown" unit="character"/></supplied>
+                <supplied reason="lost"> <space extent="unknown" unit="character"/></supplied>
 <lb n="16"/><gap reason="lost" quantity="1" unit="line"><desc>mileage figure</desc></gap>
             </ab>
             </div>

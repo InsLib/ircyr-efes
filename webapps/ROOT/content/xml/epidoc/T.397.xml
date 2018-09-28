@@ -133,7 +133,7 @@
                     <lb n="4"/><date type="life-span" dur="P21Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="21">κα</num> </date>
                     <lb n="5"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="8">η</num> <persName type="attested"><name nymRef="Ῥο-"><seg part="I">Ῥο</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <num value="8">η</num> <persName type="attested"><name nymRef="Ῥο-"><seg part="I">Ῥο</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
 </div>

@@ -122,7 +122,7 @@
                     <w lemma="ἐξουσία">ἐξουσίας</w> <supplied reason="lost"><w lemma="ὁ">τὸ</w></supplied> <gap reason="lost" quantity="14" unit="character" precision="low"/> 
                     <lb n="3"/><supplied reason="lost"><w lemma="αὐτοκράτωρ">αὐτοκράτορα</w> <w lemma="ὁ">τὸ</w></supplied> <w><supplied reason="lost">τεσ</supplied><unclear>σ</unclear>ερασκαι</w> 
                     <supplied reason="lost"><w lemma="δέκατος">δέκατον</w></supplied> <gap reason="lost" quantity="9" unit="character" precision="low"/>
-                    <lb n="4"/><supplied reason="lost" cert="low"><space quantity="1" unit="character"/></supplied><supplied reason="lost"><w>Οἱ</w></supplied> 
+                    <lb n="4"/><supplied reason="lost" cert="low"> <space quantity="1" unit="character"/></supplied><supplied reason="lost"><w>Οἱ</w></supplied> 
                     <w><supplied reason="lost">Κυραν</supplied>αῖοι</w> <space quantity="1" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>

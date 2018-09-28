@@ -130,7 +130,7 @@
                     <lb n="3"/><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName> <expan><w><abbr>pont</abbr><ex>ifex</ex></w> <w><abbr>max</abbr><ex>imus</ex></w></expan>
                     <lb n="4"/><expan><w><abbr>tribunic</abbr><ex>ia</ex></w>  
                     <w><abbr>pot</abbr><ex>estate</ex></w></expan> <num value="3">III</num>
-                    <lb n="5"/><w><expan><abbr><supplied reason="lost">I</supplied>mp</abbr><ex>erator</ex></expan></w>
+                    <lb n="5"/> <w><expan><abbr><supplied reason="lost">I</supplied>mp</abbr><ex>erator</ex></expan></w>
                     <num value="8">VIII</num> <expan><w lemma="pater"><abbr>p</abbr><ex>ater</ex></w> <w lemma="patria"><abbr>p</abbr><ex>atriae</ex></w></expan> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
                     <lb n="6"/><num value="3"><supplied reason="lost">I</supplied>II</num> <w><expan><abbr>desig</abbr><ex>natus</ex></expan></w> <num value="4">IIII</num> <w lemma="per">per</w> <persName type="attested"><name nymRef="Quintus"><expan><abbr>Q</abbr><ex>uintum</ex></expan></name>
                     <lb n="7"/><name nymRef="Paconius"><supplied reason="lost">P</supplied>aconium</name> 
@@ -142,21 +142,21 @@
                 </ab></div><div subtype="face" n="b" xml:lang="grc" type="textpart"><ab> 
                     <lb n="1"/><persName type="emperor" key="vespasianus"><w><supplied reason="lost">Αὐ</supplied>τοκράτω<supplied reason="lost">ρ</supplied></w>
                     <lb n="2"/><name nymRef="Καῖσαρ"><supplied reason="lost">Κα</supplied>ῖσαρ</name> <name nymRef="Οὐεσπασιανός">Οὐεσ<supplied reason="lost">π</supplied>ασιανός</name></persName>
-                    <lb n="3"/><w><supplied reason="lost">ἀ</supplied>ρχιερεὺς</w> 
+                    <lb n="3"/> <w><supplied reason="lost">ἀ</supplied>ρχιερεὺς</w> 
                     <w>μέ<lb n="4" break="no"/><supplied reason="lost">γισ</supplied>τος</w>
                     <w>δημαρχ<supplied reason="lost">ι</supplied><lb n="5" break="no"/><supplied reason="lost">κῆς</supplied></w>
                     <w>ἐξουσίας</w> <w>τ<supplied reason="lost">ὸ</supplied></w>
                    <lb n="6"/>
                     <supplied reason="lost"><num value="3">γ</num> </supplied> <w lemma="αὐτοκράτωρ"><supplied reason="lost">αὐ</supplied>τοκοράτωρ</w> <note>sic</note>
-                    <lb n="7"/><w><supplied reason="lost">τὸ</supplied></w> <num value="8">η</num> <w>πατὴρ</w> <w>πα<supplied reason="lost">τ</supplied><lb n="8" break="no"/>ρίδος</w>
+                    <lb n="7"/> <w><supplied reason="lost">τὸ</supplied></w> <num value="8">η</num> <w>πατὴρ</w> <w>πα<supplied reason="lost">τ</supplied><lb n="8" break="no"/>ρίδος</w>
                     <w>ὕπατος</w>
-                   <lb n="9"/><w><supplied reason="lost">τὸ</supplied></w> <num value="3">γ</num> <w>δεδειγμέ<lb n="10" break="no"/><supplied reason="lost">νος</supplied></w>
+                   <lb n="9"/> <w><supplied reason="lost">τὸ</supplied></w> <num value="3">γ</num> <w>δεδειγμέ<lb n="10" break="no"/><supplied reason="lost">νος</supplied></w>
                     <w>τὸ</w> <num value="4">δ</num> <w>διὰ</w> <persName type="attested"><name nymRef="Κόϊντος"><expan><abbr>Κ</abbr><ex>οΐντου</ex></expan></name>
                        <lb n="11"/> <name nymRef="Πακώνιος	"><supplied reason="lost">Π</supplied>ακωνίου</name>
                     <name nymRef="Ἀγριππῖνος">Ἀγρι<supplied reason="lost">π</supplied><lb n="12" break="no"/><supplied reason="lost">π</supplied>είνου</name></persName> <w>ἰδίου</w> <w><supplied reason="lost">π</supplied><lb n="13" break="no"/><supplied reason="lost">ρ</supplied>εσβευτοῦ</w>
                   <expan><w lemma="δῆμος"><abbr>Δ</abbr><ex>ήμῳ</ex></w> <placeName type="ethnic"><w lemma="Ῥωμαῖος"><abbr>Ῥ</abbr><ex>ωμαίων</ex></w></placeName></expan>
-                   <lb n="14"/><w><supplied reason="lost">τὸ</supplied></w> <placeName>Π<supplied reason="lost">το</supplied>λυμαῖο<supplied reason="lost">ν</supplied></placeName>
-                   <lb n="15"/><w><supplied reason="lost">ἀπ</supplied>εκ<supplied reason="lost">ατ</supplied>έστησε<supplied reason="lost">ν</supplied></w> 
+                   <lb n="14"/> <w><supplied reason="lost">τὸ</supplied></w> <placeName>Π<supplied reason="lost">το</supplied>λυμαῖο<supplied reason="lost">ν</supplied></placeName>
+                   <lb n="15"/> <w><supplied reason="lost">ἀπ</supplied>εκ<supplied reason="lost">ατ</supplied>έστησε<supplied reason="lost">ν</supplied></w> 
                 </ab>
 </div>
 </div>

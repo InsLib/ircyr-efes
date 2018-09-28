@@ -168,9 +168,9 @@
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>v e</orig><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div></div><div subtype="fragment" n="b" type="textpart"><div subtype="face" n="i" type="textpart"><ab>
                         <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><persName type="emperor"><name>Gal<supplied reason="lost">erio</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><persName type="emperor"><name>Val<supplied reason="lost">erio</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="3"/><space quantity="1" unit="character"/>
+                    <lb n="1"/><persName type="emperor"><name>Gal<supplied reason="lost">erio</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><persName type="emperor"><name>Val<supplied reason="lost">erio</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="3"/> <space quantity="1" unit="character"/>
                         <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="face" n="ii" type="textpart"><ab>
                         <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
@@ -195,7 +195,7 @@
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>ico<supplied reason="undefined" evidence="previous-editor"><gap reason="lost" quantity="1" unit="character"/></supplied></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><add place="overstrike"><orig>vs</orig></add> 
                         <persName type="emperor"><name>Fla<unclear>u</unclear>io</name>
-                            <name>Val<supplied reason="lost">erio</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                            <name>Val<supplied reason="lost">erio</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ci</supplied>uitates</w> <w lemma="prouincia">pro<supplied reason="lost">uinciae</supplied></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><supplied reason="lost"><w lemma="numen"><expan><abbr>n</abbr><ex>umini</ex></expan></w></supplied>
                         <w lemma="maiestas"><expan><abbr>m</abbr><ex>aiestati</ex><abbr>q</abbr><ex>ue</ex></expan></w>
@@ -227,7 +227,7 @@
             
             <div subtype="part" n="1" type="textpart">
                <ab>
-                    <lb n="1"/><supplied reason="lost"><space extent="unknown" unit="character"/></supplied> 
+                    <lb n="1"/><supplied reason="lost"> <space extent="unknown" unit="character"/></supplied> 
                        <w lemma="dominus"><supplied reason="lost">domini</supplied>s</w>
                         <w lemma="noster"><unclear>no</unclear>st<supplied reason="lost">ris</supplied></w>
                   <supplied reason="lost"><w lemma="liberator">Liberatoribus</w>
@@ -261,7 +261,7 @@
                         <w><supplied reason="lost">Su</supplied>peri<unclear>ori</unclear><supplied reason="lost">s</supplied></w></placeName> 
                     <supplied reason="lost" cert="low"><w>vel</w> 
                        <placeName nymRef="Pentapolis"><w>Pentapoleos</w></placeName></supplied> 
-                    <lb n="4"/><supplied reason="lost" cert="low"><space quantity="3" unit="character"/></supplied>
+                    <lb n="4"/><supplied reason="lost" cert="low"> <space quantity="3" unit="character"/></supplied>
                     <w><supplied reason="lost">de</supplied>u<supplied reason="lost">otae</supplied></w> 
                   <expan>  <supplied reason="lost"><w lemma="numen"><abbr>n</abbr><ex>umini</ex></w></supplied>
                     <w lemma="maiestas"><abbr>m</abbr><ex>aiestati</ex><abbr>q</abbr><ex>ue</ex></w></expan>

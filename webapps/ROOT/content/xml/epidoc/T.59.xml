@@ -118,7 +118,7 @@
                         <lb n="3a"/><gap reason="lost" extent="unknown" unit="line"/>
                     </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
-                    <lb n="1"/><w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="1"/> <w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="17"><unclear>ιζ</unclear></num> <persName type="attested" key="lgpn:V1-60080"><name nymRef="Ζωΐλος"><unclear>Ζ</unclear><lb n="2" break="no"/><supplied reason="lost">ω</supplied>ίλ<unclear>ο</unclear><supplied reason="lost">ς</supplied></name>
                     <lb n="3"/><persName type="attested"><name nymRef="Ζωΐλος">Ζ<supplied reason="lost">οίλου</supplied></name></persName></persName><!-- check -->
                 </ab>

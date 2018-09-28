@@ -120,7 +120,7 @@
          </div>
          
          <div type="edition" xml:space="preserve"><ab xml:lang="la">
-                    <lb n="1"/><persName type="attested" cert="low"><name nymRef="Heracl-"><seg part="I">Herac<unclear>l</unclear></seg></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="1"/><persName type="attested" cert="low"><name nymRef="Heracl-"><seg part="I">Herac<unclear>l</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="2"/><w lemma="ex">ex</w> <w lemma="nummus">numi<unclear>l</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><orig>er</orig><gap reason="lost" quantity="2" unit="character"/> 
                     <num><unclear>II</unclear></num> <w lemma="pro">pro</w> <gap reason="lost" extent="unknown" unit="character"/>
@@ -130,7 +130,7 @@
                     <num value="22"><supplied reason="lost">XX</supplied>II</num> 
                     <w lemma="mensis">mens<unclear>e</unclear><supplied reason="lost">s</supplied></w></date> 
                     <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="6"/><space quantity="5" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="6"/> <space quantity="5" unit="character"/> <gap reason="lost" extent="unknown" unit="character"/>
          </ab><ab xml:lang="grc">
                     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/><orig>ετο</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="8"/><gap reason="lost" extent="unknown" unit="character"/><orig>ινου</orig><gap reason="lost" extent="unknown" unit="character"/>

@@ -138,7 +138,7 @@
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60277"><name nymRef="Ἀνύσσαν">Ἀνύσσαντι</name></persName></persName>
                     </ab></div>
             <div n="iii" type="textpart"><ab>
-                        <lb n="1"/><persName type="attested"><name nymRef="Περι-"><seg part="I">Περι</seg></name></persName><gap reason="lost" extent="6" unit="character"/>
+                        <lb n="1"/><persName type="attested"><name nymRef="Περι-"><seg part="I">Περι</seg></name></persName> <gap reason="lost" extent="6" unit="character"/>
                     </ab>
 </div>
 </div>

@@ -143,7 +143,7 @@
                     <lb n="3"/><persName type="emperor" key="augustus"><w>Αὐτοκρατορος</w> <w>δὲ</w> <name nymRef="Καῖσαρ">Καίσα
                         <lb n="4" break="no"/>ρος</name> <w>Θεῶι</w> <w>υἱῷ</w> <name nymRef="Σεβαστός">Σεβαστῷ</name></persName>
                     <lb n="5"/><persName type="attested" key="lgpn:V1-63374"><name nymRef="Βαρκαῖος">Βαρκαίω</name> <w>τῶ</w> <persName type="attested" key="lgpn:V1-64220"><name nymRef="Θεύχρηστος">Θεοχρήστω</name></persName></persName>
-                    <lb n="6"/><w>Νομοφυλάκας</w>
+                    <lb n="6"/> <w>Νομοφυλάκας</w>
                     <lb n="7"/><persName type="attested" key="lgpn:V1-62989"><name nymRef="Ἀπολλώνιος">Ἀπολλώνιος</name> <persName type="attested" key="lgpn:V1-63802"><name nymRef="Εὔιππος">Εὐίππω</name></persName></persName>
                     <lb n="8"/><persName type="attested" key="lgpn:V1-64113"><name nymRef="Θεόδωρος">Θεόδωρος</name> <persName type="attested" key="lgpn:V1-63213"><name nymRef="Ἀρίστων">Ἀρίστωνος</name></persName></persName>
                     <lb n="9"/><persName type="attested" key="lgpn:V1-62990"><name nymRef="Ἀπολλώνιος">Ἀπολλώνιος</name> <persName type="attested" key="lgpn:V1-63795"><name nymRef="Εὐδαίμων">Εὐδαίμονος</name></persName></persName>
@@ -154,7 +154,7 @@
                     <lb n="14"/><persName type="attested" key="lgpn:V1-65859"><name nymRef="Ὑράτθις">Ὑράτθις</name> <persName type="attested" key="lgpn:V1-63581"><name nymRef="Διονύσιος">Διονυσίω</name></persName></persName>
                     <lb n="15"/><persName type="attested" key="lgpn:V1-62703"><name nymRef="Ἀλέξανδρος">Αλέξανδρος</name> <w>τῶ</w> <persName type="attested" key="lgpn:V1-62702"><name nymRef="Ἀλέξανδρος">Ἀλεξάνδρω</name></persName></persName>
                     <lb n="16"/><persName type="divine" key="aphrodite"><name nymRef="Ἀφροδείτη">Ἀφρ<supplied reason="omitted">ο</supplied>δείταν</name>
-                    <lb n="17"/><w>νομοφυλακίδα</w></persName>
+                    <lb n="17"/> <w>νομοφυλακίδα</w></persName>
                     <lb n="18"/><w lemma="ἀνατίθημι">ἀνέθηκαν</w>
                 </ab>
 </div>

@@ -120,7 +120,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w><supplied reason="lost"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></supplied></w>
+                    <lb n="1"/> <w><supplied reason="lost"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></supplied></w>
                         <space quantity="1" unit="character"/> <num value="12" xml:lang="grc">ιβ</num>
                     <lb n="2"/><persName type="attested"><name nymRef="Φλάβιος"><supplied reason="lost">Φ</supplied>λάβιος</name>
                     <lb n="3"/><persName type="attested"><name nymRef="Πόπλιος">Ποπλί<lb n="4" break="no"/>ω</name></persName></persName>

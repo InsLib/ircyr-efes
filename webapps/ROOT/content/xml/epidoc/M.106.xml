@@ -113,7 +113,7 @@
 <ab>
                <lb n="1"/><persName type="attested" key="lgpn:V1-60729"><name nymRef="Ἰαδινχαν">Ἰαδινχαν</name> <persName type="attested"><name nymRef="Ἡρακλίδας">Ἡρακλίδα</name></persName></persName>
                <date type="life-span" dur="P70Y"><w>ἐτιῶν</w> <note>sic</note> <num value="70">ο</num> </date> 
-               <lb n="2"/><space quantity="3" unit="character"/> <persName type="attested"><name nymRef="Ἀράτους">Ἀ<unclear>ρ</unclear>ατο<unclear>υ</unclear>ς</name>
+               <lb n="2"/> <space quantity="3" unit="character"/> <persName type="attested"><name nymRef="Ἀράτους">Ἀ<unclear>ρ</unclear>ατο<unclear>υ</unclear>ς</name>
                <persName type="attested" key="lgpn:V1-60729"><name nymRef="Ἰαδινχαν">Ἰαδινχαντο<unclear>ς</unclear></name></persName></persName> <date type="life-span" dur="P37Y"><w>ἐτιῶν</w> <note>sic</note> <num value="37">λζ</num> </date>
             </ab>
 </div>

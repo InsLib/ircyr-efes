@@ -128,11 +128,11 @@
                     <lb n="1"/><persName type="emperor" key="tiberius"><name nymRef="Tiberius"><expan><abbr>Ti</abbr><ex>berio</ex></expan></name> <name nymRef="Caesar">Caesari</name> 
                        <persName type="emperor" key="augustus"><name nymRef="Augustus">Augusti</name></persName> 
                      <w><expan><abbr>f</abbr><ex>ilio</ex></expan></w> 
-                    <lb n="2"/><w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w> 
+                    <lb n="2"/> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></w> 
                      <w><expan><abbr>imp</abbr><ex>eratori</ex></expan></w></persName>
                     <w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <w><expan><abbr>pot</abbr><ex>estate</ex></expan></w> 
                     <lb n="3"/><persName type="attested"><name nymRef="Sufenas">Sufenas</name> <name nymRef="Proculus">Proculus</name></persName> 
-                    <lb n="4"/><w><expan><abbr>f</abbr><ex>aciendum</ex></expan></w> <w><expan><abbr>c</abbr><ex>urauit</ex></expan></w>
+                    <lb n="4"/> <w><expan><abbr>f</abbr><ex>aciendum</ex></expan></w> <w><expan><abbr>c</abbr><ex>urauit</ex></expan></w>
                 </ab>
 </div>
          

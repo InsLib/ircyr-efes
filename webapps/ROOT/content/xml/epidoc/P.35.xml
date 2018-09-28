@@ -122,13 +122,13 @@
              <div subtype="fragment" n="i" type="textpart">
                  <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Λῦσις">Λῦσ<unclear>ις</unclear></name></persName> 
-                    <lb n="2"/><persName type="attested"><name nymRef="Πολλ-"><seg part="I"><supplied reason="lost">Π</supplied>ολλ</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><persName type="attested"><name nymRef="Πολλ-"><seg part="I"><supplied reason="lost">Π</supplied>ολλ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
              </div>
              <div subtype="fragment" n="ii" type="textpart">
                 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Μυλι-"><seg part="I">Μυλι</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="2"/><persName type="attested"><name nymRef="Λιχο-"><seg part="I">Λιχο</seg></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name nymRef="Μυλι-"><seg part="I">Μυλι</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="2"/><persName type="attested"><name nymRef="Λιχο-"><seg part="I">Λιχο</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
              </div>
              <div subtype="fragment" n="iii" type="textpart">

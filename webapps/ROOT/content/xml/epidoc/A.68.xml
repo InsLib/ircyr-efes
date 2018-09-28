@@ -133,7 +133,7 @@
                 <name nymRef="Caesar">Caes<supplied reason="lost">ar</supplied></name>
 <lb n="8"/><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name> 
                 <name nymRef="Germanicus">G<surplus><unclear>s</unclear></surplus>ermani<supplied reason="lost">cus</supplied></name>
-<lb n="9"/><w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w></persName> <w lemma="per">per</w> 
+<lb n="9"/> <w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w></persName> <w lemma="per">per</w> 
                 <persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>ucium</ex></expan></name> 
                 <name nymRef="Acilius">Acil<supplied reason="lost">ium</supplied></name>
 <lb n="10"/><name nymRef="Strabo">Strabonem</name></persName> <w>l<supplied reason="lost">egatum</supplied></w>
@@ -141,7 +141,7 @@
 <lb n="13"/><expan><w><abbr>P</abbr><ex>opulo</ex></w> 
                 <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName> </expan>
                 <w lemma="restituo">restitui<supplied reason="lost">t</supplied></w>
-<lb n="13a"/><space quantity="1" unit="line"/>
+<lb n="13a"/> <space quantity="1" unit="line"/>
                     </ab>
                 </div>
                 <div type="textpart" xml:lang="grc">
@@ -157,7 +157,7 @@
                 <persName type="emperor" key="tiberius"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριοϲ</ex></expan></name>
 <lb n="20"/><name nymRef="Καῖσαρ"><unclear>Καί</unclear>ϲαροϲ</name> <name nymRef="Σεβαστός">Σεβα<lb break="no" n="21"/>ϲτοῦ</name></persName> <w><supplied reason="lost" cert="low">καὶ</supplied></w> <persName type="emperor" key="augustus"><w>θεοῦ</w>
 <lb n="22"/><name nymRef="Σεβαστός">Σεβαϲτοῦ</name></persName> 
-                <w><supplied reason="lost" cert="low">ἔγ</supplied><lb break="no" n="23"/><space extent="unknown" unit="character"/><supplied reason="lost">γ</supplied>ονοϲ</w>, 
+                <w><supplied reason="lost" cert="low">ἔγ</supplied><lb break="no" n="23"/> <space extent="unknown" unit="character"/><supplied reason="lost">γ</supplied>ονοϲ</w>, 
                 <w><unclear>α</unclear><supplied reason="lost">ὐ</supplied><lb break="no" n="24"/><supplied reason="lost">τοκράτωρ</supplied></w></persName> 
                 <w><supplied reason="lost">διὰ</supplied></w>
 <lb n="25"/><persName type="attested"><name nymRef="Λούκιος"><supplied reason="lost"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></supplied></name> 

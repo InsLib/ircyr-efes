@@ -100,11 +100,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-               <lb n="1"/><space/> <persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name>
+               <lb n="1"/> <space/> <persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name>
                   <name nymRef="Αὐρήλιος"><expan><abbr>Αὐρ</abbr><ex>ηλίου</ex></expan></name>
                <name nymRef="Ἰούλιος">Ἰουλίου</name>
                 <name nymRef="Βετίας">Βετ<unclear>ι</unclear>α</name></persName> <space/>
-               <lb n="2"/><space><certainty match=".." locus="name"/></space> <w lemma="δοκέω">ἔδοξεν</w>
+               <lb n="2"/> <space><certainty match=".." locus="name"/></space> <w lemma="δοκέω">ἔδοξεν</w>
                <w lemma="δέ">δὲ</w> <w lemma="οὕτως">οὕτω</w> <w>τῷ</w> <w>δαίμονι</w> 
                <orig><unclear>αι</unclear>δ<unclear>ια</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig>θ<unclear>η</unclear></orig>
                <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>οδ</unclear>ο<unclear>γ</unclear>μο<unclear>ι</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>λιβυπιιιιουλοιι</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig><unclear>λιιοιο</unclear></orig>

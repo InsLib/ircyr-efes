@@ -123,9 +123,9 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                      <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="3">γ</num> <persName type="attested" key="lgpn:V1-61174"><name nymRef="Βόλχας">Βόλχας</name></persName> 
-                     <lb n="2"/><w>ἐαυτῷ</w> 
+                     <lb n="2"/> <w>ἐαυτῷ</w> 
                      <lb n="3"/><w lemma="καί">καὶ</w> <w lemma="ὁ">τοῖς</w> 
-                     <lb n="4"/><w>ἰδίοις</w>
+                     <lb n="4"/> <w>ἰδίοις</w>
                 </ab>
 </div>
          

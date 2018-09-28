@@ -124,7 +124,7 @@
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>πεσ</orig>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="character"/>
                         <persName type="attested"><name nymRef="Πλάριος"><supplied reason="lost">Π</supplied>λάρι<lb n="4" break="no"/><supplied reason="lost">ο</supplied>ς</name> 
-                        <name nymRef="Νίγερ">Νίγ<lb n="5" break="no"/><supplied reason="lost">ε</supplied><space quantity="3" unit="character"/>ρ</name></persName>
+                        <name nymRef="Νίγερ">Νίγ<lb n="5" break="no"/><supplied reason="lost">ε</supplied> <space quantity="3" unit="character"/>ρ</name></persName>
                 </ab>
 </div>
          

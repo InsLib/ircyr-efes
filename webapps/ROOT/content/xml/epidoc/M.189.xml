@@ -134,7 +134,7 @@
                 <head>Text</head>
                 <ab>
                     <lb n="1"/><persName type="divine" key="iatros"><name nymRef="Ἰατρός">Ἰατρῶι</name></persName> <space quantity="1" unit="character"/> <persName type="divine" key="iaso"><name nymRef="Ἰασώ">Ἰασο͂ι</name></persName> <w>θεοῖς</w> <space quantity="1" unit="character"/> <w>σωτῆρσι</w>
-                    <lb n="2"/><space quantity="3" unit="character"/> <persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἀντώνιος">Ἀντώνιος</name> <name nymRef="Σεκοῦνδος">Σεκοῦνδος</name></persName> <w><hi rend="ligature">ἀνέ</hi>θηκε</w>                
+                    <lb n="2"/> <space quantity="3" unit="character"/> <persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἀντώνιος">Ἀντώνιος</name> <name nymRef="Σεκοῦνδος">Σεκοῦνδος</name></persName> <w><hi rend="ligature">ἀνέ</hi>θηκε</w>                
                 </ab>
             </div>
           

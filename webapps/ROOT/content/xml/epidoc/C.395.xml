@@ -128,7 +128,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w><supplied reason="lost">ὑ</supplied><unclear>π</unclear>ὲρ</w> <w>τ<unclear>ᾶ</unclear>ς</w>
+                    <lb n="1"/> <w><supplied reason="lost">ὑ</supplied><unclear>π</unclear>ὲρ</w> <w>τ<unclear>ᾶ</unclear>ς</w>
            <persName type="emperor" key="antoninuspius"><w>α<unclear>ὐ</unclear>τ<unclear>ο</unclear>κ<supplied reason="lost">ρ</supplied><unclear>άτ</unclear>ο<unclear>ρο</unclear><supplied reason="lost">ς</supplied></w> <name nymRef="Καῖσαρ"><supplied reason="lost">Καίσαρος</supplied></name>
             <name nymRef="Τίτος">Τίτω</name> <name nymRef="Αἴλιος">Αἰλίω</name> <name nymRef="Ἁδριανός">Ἁ<supplied reason="lost">δρ</supplied>ιανῶ</name> 
                     <name nymRef="Ἀντωνῖνος">Ἀντωνείνω</name> <name nymRef="Σεβαστός">Σεβαστῶι</name><!--why the ascript iota?--> <w>Ε<supplied reason="lost">ὐσεβοῦς</supplied></w></persName>

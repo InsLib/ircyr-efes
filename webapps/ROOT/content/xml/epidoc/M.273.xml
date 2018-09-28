@@ -120,10 +120,10 @@
                     <lb n="1"/> <persName type="divine" key="iesous"><w><expan><abbr>Θ</abbr><ex>ε</ex><abbr>ὲ</abbr></expan></w>
   <name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>ὲ</abbr></expan></name></persName> <w>ζοὴν</w> <w>δὸς</w> 
                     <lb n="2"/><persName type="attested" key="lgpn:V1-63147"><name nymRef="Σαμφοδίων">Σαμφ<unclear>ο</unclear>δί<unclear>ο</unclear>νι</name></persName> <supplied reason="omitted"><orig>Σ</orig></supplied> 
-                    <lb n="3"/><w>τῷ</w> <w>κτίστῃ</w> <w>τοῦ</w> 
-                    <lb n="4"/><w>ἐργαλίου</w> <w>τού</w> 
-                    <lb n="5" break="no"/><w>του</w> <w>ὑπὲρ</w> <w>μνήμης</w> 
-                    <lb n="6"/><w>ἰδίας</w> <w>ἐπύη<unclear>σ</unclear><supplied reason="lost">εν</supplied></w>
+                    <lb n="3"/> <w>τῷ</w> <w>κτίστῃ</w> <w>τοῦ</w> 
+                    <lb n="4"/> <w>ἐργαλίου</w> <w>τού</w> 
+                    <lb n="5" break="no"/> <w>του</w> <w>ὑπὲρ</w> <w>μνήμης</w> 
+                    <lb n="6"/> <w>ἰδίας</w> <w>ἐπύη<unclear>σ</unclear><supplied reason="lost">εν</supplied></w>
                 </ab>
          </div>
          <div type="apparatus">

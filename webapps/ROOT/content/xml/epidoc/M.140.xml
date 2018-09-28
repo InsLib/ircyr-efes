@@ -108,7 +108,7 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div n="i" type="textpart"><ab>
-            <lb n="1"/> <gap reason="lost" extent="unknown" unit="character" cert="low"/>  <orig>ΠΡ<unclear>Ο</unclear><space quantity="1" unit="character"/> ΚΡ</orig> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
+            <lb n="1"/> <gap reason="lost" extent="unknown" unit="character" cert="low"/>  <orig>ΠΡ<unclear>Ο</unclear> <space quantity="1" unit="character"/> ΚΡ</orig> <gap reason="lost" extent="unknown" unit="character" cert="low"/>
                </ab>
 </div>
 </div>

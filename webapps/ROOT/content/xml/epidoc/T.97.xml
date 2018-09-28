@@ -122,12 +122,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
                         <div type="textpart" n="i"><ab>
-                           <lb n="1"/><space quantity="6" unit="character"/> <persName type="attested" key="lgpn:V1-60763"><name nymRef="Φιλίσκος">Φιλίσκος</name></persName> <orig>δ</orig><gap reason="lost" extent="unknown" unit="character"/>
+                           <lb n="1"/> <space quantity="6" unit="character"/> <persName type="attested" key="lgpn:V1-60763"><name nymRef="Φιλίσκος">Φιλίσκος</name></persName> <orig>δ</orig><gap reason="lost" extent="unknown" unit="character"/>
                            <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>ον</orig><gap reason="lost" quantity="2" unit="character"/><orig>ωινμυμα</orig> <gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div>
                         <div type="textpart" n="ii"><ab>
                            <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor" key="nero" cert="low"><name nymRef="Καῖσαρ"><supplied reason="lost">Κ</supplied>αίσαρος</name> 
-                        <name nymRef="Νέρων">Νέρ<supplied reason="lost">ωνος</supplied></name></persName><gap reason="lost" extent="unknown" unit="character"/>
+                        <name nymRef="Νέρων">Νέρ<supplied reason="lost">ωνος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
             <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">ωνιος</seg></name></persName> <orig>ιαιων</orig> <gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div>
                     </div>

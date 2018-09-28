@@ -123,7 +123,7 @@
                         <gap reason="lost" extent="unknown" unit="character"/> <name nymRef="Traianus"><supplied reason="lost">Traian</supplied>o</name> <name nymRef="Hadrianus">Hadr<supplied reason="lost">iano</supplied></name> 
                     <name nymRef="Augustus"><supplied reason="lost"><expan><abbr>Aug</abbr><ex>usto</ex></expan></supplied></name>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="tribunicius"><expan><abbr><supplied reason="lost">tri</supplied>b</abbr><supplied reason="lost"><ex>unicia</ex></supplied></expan></w>
-                   <w lemma="potestas"><supplied reason="lost"><expan><abbr>pot</abbr><ex>estate</ex></expan></supplied></w></persName><gap reason="lost" extent="unknown" unit="character"/>
+                   <w lemma="potestas"><supplied reason="lost"><expan><abbr>pot</abbr><ex>estate</ex></expan></supplied></w></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

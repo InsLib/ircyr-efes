@@ -124,7 +124,7 @@
            <supplied cert="low" reason="lost"><w>καὶ</w></supplied>
              <lb n="2"/><persName type="divine" key="kore"><name nymRef="Κόρη">Κόρηι</name></persName>
                <w>ἀν<supplied cert="low" reason="lost">έθηκε</supplied></w> 
-               <supplied reason="lost"><space extent="unknown" unit="character"/></supplied>
+               <supplied reason="lost"> <space extent="unknown" unit="character"/></supplied>
             
                 </ab>
 </div>

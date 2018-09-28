@@ -137,7 +137,7 @@
                     <rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs> <num value="23">γκ</num> </date> 
                     <lb n="9"/><persName type="attested" key="lgpn:V1-61399"><name nymRef="Κλευπὶν">Κλευπὶν</name> 
                     <lb n="10"/><persName type="attested" key="lgpn:V1-61620"><name nymRef="Σουφήνας">Ϲουφήνα</name></persName></persName> 
-                    <lb n="11"/><space quantity="1" unit="character"/> <date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="35">λε</num> </date>
+                    <lb n="11"/> <space quantity="1" unit="character"/> <date type="life-span" dur="P35Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="35">λε</num> </date>
                 </ab>
 </div>
          <div type="apparatus">

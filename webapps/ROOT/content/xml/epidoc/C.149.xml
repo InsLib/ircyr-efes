@@ -136,7 +136,7 @@
                 <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"><certainty locus="name" match=".."/></gap>
                     
-                    <lb n="1"/><handShift new="a"/><persName type="attested" key="lgpn:V1-62934"><name nymRef="Ἀντίπατρος"><unclear>Ἀντίπατρος</unclear></name></persName><gap reason="lost"
+                    <lb n="1"/><handShift new="a"/><persName type="attested" key="lgpn:V1-62934"><name nymRef="Ἀντίπατρος"><unclear>Ἀντίπατρος</unclear></name></persName> <gap reason="lost"
                                 atLeast="5" atMost="6" unit="character"/>
                     
                     <lb n="2"/><persName type="attested" key="lgpn:V1-62992"><name nymRef="Ἀπολλώνιος">Ἀπολλώνιος</name> <persName type="attested" key="lgpn:V1-63243"><name nymRef="Ἁρμόδιος">Ἁρμοδί<supplied reason="lost">ω</supplied></name></persName></persName>
@@ -154,24 +154,24 @@
                     <lb n="5"/><persName type="attested" key="lgpn:V1-65504"><name nymRef="Πρώταρχος">Πρώταρχος</name> <persName
                         type="attested" key="lgpn:V1-66063"><name nymRef="Φίλων">Φίλωνο<hi rend="sling-above small">ς</hi></name></persName></persName>
                     
-                    <lb n="6"/><persName type="attested" key="lgpn:V1-65493"><name nymRef="Πρῶρος">Πρῶρος</name><space quantity="1" unit="character"/><del rend="erasure" cert="low"><gap
+                    <lb n="6"/><persName type="attested" key="lgpn:V1-65493"><name nymRef="Πρῶρος">Πρῶρος</name> <space quantity="1" unit="character"/><del rend="erasure" cert="low"><gap
                         reason="lost" atLeast="2" atMost="3" unit="character"/></del> <persName 
                         type="attested" key="lgpn:V1-65740"><name nymRef="Σώστρατος">Σωστράτω</name></persName></persName>
                     
-                    <lb n="6a"/><space quantity="2" unit="line"/>
+                    <lb n="6a"/> <space quantity="2" unit="line"/>
                     
-                    <lb n="7"/><w>ἐπιμεληθέντες</w>
+                    <lb n="7"/> <w>ἐπιμεληθέντες</w>
                     
-                    <lb n="8"/><w>τᾶς</w> <w>οἰκοδομᾶς</w> <w>τῶ</w>
+                    <lb n="8"/> <w>τᾶς</w> <w>οἰκοδομᾶς</w> <w>τῶ</w>
                     
-                    <lb n="9"/><w>τοίχω</w> <w>καὶ</w> <w>τᾶν</w> <w>στε<lb 
+                    <lb n="9"/> <w>τοίχω</w> <w>καὶ</w> <w>τᾶν</w> <w>στε<lb 
                         n="10" break="no"/>γᾶν</w> <w>τῶν</w> <w>ἀρχε<supplied reason="omitted">ί</supplied>ων</w>
                     
-                    <lb n="11"/><w>καὶ</w> <w>τῶ</w> <w>ἡμικυκλίω</w> 
+                    <lb n="11"/> <w>καὶ</w> <w>τῶ</w> <w>ἡμικυκλίω</w> 
                     
                     <lb n="12"/><handShift new="a"/> <w>τὸν</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλω</name></persName>
                     
-                    <lb n="13"/><space quantity="1" unit="character"/> <w>ἀνέθηκαν</w>.
+                    <lb n="13"/> <space quantity="1" unit="character"/> <w>ἀνέθηκαν</w>.
                 </ab>
             </div>
             

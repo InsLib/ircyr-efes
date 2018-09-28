@@ -124,7 +124,7 @@
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">ου</seg></name></persName>
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">λα</seg></name></persName> 
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">ος</seg></name></persName> 
-                    <lb n="7"/><space quantity="1" unit="character"/>
+                    <lb n="7"/> <space quantity="1" unit="character"/>
                 </ab>
 </div>
          

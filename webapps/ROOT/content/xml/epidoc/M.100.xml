@@ -106,7 +106,7 @@
                <rs type="month" key="Μεχίρ"><w>Μεχὶρ</w></rs> <num value="3">γ</num>
                <persName type="attested"><name nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτος</ex></expan></name>
                   <name nymRef="Καίσιος"><unclear>Κ</unclear>α<unclear>ίσ</unclear>ι<unclear>ο</unclear>ς</name>
-                  <lb n="2"/><space/> 
+                  <lb n="2"/> <space/> 
                   <name nymRef="Πολλιανός" cert="low"><unclear>Π</unclear><supplied reason="lost" cert="low">ο</supplied><unclear>λλι</unclear><supplied reason="lost" cert="low">αν</supplied>όϲ</name></persName>
                <space/>
             </ab>

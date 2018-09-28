@@ -113,7 +113,7 @@
                     <w><abbr>ma<supplied reason="lost">x</supplied></abbr><ex>imus</ex></w></expan>
                     <lb n="4"/><expan><w><abbr>trib</abbr><ex>unicia</ex></w>
                     <w><abbr>pot</abbr><ex>estate</ex></w></expan> <num value="3">II<supplied reason="lost">I</supplied></num>
-                    <lb n="5"/><w><expan><abbr>im<supplied reason="lost">p</supplied></abbr><ex>erator</ex></expan></w>
+                    <lb n="5"/> <w><expan><abbr>im<supplied reason="lost">p</supplied></abbr><ex>erator</ex></expan></w>
                     <num value="8">VIII</num> <expan><w><abbr>p</abbr><ex>ater</ex></w> 
                     <w><abbr>p</abbr><ex>atriae</ex></w></expan> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
                     <lb n="6"/><num value="3">III</num> <w><expan><abbr>desig</abbr><ex>natus</ex></expan></w> <num value="4">IIII</num>, 
@@ -122,7 +122,7 @@
                     <lb n="8" /><name nymRef="Agrippinus">Agrippinum</name></persName> <w><expan><abbr>leg</abbr><ex>atum</ex></expan></w>
                     <lb n="9"/><w lemma="suus">suum</w> <expan><w><abbr>P</abbr><ex>opulo</ex></w> <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName></expan> 
                               <w>hortos</w>
-                    <lb n="10"/><w><supplied reason="lost">restitui</supplied>t</w> <space quantity="3" unit="character"/> 
+                    <lb n="10"/> <w><supplied reason="lost">restitui</supplied>t</w> <space quantity="3" unit="character"/> 
                 </ab></div>
          <div type="textpart" n="2" xml:lang="grc"><ab>
             <lb n="1"/><gap reason="lost" quantity="4" unit="character"/><orig>ο</orig><gap reason="lost" quantity="4" unit="character"/>

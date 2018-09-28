@@ -111,7 +111,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab><lb n="1"/><persName type="attested"><name nymRef="Ἑλβία">Ἑλβία</name> <name nymRef="Τειμαρέτα">Τειμαρέτα</name></persName> <w>κατ’</w>  <w>ὄναρ</w>
-               <lb n="2"/><w>χρησμόν</w> <w>λαβοῦσα</w> <w>ἀνέθηκε</w> <persName type="divine" key="demeter"><name nymRef="Δημήτηρ">Δήμητρι</name></persName> <w>καὶ</w>
+               <lb n="2"/> <w>χρησμόν</w> <w>λαβοῦσα</w> <w>ἀνέθηκε</w> <persName type="divine" key="demeter"><name nymRef="Δημήτηρ">Δήμητρι</name></persName> <w>καὶ</w>
                <persName type="divine" key="kore"><name nymRef="Κόρη">Κό	
                <lb n="3" break="no"/>ρηι</name></persName> <persName type="divine" key="kore"><name nymRef="Κόρη">Κόρης</name></persName> <w>ἄγαλμα</w> <w>τὴν</w> <w>ἐπὶ</w> <w>τοῦ</w> <w>σείτου</w> 
                <space quantity="3" unit="character"/>

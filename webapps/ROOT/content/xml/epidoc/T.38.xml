@@ -121,7 +121,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><space quantity="1" unit="character"/> 
+                    <lb n="1"/> <space quantity="1" unit="character"/> 
                         <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="14" xml:lang="grc">ιδ</num>
                         <space quantity="1" unit="character"/>

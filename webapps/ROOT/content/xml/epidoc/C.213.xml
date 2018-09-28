@@ -130,10 +130,10 @@
                     <name nymRef="Αὐρήλιος">Αὐρήλ<supplied reason="lost">ιον</supplied></name>
                     <lb n="2"/><name nymRef="Ἀντωνῖνος">Ἀντωνείνον</name> <name nymRef="Σεβαστός">Σεβασ<supplied reason="lost">τ</supplied>ὸν</name>
                     <name nymRef="Ἀρμενιακος"><expan><abbr>Ἀρμε<supplied reason="lost">νιακ</supplied></abbr><supplied reason="lost"><ex>ὸν</ex></supplied></expan></name></persName>
-                    <lb n="3"/><w>ἁ</w> <w lemma="πόλις">πόλις</w> <w>ἁ</w> <placeName type="ethnic"><w lemma="Κυραναῖος">Κυρανάων</w></placeName> <w lemma="ὁ"><supplied reason="lost">τ</supplied>ὸν</w> 
+                    <lb n="3"/> <w>ἁ</w> <w lemma="πόλις">πόλις</w> <w>ἁ</w> <placeName type="ethnic"><w lemma="Κυραναῖος">Κυρανάων</w></placeName> <w lemma="ὁ"><supplied reason="lost">τ</supplied>ὸν</w> 
                     <w>μ</w> <gap reason="lost" quantity="7" unit="character"/>
-                    <lb n="4"/><w>ἀφιερώσαντος</w> <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name> 
-                    <orig><unclear>ο</unclear></orig><gap reason="lost" quantity="4" unit="character"/><orig>μ</orig></persName><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="4"/> <w>ἀφιερώσαντος</w> <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name> 
+                    <orig><unclear>ο</unclear></orig><gap reason="lost" quantity="4" unit="character"/><orig>μ</orig></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

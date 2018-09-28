@@ -125,13 +125,13 @@
                     <lb n="1"/><persName type="attested"><supplied reason="lost"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>ucius</ex></expan></name> 
                         <name nymRef="Blaesius">Blaesius</name> <persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>uci</ex></expan></name></persName> <w lemma="filius"><expan><abbr>f</abbr><ex>ilius</ex></expan></w></supplied>
                     <lb n="2"/><name nymRef="Rusticus"><unclear>R</unclear>us<unclear>tic</unclear>us</name></persName>
-                    <lb n="3"/><space quantity="1" unit="character"/> <date type="life-span" dur="P19Y"><w lemma="annus"><expan><abbr>an</abbr><ex>norum</ex></expan></w>
+                    <lb n="3"/> <space quantity="1" unit="character"/> <date type="life-span" dur="P19Y"><w lemma="annus"><expan><abbr>an</abbr><ex>norum</ex></expan></w>
                         <num value="19">XIX</num> </date> <space quantity="1" unit="character"/>
             </ab>        
             <ab xml:lang="grc"><lb n="4"/><persName type="attested"><name nymRef="Λούκιος">Λούκιος</name> <name nymRef="Βλαίσιος">Β<supplied reason="lost">λ</supplied><unclear>αί</unclear><lb n="5" break="no"/><unclear>σ</unclear>ιος</name>
             <persName type="attested"><name nymRef="Λούκιος">Λουκίου</name></persName>
-            <lb n="6"/><w>υἱὸς</w> <name nymRef="Ῥουστικός">Ῥουστικ<supplied reason="lost">ός</supplied></name></persName>
-                    <lb n="7"/><space quantity="1" unit="character"/> <date type="life-span" dur="P19Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
+            <lb n="6"/> <w>υἱὸς</w> <name nymRef="Ῥουστικός">Ῥουστικ<supplied reason="lost">ός</supplied></name></persName>
+                    <lb n="7"/> <space quantity="1" unit="character"/> <date type="life-span" dur="P19Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="19">ιθ</num> </date> <space quantity="1" unit="character"/></ab>
             <ab>
             <lb n="8"/><gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name nymRef="Blaesius">Blaesius</name> 
@@ -143,7 +143,7 @@
                     <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
             <lb n="11"/><name nymRef="Rusticus">Rusticus</name></persName> <w><expan><abbr>p</abbr><ex cert="low">ius</ex></expan></w> 
                     <date type="life-span" dur="P28Y"><w><expan><abbr>ann</abbr><ex>orum</ex></expan></w>
-                    <lb n="12"/><space quantity="1" unit="character"/> <num value="28">XXVIII</num> </date> <space quantity="1" unit="character"/>
+                    <lb n="12"/> <space quantity="1" unit="character"/> <num value="28">XXVIII</num> </date> <space quantity="1" unit="character"/>
                 </ab>
 </div>
          <div type="apparatus">
