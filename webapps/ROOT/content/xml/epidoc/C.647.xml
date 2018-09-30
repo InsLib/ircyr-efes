@@ -114,16 +114,12 @@
                <persName type="divine" key="herakles"><name nymRef="Ἡρακλῆς">Ἡρακλεῖ</name></persName>
             </ab></div>
             <div type="textpart" n="2"><ab>
-               <lb n="1"/><date corresp="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="13">ιγ</num> </date>
+               <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="13">ιγ</num> 
                <persName type="attested" key="lgpn:V1-64477"><name nymRef="Καλλίμαχος">Καλλιμάχω</name> <w>τῶ</w> <persName type="attested" key="lgpn:V1-64143"><name nymRef="Θευδόσιος">Θευδοσίω</name></persName></persName>
                
             </ab></div>
             <div type="textpart" n="3"><ab>
-<<<<<<< HEAD
-               <date corresp="https://godot.date/id/R7DUHVJoXTEyJTz2QtAxZ5"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="71">οα</num></date> <orig>α</orig><space extent="1" unit="character"/><orig>ι</orig> 
-=======
                <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="71">οα</num> <orig>α</orig> <space extent="1" unit="character"/><orig>ι</orig> 
->>>>>>> branch 'develop' of https://github.com/InsLib/ircyr-efes
                <persName type="attested" key="lgpn:V1-65345"><name nymRef="Πολυάρατος">Πολυάρατος</name> <persName type="attested" key="lgpn:V1-64296"><name nymRef="Ἰάσων">Ἰάσονος</name></persName></persName>
             </ab></div>
             <div type="textpart" n="4"><ab>

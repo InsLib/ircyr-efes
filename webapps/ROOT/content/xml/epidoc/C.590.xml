@@ -124,16 +124,16 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><date corresp="https://godot.date/id/UGsKBAis8vjkqQEseo4oyG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <gap reason="lost" quantity="1" unit="character"/></date> <persName type="attested" key="lgpn:V1-65605"><name nymRef="Σίμων">Σ<supplied reason="lost">ί</supplied><unclear>μ</unclear>ων</name> 
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <gap reason="lost" quantity="1" unit="character"/> <persName type="attested" key="lgpn:V1-65605"><name nymRef="Σίμων">Σ<supplied reason="lost">ί</supplied><unclear>μ</unclear>ων</name> 
                     <persName type="attested" key="lgpn:V1-63253"><name nymRef="Ἀρτεμίδωρος">Ἀρτ<supplied reason="lost">ε</supplied>μιδώρου</name></persName></persName> 
             <date type="life-span" dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="5">ε</num> </date>
-                    <lb n="2"/><date corresp="https://godot.date/id/UGsKBAis8vjkqQEseo4oyG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <gap reason="lost" quantity="1" unit="character"/></date> <persName type="attested" key="lgpn:V1-65075"><name nymRef="Μυρτώ">Μυρτὼ</name> <persName type="attested"><name nymRef="Εὐκλείδας">Εὐκλείδα</name></persName></persName> 
+                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <gap reason="lost" quantity="1" unit="character"/> <persName type="attested" key="lgpn:V1-65075"><name nymRef="Μυρτώ">Μυρτὼ</name> <persName type="attested"><name nymRef="Εὐκλείδας">Εὐκλείδα</name></persName></persName> 
             <date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num atLeast="60">ξ<gap reason="lost" quantity="1" unit="character"/></num> </date> 
-                    <lb n="3"/><date corresp="https://godot.date/id/puESXHZfTKfs9yv8eWsbnh"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="40"><unclear>μ</unclear></num></date> <persName type="attested" key="lgpn:V1-65607"><name nymRef="Σίμων">Σίμων</name> <persName type="attested" key="lgpn:V1-65606"><name nymRef="Σίμων">Σίμωνος</name></persName></persName> 
+                    <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="40"><unclear>μ</unclear></num> <persName type="attested" key="lgpn:V1-65607"><name nymRef="Σίμων">Σίμων</name> <persName type="attested" key="lgpn:V1-65606"><name nymRef="Σίμων">Σίμωνος</name></persName></persName> 
             <date type="life-span" dur="P39Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="39"><unclear>λ</unclear>θ</num> </date>
                 </ab>

@@ -117,9 +117,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><date corresp="https://godot.date/id/aNHe7rTzEijnddyZKPXD42"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="70">ο</num></date> <persName type="attested"><name nymRef="Πόπλιος">Πόπλιος</name>
-                    <lb n="2"/><name nymRef="Ῥαν-"><seg part="I">Ῥαν</seg></name></persName><gap reason="lost" quantity="4" unit="character" precision="low"/><orig>μα</orig> <orig>Ξ</orig>
+                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="70">ο</num> <persName type="attested"><name nymRef="Πόπλιος">Πόπλιος</name>
+                    <lb n="2"/><name nymRef="Ῥαν-"><seg part="I">Ῥαν</seg></name></persName> <gap reason="lost" quantity="4" unit="character" precision="low"/><orig>μα</orig> <orig>Ξ</orig>
                 </ab>
 </div>
          

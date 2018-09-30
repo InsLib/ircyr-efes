@@ -116,7 +116,7 @@
             <p>
                <bibl>
                   <ptr target="cassels1955"/> <citedRange>197</citedRange> and p. 20</bibl>, whence  
-               <bibl><title>SEG</title> <citedRange>16.869b</citedRange></bibl></p><!-- check -->
+               <bibl><title>SEG</title> <citedRange>16.869b</citedRange></bibl></p>
             <p>For the tomb see <bibl><ptr target="thorn2009"/> <citedRange>85</citedRange></bibl></p>
          </div>
          
@@ -134,8 +134,7 @@
             <head>Commentary</head>
             
             <p>The shapes do not survive, but the techniques used and the 
-               name recorded suggest that it is of about the same date as <ref type="inscription" n="C54900">C.578</ref> (II-III cent);  
-               The combination of Doric and κοινή forms of the genitive is noteworthy</p>
+               name recorded suggest that it is of about the same date as <ref type="inscription" n="C54900">C.578</ref> (II-III cent); cf. the Epaphrodeitus in a. The combination of Doric and κοινή forms of the genitive is noteworthy</p>
          </div>
          
       </body>
