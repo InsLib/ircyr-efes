@@ -96,8 +96,7 @@
          <change when="2010-08-04" who="GB">Converted from TEI P4 (EpiDoc DTD v. 6) to P5 (EpiDoc RNG schema v. 8)</change>
          <change when="2010-05-26" who="AIO">entered inscription manually</change>
       </revisionDesc>
-   </teiHeader><facsimile><!--
-                --><surface/></facsimile>
+   </teiHeader><facsimile><surface/></facsimile>
    <text>
       <body>
         
