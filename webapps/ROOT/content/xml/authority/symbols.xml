@@ -9,96 +9,274 @@
             <publicationStmt><p></p></publicationStmt>
             <sourceDesc><p></p></sourceDesc>
         </fileDesc>
+        <encodingDesc>
+            <charDecl>
+                <glyph xml:id="dipunct">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value>:</value>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>dipunct</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="stop">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value>•</value>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>stop</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="leaf">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value>&#x2766;</value>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>leaf</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="denarius">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value>&#x10196;</value>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>denarius</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="chi-rho">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value>&#x2627;</value>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>Chi-Rho</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="crux">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value>&#x2020;</value>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>crux</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="drachma">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value>&#x10175;</value>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>drachma</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="slanting-stroke">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value>/</value>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>slanting-stroke</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="year">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value>&#x10179;</value>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>year</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="palm">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>palm</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="star">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>star</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="figure">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>figure</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="monogram">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>monogram</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="scroll">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>scroll</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="line">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>line</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="jug">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>jug</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="dash">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value>-</value>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>dash</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="onchias">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>onchias</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="conch">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>conch</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="obliquebar">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>obliquebar</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="branch">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>branch</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="head">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>head</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="triple-bar">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>triple-bar</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="ΣΤΚ">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>ΣΤΚ</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="barley-ear">
+                    <charProp >
+                        <localName>glyph-display</localName>
+                        <value/>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>barley-ear</value>
+                    </charProp>
+                </glyph>
+                <glyph xml:id="centuria">
+                    <charProp>
+                        <localName>glyph-display</localName>
+                        <value>&#x1019b;</value>
+                    </charProp>
+                    <charProp>
+                        <localName>text-display</localName>
+                        <value>centuria</value>
+                    </charProp>
+                </glyph>
+            </charDecl>
+        </encodingDesc>
     </teiHeader>
     <text>
         <body>
-            <list>
-                <item xml:id="crux">
-                    <term xml:lang="en">crux</term>
-                    <g>&#x2020;</g>
-                </item>
-                <item xml:id="denarius">
-                    <term xml:lang="en">denarius</term>
-                    <g>&#x10196;</g>
-                </item>
-                <item xml:id="drachma">
-                    <term xml:lang="en">drachma</term>
-                    <g>&#x10175;</g>
-                </item>
-                <item xml:id="leaf">
-                    <term xml:lang="en">leaf</term>
-                    <g>&#x2766;</g>
-                </item>
-                <item xml:id="slanting-stroke">
-                    <term xml:lang="en">slanting-stroke</term>
-                    <g>/</g>
-                </item>
-                <item xml:id="stop">
-                    <term xml:lang="en">stop</term>
-                    <g>•</g>
-                </item>
-                <item xml:id="year">
-                    <term xml:lang="en">year</term>
-                    <g>&#x10179;</g>
-                </item>
-                <item xml:id="palm">
-                    <term xml:lang="en">palm</term>
-                </item>
-                <item xml:id="star">
-                    <term xml:lang="en">star</term>
-                </item>
-                <item xml:id="figure">
-                    <term xml:lang="en">figure</term>
-                </item>
-                <item xml:id="monogram">
-                    <term xml:lang="en">monogram</term>
-                </item>
-                <item xml:id="chi-rho">
-                    <term xml:lang="en">Chi-Rho</term>
-                    <g>&#x2627;</g>
-                </item>
-                <item xml:id="scroll">
-                    <term xml:lang="en">scroll</term>
-                </item>
-                <item xml:id="line">
-                    <term xml:lang="en">line</term>
-                </item>
-                <item xml:id="dipunct">
-                    <term xml:lang="en">dipunct</term>
-                    <g>:</g>
-                </item>
-                <item xml:id="jug">
-                    <term xml:lang="en">jug</term>
-                </item>
-                <item xml:id="dash">
-                    <term xml:lang="en">dash</term>
-                    <g>-</g>
-                </item>
-                <item xml:id="onchias">
-                    <term xml:lang="en">onchias</term>
-                </item>
-                <item xml:id="conch">
-                    <term xml:lang="en">conch</term>
-                </item>
-                <item xml:id="obliquebar">
-                    <term xml:lang="en">obliquebar</term>
-                </item>
-                <item xml:id="branch">
-                    <term xml:lang="en">branch</term>
-                </item>
-                <item xml:id="head">
-                    <term xml:lang="en">head</term>
-                </item>
-                <item xml:id="triple-bar">
-                    <term xml:lang="en">triple-bar</term>
-                </item>
-                <item xml:id="ΣΤΚ">
-                    <term xml:lang="en">ΣΤΚ</term>
-                </item>
-                <item xml:id="barley-ear">
-                    <term xml:lang="en">barley-ear</term>
-                </item>
-            </list>
+            <ab/>
         </body>
     </text>
 </TEI>

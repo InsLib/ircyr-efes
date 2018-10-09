@@ -14,8 +14,10 @@
 
     <xsl:template match="/">
         <add>
-            <xsl:for-each-group select="//tei:expan[ancestor::tei:div/@type='edition']" 
+            <xsl:for-each-group select="//tei:expan[ancestor::tei:div/@type='edition'][not(parent::tei:abbr)]" 
                 group-by="concat(string-join(.//tei:abbr, ''),'-',.)">
+                <!--<xsl:sort order="ascending"
+                    select="translate(normalize-unicode(current-grouping-key(),'NFD'),'&#x0301;&#x0313;&#x0314;&#x0342;','')"/>-->
                 <doc>
                     <field name="document_type">
                         <xsl:value-of select="$subdirectory" />
@@ -25,10 +27,27 @@
                     </field>
                     <xsl:call-template name="field_file_path" />
                     <field name="index_item_name">
-                        <xsl:value-of select="string-join(.//tei:abbr, '')" />
-                        <xsl:for-each select="descendant::tei:g">
-                            <xsl:value-of select="concat($base-uri, @ref)" />
-                        </xsl:for-each>
+                        <xsl:choose>
+                            <xsl:when test="descendant::tei:g">
+                                <xsl:value-of select="concat($base-uri, descendant::tei:g/@ref, 'QQQQQ')" />
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:value-of select="string-join(.//tei:abbr, '')" />
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </field>
+                    <field name="index_item_sort_name">
+                        <xsl:choose>
+                            <xsl:when test="descendant::tei:g">
+                                <xsl:value-of select="lower-case(translate(normalize-unicode(concat($base-uri, descendant::tei:g/@ref, 'QQQQQ'),'NFD'),'&#x0301;&#x0313;&#x0314;&#x0342;',''))" />
+                            </xsl:when>
+                            <xsl:otherwise>
+                                <xsl:value-of select="lower-case(translate(normalize-unicode(string-join(.//tei:abbr, ''),'NFD'),'&#x0301;&#x0313;&#x0314;&#x0342;',''))" />
+                            </xsl:otherwise>
+                        </xsl:choose>
+                    </field>
+                    <field name="language_code">
+                        <xsl:value-of select="ancestor-or-self::*[@xml:lang][1]/@xml:lang"/>
                     </field>
                     <field name="index_abbreviation_expansion">
                         <xsl:value-of select=".//text()[not(ancestor::tei:am)]"/>

@@ -7,3 +7,8 @@ webapps/ROOT/content/xml/tei
 webapps/ROOT/WEB-INF/logs
 webapps/solr/data
 docs/build
+<<<<<<< HEAD
+=======
+.svn
+.DS_Store
+>>>>>>> e1e8389110917996a641411c20a0b7e2c5b0d6ec

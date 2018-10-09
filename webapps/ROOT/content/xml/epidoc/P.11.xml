@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P01500" xml:lang="en">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title><rs type="textType">Ephebic<certainty cert="low" locus="value" match=".."/>
+            </rs> <rs type="textType">names</rs></title>
+            <editor>Joyce M. Reynolds</editor>
+         </titleStmt>
+         <publicationStmt>
+            <authority>Centre for Computing in the Humanities, King's College London</authority>
+            <idno type="filename">P.11</idno>
+            <idno type="ircyr2012">P01500</idno>
+            <idno type="JMR">269 2/c</idno>
+            <idno type="Excel">709</idno>
+            <availability>
+               <p>Creative Commons licence Attribution UK 2.0
+                    (<ref>http://creativecommons.org/licenses/by/2.0/uk/</ref>)</p>
+               <p>All reuse or distribution of this work must contain somewhere a link back to the
+                    URL <ref>http://inslib.kcl.ac.uk/</ref>
+               </p>
+            </availability>
+         </publicationStmt>
+         <sourceDesc>
+            <msDesc>
+               <msIdentifier><msName>n/a</msName></msIdentifier>
+               <physDesc>
+                  <objectDesc>
+                     <supportDesc>
+                        <support>
+                           <p><material>Sandstone</material> 
+                              blocks, too high to measure, in the wall of the West Gate,
+                              inscribed, while in their present position, with <ref type="inscription" n="P00600">P.1</ref>, <ref type="inscription" n="P00700">P.2</ref>, <ref type="inscription" n="P00800">P.3</ref>, <ref type="inscription" n="P00900">P.4</ref>, <ref type="inscription" n="P01000">P.5</ref>, 
+                              <ref type="inscription" n="P01100">P.6</ref>, 
+                              <ref type="inscription" n="P01200">P.7</ref>,
+                              <ref type="inscription" n="P01300">P.8</ref>,
+                              <ref type="inscription" n="P01400">P.9</ref>, <ref type="inscription" n="P01410">P.10</ref>,
+                              <ref type="inscription" n="P01500">P.11</ref>,
+                              <ref type="inscription" n="P01600">P.12</ref>,
+                              <ref type="inscription" n="P01700">P.13</ref>,
+                              <ref type="inscription" n="P01800">P.14</ref>,
+                              <ref type="inscription" n="P01900">P.15</ref>,
+                              <ref type="inscription" n="P02000">P.16</ref>,
+                              <ref type="inscription" n="P02100">P.17</ref>,
+                              <ref type="inscription" n="P02200">P.18</ref>,
+                              <ref type="inscription" n="P02300">P.19</ref>,
+                              <ref type="inscription" n="P02400">P.20</ref>,
+                              <ref type="inscription" n="P02500">P.21</ref>,
+                              <ref type="inscription" n="P02600">P.22</ref>,
+                              <ref type="inscription" n="P02700">P.23</ref>,
+                              <ref type="inscription" n="P02800">P.24</ref>, 
+                              <ref type="inscription" n="P02900">P.26</ref>, 
+                              <ref type="inscription" n="P03000">P.27</ref>, <ref type="inscription" n="P03100">P.28</ref>.</p>
+                        </support>
+                     </supportDesc>
+                     <layoutDesc>
+                        <layout><rs type="execution" key="litteris scariphatis">Graffito</rs> on the raised central area of a block to the right of the second block of <ref type="inscription" n="P01400">P.9</ref>.</layout>
+                     </layoutDesc>
+                  </objectDesc>
+                  <handDesc>
+                     <handNote>L for ἔτους; cursive omega in iv. only; five different hands. in iv 
+                        the patronymic is written in smaller letters between and within those of the name.</handNote>
+                  </handDesc>
+               </physDesc>
+               <history>
+                  <origin>
+                     <origPlace>Findspot.</origPlace>
+                     <origDate notBefore="-0100" notAfter="0100" precision="low" evidence="lettering context">First century B.C.E. to first century C.E.</origDate>
+                  </origin>
+                  
+                     
+                        <provenance type="found">
+                           <p>
+                              <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/912">Ptolemais</placeName>:
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/939">West Gate</placeName>, North tower, north wall. </p>
+                        </provenance>
+                        <provenance type="observed">
+                           <p>Findspot.</p>
+                        </provenance>
+                     
+                  
+               </history>
+            </msDesc>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <p>Marked-up according to the EpiDoc Guidelines version 8</p>
+      <classDecl><taxonomy><category xml:id="photograph"><catDesc>Digital or digitized photographs</catDesc></category><category xml:id="representation"><catDesc>Digitized other representations</catDesc></category></taxonomy></classDecl></encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="ar">Arabic</language>
+            <language ident="en">English</language>
+            <language ident="fr">French</language>
+            <language ident="de">German</language>
+            <language ident="grc">Ancient Greek</language>
+            <language ident="grc-Latn">Transliterated Greek</language>
+            <language ident="el">Modern Greek</language>
+            <language ident="he">Hebrew</language>
+            <language ident="it">Italian</language>
+            <language ident="la">Latin</language>
+         </langUsage>
+         <textClass/>
+         <textClass>
+            <keywords scheme="IRCyr">
+               <term>
+                        <geogName type="ancientRegion" key="Cyrene">Cyrenaica</geogName>
+                    </term>
+               <term>
+                        <geogName type="modernCountry" key="LY">Libya</geogName>
+                    </term>
+               <term>
+                        <placeName type="modernFindspot" ref="http://sws.geonames.org/89183">Tolmeita</placeName>
+                    </term>
+            </keywords>
+         </textClass>
+      <creation>Transcription (Reynolds).</creation></profileDesc>
+      <revisionDesc>
+         <change when="2012-11-05" who="GB">moved text-constituted-from to profileDesc/creation</change>
+         <change when="2012-10-16" who="GB">broke provenance events into multiple provenance elements</change>
+         <change when="2011-07-14" who="Pietro">added photographs</change>
+         <change when="2011-02-21" who="MGDA">fixed bibliography</change>
+         <change when="2010-08-04" who="GB">Converted from TEI P4 (EpiDoc DTD v. 6) to P5 (EpiDoc RNG schema v. 8)</change>
+         <change when="2010-03-30" who="GB">lemmatized</change>
+         <change when="2009-07-16" who="Pietro">turned to XML and tidied</change>
+         <change when="2009-02-24" who="GB">mailmerged: created from template</change>
+      </revisionDesc>
+   </teiHeader>
+   <facsimile><graphic url="PachoLXXIV" decls="#photograph"><desc>Transcription (1827, Pacho, plate LXXIV)</desc></graphic>
+            <graphic url="P01500_Tolmeita_I_79" decls="#photograph"><desc>Detail (Joyce Reynolds, Tolmeita I (NB V). 79)</desc></graphic>
+            <graphic url="JMRNB05_079" decls="#photograph"><desc><ref type="inscription" n="P01500">P.11</ref> to the left, <ref type="inscription" n="P01600">P.12</ref> 
+               to the right (Reynolds, Tolmeita I (NB V). 79</desc></graphic>
+            <!--Dept. JR.--></facsimile>
+   <text>
+      <body>
+        
+         <div type="bibliography">
+            <head>Bibliography</head>
+            <p><bibl><ptr target="pacho1827"/>  pl. <citedRange>LXXIV</citedRange>
+            </bibl>, whence <bibl><ptr target="cigiii"/> <citedRange>5231</citedRange></bibl>;
+ <bibl><ptr target="oliverioDAI"/>  <citedRange>495</citedRange> (19), p. 248</bibl>, whence
+               <bibl><title>SEG</title> <citedRange>9.379</citedRange></bibl>.
+            </p>
+         </div>
+         
+         <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
+                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                            <num value="12">ιβ</num> <persName type="attested" key="lgpn:V1-61611"><name nymRef="Σεραπίων">Σεραφίω</name></persName>
+                        </ab></div>
+            <div subtype="fragment" n="ii" type="textpart"><ab>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="1">α</num> <persName type="attested" key="lgpn:V1-61135"><name nymRef="Ἀριπαχθίς">Ἀριπαχθίς</name></persName>
+                    </ab></div>
+            <div subtype="fragment" n="iii" type="textpart"><ab>
+                        <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">φ</supplied>ίλο<supplied reason="lost">ς</supplied></w> <persName type="attested"><name nymRef="Νικίας">Νικία</name></persName>
+                    </ab></div>
+            <div subtype="fragment" n="iv" type="textpart"><ab>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="1">α</num> <persName type="attested" key="lgpn:V1-61026"><name nymRef="Ἀλάμων"><unclear>Ἀλά</unclear>μων</name> <persName type="attested" key="lgpn:V1-61698"><name nymRef="Φιλωνίδας">Φιλωνίδα</name></persName></persName>
+                    </ab></div>
+            <div subtype="fragment" n="v" type="textpart"><ab>
+                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="1">α</num> <persName type="attested" key="lgpn:V1-61515"><name nymRef="Νικίας">Νικίας</name></persName>
+                    </ab>
+</div>
+</div>
+         <div type="apparatus">
+            <head>Apparatus</head>
+            <listApp>
+                    <app loc="i">
+                       <rdg resp="#oliverioDAI">Σεραφίων</rdg>
+               </app>
+                 <app loc="ii">
+                  <lem>Ἀριπαχθις</lem>
+                       <rdg resp="#pacho1827">ΛΡΙΠΑΙΧΟΙΣ</rdg>
+                  <rdg resp="#cigiii">[Ἀ]ρί[στ]α[ρ]χος</rdg></app>
+                <app loc="iii">
+                  <rdg resp="#pacho1827">ΙΛΟΙΝΙ</rdg>
+                  <rdg resp="#cigiii">[Πα]οινί</rdg>
+                  <rdg resp="#oliverioDAI"><unclear>Π</unclear>αοῖνι ια΄</rdg>
+               </app>
+                <app loc="iii">
+                   <rdg resp="#pacho1827">ΑιΛλΔνΜνιΩΝ</rdg>
+                   <rdg resp="#cigiii">α΄ Ἀλ[ά]μων</rdg>
+                  <rdg resp="#oliverioDAI">L αι΄ Ἀ(μ)μών(ιος)?</rdg>
+               </app>
+                </listApp>
+         </div>
+         
+         <div type="translation" xml:space="preserve"><head>Translations</head>
+            <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 12. Serafion. - Anno 11. Aripachthìs. - Paoini 11. - 
+               Anno 11. Ammonio ? - Anno 1. Nicia.</p></div>
+            <div type="translation" source="#edd" xml:lang="en">
+               <p>i. Year 12, Seraphio</p>
+            <p>ii. Year 1, Aripachthis</p>
+            <p>iii. . . . friend of Nikias</p>
+            <p>iv. Year 1, Alamon <supplied reason="subaudible">son</supplied> of Philonidas</p>
+            <p>v. Year 1, Nikias.</p></div>
+         </div>
+         
+         <div type="commentary">
+            <head>Commentary</head>
+            <p>See commentary on <ref type="inscription" n="P00600">P.1</ref>.</p>
+            <p> iv: the patronymic is written in smaller letters between and within those of the name; cf. e.g., <ref type="inscription" n="P15700">P.182</ref>, <ref type="inscription" n="P16000">P.185</ref>.</p>
+         </div>
+         
+      </body>
+   </text>
+</TEI>
