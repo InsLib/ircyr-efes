@@ -4,7 +4,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Placenames Authority list for IOSPE</title>
+                <title>Placenames Authority list for IRCyr</title>
             </titleStmt>
             <publicationStmt>
                 <p>internal use only</p>
@@ -18,8 +18,8 @@
         <body>
             <listPlace type="places">
                 <place xml:id="egypt">
-                    <placeName xml:lang="grc" xml:id="Αἴγυπτος">Αἴγυπτος</placeName>
-                    <placeName xml:lang="en" xml:id="Egypt">Αἴγυπτος</placeName>
+                    <placeName xml:lang="grc">Αἴγυπτος</placeName>
+                    <placeName xml:lang="en">Egypt</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/places/1001943</idno>
                 </place>
                 <place xml:id="antiochia">
@@ -38,8 +38,8 @@
                     <idno type="pleiades">http://pleiades.stoa.org/places/373732</idno>
                 </place>
                 <place xml:id="armenia">
-                    <placeName type="ethnic" xml:lang="grc">Ἀρμενιακός</placeName>
-                    <placeName type="ethnic" xml:lang="en">Armenia</placeName>
+                    <placeName xml:lang="grc">Ἀρμενιακός</placeName><!-- ethnic -->
+                    <placeName xml:lang="en">Armenia</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/errata/884120</idno>
                 </place>
                 <place xml:id="arsinoe">
@@ -48,8 +48,8 @@
                     <idno type="pleiades">http://pleiades.stoa.org/places/373736</idno>
                 </place>
                 <place xml:id="astyrus">
-                    <placeName type="ethnic" xml:lang="la">Astyrus</placeName>
-                    <placeName type="ethnic" xml:lang="en">Astyrus</placeName>
+                    <placeName xml:lang="la">Astyrus</placeName><!-- ethnic -->
+                    <placeName xml:lang="en">Astyrus</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/places/236457</idno>
                 </place>
                 <place xml:id="autricum">
@@ -58,13 +58,13 @@
                     <idno type="pleiades">http://pleiades.stoa.org/places/108778</idno>
                 </place>
                 <place xml:id="achaios">
-                    <placeName type="ethnic" xml:lang="grc">Ἀχαιός</placeName>
-                    <placeName type="ethnic" xml:lang="en">Ashaios</placeName>
+                    <placeName xml:lang="grc">Ἀχαιός</placeName><!-- ethnic -->
+                    <placeName xml:lang="en">Ashaios</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/places/981502</idno>
                 </place>
                 <place xml:id="acheloos">
-                    <placeName type="ethnic" xml:lang="grc">Ἀχελῷος</placeName>
-                    <placeName type="ethnic" xml:lang="en">Acheloos</placeName>
+                    <placeName xml:lang="grc">Ἀχελῷος</placeName><!-- ethnic -->
+                    <placeName xml:lang="en">Acheloos</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/places/530768</idno>
                 </place>
                 <place xml:id="barke">
@@ -83,16 +83,16 @@
                     <idno type="pleiades">http://pleiades.stoa.org/places/520985</idno>
                 </place>
                 <place xml:id="germanicus">
-                    <placeName type="ethnic" xml:lang="grc">Γερμανικός</placeName>
-                    <placeName type="ethnic" xml:lang="en">Germanicus</placeName>
+                    <placeName xml:lang="grc">Γερμανικός</placeName><!--ethnic -->
+                    <placeName xml:lang="en">Germanicus</placeName>
                 </place>
                 <place xml:id="dorieus">
-                    <placeName type="ethnic" xml:lang="grc">Δωριεύς</placeName>
-                    <placeName type="ethnic" xml:lang="en">Doreus</placeName>
+                    <placeName xml:lang="grc">Δωριεύς</placeName><!-- ethnic -->
+                    <placeName xml:lang="en">Doreus</placeName>
                 </place>
                 <place xml:id="hellen">
-                    <placeName type="ethnic" xml:lang="grc">Ἕλλην</placeName>
-                    <placeName type="ethnic" xml:lang="en">Hellen</placeName>
+                    <placeName xml:lang="grc">Ἕλλην</placeName><!-- ethnic -->
+                    <placeName xml:lang="en">Hellen</placeName>
                 </place>
                 <place xml:id="euphfrates">
                     <placeName xml:lang="grc">Εὐφράτης</placeName>
@@ -100,8 +100,8 @@
                     <idno type="pleiades">http://pleiades.stoa.org/places/912849</idno>
                 </place>
                 <place xml:id="ephesos">
-                    <placeName type="ethnic" xml:lang="grc">Ἔφεσος</placeName>
-                    <placeName type="ethnic" xml:lang="en">Ephesos</placeName>
+                    <placeName xml:lang="grc">Ἔφεσος</placeName><!-- ethnic -->
+                    <placeName xml:lang="en">Ephesos</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/places/599612</idno>
                 </place>
                 <place xml:id="theodorias">
@@ -120,9 +120,9 @@
                     <idno type="pleiades">http://pleiades.stoa.org/places/687927</idno>
                 </place>
                 <place xml:id="ioudaios">
-                    <placeName type="ethnic" xml:lang="grc">Ἰουδαῖος</placeName>
-                    <placeName type="ethnic" xml:lang="la">Iudaicus</placeName>
-                    <placeName type="ethnic" xml:lang="en">Iudaios</placeName>
+                    <placeName xml:lang="grc">Ἰουδαῖος</placeName><!-- type="ethnic" -->
+                    <placeName xml:lang="la">Iudaicus</placeName>
+                    <placeName xml:lang="en">Iudaios</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/places/687934</idno>
                 </place>
                 <place xml:id="crete">
@@ -144,13 +144,13 @@
                     <idno type="pleiades">http://pleiades.stoa.org/places/373777</idno>
                 </place>
                 <place xml:id="lakedaimonia">
-                    <placeName type="ethnic" xml:lang="grc">Λακεδαιμόνιος</placeName>
+                    <placeName xml:lang="grc">Λακεδαιμόνιος</placeName><!-- type="ethnic" -->
                     <placeName xml:lang="en">Lakedaimonia</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/places/570685</idno>
                 </place>
                 <place xml:id="lakonia">
-                    <placeName type="ethnic" xml:lang="grc">Λακωνικός</placeName>
-                    <placeName type="ethnic" xml:lang="en">Lakonia</placeName>
+                    <placeName xml:lang="grc">Λακωνικός</placeName><!-- type="ethnic" -->
+                    <placeName xml:lang="en">Lakonia</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/places/570406</idno>
                 </place>
                 <place xml:id="lepcis">
@@ -161,8 +161,8 @@
                 </place>
                 <place xml:id="libya">
                     <placeName xml:lang="grc">Λιβύη</placeName>
-                    <placeName xml:lang="la">Libua Superior</placeName>
-                    <placeName xml:lang="en">Lobya</placeName>
+                    <placeName xml:lang="la">Libya Superior</placeName>
+                    <placeName xml:lang="en">Libya</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/places/716588</idno>
                 </place>
                 <place xml:id="lusitania">
@@ -176,7 +176,7 @@
                     <idno type="pleiades">http://pleiades.stoa.org/places/718032</idno>
                 </place>
                 <place sameAs="#libya">
-                    <placeName type="ethnic" xml:lang="grc">Μάρυσος</placeName>
+                    <placeName xml:lang="grc">Μάρυσος</placeName><!-- type="ethnic" -->
                 </place>
                 <place xml:id="myropola">
                     <placeName xml:lang="grc">Μυροπῶλα</placeName> 
@@ -211,8 +211,8 @@
                     <idno type="pleiades">http://pleiades.stoa.org/places/373879</idno>
                 </place>
                 <place xml:id="quiris">
-                    <placeName type="ethnic" xml:lang="la">Quiris</placeName>
-                    <placeName type="ethnic" xml:lang="en">Quiris</placeName>
+                    <placeName xml:lang="la">Quiris</placeName><!-- type="ethnic" -->
+                    <placeName xml:lang="en">Quiris</placeName>
                 </place>
                 <place xml:id="rhodes">
                     <placeName xml:lang="grc">Ῥόδος</placeName>
@@ -247,147 +247,11 @@
                     <idno type="pleiades">http://pleiades.stoa.org/places/59851</idno>
                 </place>
                 <place xml:id="phrygia">
-                    <placeName type="ethnic" xml:lang="grc">Φρύγιος</placeName>
-                    <placeName type="ethnic" xml:lang="en">Phrygia</placeName>
+                    <placeName xml:lang="grc">Φρύγιος</placeName><!-- type="ethnic" -->
+                    <placeName xml:lang="en">Phrygia</placeName>
                     <idno type="pleiades">http://pleiades.stoa.org/places/609502</idno>
                 </place>
             </listPlace>
-            <!-- <listPlace>
-                <place xml:id="apameia">
-                    <placeName xml:lang="grc">Ἀπάμεια</placeName>
-                    <placeName xml:lang="en">Pella</placeName>
-                    <idno type="pleiades">http://pleiades.stoa.org/places/668335</idno>
-                </place>
-                <place xml:id="asten">
-                    <placeName xml:lang="grc">Ἀστην</placeName>
-                    <placeName xml:lang="ru">Астин</placeName>
-                    <placeName xml:lang="en">Asten</placeName>
-                </place>
-                <place xml:id="varzar">
-                    <placeName xml:lang="grc">οἱ Βάρζαροι</placeName>
-                    <placeName xml:lang="en">Barzaroi</placeName>
-                    <placeName xml:lang="ru">Варзарах</placeName>
-                </place> 
-                <place xml:id="bosporos">
-                    <placeName xml:lang="grc">Βόσπορος</placeName>
-                    <placeName xml:lang="en">Bosporos</placeName>
-                    <placeName xml:lang="ru">Боспор</placeName>
-                    <idno type="pleiades">http://pleiades.stoa.org/places/854675</idno>
-                </place>
-                <place xml:id="genova">
-                    <placeName xml:lang="grc">Γένοβα</placeName>
-                    <placeName xml:lang="en">Genoa</placeName>
-                    <placeName xml:lang="ru">Генуя</placeName>
-                </place>
-                <place sameAs="#theodoros">
-                    <placeName xml:lang="grc">Γοτθία</placeName>
-                    <placeName xml:lang="ru">Готия</placeName>
-                    <placeName xml:lang="en">Gothia</placeName>
-                </place>
-                <place xml:id="dallos">
-                    <placeName xml:lang="grc">Δάλ(λ)ος</placeName>
-                    <placeName xml:lang="ru">Дал(л)ос</placeName>
-                    <placeName xml:lang="en">Dal(l)os</placeName>
-                </place>
-                <place sameAs="#theodoros">
-                    <placeName xml:lang="grc">Δόρος</placeName>
-                </place>
-                <place xml:id="hermonassa">
-                    <placeName xml:lang="grc">Ἑρμώνασσα</placeName>
-                    <placeName xml:lang="en">Hermonassa</placeName>
-                    <placeName xml:lang="ru">Гермонасса</placeName>
-                    <idno type="pleiades">http://pleiades.stoa.org/places/854687</idno>
-                </place>
-                <place xml:id="zazale">
-                    <placeName xml:lang="grc">Ζαζαλε</placeName>
-                    <placeName xml:lang="ru">Зазале</placeName>
-                    <placeName xml:lang="en">Zazale</placeName>
-                </place>
-                <place xml:id="herakleia">
-                    <placeName xml:lang="grc">Ἡράκλεια</placeName>
-                    <placeName xml:lang="en">Heraclea</placeName>
-                    <placeName xml:lang="ru">Гераклея</placeName>
-                    <idno type="pleiades">http://pleiades.stoa.org/places/844944</idno>
-                </place>
-                <place xml:id="theodoro">
-                    <placeName xml:lang="grc">Θεοδώρους</placeName>
-                    <placeName xml:lang="en">Theodoro</placeName>
-                    <placeName xml:lang="ru">Феодоро</placeName>
-                </place>
-                <place xml:id="inkerman">
-                    <placeName xml:lang="grc">Ἰνκερμάνης</placeName>
-                    <placeName xml:lang="en">Inkerman</placeName>
-                    <placeName xml:lang="ru">Инкерман</placeName>
-                    <idno type="geonames">http://sws.geonames.org/712576/</idno>
-                </place>
-                <place xml:id="kaisareion">
-                    <placeName xml:lang="grc">Кαισάρειον</placeName>
-                    <placeName xml:lang="en">Kaisareion</placeName>
-                    <placeName xml:lang="ru">Кесарион</placeName>
-                </place>
-                <place xml:id="kamara">
-                    <placeName xml:lang="grc">Καμάρα</placeName>
-                    <placeName xml:lang="ru">Камара</placeName>
-                    <placeName xml:lang="en">Kamara</placeName>
-                </place>
-                <place xml:id="mesembria">
-                    <placeName xml:lang="grc">Μεσεμβρία</placeName>
-                    <placeName xml:lang="en">Mesembria</placeName>
-                    <placeName xml:lang="ru">Месембрия</placeName>
-                    <idno type="pleiades">http://pleiades.stoa.org/places/216882</idno>
-                </place>
-                <place xml:id="myra">
-                    <placeName xml:lang="grc">Μύρα</placeName>
-                    <placeName xml:lang="en">Myra</placeName>
-                    <placeName xml:lang="ru">Миры</placeName>
-                    <idno type="pleiades">http://pleiades.stoa.org/places/639005</idno>
-                </place>
-                <place xml:id="poeka">
-                    <placeName xml:lang="grc">Ποήκα/Ποίκα</placeName>
-                    <placeName xml:lang="ru">Пойка</placeName>
-                    <placeName xml:lang="en">Poika</placeName>
-                </place>
-                <place xml:id="roma">
-                    <placeName xml:lang="en">Roma</placeName>
-                    <placeName xml:lang="grc">Ῥώμη</placeName>
-                    <placeName xml:lang="ru">Рим</placeName>
-                    <idno type="pleiades">http://pleiades.stoa.org/places/423025</idno>
-                </place>
-                <place xml:id="sougdaia">
-                    <placeName xml:lang="grc">Σουγδαία</placeName>
-                    <placeName xml:lang="en">Sougdaia</placeName>
-                    <placeName xml:lang="en">Sudak</placeName>
-                    <placeName xml:lang="ru">Сугдея</placeName>
-                    <placeName xml:lang="ru">Судак</placeName>
-                    <idno type="pleiades">http://pleiades.stoa.org/places/226521</idno>
-                </place>
-                <place xml:id="tourla">
-                    <placeName xml:lang="grc">Τούρλα</placeName>
-                    <placeName xml:lang="en">Tourla</placeName>
-                    <placeName xml:lang="ru">Турла</placeName>
-                </place>
-                <place xml:id="chersakeia">
-                    <placeName xml:lang="grc">Χερσακεία</placeName>
-                    <placeName xml:lang="en">Chersakeia</placeName>
-                    <placeName xml:lang="ru">Херсакия</placeName>
-                </place>
-                <place xml:id="cherson">
-                    <placeName xml:lang="grc">Χερσῶν</placeName>
-                    <placeName xml:lang="en">Chersonesos</placeName>
-                    <placeName xml:lang="ru">Херсон</placeName>
-                    <idno type="Pleiades">http://pleiades.stoa.org/places/226564</idno>
-                </place>
-                <place xml:id="chimiris">
-                    <placeName xml:lang="grc">Χιμιρ-</placeName>
-                    <placeName xml:lang="en">Chimir-</placeName>
-                    <placeName xml:lang="ru">Химирия</placeName>
-                </place>
-                <place xml:id="founa">
-                    <placeName xml:lang="grc">Φούνα</placeName>
-                    <placeName xml:lang="ru">Фуна</placeName>
-                    <placeName xml:lang="en">Phouna</placeName>
-                </place>
-            </listPlace> -->
         </body>
     </text>
 </TEI>
