@@ -42,6 +42,7 @@
       <xsl:if test="not(ancestor::aggregation/index_metadata/tei:div[@xml:id=('abbreviation', 'fragment')])"><xsl:apply-templates select="arr[@name='language_code']"/></xsl:if>
       <xsl:apply-templates select="arr[@name='index_instance_location']" />
       <xsl:if test="not(ancestor::aggregation/index_metadata/tei:div[@xml:id='abbreviation'])"><xsl:apply-templates select="str[@name='index_item_sort_name']"/></xsl:if>
+      <xsl:apply-templates select="str[@name='index_item_sort_dur']" />
     </tr>
   </xsl:template>
   
@@ -143,7 +144,19 @@
     </th>
   </xsl:template>
   
-  
+  <xsl:template match="str[@name='index_item_sort_dur']">
+    <th scope="row">
+      <xsl:variable name="rdf-name" select="/aggregation/index_names/rdf:RDF/rdf:Description[@rdf:about=current()][1]/*[@xml:lang=$language][1]" />
+      <xsl:choose>
+        <xsl:when test="normalize-space($rdf-name)">
+          <xsl:value-of select="number($rdf-name)"/>
+        </xsl:when>
+        <xsl:otherwise>
+          <xsl:value-of select="."/>
+        </xsl:otherwise>
+      </xsl:choose>
+    </th>
+  </xsl:template>
 
   <xsl:template match="arr[@name='index_instance_location']">
     <td>
