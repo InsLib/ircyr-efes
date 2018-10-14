@@ -258,7 +258,7 @@
                <note>Edictum Augusti cum SC de pecuniis repetundis, a. 5/4a</note>
                <ab>
                   <lb/>
-                  <lb n="72"/><date><persName type="emperor" key="augustus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name> <space quantity="1" unit="character"/> <name nymRef="Σεβαστός">Σεβαστὸς</name></persName> 
+                  <lb n="72"/><date corresp="https://godot.date/id/PV9k6wTvDjR3SBHzLctyWA"><persName type="emperor" key="augustus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name> <space quantity="1" unit="character"/> <name nymRef="Σεβαστός">Σεβαστὸς</name></persName> 
                   <w>ἀρχιερεὺς</w> <w>μέγιστος</w> 
                   <lb n="73"/><w>δημαρχικῆς</w> <w>ἐξουσίας</w> <space quantity="3" unit="character"/> 
                   <num value="19"><hi rend="supraline">ιθ</hi></num></date>  <space quantity="1" unit="character"/> <w>λέγει</w>· 
@@ -395,7 +395,7 @@
          holding the tribunician power for the seventeenth time,
          saluted imperator for the fourteenth time, proclaims:
   
-Since I find that in the province of (5) Cyrene there are altogether 215 Roman citizens
+Since I find that in the province of Cyrene there are altogether 215 Roman citizens
 of every age whose census rating is 2,500 denarii or more,
 and that the jurors are drawn from this number in which several cliques are known to exist,
 and since the delegations coming from the cities of the province have complained that these cliques are unfair to Greeks in capital crimes,
