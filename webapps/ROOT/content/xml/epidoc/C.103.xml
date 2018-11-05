@@ -181,7 +181,7 @@
             <div subtype="face" n="b" type="textpart">
                <ab>    
                     <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="133">ϙλγ</num></date> <!-- check -->
+                    <num value="133">ρλγ</num></date> <!-- check -->
                 </ab>
 </div>
 </div>
@@ -205,7 +205,8 @@
                <app loc="31"><rdg  resp="#oliverioDAI">Μνασὼι - ι -</rdg></app>
                <app loc="32"><rdg  resp="#oliverioDAI">Ἀριστοδίκα Ἰσο[κράτ̣ε]υς</rdg></app>
                <app loc="33"><rdg  resp="#oliverioDAI">Μεγὼ Ἀριστο[δά]μω</rdg><note>, whence LGPN V1-63142</note></app>
-               <app></app>
+               <app loc="b"><rdg  resp="#paci2000"><note> Not previously recorded; note a misprint in SEG, ϙ for ρ</note></rdg></app>
+               
                </listApp>
          </div>
            
