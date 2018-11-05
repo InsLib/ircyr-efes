@@ -167,7 +167,7 @@
                <lb n="1"/> <space quantity="3" unit="character"/> 
                <persName type="divine" key="apollo"><w>θεόϲ</w></persName> <space quantity="3" unit="character"/> <persName type="divine" key="agathetyche"><w>Τύχ<supplied reason="lost">ᾳ</supplied></w><supplied reason="lost"> <space quantity="3" unit="character"/></supplied>
                   <w>Ἀγα<unclear>θ</unclear><supplied reason="lost">ᾷ</supplied></w></persName><supplied reason="lost"> <space quantity="3" unit="character"/></supplied>
-               <lb n="2"/><date corresp="https://godot.date/id/2AznLJfkN5gLWthxQUQSW7"><persName type="emperor" key="hadrianus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖϲαρ</name> 
+               <lb n="2"/><persName type="emperor" key="hadrianus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖϲαρ</name> 
                   <persName type="emperor" key="traianus"><w>θεοῦ</w> 
                <name nymRef="Τραιανός">Τρα<supplied reason="lost">ιανοῦ</supplied></name> 
                <name nymRef="Παρθικός">Παρθικο<supplied reason="lost">ῦ</supplied></name></persName> 
@@ -179,7 +179,7 @@
                <lb n="4"/> <w>δημαρχικῆϲ</w> <w>ἐξουϲίαϲ</w> <w>τὸ</w> <num value="19">ιθ</num>, 
                <w>ὕπα<unclear>τ</unclear><supplied reason="lost">οϲ</supplied></w> 
                <supplied reason="lost"><w>τὸ</w> <num value="3">γ</num> </supplied>, 
-               <w>πατὴρ</w> <w>πατ<unclear>ρ</unclear><supplied reason="lost">ίδοϲ</supplied></w></persName></date> 
+               <w>πατὴρ</w> <w>πατ<unclear>ρ</unclear><supplied reason="lost">ίδοϲ</supplied></w></persName> 
                <lb n="5"/> <space quantity="3" unit="character"/> <placeName type="ethnic"><w lemma="Κυρηναῖος">Κυρηναίοιϲ</w></placeName> <space quantity="3" unit="character"/>
                <w>χαίρ<supplied reason="lost">ειν</supplied></w> 
                <supplied reason="lost"> <space quantity="3" unit="character"/></supplied>

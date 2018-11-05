@@ -318,7 +318,7 @@
                       <lb n="34"/> <persName type="attested" key="lgpn:V1-64841"><name nymRef="Λύκος">Λύκος</name> <persName type="attested" key="lgpn:V1-64997"><name nymRef="Μένανδρος">Μενάν<lb n="34" break="no"/>δρω</name></persName></persName>
                       <lb n="35"/> <persName type="attested" key="lgpn:V1-66090"><name nymRef="Φίλων">Φίλων</name>
                       <lb n="36"/> <persName type="attested" key="lgpn:V1-65982"><name nymRef="Φιλοθάλης">Φιλοθάλου</name></persName></persName>
-                      <lb n="37"/> <date><w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                      <lb n="37"/> <date corresp="https://godot.date/id/zr3NDqzgt9rZRBTbNmSZsm"><w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                       <num value="69"><unclear>ξ</unclear>θ</num></date> <persName type="attested" key="lgpn:V1-65585"><name nymRef="Σεραπίων">Σεραπί<lb n="38" break="no"/>πίων</name></persName>
                       <lb n="39"/> <date><w><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                       <num value="55">νε</num></date> <persName type="attested" key="lgpn:V1-64839"><name nymRef="Λύκος">Λύκος</name>
