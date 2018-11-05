@@ -129,7 +129,7 @@
                         <num value="132">ρλβ</num></date> <w lemma="ὁ">τοῦ</w> <w lemma="καί">καὶ</w> <date corresp="https://godot.date/id/7aLvi4Xn9QbhdTJFYu5Sdm"><num value="5">ε</num>
                     <lb n="2"/><persName type="emperor" key="traianus"><w lemma="αὐτοκράτωρ">Αὐτοκράτοροϲ</w>
                     <lb n="3"/><name nymRef="Νέρβα">Νέρβα</name> <name nymRef="Τραιανός">Τραιαν
-                    <lb n="4" break="no"/>οῦ</name> <name nymRef="Καῖσαρ">Καίϲαροϲ</name> <name nymRef="Σεβαστός">Σεβαϲ
+                    <lb n="4" break="no"/>οῦ</name> <name nymRef="Καῖσαρ">Καίϲαροϲ</name> <name nymRef="Σεβαστός">Ϲεβαϲ
                     <lb n="5" break="no"/>τοῦ</name> <name nymRef="Γερμανικός">Γερμανικοῦ</name></persName></date>
                     <lb n="6"/><date corresp="https://godot.date/id/PhnMW5eA8AK6fYfvYkbmmf"><w lemma="ἐπί">ἐπὶ</w> <w lemma="ἱερεύς">ἱερέοϲ</w> <w lemma="ὁ">τοῦ</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλ
                         <lb n="7" break="no"/>λωνοϲ</name></persName> <persName type="attested" key="lgpn:V1-64540"><name nymRef="Κόϊντος"><expan><abbr>Κ</abbr><ex>οΐντου</ex></expan></name> <name nymRef="Φάβιος">Φαβίου</name>
