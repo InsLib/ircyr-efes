@@ -120,10 +120,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἐπί">ἐπὶ</w> <w lemma="ἱερεύς"><w lemma="ἱερεύς">ἱερ<supplied reason="lost">έω</supplied>ς</w></w> <persName type="divine" key="apollo"><w lemma="ὁ">τοῦ</w> 
+                    <lb n="1"/><date><w lemma="ἐπί">ἐπὶ</w> <w lemma="ἱερεύς"><w lemma="ἱερεύς">ἱερ<supplied reason="lost">έω</supplied>ς</w></w> <persName type="divine" key="apollo"><w lemma="ὁ">τοῦ</w> 
                     <w>κ<unclear>τ</unclear><supplied reason="lost">ί</supplied><unclear>σ</unclear>του</w>
                     <lb n="2"/><name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName>
-                    <lb n="3"/><gap reason="lost" quantity="4" unit="character"/> <w>νίου</w> <persName type="attested"><name nymRef="Μνήσαρχος">Μ<supplied reason="lost">ν</supplied>ησάρχου</name></persName>
+                    <lb n="3"/><gap reason="lost" quantity="4" unit="character"/> <w>νίου</w> <persName type="attested"><name nymRef="Μνήσαρχος">Μ<supplied reason="lost">ν</supplied>ησάρχου</name></persName></date>
                     <lb n="4"/><gap reason="lost" quantity="13" unit="character" precision="low"/><orig>ευ</orig><gap reason="lost" quantity="2" unit="character"/>
                     <lb n="4a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>
