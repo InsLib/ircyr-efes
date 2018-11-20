@@ -107,8 +107,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
                <ab>   
-                  <lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
-                  <num value="105">ρε</num>  
+                  <lb n="1"/><date corresp="https://godot.date/id/PQQrkmpUTM8q4M88pR3bbT"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
+                  <num value="105">ρε</num>  </date>
                   <persName type="attested"><name nymRef="Μονα-"><seg part="I">Μονα</seg></name> <gap reason="lost" extent="unknown" unit="character"/></persName>
                </ab>
              </div>

@@ -111,10 +111,9 @@
          <change when="2009-07-10" who="Pietro">turned to XML and tidied</change>
          <change when="2009-05-11" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_1081_002" decls="#photograph"><desc>Text (Department of Antiquities, 6720-3035)</desc></graphic><graphic url="JMR_1081_001" decls="#photograph"><desc>Text (Department of Antiquities, 6721-3036)</desc></graphic><!--
-                    --><!--
-                    --><!--    
-                --></facsimile>
+   </teiHeader><facsimile>
+      <graphic url="JMR_1081_002" decls="#photograph"><desc>Text (Department of Antiquities, 6720-3035)</desc></graphic>
+      <graphic url="JMR_1081_001" decls="#photograph"><desc>Text (Department of Antiquities, 6721-3036)</desc></graphic></facsimile>
    <text>
       <body>
          <div type="bibliography">
@@ -124,9 +123,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="86">π<unclear>ϛ</unclear></num> <w>ἐπὶ</w> 
-                    <lb n="2"/><w lemma="ἱερεύς">ἱερέ<lb n="3" break="no"/>ως</w> <persName type="attested"><name nymRef="Παγκλῆς">Πα<lb n="4" break="no"/>γκλεῦς</name></persName>
+                    <lb n="1"/><date><date corresp="https://godot.date/id/8enZgQFNKM9A6B9qeuhGAC"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="86">π<unclear>ϛ</unclear></num></date> <date corresp="https://godot.date/id/BgjDohjTN4rFKdEHzJ6yz4"><w>ἐπὶ</w> 
+                    <lb n="2"/><w lemma="ἱερεύς">ἱερέ<lb n="3" break="no"/>ως</w> <persName type="attested"><name nymRef="Παγκλῆς">Πα<lb n="4" break="no"/>γκλεῦς</name></persName></date></date>
                     <lb n="5"/><persName type="attested"><name nymRef="Ἐπαγώ">Ἐ<unclear>π</unclear>α<unclear>γὼ</unclear></name>
                     <lb n="6"/><persName type="attested"><name nymRef="Φίλων">Φίλωνος</name></persName></persName>
                     <lb n="7"/><date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="40">μ</num> </date>

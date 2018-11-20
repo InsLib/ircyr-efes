@@ -139,14 +139,14 @@
             <ab>
                     <lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
                     <num><gap reason="lost" atLeast="1" atMost="3" unit="character"/></num>
-                    <supplied reason="lost"><w lemma="ἐπί">ἐπὶ</w>
+                    <date><date corresp="https://godot.date/id/GBtCJH47HFmwiusYpUSkjV"><supplied reason="lost"><w lemma="ἐπί">ἐπὶ</w>
                         <w lemma="ἱερεύς">ἱερέως</w> <w>τῶ</w> <w lemma="μέν">μὲν</w></supplied> 
                     <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων"><supplied reason="lost">Ἀπόλλων</supplied>ος</name></persName>
-                        <persName type="attested" key="lgpn:V1-62646"><name nymRef="Αἰγλάνωρ">Αἰγλάν<supplied reason="lost">ορος</supplied></name></persName>
-                    <lb n="2"/><gap reason="lost" quantity="6" unit="character" precision="low"/>
+                        <persName type="attested" key="lgpn:V1-62646"><name nymRef="Αἰγλάνωρ">Αἰγλάν<supplied reason="lost">ορος</supplied></name></persName></date>
+                    <lb n="2"/><date><gap reason="lost" quantity="6" unit="character" precision="low"/>
                         <persName type="emperor" key="augustus"><w lemma="αὐτοκράτωρ"><supplied reason="lost">Αὐτοκράτορος</supplied></w> 
                         <w lemma="δέ"><supplied reason="lost">δὲ</supplied></w> <name nymRef="Καῖσαρ"><supplied reason="lost">Kαίσα</supplied>ρος</name>
-                        <w>θεῶ</w> <name nymRef="Σεβαστός">Σεβαστ<supplied reason="lost">ῶ</supplied></name></persName>
+                        <w>θεῶ</w> <name nymRef="Σεβαστός">Σεβαστ<supplied reason="lost">ῶ</supplied></name></persName></date></date>
                     <lb n="3"/><gap reason="lost" quantity="24" unit="character" precision="low"/> <w><unclear>α</unclear>τα</w> 
                     <w lemma="ἐκ">ἐξ</w> <w>ἐπισκόπων</w>
                     <lb n="4"/><gap reason="lost" quantity="23" unit="character" precision="low"/>
