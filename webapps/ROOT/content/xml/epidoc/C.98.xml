@@ -42,7 +42,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>I cent C.E.; <height>0.008-0.01</height>; L for ἔτους.; bar above L, the figures in line 1 and the praenomen in line 6; rather roughly cut between strongly marked guidelines.</handNote>
+                     <handNote>First century C.E.; <height>0.008-0.01</height>; L for ἔτους; bar above L, the figures in line 1 and the praenomen in line 6; rather roughly cut between strongly marked guidelines.</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -130,15 +130,15 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="90">ϙ</num> 
-                    <w>καὶ</w> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="91">ϙα</num> 
-                    <lb n="2"/><w lemma="ἐν">ἐν</w> <w>ἱερει</w> <persName type="attested" key="lgpn:V1-64441"><name nymRef="Ἴστρος">Ἴστρῳ</name></persName>
-               <w lemma="εἰς">ἐς</w> 
-                    <lb n="3"/> <w>ἱερεα</w> <persName type="attested" key="lgpn:V1-63296"><name nymRef="Ἄσκλαπος">Ἄσκλαπον</name> <w lemma="ὁ">τοὺς</w>
+                        <lb n="1"/><date><date corresp="https://godot.date/id/eynf7mg68dXkiavvTUXFhk"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="90">ϙ</num></date> 
+                    <w>καὶ</w> <date corresp="https://godot.date/id/RvaJu3kZPpNLb9dMCnCgZm"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="91">ϙα</num></date> 
+                    <lb n="2"/><date><w lemma="ἐν">ἐν</w> <w>ἱερεῖ</w> <persName type="attested" key="lgpn:V1-64441"><name nymRef="Ἴστρος">Ἴστρω</name></persName></date></date>
+               <date corresp="https://godot.date/id/wD4kLRqFjQqGGTk9NjvkSK"><w lemma="εἰς">ἐς</w> 
+                    <lb n="3"/> <w>ἱερέα</w> <persName type="attested" key="lgpn:V1-63296"><name nymRef="Ἄσκλαπος">Ἄσκλαπον</name> <w lemma="ὁ">τοὺς</w>
                       <persName type="attested" key="lgpn:V1-63954"><name nymRef="Φιλίσκος">Φι
-                    <lb n="4" break="no"/>λίσκου</name></persName></persName> <w lemma="ὁ">οἱ</w> <w>συνάρξαν
+                    <lb n="4" break="no"/>λίσκου</name></persName></persName></date> <w lemma="ὁ">οἱ</w> <w>συνάρξαν
                     <lb n="5" break="no"/>τες</w> <w>νομοφύλακες</w>
                        <lb n="6"/><persName type="attested" key="lgpn:V1-64893"><name nymRef="Λῦσις">Λῦσις</name> <persName type="attested" key="lgpn:V1-63013"><name nymRef="Πόπλιος"><expan><abbr>Π</abbr><ex>οπλίω</ex></expan></name> <name nymRef="Κοϊντίλιος">Κοιντιλίω</name>
                        <name nymRef="Ἀπολλώς">Ἀπολ
