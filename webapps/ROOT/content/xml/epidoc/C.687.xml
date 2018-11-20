@@ -126,8 +126,8 @@
             <w lemma="dies">diei<unclear>s</unclear></w> <w lemma="aqua">aqua<unclear>e</unclear></w>
             <gap reason="lost" extent="unknown" unit="character"/>
                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>m</unclear></w> 
-                    <w lemma="denarius"><expan><abbr><am><g ref="symbols.xml#denarius"/></am></abbr><ex>denarii</ex></expan></w> 
-                    <num value="4000">ↀI𐆕</num> <w lemma="et">et</w> 
+                    <measure type="currency" unit="denarius"><w lemma="denarius"><expan><abbr><am><g ref="symbols.xml#denarius"/></am></abbr><ex>denarii</ex></expan></w> 
+                    <num value="4000">ↀI𐆕</nmu>m</measure> <w lemma="et">et</w> 
             <orig><unclear>I</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>s</unclear></w>
             <w lemma="aqua">aquae</w> <w lemma="in">in</w> <orig><unclear>e</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>

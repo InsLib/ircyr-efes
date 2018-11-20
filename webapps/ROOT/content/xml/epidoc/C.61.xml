@@ -116,8 +116,8 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                 
-                <lb n="1"/> <w><supplied reason="lost" cert="low"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></supplied></w>
-                    <num value="13"><unclear>ι</unclear>γ</num> <persName type="attested" key="lgpn:V1-63432"><name nymRef="Γλαυκίας">Γλαυκία</name>
+                <lb n="1"/> <date corresp="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w><supplied reason="lost" cert="low"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></supplied></w>
+                    <num value="13"><unclear>ι</unclear>γ</num></date> <persName type="attested" key="lgpn:V1-63432"><name nymRef="Γλαυκίας">Γλαυκία</name>
                     <w lemma="ὁ">τῶ</w> <persName type="attested" key="lgpn:V1-64812"><name nymRef="Λεωνίδας">Λεωνίδα</name></persName></persName>
                 
                 </ab>
@@ -131,7 +131,7 @@
                 </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p><supplied reason="lost">Year</supplied> 12, for Glaukias <supplied reason="subaudible">son</supplied> of Leonidas</p></div>
+            <p><supplied reason="lost">Year</supplied> 13, for Glaukias <supplied reason="subaudible">son</supplied> of Leonidas</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>The patronymic is written in small letters cut within, between and below those of the name; this practice strongly suggests an ephebic graffito.</p>

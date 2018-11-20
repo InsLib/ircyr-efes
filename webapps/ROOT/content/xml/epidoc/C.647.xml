@@ -45,7 +45,7 @@
                   <origin>
                      <origPlace>Unknown.</origPlace>
                      <origDate notAfter="0050" notBefore="-0100"  precision="low" evidence="lettering">First century B.C.E.- early first century C.E.</origDate>
-                     <origDate notAfter="-0018" notBefore="-0019"  precision="low" evidence="internal dating">Text 2, 19/18 B.C.E.</origDate>
+                     <origDate notAfter="-0018" notBefore="-0019"  precision="low" evidence="internal dating">Text 2, perhaps 19/18 B.C.E.</origDate>
                      <origDate notAfter="0041" notBefore="0040"  evidence="internal dating">Text 3, 40/41 C.E.</origDate>
                   </origin><provenance type="found">
                            <p>
@@ -114,7 +114,7 @@
                <persName type="divine" key="herakles"><name nymRef="Ἡρακλῆς">Ἡρακλεῖ</name></persName>
             </ab></div>
             <div type="textpart" n="2"><ab>
-               <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="13">ιγ</num> 
+               <lb n="1"/><date corresp="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="13">ιγ</num></date> 
                <persName type="attested" key="lgpn:V1-64477"><name nymRef="Καλλίμαχος">Καλλιμάχω</name> <w>τῶ</w> <persName type="attested" key="lgpn:V1-64143"><name nymRef="Θευδόσιος">Θευδοσίω</name></persName></persName>
                
             </ab></div>

@@ -117,9 +117,9 @@
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">us</w> 
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/>
-                    <w lemma="tribunicius"><supplied reason="lost"><expan><abbr>trib</abbr><ex>unicia</ex></expan></supplied></w> 
+                    <date corresp="https://godot.date/id/8GrLWXtTwKwbJGJ5CX9LDj"><w lemma="tribunicius"><supplied reason="lost"><expan><abbr>trib</abbr><ex>unicia</ex></expan></supplied></w> 
                     <w lemma="potestas"><expan><abbr><supplied reason="lost">po</supplied>t</abbr><ex>estate</ex></expan></w>
-               <num value="3">III</num> 
+               <num value="3">III</num></date> 
                     <lb n="2a"/><gap reason="lost" quantity="1" unit="line"/>
                 </ab>
          </div>
