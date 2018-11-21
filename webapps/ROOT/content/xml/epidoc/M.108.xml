@@ -115,9 +115,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g/></am></abbr><ex>ἔτους</ex></expan></w>
+            <lb n="1"/><date corresp="https://godot.date/id/Sgo5uniphT2CEmJJaZA4Ka"><w lemma="ἔτος"><expan><abbr><am><g/></am></abbr><ex>ἔτους</ex></expan></w>
                <num value="72">οβ</num> <rs type="month" key="Μεχίρ"><w>Μεχεὶρ</w></rs>
-               <num value="28">κη</num>
+               <num value="28">κη</num></date>
             <lb n="2"/><persName type="attested" key="lgpn:V1-60898, lgpn:V1-61733"><name nymRef="Κλευπάτρα">Κλευπάτρα</name> 
             <lb n="3"/><persName type="attested" key="lgpn:V1-60885, lgpn:V1-61728"><name nymRef="Θεύδοτος">Θευδότου</name></persName></persName>
             <lb n="4"/> <date type="life-span" dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 

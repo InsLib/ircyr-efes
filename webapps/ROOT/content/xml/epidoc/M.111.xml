@@ -114,10 +114,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-               <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+               <lb n="1"/><date corresp="https://godot.date/id/DtPstRBZ678cUvBBJYC4QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                <num value="11">ια</num>
                <rs type="month" key="Μεχίρ"><w>Μεχ<unclear>ε</unclear><supplied reason="lost">ὶρ</supplied></w></rs>
-               <gap reason="lost" quantity="1" unit="character" precision="low"/>
+               <gap reason="lost" quantity="1" unit="character" precision="low"/></date>
               <persName type="attested" key="lgpn:V1-60740"><name nymRef="Πρόκλα" cert="low"><supplied reason="lost" cert="low">Πρ</supplied><lb n="2" break="no"/>όκλα</name>
                <persName type="attested"><name nymRef="Πρ-"><seg part="I">Πρ</seg></name></persName></persName> <gap reason="lost" quantity="5" unit="character" precision="low"/>
                <lb n="3"/> <space quantity="4" unit="character"/> 
@@ -131,8 +131,8 @@
             <listApp>
                <app>
                   <note>
-                     Assuming that line 3 was precisely centred, 4-5 letters are missing in each of lines1 and 2. 
-                     If <foreign xml:lang="grc">Πρόκλα</foreign> is right as it surely is in lines1-2,
+                     Assuming that line 3 was precisely centred, 4-5 letters are missing in each of lines 1 and 2. 
+                     If <foreign xml:lang="grc">Πρόκλα</foreign> is right as it surely is in lines 1-2,
                      then there is just room for a simple figure after the month name in line 1,
                      and it is very tempting to propose <foreign xml:lang="grc">Πρ<supplied reason="lost">όκλου</supplied></foreign>
                      for the patronymic in line 2.

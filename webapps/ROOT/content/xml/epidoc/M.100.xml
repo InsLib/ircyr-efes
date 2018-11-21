@@ -102,8 +102,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-               <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="9">θ</num> 
-               <rs type="month" key="Μεχίρ"><w>Μεχὶρ</w></rs> <num value="3">γ</num>
+               <lb n="1"/><date corresp="https://godot.date/id/RA65boxWzG26FhiLMPMUKh"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="9">θ</num> 
+               <rs type="month" key="Μεχίρ"><w>Μεχὶρ</w></rs> <num value="3">γ</num></date>
                <persName type="attested"><name nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτος</ex></expan></name>
                   <name nymRef="Καίσιος"><unclear>Κ</unclear>α<unclear>ίσ</unclear>ι<unclear>ο</unclear>ς</name>
                   <lb n="2"/> <space/> 
