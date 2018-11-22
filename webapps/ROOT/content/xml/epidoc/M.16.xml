@@ -130,8 +130,8 @@
                     <lb n="2"/><gap reason="lost" quantity="2" unit="character"/><orig>ντ</orig><gap reason="lost" quantity="4" unit="character"/><orig>πρου</orig>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><orig><unclear>ν</unclear></orig><gap reason="lost" quantity="2" unit="character"/><orig><unclear>ιι</unclear>ο</orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><w part="F">ιατιο<unclear>ς</unclear></w> <gap reason="lost" quantity="4" unit="character"/> <w part="F">ω</w>
-            <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="52"><unclear>β</unclear>ν</num>
+            <date corresp="https://godot.date/id/LaHmigp9YbVtAtoZiSeXE5"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="52"><unclear>β</unclear>ν</num></date>
                 </ab>
 </div>
          <div type="apparatus">
@@ -146,7 +146,7 @@
          <div type="commentary">
             <head>Commentary</head>
             <p>For general introduction see <ref type="inscription" n="B00400">M.3</ref>.</p>
-            <p> line 4 52 of the Actian era (C.E. 21/22).</p>
+            <p>Line 4 52 of the Actian era (C.E. 21/22).</p>
          </div>
          
       </body>

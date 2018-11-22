@@ -146,7 +146,7 @@
                     <lb n="5"/> <date><date><w>ἐπί</w> <persName type="attested" key="lgpn:V1-60882"><name nymRef="Θεόδωρος">Θεοδώρου</name> 
                     <lb n="6"/> <w>τοῦ</w> <w><expan><abbr>ὁσιωτατο</abbr><ex>υ</ex></expan></w> 
                     <lb n="7"/> <w>νέου</w> <w><expan><abbr>ἐπισκό</abbr><ex>που</ex></expan></w> </persName></date>
-               <lb n="8"/> <date><w><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w> <num value="3">γ</num></date></date>
+               <lb n="8"/> <date corresp="https://godot.date/id/K4kJUFbcNjmRxxGMVzLJEU"><w><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w> <num value="3">γ</num></date></date>
                     </ab>
                     </div>
             <div n="c" type="textpart">

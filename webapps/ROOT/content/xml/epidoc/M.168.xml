@@ -101,7 +101,7 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><ab>
-            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am/></abbr><ex>ἔτους</ex></expan></w> <num value="1"><unclear>α</unclear></num> <persName type="attested"><name nymRef="Τραιανός" cert="low">Τρ<unclear>α</unclear><supplied reason="lost">ιανοῦ</supplied></name></persName></ab>
+            <lb n="1"/><date corresp="https://godot.date/id/RAmHHqXTFbJvyxvwbab7v8"><w lemma="ἔτος"><expan><abbr><am/></abbr><ex>ἔτους</ex></expan></w> <num value="1"><unclear>α</unclear></num> <persName type="emperor" key="traianus"><name nymRef="Τραιανός" cert="low">Τρ<unclear>α</unclear><supplied reason="lost">ιανοῦ</supplied></name></persName></date></ab>
 </div><gap reason="lost" extent="unknown" unit="character"/>
          <div type="apparatus">
             <head>Apparatus</head>
@@ -110,9 +110,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p><!--...--></p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>Year 30, or perhaps year <num>α</num> = 1, and if so it is tempting to restore <foreign xml:lang="grc">Τρ<unclear>α</unclear>
-                  <supplied reason="lost">ιανου</supplied>
-               </foreign>, given the date C.E. 98.</p>
+            <p>Year 30, or perhaps year <num>α</num> = 1, and if so it is tempting to restore as here, giving the date C.E. 98.</p>
          </div>
          
       </body>
