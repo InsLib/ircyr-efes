@@ -131,7 +131,7 @@
              
             <div subtype="face" n="a" xml:lang="la" type="textpart">
                <ab xml:lang="la">
-                    <lb n="1"/><persName type="emperor" key="nero"><name nymRef="Nero"><supplied reason="lost">Nero</supplied></name>
+                    <lb n="1"/><date corresp="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" key="nero"><name nymRef="Nero"><supplied reason="lost">Nero</supplied></name>
                         <name nymRef="Claudius">Claudius</name> <persName type="emperor" key="claudius"><w lemma="diuus">diui</w>
                     <lb n="2"/><name nymRef="Claudius"><supplied reason="lost">Clau</supplied>di</name></persName>
                         <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
@@ -151,7 +151,7 @@
                     <lb n="6"/> <w><expan><abbr>max</abbr><ex>imus</ex></expan></w>
                     <w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> 
                     <w><expan><abbr>pot</abbr><ex>estate</ex></expan></w> <w><expan><abbr>imp</abbr><ex>erator</ex></expan></w>
-                   <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
+                   <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w></date>
                     <lb n="7"/><w lemma="per">per</w> <g ref="symbols.xml#stop"/> <persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>ucium</ex></expan></name>
                         <name nymRef="Acilius">Acilium</name> <g ref="symbols.xml#stop"/> <name nymRef="Strabo">Strabonem</name></persName>
                     <lb n="8"/> <w><expan><abbr>leg</abbr><ex>atum</ex></expan></w> <w lemma="suus">suum</w> <g ref="symbols.xml#stop"/> <w lemma="finis">fines</w> <g ref="symbols.xml#stop"/> <w lemma="occupo">occu<lb n="9" break="no"/><supplied reason="lost">p</supplied>atos</w> <g ref="symbols.xml#stop"/> <w lemma="ab">a</w> <g ref="symbols.xml#stop"/> <w lemma="priuatus">priuatis</w>
@@ -172,7 +172,7 @@
             </div>
             <div subtype="face" n="b" xml:lang="grc" type="textpart"><!-- check markup -->
                <ab> 
-                        <lb n="14"/><persName type="emperor" prev="#pers1"><persName type="emperor" prev="#pers4"><name nymRef="Σεβαστός"><supplied reason="lost">Σεβαστ</supplied><unclear>οῦ</unclear></name></persName>
+                        <lb n="14"/><date corresp="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" prev="#pers1"><persName type="emperor" prev="#pers4"><name nymRef="Σεβαστός"><supplied reason="lost">Σεβαστ</supplied><unclear>οῦ</unclear></name></persName>
                         <space quantity="3" unit="character"><certainty match=".." locus="name" cert="low" assertedValue="gap"/></space>
                         <lb n="15"/> <w><supplied reason="lost">κα</supplied><unclear>ὶ</unclear></w>
                         <persName type="emperor" key="augustus"><w>θεοῦ</w> <name nymRef="Σεβαστός">Σε 
@@ -184,7 +184,7 @@
                         <w>άρχιερεὺς</w>
                         <lb n="20"/> <w><unclear>μ</unclear>έγιστος</w> <w>δημαρ<lb n="21" break="no"/><unclear>χ</unclear>ικῆς</w> <w>ἐξουσία<unclear>ς</unclear></w>
                         <lb n="22"/> <w><unclear>α</unclear>ὐτοκράτωρ</w>
-                        <lb n="23"/> <space quantity="1" unit="character"/> <w>ὕπατος</w>
+                        <lb n="23"/> <space quantity="1" unit="character"/> <w>ὕπατος</w></date>
                         <lb n="23a"/> <space quantity="1" unit="line"/>
                </ab>
             </div>
