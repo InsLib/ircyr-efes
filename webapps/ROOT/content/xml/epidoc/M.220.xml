@@ -100,7 +100,7 @@
          <change when="2009-05-11" who="GB">mailmerged: created from template</change>
       </revisionDesc>
    </teiHeader><facsimile>
-      <graphic url="JMRNB01_071_001" decls="#photograph"><desc>Face (Joyce Reynolds, I. 71)</desc></graphic>
+      <graphic url="JMRNB01_071_001" decls="#photograph"><desc>Face (Joyce Reynolds, I.71)</desc></graphic>
    <surface/></facsimile>
    <text>
       <body>
@@ -114,7 +114,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><date><date corresp="https://godot.date/id/95Th9g4TTsUNQcQEFNaCvm"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="69">ξθ</num> <!-- check -->
+                    <lb n="1"/><date><date corresp="https://godot.date/id/95Th9g4TTsUNQcQEFNaCvm"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="69"><unclear>ξ</unclear>θ</num> <!-- check -->
                     <lb n="2"/> <date corresp="https://godot.date/id/6QdwLE88L9oKogKNnWWEo7"><w>ἐπὶ</w> <w>ἱερείος</w> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-66073"><name nymRef="Φίλων">Φίλωνος</name> <w>το<supplied reason="lost">ῦ</supplied></w> 
                     <lb n="4"/><persName type="attested" key="lgpn:V1-63922"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name></persName></persName> 
@@ -125,20 +125,14 @@
 </div>
          <div type="apparatus">
             <listApp>
-               <app loc="1">
-                  <rdg resp="#SECir">
-                     ξθ
-                     <note>This provided a date of 38/39 C.E., (whence Laronde, and 
-                        Reynolds in LGPN) but the first digit is not secure</note></rdg>
-               </app>
-               <app loc="2">
+                  <app loc="2">
                   <rdg resp="#SECir">
                      ἱερέως
                   </rdg>
                </app>
                <app loc="3">
                   <rdg resp="#SECir">
-                     το<supplied reason="lost">ῦ</supplied> om.
+                     το[ῦ] ommitted
                   </rdg>
                </app>
                
@@ -147,7 +141,8 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>line 1 Year 9. </p>
+            <p>Line 1 Year 69? ξθ΄ This provided a date of 38/39 C.E., (whence Laronde, and 
+                  Reynolds in LGPN) but the first digit is not secure</p>
             <p> line  4 probably to be connected with the family of Φίλων Εὐφράνορος, see 86, 1, dated in C.E. 3. </p>
             <p> line 5 Mesore 20 = August 13. </p>
             <p> line 7 Aged 3.</p>

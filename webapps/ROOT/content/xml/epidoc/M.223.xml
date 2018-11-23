@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><rs type="textType">Milestone</rs> of Hadrian</title>
+            <title>Mile ?V: <rs type="textType">Milestone</rs> of Hadrian</title>
             <editor>Joyce M. Reynolds</editor>
          </titleStmt>
          <publicationStmt>
@@ -121,7 +121,7 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
              <div type="textpart" xml:lang="la" subtype="text" n="i"><ab>
-                    <lb n="1"/><persName type="emperor" key="hadrianus"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar"><expan><abbr>Caes</abbr><ex>ar</ex></expan></name> <persName type="emperor" key="traianus"><w lemma="divus">divi</w> 
+                    <lb n="1"/><persName type="emperor" key="hadrianus"><date corresp="https://godot.date/id/bk7EHJXKWcKPTonrVWk5hA"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar"><expan><abbr>Caes</abbr><ex>ar</ex></expan></name> <persName type="emperor" key="traianus"><w lemma="divus">divi</w> 
                     <lb n="2"/><name nymRef="Traianus">Traiani</name> <name nymRef="Parthicus">Parthici</name></persName> <w lemma="filius"><expan><abbr>f</abbr><ex>ilius</ex></expan></w> 
                     <lb n="3"/><persName type="emperor" key="nerva"><w lemma="diuus">diui</w> <name nymRef="Nerva">Nervae</name></persName> <w lemma="nepos">nepos</w> 
                     <lb n="4"/><name nymRef="Traianus">Traianus</name> <name nymRef="Hadrianus">Hadrianus</name> 
@@ -129,7 +129,7 @@
                        <w lemma="pontifex"><expan><abbr>p</abbr><ex>ontifex</ex></expan></w> <w lemma="magnus"><expan><abbr>m</abbr><ex>aximus</ex></expan></w> 
                        <w lemma="tribunicius"><expan><abbr>t</abbr><ex>ribunicia</ex></expan></w> <w lemma="potestas"><expan><abbr>p</abbr><ex>otestate</ex></expan></w> 
                        <num value="2">II</num> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w>
-                       <num value="3">III</num> </persName>
+                       <num value="3">III</num></date> </persName>
                     <lb n="6"/><w lemma="uia">uiam</w> <w lemma="qui">quae</w> <w lemma="tumultus">tumultu</w> 
                     <lb n="7"/><placeName type="ethnic"><w lemma="Iudaicus">Iudaico</w></placeName> <w lemma="euerto">euersa</w> <w lemma="et">et</w>  
                     <lb n="8"/><w lemma="corrumpo">corrupta</w> <w lemma="sum">erat</w> <w lemma="restituo">res
