@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><rs type="textType">Funerary</rs> inscriptions</title>
+            <title><rs type="textType">Funerary</rs> inscription</title>
             <editor>Joyce M. Reynolds</editor>
          </titleStmt>
          <publicationStmt>
@@ -39,7 +39,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>ll. 1,2, <height>0.002</height>; lines3ff. <height>0.015</height>.</handNote>
+                     <handNote>ll. 1,2, <height>0.002</height>; lines 3 ff. <height>0.015</height>.</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -114,11 +114,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="9">θ</num> <!-- check -->
-                    <lb n="2"/> <w>ἐπὶ</w> <w>ἱερείος</w> 
+                    <lb n="1"/><date><date corresp="https://godot.date/id/95Th9g4TTsUNQcQEFNaCvm"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="69">ξθ</num> <!-- check -->
+                    <lb n="2"/> <date corresp="https://godot.date/id/6QdwLE88L9oKogKNnWWEo7"><w>ἐπὶ</w> <w>ἱερείος</w> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-66073"><name nymRef="Φίλων">Φίλωνος</name> <w>το<supplied reason="lost">ῦ</supplied></w> 
                     <lb n="4"/><persName type="attested" key="lgpn:V1-63922"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name></persName></persName> 
-                    <lb n="5"/><rs type="month" key="Μεσορή"><w lemma="Μεσορή">Μεσορὴ</w></rs> <num value="20">κ</num> 
+                    <lb n="5"/><rs type="month" key="Μεσορή"><w lemma="Μεσορή">Μεσορὴ</w></rs> <num value="20">κ</num></date></date> </date>
                     <lb n="6"/><persName type="attested" key="lgpn:V1-62712"><name nymRef="Ἀλέξανδρος">Ἀλέξανδρο<supplied reason="lost">ς</supplied></name> 
                     <lb n="7"/><persName type="attested" key="lgpn:V1-64050"><name nymRef="Ἡρόδοτος">Ἡροδότου</name></persName></persName> <date type="life-span" dur="P3Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="3">γ</num> </date>
                 </ab>
@@ -129,7 +129,7 @@
                   <rdg resp="#SECir">
                      ξθ
                      <note>This provided a date of 38/39 C.E., (whence Laronde, and 
-                        Reynolds in LGPN) but the reading is not secure.</note></rdg>
+                        Reynolds in LGPN) but the first digit is not secure</note></rdg>
                </app>
                <app loc="2">
                   <rdg resp="#SECir">
