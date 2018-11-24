@@ -113,7 +113,7 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="a" type="textpart"><ab>
-                            <lb n="1"/><g ref="symbols.xml#crux"/> <w><expan><abbr>ἐνδη</abbr><ex>κτίωνος</ex></expan></w> <num value="5"><unclear>ε</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="1"/><g ref="symbols.xml#crux"/> <date><w><expan><abbr>ἐνδη</abbr><ex>κτίωνος</ex></expan></w> <num value="5"><unclear>ε</unclear></num></date> <gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div><div subtype="fragment" n="b" type="textpart"><ab>
                             <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w lemma="ὁ"><supplied reason="lost">τ</supplied>ὸν</w> <w lemma="ναός"><expan><abbr>να</abbr><ex>ὸν</ex></expan></w> <orig>κ</orig><gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div><div subtype="fragment" n="c" type="textpart"><ab>

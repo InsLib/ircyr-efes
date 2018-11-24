@@ -114,7 +114,7 @@
              
             <div subtype="face" n="a" type="textpart">
                <ab xml:lang="la">
-                   <lb n="1"/><persName type="emperor" key="nero"><name nymRef="Nero" ><supplied reason="lost">Nero</supplied></name> <name nymRef="Claudius"><supplied reason="lost">Claudi</supplied>us</name> <persName type="emperor" key="claudius"><w lemma="diuus">diui</w> 
+                   <lb n="1"/><date corresp="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" key="nero"><name nymRef="Nero" ><supplied reason="lost">Nero</supplied></name> <name nymRef="Claudius"><supplied reason="lost">Claudi</supplied>us</name> <persName type="emperor" key="claudius"><w lemma="diuus">diui</w> 
                    <name nymRef="Claudius"><supplied reason="lost">Cla</supplied><lb n="2" break="no"/><supplied reason="lost">udi</supplied></name></persName> 
                    <w><supplied reason="lost"><expan><abbr>f</abbr><ex>ilius</ex></expan></supplied></w>
                    <persName type="emperor" key="germanicus"><name nymRef="Germanicus">Germanici</name> <name nymRef="Caesar">Caes<supplied reason="lost">aris</supplied></name>
@@ -125,31 +125,29 @@
                    <name nymRef="Caesar">Caesar</name><lb n="4"/><name nymRef="Augustus"><expan><abbr><supplied reason="lost">A</supplied>ug</abbr><ex>ustus</ex></expan></name>
                    <name nymRef="Germanicus">Germanicus</name></persName> <w><expan><abbr>pontif</abbr><ex>ex</ex></expan></w>
                    <lb n="5"/> <w><expan><abbr><supplied reason="lost">m</supplied>ax</abbr><ex>imus</ex></expan></w>
-                   <w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <w><expan><abbr>potest</abbr><ex>ate</ex></expan></w> 
-                   <w><expan><abbr>imp</abbr><ex>erator</ex></expan></w>
-                   <lb n="6"/> <w><expan><abbr><supplied reason="lost">m</supplied>ax</abbr><ex>imus</ex></expan></w>
                    <w><expan><abbr>trib</abbr><ex>unicia</ex></expan></w> <w><expan><abbr>potest</abbr><ex>ate</ex></expan></w>
-                   <w><expan><abbr>imp</abbr><ex>erator</ex></expan></w> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w><lb n="7"/> <w><supplied reason="lost">pe</supplied>r</w> 
+                   <w><expan><abbr>imp</abbr><ex>erator</ex></expan></w> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w></date>
+                  <lb n="6"/> <w><supplied reason="lost">pe</supplied>r</w> 
                    <persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>ucium</ex></expan></name>
                    <name nymRef="Acilius">Acilium</name> <name nymRef="Strabo">Strabonem</name></persName>
-                   <lb n="8"/> <w><expan><abbr><supplied reason="lost">l</supplied>egat</abbr><ex>um</ex></expan></w>
+                   <lb n="7"/> <w><expan><abbr><supplied reason="lost">l</supplied>egat</abbr><ex>um</ex></expan></w>
                    <w lemma="suus">suum</w> <w lemma="finis">fine<unclear>s</unclear></w> <w><expan><abbr>occupa<unclear>t</unclear></abbr><ex>os</ex></expan></w>
-                   <lb n="9"/><w lemma="ab">a</w> <w lemma="priuatus">priuatis</w> <expan><w><abbr>P</abbr><ex>opulo</ex></w> 
+                   <lb n="8"/><w lemma="ab">a</w> <w lemma="priuatus">priuatis</w> <expan><w><abbr>P</abbr><ex>opulo</ex></w> 
                    <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName></expan> <w lemma="restituo">r<supplied reason="lost">e</supplied>stituit</w>
                </ab>
                <ab xml:lang="grc">
-                   <lb n="10"/><persName type="emperor" key="nero"><name nymRef="Νέρων">Νέρων</name> 
-                   <name nymRef="Κλαύδιος">Κλαύδιος</name> <persName type="emperor" key="claudius"><w>θεοῦ</w><lb n="11"/>
+                   <lb n="9"/><date corresp="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" key="nero"><name nymRef="Νέρων">Νέρων</name> 
+                   <name nymRef="Κλαύδιος">Κλαύδιος</name> <persName type="emperor" key="claudius"><w>θεοῦ</w><lb n="10"/>
                       <name nymRef="Κλαύδιος">Κλαυδίου</name></persName>
-                   <w>υἱὸς</w> <persName type="emperor" key="germanicus"><name nymRef="Γερμανικός">Γερ<supplied reason="lost">μ</supplied>α<supplied reason="lost">νι</supplied><lb n="12" break="no"/>κοῦ</name>
-                   <name nymRef="Καῖσαρ">Καίσαρος</name></persName> <w>υἱωνὸς</w> <persName type="emperor" key="tiberius"><name nymRef="Τιβέριος"><expan><abbr><unclear>Τι</unclear></abbr><ex>βερίου</ex></expan></name><lb n="13"/>
-                      <name nymRef="Καῖσαρ">Καίσαρος</name></persName> <w>καὶ</w> <persName type="emperor" key="augustus"><w>θεοῦ</w> 
-                       <name nymRef="Σεβαστός">Σεβασ<lb n="14" break="no"/><supplied reason="lost">τοῦ</supplied></name></persName> <w><supplied reason="lost">ἔκγ</supplied>ονος</w>
-                   <name nymRef="Καῖσαρ">Καῖσαρ</name> <name nymRef="Σεβαστός">Σε<lb n="15" break="no"/>βαστὸς</name> 
-                  <name nymRef="Γερμανικός">Γερμανικὸς</name></persName> <w>ἀρ<lb n="16" break="no"/>χιερεὺς</w> <w>μέγ<unclear>ι</unclear>στος</w> 
-                   <w>δη<supplied reason="lost">μαρ</supplied><lb n="17" break="no"/>χικῆς</w> 
+                   <w>υἱὸς</w> <persName type="emperor" key="germanicus"><name nymRef="Γερμανικός">Γερ<supplied reason="lost">μ</supplied>α<supplied reason="lost">νι</supplied><lb n="11" break="no"/>κοῦ</name>
+                   <name nymRef="Καῖσαρ">Καίσαρος</name></persName> <w>υἱωνὸς</w> <persName type="emperor" key="tiberius"><name nymRef="Τιβέριος"><expan><abbr><unclear>Τι</unclear></abbr><ex>βερίου</ex></expan></name>
+                      <lb n="12"/><name nymRef="Καῖσαρ">Καίσαρος</name></persName> <w>καὶ</w> <persName type="emperor" key="augustus"><w>θεοῦ</w> 
+                       <name nymRef="Σεβαστός">Σεβασ<lb n="13" break="no"/><supplied reason="lost">τοῦ</supplied></name></persName> <w><supplied reason="lost">ἔκγ</supplied>ονος</w>
+                   <name nymRef="Καῖσαρ">Καῖσαρ</name> <name nymRef="Σεβαστός">Σε<lb n="14" break="no"/>βαστὸς</name> 
+                  <name nymRef="Γερμανικός">Γερμανικὸς</name></persName> <w>ἀρ<lb n="15" break="no"/>χιερεὺς</w> <w>μέγ<unclear>ι</unclear>στος</w> 
+                   <w>δη<supplied reason="lost">μαρ</supplied><lb n="16" break="no"/>χικῆς</w> 
                    <w>ἐξουσίας</w> 
-                   <w>α<supplied reason="lost">ὐτοκρά</supplied><unclear>τω</unclear>ρ</w> <w><supplied reason="lost">ὕπα</supplied>τος</w>                 
+                   <w>α<supplied reason="lost">ὐτοκρά</supplied><unclear>τω</unclear>ρ</w> <w><supplied reason="lost">ὕπα</supplied>τος</w></date>                 
             </ab>
             </div>
          
@@ -198,12 +196,12 @@
                      Omits initial A
                   </rdg>
                </app>
-               <app loc="8">
+               <app loc="7">
                   <rdg resp="#patriarcha">
                      fine<supplied reason="lost">s</supplied>
                   </rdg>
                </app>
-               <app loc="9">
+               <app loc="8">
                   <rdg resp="#patriarcha">
                      r<supplied reason="lost">esti</supplied>tuit
                   </rdg>

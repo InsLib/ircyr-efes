@@ -7,7 +7,7 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title><rs type="textType">Milestone</rs> of Nero</title>
+                <title>Mile ?V: <rs type="textType">Milestone</rs> of Nero</title>
                 <editor>Joyce M. Reynolds</editor>
             </titleStmt>
             <publicationStmt>
@@ -122,13 +122,13 @@
             <div type="edition" xml:space="preserve">
             <div type="textpart" xml:lang="la">
             <ab>
-                <lb n="1"/><persName type="emperor" key="nero"><name nymRef="Nero"><del rend="erased">Nero</del></name> 
+                <lb n="1"/><date corresp="https://godot.date/id/q8tzTG5MBsGJyh6JvYjDqE"><persName type="emperor" key="nero"><name nymRef="Nero"><del rend="erased">Nero</del></name> 
                     <name nymRef="Claudius">Claudius</name> 
                 <name nymRef="Drusus"><supplied reason="lost">Drusus</supplied></name>		
 	<lb n="2"/><name nymRef="Caesar">Ca<unclear>esa</unclear>r</name> 
                <name nymRef="Augustus"><unclear>Augus</unclear>tus</name>		
 	<lb n="3"/><name nymRef="Germanicus">G<unclear>e</unclear>r<supplied reason="lost">m</supplied><unclear>an</unclear>i<supplied reason="lost">cu</supplied><unclear>s</unclear></name> 
-               <w><expan><abbr><supplied reason="lost">I</supplied><unclear>m</unclear>p</abbr><ex>erator</ex></expan></w></persName>		
+               <w><expan><abbr><supplied reason="lost">I</supplied><unclear>m</unclear>p</abbr><ex>erator</ex></expan></w></persName></date>		
 <lb n="4"/><w lemma="uia">ui<unclear>a</unclear><supplied reason="lost">s</supplied></w> 
                 <w><supplied reason="lost">fe</supplied><unclear>cit</unclear></w> <w><unclear>per</unclear></w>	
 	<lb n="5"/><persName type="attested"><name nymRef="Lucius"><expan><abbr>L</abbr><ex>ucium</ex></expan></name> <g ref="symbols.xml#stop"/> <name nymRef="Pedius"><unclear>Pe</unclear><supplied reason="lost">dium</supplied></name> 
@@ -142,13 +142,13 @@
             </div>
             <div xml:lang="grc" type="textpart">
                   <ab>
-<lb n="8"/><persName type="emperor" key="nero"><name nymRef="Νέρων"><supplied reason="lost">Νέρων</supplied></name> 
+<lb n="8"/><date corresp="https://godot.date/id/q8tzTG5MBsGJyh6JvYjDqE"><persName type="emperor" key="nero"><name nymRef="Νέρων"><supplied reason="lost">Νέρων</supplied></name> 
                 <name nymRef="Κλαύδιος"><supplied reason="lost">Κλαύδιος</supplied></name> 
                 <name nymRef="Δροῦσος"><supplied reason="lost">Δροῦσος</supplied></name>
                 <name nymRef="Καῖσαρ"><lb n="9"/>Κα<unclear>ῖσ</unclear><supplied reason="lost">αρ</supplied></name> 
                 <name nymRef="Σεβαστός"><supplied reason="lost">Σεβαστὸς</supplied></name>
 <lb n="10"/><name nymRef="Γερμανικός">Γερμ<unclear>α</unclear><supplied reason="lost">νικ</supplied>ὸ<supplied reason="lost">ς</supplied></name>
-<lb n="11"/> <w><unclear>Αὐ</unclear><supplied reason="lost">τοκράτωρ</supplied></w></persName>
+<lb n="11"/> <w><unclear>Αὐ</unclear><supplied reason="lost">τοκράτωρ</supplied></w></persName></date>
 <lb n="12"/> <w>ὁδο<unclear>ὺ</unclear>ς</w> <w>ἐ<supplied reason="lost">π</supplied>όησε</w> <w><unclear>διὰ</unclear></w>
 <lb n="13"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name> <g ref="symbols.xml#stop"/> <name nymRef="Πέδιος">Πε<unclear>δίο</unclear><supplied reason="lost">υ</supplied></name> 
                 <name nymRef="Βλαῖσος"><supplied reason="lost">Βλαίσου</supplied></name>

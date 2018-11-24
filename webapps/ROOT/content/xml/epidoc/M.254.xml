@@ -28,7 +28,7 @@
                                     <p>
                                         ‘Anthropomorphic’ <material>limestone</material> 
                                         <objectType>stele</objectType> with ‘head’, badly 
-                                        damaged, and roughly rectangular body, damaged above and t the right.
+                                        damaged, and roughly rectangular body, damaged above and to the right.
                                         (<dimensions>
                                             <width>0.18</width>
                                             <height>0.26</height>
@@ -40,8 +40,7 @@
                             </layoutDesc>
                         </objectDesc>
                         <handDesc>
-                            <handNote>
-                                first-second century C.E.; free hand, within  guidelines. 
+                            <handNote>First-second century C.E.; free hand, within  guidelines. 
                                 L for ἐτῶν; <height>0.02</height>.
                             </handNote>
                         </handDesc>
@@ -125,8 +124,8 @@
             <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
                 <lb n="1"/> <space quantity="5" unit="character"/>
-                <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                <num value="1"><unclear>α</unclear></num> 
+                <date corresp="https://godot.date/id/wtdpMkHixnKf3paJYFzKXG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                <num value="1"><unclear>α</unclear></num> </date>
                 <lb n="2"/><persName type="attested"><name nymRef="Ἰουλία">Ἰουλία</name>
                 <lb n="3"/><name nymRef="Δυρρα">Δυρ<unclear>ρα</unclear></name></persName>
                 <lb n="4"/><date type="life-span" dur="P68Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
