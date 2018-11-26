@@ -118,7 +118,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
              <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="9"><unclear>θ</unclear></num>
+                    <lb n="1"/><date corresp="https://godot.date/id/mDha8ivFFUEeijcoAswNPW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="9"><unclear>θ</unclear></num></date>
                     <lb n="2"/><orig><unclear>ο</unclear></orig><gap reason="lost" quantity="3" unit="character"
                     /><orig><unclear>λ</unclear>α<unclear>γ</unclear></orig><gap
                         reason="lost" quantity="3" unit="character"/><orig>γα</orig> <space
