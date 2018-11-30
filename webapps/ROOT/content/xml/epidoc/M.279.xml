@@ -61,7 +61,7 @@
                               <date type="found">1956</date>, with <ref type="inscription" n="C82900">M.280</ref>.</p>
                         </provenance>
                         <provenance type="observed">
-                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName> ><idno type="invNo">74-1110</idno>.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName> <idno type="invNo">74-1110</idno>.</p>
                         </provenance>
                      
                   
@@ -118,9 +118,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="142">ρμβ</num> 
+                    <lb n="1"/><date corresp="https://godot.date/id/vwtGPHgNB7sFMtXAugetSY"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="142">ρμβ</num></date> 
                     <persName type="attested"><name nymRef="Φιλίππα">Φιλίππ<lb n="2" break="no"/>α</name> 
-                    <persName type="attested"><name nymRef="Ἀριστοκράτης">Ἀριστοκράτ<lb n="3" break="no"/> ου</name></persName> </persName>
+                    <persName type="attested"><name nymRef="Ἀριστοκράτης">Ἀριϲτοκράτ<lb n="3" break="no"/>ου</name></persName> </persName>
             <date type="life-span" dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="45">με</num> </date>
                 </ab>
 </div>
