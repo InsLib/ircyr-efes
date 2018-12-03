@@ -123,12 +123,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                            <num value="7" xml:lang="grc">ζ</num> 
+                            <num value="7">ζ</num> 
                         <lb n="2"/><persName type="attested"><name nymRef="Σετιανός">Σετιαν<lb n="3" break="no"/>ὸς</name> 
                             <persName type="attested"><name nymRef="Ἀνδεομηδος">Ἀνδε<lb n="4" break="no"/>ομήδ<unclear>ο</unclear><lb n="5" break="no"/>υ</name></persName><!-- check --></persName>
                     </ab></div><div subtype="part" n="ii" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                            <num value="3" xml:lang="grc">γ</num>
+                            <num value="3">γ</num>
                         <lb n="2"/><persName type="attested"><name nymRef="Λούκιος">Λούκιο<supplied reason="lost">ς</supplied></name>
                         <lb n="3"/><name nymRef="Καύλιος">Καύλιο<supplied reason="lost">ς</supplied></name>
                         <lb n="4"/><name nymRef="Πάνθης">Πάνθης</name></persName> 

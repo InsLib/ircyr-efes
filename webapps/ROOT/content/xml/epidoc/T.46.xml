@@ -120,7 +120,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="15" xml:lang="grc">ιε</num>
+                        <num value="15">ιε</num>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig>πεσ</orig>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="character"/>
                         <persName type="attested"><name nymRef="Πλάριος"><supplied reason="lost">Π</supplied>λάρι<lb n="4" break="no"/><supplied reason="lost">ο</supplied>ς</name> 
