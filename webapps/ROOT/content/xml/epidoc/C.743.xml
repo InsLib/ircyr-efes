@@ -141,14 +141,14 @@
                         <expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan> 
                   <gap reason="illegible" quantity="1" unit="character"/>
                         τοῦ καὶ 
-                        <num value="10" xml:lang="grc">ι</num>
+                        <num value="10">ι</num>
                     </foreign> 
                    - in which case the text contained a list of dated entries, probably of Eponymous priests or of deaths; 
                     alternatively it may have given the age - 
                     <foreign xml:lang="grc">
                         <supplied reason="lost">ἐτῶ</supplied>
                   <unclear>ν</unclear> 
-                        <num value="10" xml:lang="grc">ι</num>
+                        <num value="10">ι</num>
                     </foreign> 
                    - of a dead child whose name appeared in lines 2,3 in which case line 1 perhaps gave the age of an older 
                     person whose name preceded and is completely lost.

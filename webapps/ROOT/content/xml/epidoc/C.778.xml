@@ -117,7 +117,7 @@
 <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F"><unclear>ι</unclear>ος</seg></name></persName>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">ἐτ</supplied>ῶν</w>
-                        <num value="11" xml:lang="grc">ια</num>
+                        <num value="11">ια</num>
                 </ab>
 </div>
          

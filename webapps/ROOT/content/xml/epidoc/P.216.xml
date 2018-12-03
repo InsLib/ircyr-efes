@@ -138,10 +138,10 @@
                            <lb n="1"/><persName type="attested"><name nymRef="Ἱππομέδων">Ἱππομέδων</name> <w lemma="ὁ">ὁ</w> <w>πρεὶν</w> <note>sic</note>
                             <lb n="2"/><name nymRef="Καρπόφορος">Καρπόφορος</name></persName> <w lemma="ὅς">οὗ</w> 
                                 <w><expan><abbr><hi rend="ligature">πυ</hi></abbr><ex>γμαὶ</ex></expan></w> 
-                                <num value="9" xml:lang="grc">θ</num>
+                                <num value="9">θ</num>
                             <lb n="3"/> <space quantity="3" unit="character"/> 
                            <w> <expan><abbr><hi rend="ligature">πυ</hi></abbr><ex>γμαὶ</ex></expan></w> 
-                            <num value="9" xml:lang="grc">θ</num>
+                            <num value="9">θ</num>
                             <space quantity="3" unit="character"/>
                         </ab>
 </div>

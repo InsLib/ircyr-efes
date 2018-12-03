@@ -130,7 +130,7 @@
                         <name nymRef="Δωρόθεος">Δωροθέου</name></persName></persName> 
                         <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><date type="life-span" dur="P15Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
-                    <num value="15" xml:lang="grc">ιε</num> </date>
+                    <num value="15">ιε</num> </date>
                 </ab>
 </div>
          
