@@ -128,14 +128,14 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                    <lb n="1"/><gap reason="lost" extent="3" unit="character"/> <w>δ<supplied reason="lost">η</supplied><unclear>μ</unclear><supplied reason="lost">αρχι</supplied><unclear>κ</unclear>ῆς</w>
+                    <lb n="1"/><gap reason="lost" extent="3" unit="character"/><date corresp="https://godot.date/id/Wjo2fnpKKTCiSSxPiDASUA"> <persName type="emperor"  key="vespasianus"><w>δ<supplied reason="lost">η</supplied><unclear>μ</unclear><supplied reason="lost">αρχι</supplied><unclear>κ</unclear>ῆς</w>
                     <w><unclear>ἐξ</unclear><supplied reason="lost">ουσί<lb n="2" break="no"/>ας</supplied></w> <w>τὸ</w>
                <num value="3">γ</num> <w>αὐτοκράτωρ</w> <w><unclear>τὸ</unclear></w> <num value="8">η</num>
                     <lb n="3"/> <w><unclear>πα</unclear>τὴρ</w> <w><unclear>π</unclear>ατρίδος</w> 
                <w><unclear>ὕπ</unclear>ατ<supplied reason="lost">ος</supplied></w>
                     <lb n="4"/><supplied reason="lost"><w>τὸ</w> <num value="3">γ</num> </supplied>
                <w>ἀπ<unclear>οδεδε</unclear><supplied reason="lost">ιγ</supplied>μέν<supplied reason="lost">ος</supplied></w>
-               <w><supplied reason="lost">τ</supplied>ὸ</w> <supplied reason="lost"><num value="4">δ</num> </supplied>
+               <w><supplied reason="lost">τ</supplied>ὸ</w> <supplied reason="lost"><num value="4">δ</num> </supplied></persName></date>
                     <lb n="5"/> <w><supplied reason="lost">δι</supplied>ὰ</w> 
                     <persName type="attested"><name nymRef="Κόϊντος"><expan><abbr>Κ</abbr><ex>οΐντου</ex></expan></name> 
                        <name nymRef="Πακώνιος"><unclear>Π</unclear>ακωνί<supplied reason="lost">ου</supplied></name> <space/>
@@ -152,7 +152,7 @@
          </div>
          <div type="translation" xml:space="preserve">
             <head>Translation</head>
-            <p> [Vespasian . . . ]holding tribunician power for the third time, imperator for the 7th time, father of the country, 
+            <p> [Vespasian . . . ] holding tribunician power for the third time, imperator for the 8th time, father of the country, 
             consul[for the third time], designated for the fourth time, <note>71 C.E.</note> by the action of Quintus Paconius Agrippinus, his personal
             agent restored to the [people] of the Romans land [ . . . ]. </p><p/>
          </div>

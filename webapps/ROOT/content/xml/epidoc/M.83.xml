@@ -117,8 +117,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="12" xml:lang="grc">ιβ</num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><date corresp="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="12">ιβ</num></date> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/> <space quantity="3" unit="character"/> 
                         <orig>β</orig> <space quantity="3" unit="character"/> 
                         <orig>σ</orig><gap reason="lost" extent="unknown" unit="character"/>

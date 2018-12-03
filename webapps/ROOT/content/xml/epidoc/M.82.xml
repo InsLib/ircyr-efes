@@ -42,7 +42,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Average <height>0.02</height>; lunate episilon, lunate, cursive omega.</handNote>
+                     <handNote>Average <height>0.02</height>; lunate epsilon, lunate, cursive omega.</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -117,13 +117,13 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="15" xml:lang="grc">ιε</num> 
-                        <rs type="month" key="Ἐπιφί"><w>Ἐπιφὶ</w></rs> <num value="25">κε</num>
-                    <lb n="2"/><persName type="attested"><name nymRef="Σεκόνδα">Σεκόν<unclear>δ</unclear>α</name> 
+                    <lb n="1"/><date corresp="https://godot.date/id/ZW2RPr3PiictuV34swuim3"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="15">ιε</num> 
+                        <rs type="month" key="Ἐπιφί"><w>Ἐπιφὶ</w></rs> <num value="25">κε</num></date>
+                    <lb n="2"/><persName type="attested"><name nymRef="Σεκόνδα">Ϲεκόν<unclear>δ</unclear>α</name> 
                         <persName type="attested"><name nymRef="Ἀντίοχος">Ἀ<unclear>ν</unclear>τιόχ<lb n="3" break="no"/>ω</name></persName></persName> 
                         <date type="life-span" dur="P12Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
-                        <num value="12" xml:lang="grc">ιβ</num> </date>
+                        <num value="12">ιβ</num> </date>
                 </ab>
 </div>
          
