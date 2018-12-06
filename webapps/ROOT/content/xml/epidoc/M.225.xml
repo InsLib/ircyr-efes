@@ -122,7 +122,7 @@
             <div type="edition" xml:space="preserve">
             <div type="textpart" xml:lang="la">
             <ab>
-                <lb n="1"/><date corresp="https://godot.date/id/q8tzTG5MBsGJyh6JvYjDqE"><persName type="emperor" key="nero"><name nymRef="Nero"><del rend="erased">Nero</del></name> 
+                <lb n="1"/><date ref="https://godot.date/id/q8tzTG5MBsGJyh6JvYjDqE"><persName type="emperor" key="nero"><name nymRef="Nero"><del rend="erased">Nero</del></name> 
                     <name nymRef="Claudius">Claudius</name> 
                 <name nymRef="Drusus"><supplied reason="lost">Drusus</supplied></name>		
 	<lb n="2"/><name nymRef="Caesar">Ca<unclear>esa</unclear>r</name> 
@@ -142,7 +142,7 @@
             </div>
             <div xml:lang="grc" type="textpart">
                   <ab>
-<lb n="8"/><date corresp="https://godot.date/id/q8tzTG5MBsGJyh6JvYjDqE"><persName type="emperor" key="nero"><name nymRef="Νέρων"><supplied reason="lost">Νέρων</supplied></name> 
+<lb n="8"/><date ref="https://godot.date/id/q8tzTG5MBsGJyh6JvYjDqE"><persName type="emperor" key="nero"><name nymRef="Νέρων"><supplied reason="lost">Νέρων</supplied></name> 
                 <name nymRef="Κλαύδιος"><supplied reason="lost">Κλαύδιος</supplied></name> 
                 <name nymRef="Δροῦσος"><supplied reason="lost">Δροῦσος</supplied></name>
                 <name nymRef="Καῖσαρ"><lb n="9"/>Κα<unclear>ῖσ</unclear><supplied reason="lost">αρ</supplied></name> 

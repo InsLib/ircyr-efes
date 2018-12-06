@@ -113,7 +113,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><date><date corresp="https://godot.date/id/EiXQ93bhVbD6TNiJXebB28"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="122">ρκβ</num></date> <date corresp="https://godot.date/id/fRGLRQMyRQJPUXcDB3vfZA
+                    <lb n="1"/><date><date ref="https://godot.date/id/EiXQ93bhVbD6TNiJXebB28"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="122">ρκβ</num></date> <date corresp="https://godot.date/id/fRGLRQMyRQJPUXcDB3vfZA
 
 "><w>τοῦ</w> 
                     <lb n="2"/><num value="10">ι</num></date></date> <persName type="attested"><name nymRef="Κλευπάτρα">Κλευπά<lb n="3" break="no"/>τρα</name> 

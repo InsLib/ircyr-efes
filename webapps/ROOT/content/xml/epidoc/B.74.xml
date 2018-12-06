@@ -115,7 +115,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                <lb n="1"/><date corresp="https://godot.date/id/JY2kjv8QF5U5xsLXbtNkQn"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="134">ρλδ</num></date>
+                <lb n="1"/><date ref="https://godot.date/id/JY2kjv8QF5U5xsLXbtNkQn"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="134">ρλδ</num></date>
                
                    <lb n="2"/> <persName type="attested" key="lgpn:V1-61895, V1-66053"><name nymRef="Καλλοῦς">Καλλοῦϲ</name>
                 <lb n="3"/><name nymRef="Φιλόστρατος">Φιλόϲτρα<lb n="4" break="no"/>τοϲ</name></persName> 

@@ -130,7 +130,7 @@
                     <lb n="2"/><gap reason="lost" quantity="1" unit="character"/><orig>ιλ</orig><gap reason="lost" quantity="4" unit="character"/>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="line"/>
                     <lb n="4"/><persName type="attested"><name nymRef="Πολ-"><seg part="I">Πολ</seg><orig><unclear>ιι</unclear></orig><lb n="5" break="no"/><unclear>ι</unclear>οϲ</name><!-- check --></persName>
-                    <lb n="6"/><date corresp="https://godot.date/id/97jAchciGPUPTzLZwM2jri"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
+                    <lb n="6"/><date ref="https://godot.date/id/97jAchciGPUPTzLZwM2jri"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
                     <num value="28"><unclear>κη</unclear></num></date>
                 </ab>
 </div>

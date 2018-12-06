@@ -117,14 +117,14 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/> <space quantity="1" unit="character"/> <date corresp="https://godot.date/id/zr3NDqzgt9rZRBTbNmSZsm"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="1"/> <space quantity="1" unit="character"/> <date ref="https://godot.date/id/zr3NDqzgt9rZRBTbNmSZsm"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="69">ξθ</num></date> <persName type="attested"><name nymRef="θεύδα">θεύδα</name></persName>
-                    <lb n="2"/> <space quantity="1" unit="character"/> <date corresp="https://godot.date/id/df32KTiYDRaJcTmhkGLsb9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="2"/> <space quantity="1" unit="character"/> <date ref="https://godot.date/id/df32KTiYDRaJcTmhkGLsb9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="30">λ</num></date> <orig>ομα</orig><gap reason="lost" extent="unknown" unit="character"/><orig>ομ</orig> 
                     <space quantity="1" unit="character"/>
                     <lb n="3"/><gap reason="lost" quantity="1" unit="character"/><orig><unclear>σ</unclear>ιλα</orig> 
                     <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ιοσ</unclear></orig> <orig><unclear>ο</unclear></orig>
-                    <gap reason="lost" quantity="1" unit="character"/> <g ref="symbols.xml#crux"/> <orig><unclear>ν</unclear></orig> <date corresp="https://godot.date/id/puESXHZfTKfs9yv8eWsbnh"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <gap reason="lost" quantity="1" unit="character"/> <g ref="symbols.xml#crux"/> <orig><unclear>ν</unclear></orig> <date ref="https://godot.date/id/puESXHZfTKfs9yv8eWsbnh"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="40">μ</num></date>  <space quantity="1" unit="character"/>
                     <gap reason="lost" extent="unknown" unit="character"/><orig>ιοσ</orig> <space quantity="1" unit="character"/>
                 </ab>

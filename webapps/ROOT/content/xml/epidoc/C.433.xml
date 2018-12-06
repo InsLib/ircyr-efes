@@ -142,7 +142,7 @@
             
             <div type="textpart" subtype="graphito" n="II">
                       <ab>
-                         <lb n="1"/> <date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                         <lb n="1"/> <date ref="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="55">νε</num></date> <persName type="attested" key="lgpn:V1-66160"><name nymRef="Χαρίτιμος">Χαριτίμω</name> 
             <w>κα<unclear>ὶ</unclear></w> <persName type="attested" key="lgpn:V1-65206"><name nymRef="Οἶνις">Οἶνις</name> 
                          <w>τῶν</w> <lb n="2"/><persName type="attested" key="lgpn:V1-63886"><name nymRef="Εὐρυπτόλεμος">Εὐρυπτόλ
@@ -152,7 +152,7 @@
             
             <div type="textpart" subtype="graphito" n="III">
                       <ab>
-                         <lb n="1"/><date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                         <lb n="1"/><date ref="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="55">νε</num> </date><persName type="attested" key="lgpn:V1-66159"><name nymRef="Χαρίτιμος">Χαριτίμω</name> 
             <w>τῶ</w> <lb n="2"/><persName type="attested" key="lgpn:V1-66160"><name nymRef="Χαρίτιμος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Χαριτίμω</ex></expan></name></persName></persName>
                       </ab>
@@ -160,7 +160,7 @@
                     
                     <div type="textpart" subtype="graphito" n="IV">
                       <ab>
-                         <lb n="1"/> <date corresp="https://godot.date/id/df32KTiYDRaJcTmhkGLsb9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                         <lb n="1"/> <date ref="https://godot.date/id/df32KTiYDRaJcTmhkGLsb9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="30">λ</num></date> <space quantity="22" unit="character"/> <persName type="attested" key="lgpn:V1-63535"><name nymRef="Δημήτριος">Δημήτριος</name></persName> 
                       </ab>
                     </div>
@@ -181,7 +181,7 @@
             
             <div type="textpart" subtype="graphito" n="VII">
                       <ab>
-                         <lb n="1"/><date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                         <lb n="1"/><date ref="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="55">νε</num></date> <space quantity="22" unit="character"/> <persName type="attested" key="lgpn:V1-64268"><name nymRef="Θόας">Θόας</name> 
                          <persName type="attested" key="lgpn:V1-64609"><name nymRef="Καρτισθένης"><unclear>Κ</unclear>αρ<unclear>τ</unclear>ισθένεoς</name></persName></persName> 
                       </ab>
@@ -189,7 +189,7 @@
             
             <div type="textpart" subtype="graphito" n="VIII">
                       <ab>
-                         <lb n="1"/><date corresp="https://godot.date/id/h3Fbi4Cg4poL5Mn9nfL8ad"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                         <lb n="1"/><date ref="https://godot.date/id/h3Fbi4Cg4poL5Mn9nfL8ad"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="54">νδ</num></date>
                          <lb n="2"/><persName type="attested" key="lgpn:V1-65424"><name nymRef="Ποσειδώνις">Ποσειδώνεις</name> 
                          <lb n="3"/><persName type="attested" key="lgpn:V1-66004"><name nymRef="Φιλόκωμος">Φιλοκώμω</name></persName></persName> 
@@ -211,7 +211,7 @@
             
             <div type="textpart" subtype="graphito" n="X">
                       <ab>
-                         <lb n="1"/><date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                         <lb n="1"/><date ref="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="55">εν</num></date>
                          <lb n="2"/><persName type="attested" key="lgpn:V1-63918"><name nymRef="Εὐφράνωρ">Εὐφρά<lb break="no" n="3"/><expan><abbr>ν</abbr><ex>ωρ</ex></expan></name></persName>
                       </ab>
@@ -219,7 +219,7 @@
             
             <div type="textpart" subtype="graphito" n="XI">
                       <ab>
-                         <lb n="1"/><date corresp="https://godot.date/id/h3Fbi4Cg4poL5Mn9nfL8ad"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                         <lb n="1"/><date ref="https://godot.date/id/h3Fbi4Cg4poL5Mn9nfL8ad"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="54">δν</num></date>
                       </ab>
             </div>
@@ -232,7 +232,7 @@
             
             <div type="textpart" subtype="graphito" n="XIII">
                       <ab>
-                         <lb n="1"/><date corresp="https://godot.date/id/UGsKBAis8vjkqQEseo4oyG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <gap reason="lost" quantity="1" unit="character"/></date> 
+                         <lb n="1"/><date ref="https://godot.date/id/UGsKBAis8vjkqQEseo4oyG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <gap reason="lost" quantity="1" unit="character"/></date> 
                          <persName type="attested" key="lgpn:V1-65926"><name nymRef="Φίλιος">Φιλί<unclear>ω</unclear></name> </persName>
             <persName type="attested" key="lgpn:V1-63553"><name nymRef="Δημήτριος">Δημήτριος</name> 
                <lb n="2"/><name nymRef="Ἰμαλύλο">Ἰμαλύλος</name></persName> <!-- check ψφ key="lgpn:V1-64921"-->
@@ -242,7 +242,7 @@
             
             <div type="textpart" subtype="graphito" n="XIV">
                       <ab>
-                         <lb n="1"/><date corresp="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                         <lb n="1"/><date ref="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="13">ιγ</num></date> <space quantity="10" unit="character"/>
                          <persName type="attested" key="lgpn:V1-64488"><name nymRef="Καλλίμαχος"><unclear>Καλ</unclear>λίμ<unclear>αχο</unclear>ς</name></persName>
                       </ab>
@@ -250,7 +250,7 @@
             
             <div type="textpart" subtype="graphito" n="XV">
                       <ab>
-                         <lb n="1"/><date corresp="https://godot.date/id/gYMVKNoD3BnHTEkSdLg3ta"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                         <lb n="1"/><date ref="https://godot.date/id/gYMVKNoD3BnHTEkSdLg3ta"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="21">κα</num> </date>
                          <persName type="attested" key="lgpn:V1-64882"><name nymRef="Λῦσις">Λῦσις</name> 
             <persName type="attested" key="lgpn:V1-64872"><name nymRef="Λύσιππος">Λυσίππω</name></persName></persName>
@@ -259,7 +259,7 @@
             
             <div type="textpart" subtype="graphito" n="XVI">
                       <ab>
-                         <lb n="1"/><date corresp="https://godot.date/id/gYMVKNoD3BnHTEkSdLg3ta"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                         <lb n="1"/><date ref="https://godot.date/id/gYMVKNoD3BnHTEkSdLg3ta"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <lb n="2"/><num value="21">κα</num> </date>
                          <persName type="attested" key="lgpn:V1-62916"><name nymRef="Ἀντίγονος"><expan><abbr>Ἀντίγονο</abbr><ex>ς</ex></expan></name> 
                         <persName type="attested" key="lgpn:V1-65105"><name nymRef="Νίκαιος">Νικαίω</name></persName></persName>
@@ -268,7 +268,7 @@
             
             <div type="textpart" subtype="graphito" n="XVII">
                       <ab>
-                         <lb n="1"/><date corresp="https://godot.date/id/S6awBv8Zz8NmBZZiKUsTzR"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                         <lb n="1"/><date ref="https://godot.date/id/S6awBv8Zz8NmBZZiKUsTzR"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
              <num atLeast="11"><gap reason="lost" quantity="1" unit="character"/>α</num></date> <space quantity="15" unit="character"/>
             <persName type="attested" key="lgpn:V1-65135"><name nymRef="Νικᾶς">Νεικ<unclear>ᾶ</unclear>ς</name> <space quantity="10" unit="character"/>
             <persName type="attested"><name nymRef="Καρνεάδας">Καρ<unclear>ν</unclear><supplied reason="lost" cert="low">εαδα</supplied></name></persName></persName>

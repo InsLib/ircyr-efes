@@ -130,12 +130,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                        <lb n="1"/><date><date corresp="https://godot.date/id/eynf7mg68dXkiavvTUXFhk"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="1"/><date><date ref="https://godot.date/id/eynf7mg68dXkiavvTUXFhk"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="90">ϙ</num></date> 
-                    <w>καὶ</w> <date corresp="https://godot.date/id/RvaJu3kZPpNLb9dMCnCgZm"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <w>καὶ</w> <date ref="https://godot.date/id/RvaJu3kZPpNLb9dMCnCgZm"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="91">ϙα</num></date> 
                     <lb n="2"/><date><w lemma="ἐν">ἐν</w> <w>ἱερεῖ</w> <persName type="attested" key="lgpn:V1-64441"><name nymRef="Ἴστρος">Ἴστρω</name></persName></date></date>
-               <date corresp="https://godot.date/id/wD4kLRqFjQqGGTk9NjvkSK"><w lemma="εἰς">ἐς</w> 
+               <date ref="https://godot.date/id/wD4kLRqFjQqGGTk9NjvkSK"><w lemma="εἰς">ἐς</w> 
                     <lb n="3"/> <w>ἱερέα</w> <persName type="attested" key="lgpn:V1-63296"><name nymRef="Ἄσκλαπος">Ἄσκλαπον</name> <w lemma="ὁ">τοὺς</w>
                       <persName type="attested" key="lgpn:V1-63954"><name nymRef="Φιλίσκος">Φι
                     <lb n="4" break="no"/>λίσκου</name></persName></persName></date> <w lemma="ὁ">οἱ</w> <w>συνάρξαν

@@ -115,7 +115,7 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
-                    <lb n="1"/><date corresp="https://godot.date/id/JhByzVUCEkh7UhUPgkgFxi"><persName type="emperor" key="traianus"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar">Caesar</name> <persName type="emperor" key="nerva"><w lemma="diuus">di<unclear>u</unclear><supplied reason="lost">i</supplied></w>
+                    <lb n="1"/><date ref="https://godot.date/id/JhByzVUCEkh7UhUPgkgFxi"><persName type="emperor" key="traianus"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar">Caesar</name> <persName type="emperor" key="nerva"><w lemma="diuus">di<unclear>u</unclear><supplied reason="lost">i</supplied></w>
                     <lb n="2"/><name nymRef="Nerva">Neruae</name></persName> <w lemma="filius"><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <name nymRef="Nerva">Nerua</name> <name nymRef="Traianus">Traia<unclear>n</unclear><supplied reason="lost">us</supplied></name>
                     <lb n="3"/><name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name> <name nymRef="Germanicus">Germanicus</name></persName> <expan><w lemma="pontifex"><abbr>p</abbr><ex>ontifex</ex></w>
                      <w lemma="magnus"><abbr>m</abbr><ex>aximus</ex></w></expan> <expan><w lemma="tribunicius"><abbr>tr</abbr><ex>ibunicia</ex></w>

@@ -123,7 +123,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><date corresp="https://godot.date/id/gFm9x8jsJc7cct6suf7MP7"><w lemma="ἔτος"><expan><abbr>ἔτου</abbr><ex>ς</ex></expan></w>
+                    <lb n="1"/><date ref="https://godot.date/id/gFm9x8jsJc7cct6suf7MP7"><w lemma="ἔτος"><expan><abbr>ἔτου</abbr><ex>ς</ex></expan></w>
                     <persName type="emperor" key="diocletianus"><name nymRef="Διοκλητιανός"><expan><abbr>Διοκλη</abbr><ex>τιανοῦ</ex></expan></name></persName></date> 
                     <w lemma="ἱερεύς">ἱερεὺς</w> <persName type="attested" key="lgpn:V1-64391"><name nymRef="Ἰούλιος">Ἰού<lb n="2" break="no"/>λιος</name></persName> <w>εἰσῆλ<supplied reason="lost">θ</supplied>εν</w> <gap reason="lost" quantity="4" unit="character"/> <orig><unclear>α</unclear>τ</orig>
                     <lb n="3"/><gap reason="lost" quantity="5" unit="character" precision="low"/><orig>νεωηιοφιλ</orig><gap reason="illegible" quantity="1" unit="character"/><gap reason="lost" quantity="4" unit="character"/>

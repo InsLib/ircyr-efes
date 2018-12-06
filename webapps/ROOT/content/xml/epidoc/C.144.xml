@@ -127,18 +127,18 @@
 </div>
 <div type="textpart" subtype="text" n="c"><ab>
     <lb n="1"/><persName type="attested"><name nymRef="Ἁγήσιος">Ἁγήσιος</name> 
- <lb n="2"/><date corresp="https://godot.date/id/puESXHZfTKfs9yv8eWsbnh"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+ <lb n="2"/><date ref="https://godot.date/id/puESXHZfTKfs9yv8eWsbnh"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
     <num value="40">μ</num></date> <persName type="attested"><name nymRef="Βαρκαῖος">Βαρκαίω</name>
  <lb n="3"/> <w>τῶ</w> <persName type="attested"><name nymRef="Δᾶμις">Δάμιος</name></persName></persName></persName>
  <lb n="4"/><orig>αρ<unclear>ιι</unclear></orig><gap quantity="1" unit="character" reason="lost"/> <space extent="unknown" unit="character"/>
- <lb n="5"/><date corresp="https://godot.date/id/4hCyBccSu2RfCkCKUfXJBM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></date>
+ <lb n="5"/><date ref="https://godot.date/id/4hCyBccSu2RfCkCKUfXJBM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></date>
     <space extent="unknown" unit="character"/> 
- <lb n="6"/><date corresp="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-    <num value="5"><unclear>ε</unclear></num></date> <orig>αλκ</orig> <date corresp="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+ <lb n="6"/><date ref="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+    <num value="5"><unclear>ε</unclear></num></date> <orig>αλκ</orig> <date ref="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
     <num value="5">ε</num></date> <persName type="attested"><name nymRef="Λύκος">Λύκος</name> 
         <persName type="attested"><name nymRef="Ἀμμώνιος"><expan><abbr>Ἀμμων</abbr><ex>ί</ex><abbr>ου</abbr></expan></name></persName> </persName>
- <lb n="7"/><date><date corresp="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-    <num value="10">ι</num></date> <date corresp="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+ <lb n="7"/><date><date ref="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+    <num value="10">ι</num></date> <date ref="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
     <num value="55">νε</num></date></date> <persName type="attested"><name nymRef="Νασάμων">Νασάμων</name> <persName type="attested"><name nymRef="Αἰάλαν">Αἰάλα<lb break="no" n="8"/><unclear>ν</unclear>τος</name></persName></persName>
 </ab>
 </div>

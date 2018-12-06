@@ -104,7 +104,7 @@
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
                 
-                <lb n="1"/><persName type="emperor" key="hadrianus"><date corresp="https://godot.date/id/vF5FbhMMGfQ3ZoAQ6xhtZW"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w> <name nymRef="Caesar"><supplied reason="lost">Cae</supplied><unclear>sa</unclear>ri</name> 
+                <lb n="1"/><persName type="emperor" key="hadrianus"><date ref="https://godot.date/id/vF5FbhMMGfQ3ZoAQ6xhtZW"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>eratori</ex></expan></w> <name nymRef="Caesar"><supplied reason="lost">Cae</supplied><unclear>sa</unclear>ri</name> 
                     <g ref="symbols.xml#stop"/> <name nymRef="Hadrianus"><unclear>H</unclear>a<supplied reason="lost">driano</supplied></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/> <w lemma="consul"><supplied reason="lost" cert="low"><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>uli</ex></expan></supplied></w>
                     <w lemma="iterum"><supplied reason="lost">i</supplied>terum</w></date> <space/></persName> <gap reason="lost" extent="unknown" unit="character"/>

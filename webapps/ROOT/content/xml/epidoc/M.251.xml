@@ -114,7 +114,7 @@
              
             <div subtype="face" n="a" type="textpart">
                <ab xml:lang="la">
-                   <lb n="1"/><date corresp="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" key="nero"><name nymRef="Nero" ><supplied reason="lost">Nero</supplied></name> <name nymRef="Claudius"><supplied reason="lost">Claudi</supplied>us</name> <persName type="emperor" key="claudius"><w lemma="diuus">diui</w> 
+                   <lb n="1"/><date ref="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" key="nero"><name nymRef="Nero" ><supplied reason="lost">Nero</supplied></name> <name nymRef="Claudius"><supplied reason="lost">Claudi</supplied>us</name> <persName type="emperor" key="claudius"><w lemma="diuus">diui</w> 
                    <name nymRef="Claudius"><supplied reason="lost">Cla</supplied><lb n="2" break="no"/><supplied reason="lost">udi</supplied></name></persName> 
                    <w><supplied reason="lost"><expan><abbr>f</abbr><ex>ilius</ex></expan></supplied></w>
                    <persName type="emperor" key="germanicus"><name nymRef="Germanicus">Germanici</name> <name nymRef="Caesar">Caes<supplied reason="lost">aris</supplied></name>
@@ -136,7 +136,7 @@
                    <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName></expan> <w lemma="restituo">r<supplied reason="lost">e</supplied>stituit</w>
                </ab>
                <ab xml:lang="grc">
-                   <lb n="9"/><date corresp="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" key="nero"><name nymRef="Νέρων">Νέρων</name> 
+                   <lb n="9"/><date ref="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" key="nero"><name nymRef="Νέρων">Νέρων</name> 
                    <name nymRef="Κλαύδιος">Κλαύδιος</name> <persName type="emperor" key="claudius"><w>θεοῦ</w><lb n="10"/>
                       <name nymRef="Κλαύδιος">Κλαυδίου</name></persName>
                    <w>υἱὸς</w> <persName type="emperor" key="germanicus"><name nymRef="Γερμανικός">Γερ<supplied reason="lost">μ</supplied>α<supplied reason="lost">νι</supplied><lb n="11" break="no"/>κοῦ</name>

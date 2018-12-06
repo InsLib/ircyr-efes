@@ -259,7 +259,7 @@
                   <w lemma="tumultus">tumul<supplied reason="lost">tu</supplied></w> <placeName type="ethnic"><w lemma="Iudaicus"><supplied reason="lost">Iudaic</supplied>o</w></placeName>
                     <w lemma="diruo">dirutum</w> <supplied reason="lost"><w>et</w> <w lemma="exura">exustum</w></supplied> 
                   <supplied reason="lost" cert="low"><w lemma="restituo">restitui</w> <w lemma="iubeo">iussit</w></supplied> <space unit="character" quantity="2"/>
-                    <lb n="3"/><date corresp="https://godot.date/id/brMvyJMDyC7jXdSGMSbXQS"><persName type="emperor" key="hadrianus"><w><supplied reason="lost">Αὐτοκράτωρ</supplied></w> 
+                    <lb n="3"/><date ref="https://godot.date/id/brMvyJMDyC7jXdSGMSbXQS"><persName type="emperor" key="hadrianus"><w><supplied reason="lost">Αὐτοκράτωρ</supplied></w> 
                   <name nymRef="Καῖσαρ">Καῖσαρ</name> 
                   <w>θ<supplied reason="lost">εοῦ</supplied></w> 
                     <persName type="emperor" key="traianus"><supplied reason="lost"><name nymRef="Τραιανός">Τραιανοῦ</name></supplied></persName> 

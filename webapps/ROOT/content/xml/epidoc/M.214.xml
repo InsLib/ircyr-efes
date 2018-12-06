@@ -112,7 +112,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><date corresp="https://godot.date/id/aCGQjDGmjssQVJU3SXA3mi"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><date ref="https://godot.date/id/aCGQjDGmjssQVJU3SXA3mi"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="23">κγ</num></date>
                 </ab>
 </div>

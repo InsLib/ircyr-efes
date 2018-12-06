@@ -137,7 +137,7 @@
                         <name nymRef="Ὀδυσσσεύς">Ὀδυϲ<supplied reason="lost">ϲ</supplied>εὺϲ</name></persName> 
                         <w><expan><abbr>ἥκ</abbr><ex cert="low">ω</ex></expan></w>
                         <lb n="3"/> <w>ϲτρατιώτηϲ</w>
-                        <lb n="4"/><gap reason="lost" quantity="6" unit="character"/> <space quantity="1" unit="character"/> <date corresp="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
+                        <lb n="4"/><gap reason="lost" quantity="6" unit="character"/> <space quantity="1" unit="character"/> <date ref="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
                         <num value="13">γι</num></date> 
                     </ab>
             </div>
@@ -157,7 +157,7 @@
             <div subtype="section" n="f" type="textpart">
                <ab>
                   <lb n="1"/><persName type="attested"><name nymRef="Ἀριπαχθίς"><unclear>Ἀρ</unclear>ιπαχ<unclear>θ</unclear><supplied reason="lost" cert="low">ίς</supplied></name></persName>
-                        <date corresp="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἔτους</ex></expan></w>
+                        <date ref="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἔτους</ex></expan></w>
                   <num value="13"><unclear>ιγ</unclear><certainty locus="value" match="../@value" cert="low"/></num></date> 
                        </ab>
                     </div>
@@ -170,7 +170,7 @@
             </div>
             <div subtype="section" n="h" type="textpart">
                        <ab>
-                        <lb n="1"/><date corresp="https://godot.date/id/UGsKBAis8vjkqQEseo4oyG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <lb n="1"/><date ref="https://godot.date/id/UGsKBAis8vjkqQEseo4oyG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <gap reason="lost" quantity="1" unit="character"/></date> <persName type="attested"><name nymRef="Δέγμος">Δέγμος</name></persName>
                           <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>

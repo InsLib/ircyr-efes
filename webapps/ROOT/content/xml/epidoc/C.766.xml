@@ -114,7 +114,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><date corresp="https://godot.date/id/8qVqBngbCK9Th8gzmYm7XN"><supplied reason="lost"><persName type="emperor" key="augustus"><w lemma="αὐτοκράτωρ">Αὐτοκράτορα</w> <name nymRef="Καῖσαρ">Καίσαρα</name></persName></supplied> <w>θεῶ</w>
+                    <lb n="1"/><date ref="https://godot.date/id/8qVqBngbCK9Th8gzmYm7XN"><supplied reason="lost"><persName type="emperor" key="augustus"><w lemma="αὐτοκράτωρ">Αὐτοκράτορα</w> <name nymRef="Καῖσαρ">Καίσαρα</name></persName></supplied> <w>θεῶ</w>
                     <w lemma="υἱός">υἱὸν</w> <supplied reason="lost"><w lemma="σεβαστός">Σεβαστὸν</w> <w lemma="ἀρχιερεύς">ἀρχιερέα</w></supplied>
                     <lb n="2"/><supplied reason="lost"><w lemma="μέγας">μέγιστον</w> <w>δαμαρχικᾶς</w></supplied> 
                     <w lemma="ἐξουσία">ἐξουσίας</w> <supplied reason="lost"><w lemma="ὁ">τὸ</w></supplied> <gap reason="lost" quantity="14" unit="character" precision="low"/> 

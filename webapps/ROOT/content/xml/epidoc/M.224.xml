@@ -125,7 +125,7 @@
             <div type="edition" xml:space="preserve">
         	<div type="textpart" xml:lang="la">
                <ab>
-                    <lb n="1"/><persName type="emperor" key="traianus"><date corresp="https://godot.date/id/JhByzVUCEkh7UhUPgkgFxi"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar">Caesar</name> <persName type="emperor" key="nerva"><w lemma="diuus">diui</w>
+                    <lb n="1"/><persName type="emperor" key="traianus"><date ref="https://godot.date/id/JhByzVUCEkh7UhUPgkgFxi"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar">Caesar</name> <persName type="emperor" key="nerva"><w lemma="diuus">diui</w>
                     <lb n="2"/><name nymRef="Nerva">Nervae</name></persName> <w lemma="filius"><expan><abbr>f</abbr><ex>ilius</ex></expan></w>, <name nymRef="Nerva">Nerva</name>
                     <name nymRef="Traianus">Traia
                     <lb n="3" break="no"/>nus</name> <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name> <name nymRef="Germanicus">Germanicus</name>,  <expan><w lemma="pontifex"><abbr>p</abbr><ex>ontifex</ex></w> <w lemma="magnus"><abbr>m</abbr><ex>aximus</ex></w></expan>,

@@ -131,7 +131,7 @@
              
             <div subtype="face" n="a" xml:lang="la" type="textpart">
                <ab xml:lang="la">
-                    <lb n="1"/><date corresp="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" key="nero"><name nymRef="Nero"><supplied reason="lost">Nero</supplied></name>
+                    <lb n="1"/><date ref="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" key="nero"><name nymRef="Nero"><supplied reason="lost">Nero</supplied></name>
                         <name nymRef="Claudius">Claudius</name> <persName type="emperor" key="claudius"><w lemma="diuus">diui</w>
                     <lb n="2"/><name nymRef="Claudius"><supplied reason="lost">Clau</supplied>di</name></persName>
                         <w><expan><abbr>f</abbr><ex>ilius</ex></expan></w>
@@ -172,7 +172,7 @@
             </div>
             <div subtype="face" n="b" xml:lang="grc" type="textpart"><!-- check markup -->
                <ab> 
-                        <lb n="14"/><date corresp="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" prev="#pers1"><persName type="emperor" prev="#pers4"><name nymRef="Σεβαστός"><supplied reason="lost">Σεβαστ</supplied><unclear>οῦ</unclear></name></persName>
+                        <lb n="14"/><date ref="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" prev="#pers1"><persName type="emperor" prev="#pers4"><name nymRef="Σεβαστός"><supplied reason="lost">Σεβαστ</supplied><unclear>οῦ</unclear></name></persName>
                         <space quantity="3" unit="character"><certainty match=".." locus="name" cert="low" assertedValue="gap"/></space>
                         <lb n="15"/> <w><supplied reason="lost">κα</supplied><unclear>ὶ</unclear></w>
                         <persName type="emperor" key="augustus"><w>θεοῦ</w> <name nymRef="Σεβαστός">Σε 

@@ -124,7 +124,7 @@
 <ab>
                     
    <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-   <lb n="1"/><date corresp="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" key="nero"><w><supplied reason="lost">καὶ</supplied></w> <persName type="emperor" key="augustus"><w>θεοῦ</w>
+   <lb n="1"/><date ref="https://godot.date/id/d7uUJksMH3VT3aS4khkLzL"><persName type="emperor" key="nero"><w><supplied reason="lost">καὶ</supplied></w> <persName type="emperor" key="augustus"><w>θεοῦ</w>
                     <name nymRef="Σεβαστός">Σεβα<supplied reason="lost">στ</supplied><lb n="2" break="no"/><supplied reason="lost">οῦ</supplied></name></persName>
                     <w>ἔκγονος</w> <name nymRef="Καῖσαρ"><supplied reason="lost">Κ</supplied><lb n="3" break="no"/><supplied reason="lost">αῖ</supplied>σαρ</name>
                     <name nymRef="Σεβαστός">Σεβαστ<supplied reason="lost">ὸς</supplied></name>

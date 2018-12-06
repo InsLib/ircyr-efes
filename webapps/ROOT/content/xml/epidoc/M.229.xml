@@ -126,7 +126,7 @@
          <div type="edition" xml:space="preserve">
             <div subtype="face" n="a" type="textpart" xml:lang="la">
                <ab>
-                    <lb n="1"/><date corresp="https://godot.date/id/eNEx3CGAZpHkvKSFydWCjE"><persName type="emperor" key="vespasianus"><w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar">Caisar</name> <name nymRef="Vespasianus">Vespa<lb n="2" break="no"/>sianus</name> <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName>
+                    <lb n="1"/><date ref="https://godot.date/id/eNEx3CGAZpHkvKSFydWCjE"><persName type="emperor" key="vespasianus"><w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar">Caisar</name> <name nymRef="Vespasianus">Vespa<lb n="2" break="no"/>sianus</name> <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName>
                     <expan><w><abbr>pont</abbr><ex>ifex</ex></w> 
                     <lb n="3"/> <w><abbr>max</abbr><ex>imus</ex></w></expan>
                     <expan><w><abbr>trib</abbr><ex>unicia</ex></w> <w><abbr>pot</abbr><ex>estate</ex></w></expan> 

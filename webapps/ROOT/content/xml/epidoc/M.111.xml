@@ -114,7 +114,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-               <lb n="1"/><date corresp="https://godot.date/id/DtPstRBZ678cUvBBJYC4QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+               <lb n="1"/><date ref="https://godot.date/id/DtPstRBZ678cUvBBJYC4QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                <num value="11">ια</num>
                <rs type="month" key="Μεχίρ"><w>Μεχ<unclear>ε</unclear><supplied reason="lost">ὶρ</supplied></w></rs>
                <gap reason="lost" quantity="1" unit="character" precision="low"/></date>

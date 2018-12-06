@@ -124,10 +124,10 @@
              
             <div n="i" type="textpart">
                <ab>
-                        <lb n="1"/><date corresp="ttps://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="1"/><date ref="ttps://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                   <num value="13">ιγ</num></date> <persName type="attested" key="lgpn:V1-63463"><name nymRef="Δᾶμις">Δάμιος</name> <w>τῶ</w>
                      <persName type="attested" key="lgpn:V1-64835"><name nymRef="Λύγδαμις">Λυγδάμιος</name></persName></persName> 
-                        <lb n="2"/><date corresp="ttps://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="2"/><date ref="ttps://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                   <num value="13">ιγ</num></date> <persName type="attested" key="lgpn:V1-65928"><name nymRef="Φίλιππος">Φιλίππω</name> <w>τῶ</w>
                      <persName type="attested" key="lgpn:V1-65927"><name nymRef="Φίλιππος">Φιλίππω</name></persName></persName>    
                </ab>

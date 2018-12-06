@@ -138,12 +138,12 @@
                     <lb n="4"/><persName type="attested"><name nymRef="Μητρόδωρος"><supplied reason="lost">Μητ</supplied><unclear>ρ</unclear>όδωρος</name> <persName type="attested"><name nymRef="Μητρόδωρος"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Μητροδώρου</ex></expan></name> 
                    <w><unclear>τ</unclear>ο<supplied reason="lost">ῦ</supplied></w>
                         <lb n="5"/> <persName type="attested"><name nymRef="Μητρόδωρος"><unclear>Μ</unclear>ητροδώρου</name></persName></persName></persName> <g ref="symbols.xml#leaf"/> <space quantity="1" unit="character"/> 
-                    <lb n="6"/><date corresp="https://godot.date/id/4sNx6NGMmB8AqACAD6vczZ"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
+                    <lb n="6"/><date ref="https://godot.date/id/4sNx6NGMmB8AqACAD6vczZ"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
                     <num value="98"><unclear>ϙ</unclear>η</num></date> <persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> 
                     <name nymRef="Κλαύδιος">Κλαύδιος</name> <name nymRef="Ἄρχιππος">Ἀρχίππο<supplied reason="lost">υ</supplied></name>
                     <lb n="7"/> <space quantity="1" unit="character"/>  <w lemma="υἱός">υἱός</w> <g ref="symbols.xml#leaf"/> <name nymRef="Ἄρχιππος">Ἄρχιππος</name> <g ref="symbols.xml#leaf"/></persName>
                     <space quantity="1" unit="character"/> 
-                    <lb n="8"/><date corresp="https://godot.date/id/uMKPsJkzTL2QChHpjKiyFe"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied>
+                    <lb n="8"/><date ref="https://godot.date/id/uMKPsJkzTL2QChHpjKiyFe"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied>
                     <num value="99">ϙθ</num></date> <persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> 
                     <name nymRef="Ἀντώνιος">Ἀντώνιος</name> <name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>άρκου</ex></expan></name> 
                     <persName type="attested"><name nymRef="Ἀντώνιος">Ἀντωνίου</name>

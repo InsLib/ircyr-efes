@@ -126,7 +126,7 @@
          <div type="edition" xml:space="preserve">
             <div subtype="face" n="a" xml:lang="la" type="textpart">
                <ab>
-                    <lb n="1"/><date corresp="https://godot.date/id/eNEx3CGAZpHkvKSFydWCjE"><persName type="emperor" key="vespasianus"><w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> 
+                    <lb n="1"/><date ref="https://godot.date/id/eNEx3CGAZpHkvKSFydWCjE"><persName type="emperor" key="vespasianus"><w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> 
                     <name nymRef="Caesar">Caisar</name> <name nymRef="Vespasianus">Vesp<supplied reason="lost">a</supplied><lb n="2" break="no"/>sianus</name> <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName>
                   <expan>  <w><abbr>pont</abbr><ex>ifex</ex></w> <w><abbr>max</abbr><ex>imus</ex></w></expan>
                     <lb n="3"/><expan><w><abbr><unclear>t</unclear>rib</abbr><ex>unicia</ex></w>
@@ -141,7 +141,7 @@
                     <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName></expan> <w lemma="restituo">restituit</w>
                </ab>
                <ab xml:lang="grc">
-                    <lb n="7"/><date corresp="https://godot.date/id/Wme2XWVw4BpfV3VsNVPbVV"><persName type="emperor" key="vespasianus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name> 
+                    <lb n="7"/><date ref="https://godot.date/id/Wme2XWVw4BpfV3VsNVPbVV"><persName type="emperor" key="vespasianus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name> 
                     <lb n="8"/><name nymRef="Οὐεσπασιανός">Οὐεσπασιανὸς</name></persName> <w>ἀρχιε<lb n="9" break="no"/>ρεὺς</w> <w>μέγιστος</w> <w>δημαρ<lb n="10" break="no"/>χικῆς</w> <w>ἐξουσίας</w> <num value="5">ε</num></date> <space quantity="1" unit="character"/> 
                     <lb n="11"/> <space quantity="3" unit="character"/>
                </ab>
@@ -149,7 +149,7 @@
             <div subtype="face" n="b" type="textpart" xml:lang="grc">
                <ab>
                         <lb n="1"/> <space quantity="3" unit="character"/>
-                        <date corresp="https://godot.date/id/Wme2XWVw4BpfV3VsNVPbVV"><w>αὐ<unclear>τ</unclear><supplied reason="lost">οκράτω</supplied><lb n="2" break="no"/><unclear>ρ</unclear></w> <num value="10"><unclear>ι</unclear></num></date> <w> πατ<unclear>ὴ</unclear><supplied reason="lost">ρ</supplied></w> <w><supplied reason="lost">πα</supplied><lb n="3" break="no"/> <space quantity="1" unit="character"/> τρίδος</w> <w><supplied reason="lost">ὕπα</supplied><lb n="4" break="no"/>τος</w> <supplied reason="lost"><num value="5">ε</num> 
+                        <date ref="https://godot.date/id/Wme2XWVw4BpfV3VsNVPbVV"><w>αὐ<unclear>τ</unclear><supplied reason="lost">οκράτω</supplied><lb n="2" break="no"/><unclear>ρ</unclear></w> <num value="10"><unclear>ι</unclear></num></date> <w> πατ<unclear>ὴ</unclear><supplied reason="lost">ρ</supplied></w> <w><supplied reason="lost">πα</supplied><lb n="3" break="no"/> <space quantity="1" unit="character"/> τρίδος</w> <w><supplied reason="lost">ὕπα</supplied><lb n="4" break="no"/>τος</w> <supplied reason="lost"><num value="5">ε</num> 
                                     <space quantity="1" unit="character"/></supplied>.
                         <lb n="5"/> <space quantity="3" unit="character"/>
             </ab>

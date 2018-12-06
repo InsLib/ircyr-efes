@@ -147,7 +147,7 @@
                         <orig><unclear>ιι</unclear>ζ</orig><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div n="b" type="textpart"><ab>
-                        <lb n="1"/><date corresp="https://godot.date/id/PT2a48jirmisCcxHkqbKc9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10"><unclear>ι</unclear></num></date> 
+                        <lb n="1"/><date ref="https://godot.date/id/PT2a48jirmisCcxHkqbKc9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10"><unclear>ι</unclear></num></date> 
                        <persName type="attested" key="lgpn:V1-62132"><name nymRef="Σωσίβιος">Σωσίβιος</name> </persName>
                         <lb n="2"/><persName type="attested" key="lgpn:V1-62040"><name nymRef="Ἀρίστων">Ἀρίστων</name> <persName type="attested"><name nymRef="Ἱππα-"><seg part="I">Ἱππα</seg></name></persName></persName> 
                         <lb n="3"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 

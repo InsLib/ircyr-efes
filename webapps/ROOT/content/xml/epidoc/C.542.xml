@@ -119,7 +119,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div subtype="fragment" n="i" type="textpart">
                   <ab>
-                    <lb n="1"/><date corresp="https://godot.date/id/2Vc2nqhe4MTPTndN7SwSWd"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><date ref="https://godot.date/id/2Vc2nqhe4MTPTndN7SwSWd"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                      <num value="35">λε</num></date>
                   </ab>
                </div>
