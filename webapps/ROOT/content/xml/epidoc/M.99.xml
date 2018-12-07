@@ -103,11 +103,11 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
              
-            <ab><lb n="1"/><w lemma="ἔτος"><supplied reason="lost"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></supplied></w>
+            <ab><lb n="1"/><date ref="https://godot.date/id/EeGM85bHwxkrJRe5wD7ZU2"><w lemma="ἔτος"><supplied reason="lost"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></supplied></w>
                <num value="9"><unclear>θ</unclear></num> <rs type="month"><w>Μ<unclear>ε</unclear>ϲορὴ</w></rs> 
-               <num atLeast="20">κ<gap reason="lost" quantity="1" unit="character"/></num>
-               <gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name nymRef="Καίσιος">Καίʹι<lb n="2" break="no"/>ος</name> <name nymRef="Λογγῖνος">Λονγεῖνοϲ</name></persName>
-               <w>ἐτ</w><lb n="3"/> <w>ελεύτα</w> <date type="life-span" dur="P32Y"><w lemma="ἔτος">ἐτῶν</w> <num value="32">λβ</num> </date>
+               <num atLeast="20">κ<gap reason="lost" quantity="1" unit="character"/></num></date>
+               <gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name nymRef="Καίσιος">Καίϲι<lb n="2" break="no"/>ος</name> <name nymRef="Λογγῖνος">Λονγεῖνοϲ</name></persName>
+               <w>ἐτ<lb n="3" break="no"/>ελεύτα</w> <date type="life-span" dur="P32Y"><w lemma="ἔτος">ἐτῶν</w> <num value="32">λβ</num> </date>
             </ab>
          </div>
          
@@ -118,7 +118,7 @@
          
          <div type="commentary">
             <head>Commentary</head>
-            <p>line 1, Probably year 9 (cf. 1971.4), Mesore 20.</p>
+            <p>line 1, Probably year 9 (cf. <ref type="inscription" n="G05300">M.100</ref>), Mesore 20.</p>
             <p>l.3, Aged 32.</p>
          </div>
          
