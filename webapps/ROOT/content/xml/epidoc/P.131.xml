@@ -120,28 +120,29 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="18">ι<unclear>η</unclear></num>
+                    <lb n="1"/><date ref="https://godot.date/id/Z45LFLgkUbiYUojqCXY7iM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="18">ι<unclear>η</unclear></num></date>
                     <persName type="attested"><name nymRef="Ἀφηδο-"><seg part="I"><unclear>Ἀ</unclear>φ<unclear>ηδο</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">τος</seg></name></persName> <space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="2"><unclear>β</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">τος</seg></name></persName> <space quantity="1" unit="character"/> <date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="2"><unclear>β</unclear></num></date> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/> <space quantity="1" unit="character"/> 
-                    <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="2">β</num> <space quantity="1" unit="character"/>
+                    <date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="2">β</num></date> <space quantity="1" unit="character"/>
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="4"/><persName type="attested"><name nymRef="Βιε-">Βιε<gap reason="lost" quantity="3" unit="character"/><unclear>αρ</unclear>ιος</name></persName> 
                     <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="5"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
-                    <num value="16">ιϛ</num> <orig><unclear>ηιπαρεη</unclear></orig><gap reason="lost" quantity="1" unit="character"/><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr> 
+                    <lb n="5"/><date ref="https://godot.date/id/GHqVRtaH7Auya5BngnQGVM"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
+                    <num value="16">ιϛ</num></date> <orig><unclear>ηιπαρεη</unclear></orig><gap reason="lost" quantity="1" unit="character"/><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr> 
                     <persName type="attested"><name nymRef="Ἀπολλωνίδης"><supplied reason="lost">Ἀπο</supplied>λλω<unclear>ν</unclear><supplied reason="lost">ί</supplied> <space quantity="3" unit="character"/>δης</name></persName>
                 </ab>
 </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 18, Aphedotos [ . . . -]tos </p>
-            <p>Year 2 [ . . . ]</p>
-            <p>Year 2 [ . . . ]Bi[ . . ]arios </p>
-            <p>Year 16 [ . . .  Apo]llonides</p></div>
+         <div type="translation" xml:space="preserve"><head>Translations</head>
+            <div type="translation" source="#edd" xml:lang="en">
+               <p><date ref="https://godot.date/id/Z45LFLgkUbiYUojqCXY7iM">Year 18</date>, Aphedotos [ . . . -]tos </p>
+            <p><date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb">Year 2</date> [ . . . ]</p>
+            <p><date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb">Year 2</date> [ . . . ]Bi[ . . ]arios </p>
+            <p><date ref="https://godot.date/id/GHqVRtaH7Auya5BngnQGVM">[Year] 16</date> [ . . .  Apo]llonides</p></div></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>l. 1, year 18; line  2/3, year 2; line  5, year 16.</p>

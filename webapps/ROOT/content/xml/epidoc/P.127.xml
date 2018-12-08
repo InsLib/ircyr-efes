@@ -118,8 +118,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="2">β</num> <persName type="attested"><name nymRef="Παραιβάτας">Παραι<lb n="2" break="no"/>βάτας</name></persName> <w><expan><abbr><expan cert="low"><abbr><g ref="symbols.xml#monogram"/></abbr><ex>σύ</ex><supplied reason="lost"><ex>γκ</ex></supplied></expan></abbr><supplied reason="lost"><ex>οιτος</ex></supplied></expan></w> 
+                    <lb n="1"/><date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="2">β</num></date> <persName type="attested"><name nymRef="Παραιβάτας">Παραι<lb n="2" break="no"/>βάτας</name></persName> <w><expan><abbr><expan cert="low"><abbr><g ref="symbols.xml#monogram"/></abbr><ex>σύ</ex><supplied reason="lost"><ex>γκ</ex></supplied></expan></abbr><supplied reason="lost"><ex>οιτος</ex></supplied></expan></w> 
                     <lb n="3"/><persName type="attested"><name nymRef="Ἀνδρόνικος"><unclear>Ἀ</unclear>ν<unclear>δ</unclear>ρονείκ<lb n="4" break="no"/><unclear>ου</unclear></name></persName>
                 </ab>
 </div>
