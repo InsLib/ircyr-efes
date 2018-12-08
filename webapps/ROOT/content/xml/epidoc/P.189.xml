@@ -115,16 +115,19 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><head xml:lang="en">Text</head>
             <div subtype="part" n="i" type="textpart"><ab>
-            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15">ιε</num> <persName type="attested" key="lgpn:V1-61442"><name nymRef="Λύκος">Λύκος</name> <persName type="attested" key="lgpn:V1-61508"><name nymRef="Νικασίων">Νικασίωνος</name></persName></persName>
+            <lb n="1"/><date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15">ιε</num></date> <persName type="attested" key="lgpn:V1-61442"><name nymRef="Λύκος">Λύκος</name> <persName type="attested" key="lgpn:V1-61508"><name nymRef="Νικασίων">Νικασίωνος</name></persName></persName>
          </ab></div>
             <div subtype="part" n="ii" type="textpart"><ab>
-            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="18">ιη</num> <persName type="attested" key="lgpn:V1-61253"><name nymRef="Ἔρως">Ἔρως</name> <persName type="attested" key="lgpn:V1-61252"><name nymRef="Ἔρως">Ἔρωτος</name></persName></persName>
+            <lb n="1"/><date ref="https://godot.date/id/Z45LFLgkUbiYUojqCXY7iM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="18">ιη</num></date> <persName type="attested" key="lgpn:V1-61253"><name nymRef="Ἔρως">Ἔρως</name> <persName type="attested" key="lgpn:V1-61252"><name nymRef="Ἔρως">Ἔρωτος</name></persName></persName>
          </ab></div>
             <div subtype="part" n="iii" type="textpart"><ab>
                <lb n="1"/><persName type="attested"><name nymRef="Ὑπ-"><seg part="I">Ὑ<unclear>π</unclear></seg><gap reason="lost" extent="unknown" unit="character"/></name></persName></ab>
 </div>
 </div>
-         <div type="translation" xml:space="preserve"><head>Translation</head><p>i. Year 15</p><p>ii. Year 18.</p></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p><note>i</note> <date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL">Year 15</date>. Lykos <supplied reason="subaudible">son</supplied> of Nikasion</p>
+           <p><note>i</note> <date ref="https://godot.date/id/Z45LFLgkUbiYUojqCXY7iM">Year 18</date>. Eros <supplied reason="subaudible">son</supplied> of Eros</p>
+         <p><note>iii</note> Not translatable</p></div>
          
          <div type="commentary">
             <head>Commentary</head>

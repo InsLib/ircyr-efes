@@ -122,7 +122,7 @@
             <div subtype="section" n="iii" type="textpart"><ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="lgpn:V1-61176"><name nymRef="Βουτις"><supplied reason="lost">Β</supplied>ούτιος</name></persName></ab></div>
             <div subtype="section" n="iv" type="textpart"><ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10">ι</num> <persName type="attested"><name nymRef="Γαρι-"><seg part="I"><unclear>Γαρι</unclear></seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                    <lb n="1"/><date ref="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10">ι</num></date> <persName type="attested"><name nymRef="Γαρι-"><seg part="I"><unclear>Γαρι</unclear></seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
                     <lb n="2"/> <orig>ταισα</orig> <persName type="attested"><name nymRef="Πόπλιος" cert="low"><expan><abbr>Π</abbr><ex>όπλιος</ex></expan></name></persName> <gap reason="lost" quantity="1" unit="character"/><orig>ε</orig><gap reason="lost" extent="unknown" unit="character"/></ab>
 </div>
 </div>
@@ -137,14 +137,14 @@
             </listApp>
          </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head><p>...  </p></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p><note>i</note> ?of Pollio</p>
+         <p><note>ii</note> Tiberios Klaudios [?Am]monios</p>
+         <p><note>iii</note> . . . of B]outis</p>
+         <p><note>iv</note> <date ref="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB">Year 10</date>. Gari[ . . . P(oplios) [. . .</p></div>
+         
          <div type="commentary">
             <head>Commentary</head>
-            <p>iv. line  1, Year 10.</p>
-            <p>iv. line  2, in view of the superscript bar, perhaps <foreign xml:lang="grc">
-                  <expan><abbr>Π</abbr><ex>όπλιος</ex>
-                  </expan>
-               </foreign>.</p>
          </div>
          
       </body>

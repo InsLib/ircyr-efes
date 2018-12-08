@@ -105,9 +105,7 @@
          <change when="2009-03-30" who="VA">turned to XML and tidied</change>
          <change when="2009-02-24" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="Photos_0133" decls="#photograph"><desc>Face (1956, The Oriental institute - Chicago 48018)</desc></graphic><!-- 
-                    --><!--
-               --></facsimile>
+   </teiHeader><facsimile><graphic url="Photos_0133" decls="#photograph"><desc>Face (1956, The Oriental institute - Chicago 48018)</desc></graphic></facsimile>
    <text>
       <body>
          <div type="bibliography">
@@ -120,8 +118,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="12">ιβ</num> <rs type="month" key="Τυβί"><w>Τ<supplied reason="lost">υβὶ</supplied></w></rs><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><date ref="https://godot.date/id/mkZkP8VbKXrh4yQLftRScK"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="12">ιβ</num></date> <rs type="month" key="Τυβί"><w>Τ<supplied reason="lost">υβὶ</supplied></w></rs><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/> <space quantity="3" unit="character"/> 
                     <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name>
                     <name nymRef="Στ-"><seg part="I">Σ<unclear>τ</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
@@ -137,7 +135,7 @@
             </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 12, Tybi ?, Loukios St…</p></div>
+            <p><date ref="https://godot.date/id/mkZkP8VbKXrh4yQLftRScK">Year 12, Tybi ?</date>, Loukios St-</p></div>
          
          <div type="commentary">
             <head>Commentary</head>

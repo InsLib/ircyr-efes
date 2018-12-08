@@ -112,9 +112,10 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><head xml:lang="en">Text
-                       </head><ab><lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="5">ε</num> <gap reason="lost" extent="unknown" unit="character"/></ab>
+                       </head><ab><lb n="1"/><date ref="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="5">ε</num></date> <gap reason="lost" extent="unknown" unit="character"/></ab>
 </div>
-         <div type="translation" xml:space="preserve"><head>Translation</head><p>Year 5.</p></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p><date ref="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW">Year 5</date> [ . . .</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p/>

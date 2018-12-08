@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><rs type="textType">Name</rs></title>
+            <title><rs type="textType">Name</rs> and <rs type="textType">date</rs></title>
             <editor>Joyce M. Reynolds</editor>
          </titleStmt>
          <publicationStmt>
@@ -31,7 +31,7 @@
                   <objectDesc>
                      <supportDesc>
                         <support>
-                           <p><objectType>Column</objectType> drum.</p>
+                           <p>Part of a <objectType>column</objectType> drum.</p>
                         </support>
                      </supportDesc>
                      <layoutDesc>
@@ -39,7 +39,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>No description</handNote>
+                     <handNote>Clear firm lettering; horizontal lines above numeral and abbreviation. No measurements</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -104,9 +104,7 @@
          <change when="2009-05-14" who="Pietro">turned to XML and tidied</change>
          <change when="2009-02-24" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_371" decls="#photograph"><desc>Face</desc></graphic><!--Dept. Tolmeita R.10, F.10.--><!--
-                    --><!--
-                --></facsimile>
+   </teiHeader><facsimile><graphic url="JMR_371" decls="#photograph"><desc>Face</desc></graphic><!--Dept. Tolmeita R.10, F.10.--></facsimile>
    <text>
       <body>
          <div type="bibliography">
@@ -116,17 +114,17 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>  <num value="5">ε</num> <persName type="attested"><name nymRef="Κλαύδιος"><expan><abbr>Κλ</abbr><ex>αύδιος</ex></expan></name>
+                    <lb n="1"/><date ref="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>  <num value="5">ε</num></date> <persName type="attested"><name nymRef="Κλαύδιος"><expan><abbr>Κλ</abbr><ex>αύδιος</ex></expan></name>
                     <name nymRef="Ἀρίστιππος">Ἀρίσ
                     <lb n="2" break="no"/>τιππος</name></persName>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 5. Claudius Aristippos</p></div>
+            <p><date ref="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW">Year 5</date>. Claudius Aristippos</p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p> The absence of praenomen and abbreviation of nomen suggest a second century date.</p>
+            <p>This might be the record of a donor, or of an office-holder. The absence of praenomen and abbreviation of the nomen suggest a second century date.</p>
          </div>
          
       </body>

@@ -126,24 +126,24 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                    
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> <persName type="attested"><name nymRef="Ὦλος">Ὦλος</name> <name nymRef="Πούφιος">Πού<lb n="2" break="no"/>φιος</name> 
+                    <lb n="1"/><date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num></date> <persName type="attested"><name nymRef="Ὦλος">Ὦλοϲ</name> <name nymRef="Πούφιος">Πού<lb n="2" break="no"/>φιοϲ</name> 
                     <name nymRef="Αὔδαξ">Αὔδαξ</name></persName> <space quantity="2" unit="character"/>
-                    <lb n="3"/> <space quantity="2" unit="character"/> <w>φίλος</w> <space quantity="3" unit="character"/>
-                    <lb n="4"/><persName type="attested"><name nymRef="Εὐδαίμων">Εὐδαί<unclear>μον</unclear><supplied reason="lost">ος</supplied></name></persName>
-                    <lb n="5"/><persName type="attested"><name nymRef="Θεοφείδης">Θεοφείδους</name></persName>
+                    <lb n="3"/> <space quantity="2" unit="character"/> <w>φίλοϲ</w> <space quantity="3" unit="character"/>
+                    <lb n="4"/><persName type="attested"><name nymRef="Εὐδαίμων">Εὐδαί<unclear>μον</unclear><supplied reason="lost">οϲ</supplied></name></persName>
+                    <lb n="5"/><persName type="attested"><name nymRef="Θεοφείδης">Θεοφείδουϲ</name></persName>
                        <lb n="6"/><persName type="attested"><name nymRef="Μᾶρκος">Μάρκου</name></persName> 
-                    <persName type="attested"><name nymRef="Σόλων">Σόλω<lb n="7" break="no"/>νος</name></persName> 
+                    <persName type="attested"><name nymRef="Σόλων">Ϲόλω<lb n="7" break="no"/>νοϲ</name></persName> 
                     <persName type="attested"><name nymRef="Νικαγόρας">Νικαγόρα</name></persName> 
                     <lb n="8"/><persName type="attested"><name nymRef="Ἀρίμμας">Ἀρίμμα</name></persName> 
-                    <persName type="attested"><name nymRef="Φῆλιξ">Φήλι<lb n="9" break="no"/>κος</name></persName> 
-                    <w>νικήσας</w>
+                    <persName type="attested"><name nymRef="Φῆλιξ">Φήλι<lb n="9" break="no"/>κοϲ</name></persName> 
+                    <w>νικήϲας</w>
                        <lb n="10"/> <w>ἐνκώμιον</w> <num value="2">β</num> <space quantity="2" unit="character"/>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 2. Aulus Pupius Audax, friend of Eudaimon, Theupheides, Marcus, Solon, Nikagoras, 
-            Arimmas, Felix, having won the second <supplied reason="explanation">competition in</supplied> public eulogy</p><p/></div>
+            <p><date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb">Year 2</date>. Aulus Pupius Audax, friend of Eudaimon, Theupheides, Marcus, Solon, Nikagoras, 
+            Arimma <supplied reason="subaudible">and</supplied> Felix, having won the second <supplied reason="explanation">competition in</supplied> public eulogy</p><p/></div>
          <div type="commentary">
             <head>Commentary</head>
                     <p>l.4 - Each of the 7 names in the genitive case must be a personal name and the whole group numbered 8 persons.<!-- for ephebic groupings see 70 xref-->.</p>
