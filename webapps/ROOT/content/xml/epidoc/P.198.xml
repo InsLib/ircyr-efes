@@ -123,7 +123,7 @@
             </div>
             <div subtype="part" n="ii" type="textpart">
                <ab>
-                    <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="18">ιη</num></date>
+                    <lb n="1"/><date ref="https://godot.date/id/Z45LFLgkUbiYUojqCXY7iM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="18">ιη</num></date>
                <persName type="attested" key="lgpn:V1-61468"><name nymRef="Μᾶρκος">Μᾶρκο<supplied reason="lost">ς</supplied></name></persName>
                <gap reason="lost" extent="unknown" unit="character"/>
                </ab>
@@ -137,7 +137,8 @@
             </listApp>
          </div>
          <div type="translation" xml:space="preserve">
-            <div type="translation" source="#edd" xml:lang="en"><p>i. Not usefully translatable; ii. Year 18, Marko-</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><note>i</note>. Not usefully translatable</p>
+            <p><note>ii</note>. <date ref="https://godot.date/id/Z45LFLgkUbiYUojqCXY7iM">Year 18</date>. Marko[-</p></div>
          </div>
          
          <div type="commentary">

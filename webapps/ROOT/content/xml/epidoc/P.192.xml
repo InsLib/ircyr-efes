@@ -119,7 +119,7 @@
              
             <div subtype="part" n="i" type="textpart">
                <ab>
-                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15">ιε</num>
+                <lb n="1"/><date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15">ιε</num></date>
                           <gap reason="lost" extent="unknown" unit="character"/>
                        </ab>
                        </div>
@@ -131,7 +131,8 @@
          </div>
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
-            <div type="translation" source="#edd" xml:lang="en"><p>i: Year 15 [ . . . ii: not usefully translatable</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><note>i</note>: <date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL">Year 15</date> [ . . . </p>
+            <p><note>ii</note>: not usefully translatable</p></div>
          </div>
          <div type="commentary">
             <head>Commentary</head>

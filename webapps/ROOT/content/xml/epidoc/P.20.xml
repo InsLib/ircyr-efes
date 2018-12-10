@@ -131,10 +131,7 @@
          <change when="2009-02-24" who="GB">mailmerged: created from template</change>
       </revisionDesc>
    </teiHeader><facsimile><graphic url="P_I_075" decls="#photograph"><desc>View (Joyce Reynolds, Tolmeita I. 75)</desc></graphic><!-- check -->
-      <graphic url="P_I_002" decls="#photograph"><desc>Overview of the South wall.</desc></graphic><!--
-                    --><!--
-                    --><!--
-                --></facsimile>
+      <graphic url="P_I_002" decls="#photograph"><desc>Overview of the South wall.</desc></graphic></facsimile>
    <text>
       <body>
  
@@ -144,17 +141,20 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
-                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                            <num value="4">δ</num> <orig>π<unclear>λ</unclear>η<unclear>ρλ</unclear>ιβευποσυ</orig>
-                        </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
+                            <lb n="1"/><date ref="https://godot.date/id/aFMpYxvXxYJ2jYWrjL2K37"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                            <num value="4">δ</num></date> <orig>π<unclear>λ</unclear>η<unclear>ρλ</unclear>ιβευποσυ</orig>
+                        </ab></div>
+            <div subtype="fragment" n="ii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Ἱππόμαχος">Ἱππόμαχος</name> 
                         <lb n="2"/><persName type="attested"><name nymRef="Τιμαχίδας">Τιμαχίδα</name> </persName>
                         <lb n="3"/><placeName type="ethnic"><w lemma="Ῥόδιος">Ῥόδιος</w></placeName></persName>
-                    </ab></div><div subtype="fragment" n="iii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="8">η</num> <persName type="attested"><name nymRef="Θεοφείδης">Θεοφείδης</name> 
+                    </ab></div>
+            <div subtype="fragment" n="iii" type="textpart"><ab>
+                        <lb n="1"/><date ref="https://godot.date/id/uggB4UR8WuKoFkouddSKob"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="8">η</num></date> <persName type="attested"><name nymRef="Θεοφείδης">Θεοφείδης</name> 
                     <lb n="2"/><persName type="attested"><name nymRef="Χαρίδαμος">Χαριδάμω</name></persName></persName>
-                    </ab></div><div subtype="fragment" n="iv" type="textpart"><ab>
+                    </ab></div>
+            <div subtype="fragment" n="iv" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Ὑπερβάτας"><expan><abbr>Ὑπερβ</abbr><ex cert="low">άτας</ex></expan></name></persName><!-- check -->
                     </ab></div><div subtype="fragment" n="v" type="textpart"><ab>
                         <lb n="1"/> <persName type="attested"><name nymRef="Ἄνδρων">Ἄνδρων</name> <persName type="attested"><name nymRef="Φιλοκλῆς">Φι<lb n="2" break="no"/>λοκλεῦς</name></persName></persName>
@@ -163,9 +163,9 @@
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p><note>i</note>. Year 4, (Pleribeutosy)</p>
+            <p><note>i</note>. <date ref="https://godot.date/id/aFMpYxvXxYJ2jYWrjL2K37">Year 4</date>, (Pleribeutosy)</p>
             <p> <note>ii</note>. Hippomachos <supplied reason="subaudible">son</supplied> of Timachidas, Rhodian </p>
-            <p><note>iii</note>. Year 8, Theopheides  <supplied reason="subaudible">son</supplied> of Charidamos</p>
+            <p><note>iii</note>. <date ref="https://godot.date/id/uggB4UR8WuKoFkouddSKob">Year 8</date>, Theopheides  <supplied reason="subaudible">son</supplied> of Charidamos</p>
             <p><note>iv</note>. Hyperbatas</p>
             <p><note>v</note>. Andron <supplied reason="subaudible">son</supplied> of Philokles.</p>
             </div>
