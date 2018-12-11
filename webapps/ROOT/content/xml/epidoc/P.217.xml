@@ -127,8 +127,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10">ι</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιαχὶ</w></rs>
-                    <lb n="2"/><num value="16">ϛι</num> <persName type="attested" key="lgpn:V1-61226"><name nymRef="Δόρκα"><unclear>Δ</unclear>όρκα</name> 
+                    <lb n="1"/><date ref="https://godot.date/id/ekJQKAzzfYehW2ZQGJ7EqA"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10">ι</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοιαχὶ</w></rs>
+                    <lb n="2"/><num value="16">ϛι</num></date> <persName type="attested" key="lgpn:V1-61226"><name nymRef="Δόρκα"><unclear>Δ</unclear>όρκα</name> 
                         <space quantity="1" unit="character"/>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-61369"><name nymRef="Ἰώσηπος">Ἰωϲήπω</name></persName></persName>
                     <lb n="4"/><date type="life-span" dur="P33Y"><supplied reason="undefined"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> 
@@ -137,7 +137,7 @@
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <div type="translation" source="#jmr1983" xml:lang="en"><p>Year 10, Choiak 16 <note>December 12</note>, Dorka <supplied reason="subaudible">daughter</supplied> of Iosepos, aged 33.</p></div>
+            <div type="translation" source="#jmr1983" xml:lang="en"><p><date ref="https://godot.date/id/ekJQKAzzfYehW2ZQGJ7EqA">Year 10, Choiak 16</date> <note>December 12</note>, Dorka <supplied reason="subaudible">daughter</supplied> of Iosepos, aged 33.</p></div>
          </div>
          <div type="commentary">
             <head>Commentary</head>

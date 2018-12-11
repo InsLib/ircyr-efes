@@ -122,10 +122,11 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="text" n="i" type="textpart"><ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10">ι</num> <persName type="attested" key="lgpn:V1-61207"><name nymRef="Μᾶρκος">Μᾶρκος</name>
+                    <lb n="1"/><date ref="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10">ι</num></date> <persName type="attested" key="lgpn:V1-61207"><name nymRef="Μᾶρκος">Μᾶρκος</name>
                         <lb n="2"/><name nymRef="Δημητριανός">Διμιτρια<lb n="3" break="no"/>νὸς</name></persName> <date type="life-span" dur="P14Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="14">ιδ</num> </date>
-                </ab></div><div subtype="text" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6">ϛ</num> 
+                </ab></div>
+            <div subtype="text" n="ii" type="textpart"><ab>
+                        <lb n="1"/><date ref="https://godot.date/id/XNJjYWuSgde5h5BrCvWgib"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6">ϛ</num></date> 
                         <persName type="attested" key="lgpn:V1-61206, lgpn:V1-61279"><name nymRef="Εὐφρόσυνος">Εὐ<supplied reason="lost">φ</supplied>ρόσυ<lb n="2" break="no"/>νος</name> 
                             <name nymRef="Δημητριανός">Δ<unclear>ημ</unclear>η<lb n="3" break="no"/>τριανὸς</name></persName> <date type="life-span" dur="P19Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="19">ιθ</num> </date>
                     </ab>
@@ -167,8 +168,8 @@
             </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>i. Year 10. Marcus Dimitrianos, aged 14.</p>
-            <p>ii. Year 6. Euphrosynos Demetrianos, aged 19.</p></div>
+            <p>i. <date ref="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB">Year 10</date>. Marcus Dimitrianos, aged 14.</p>
+            <p>ii. <date ref="https://godot.date/id/XNJjYWuSgde5h5BrCvWgib">Year 6</date>. Euphrosynos Demetrianos, aged 19.</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p/>

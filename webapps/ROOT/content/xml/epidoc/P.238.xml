@@ -131,8 +131,8 @@
                     <lb n="2"/><name nymRef="Φρόντων">Φρόντων</name></persName> <space quantity="1" unit="character"/>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-61285"><name nymRef="Λουκία"><expan><abbr>Λ</abbr><ex>ουκία</ex></expan></name> <g ref="symbols.xml#stop"/> <name nymRef="Ζηνοδώρα">Ζηνοδώρα</name></persName> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                <gap reason="lost" quantity="1" unit="character"/>
-                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-               <num value="14">ιδ</num> <persName type="attested" key="lgpn:V1-61453"><name nymRef="Μαῖκος">Μαῖκοϲ</name> <note>sic</note>
+                    <lb n="4"/><date ref="https://godot.date/id/ouhBTeRAKRdAYWYa6u7KKT"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+               <num value="14">ιδ</num></date> <persName type="attested" key="lgpn:V1-61453"><name nymRef="Μαῖκος">Μαῖκοϲ</name> <note>sic</note>
                     <lb n="5"/><persName type="attested" key="lgpn:V1-61563"><name nymRef="Πόπλιος">Ποπλίου</name></persName></persName> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                <num value="8">η</num>
                     <lb n="6"/><persName type="attested" key="lgpn:V1-61564"><name nymRef="Πόπλιος">Πόπλιος</name> 
@@ -196,7 +196,7 @@
          <div type="commentary">
             <head>Commentary</head>
             <p>l.2. A nomen of Etruscan origin c.f. Schulge, p 131. </p>
-            <p>l.3. Year 14.</p>
+            <p>l.3. <date ref="https://godot.date/id/ouhBTeRAKRdAYWYa6u7KKT">Year 14</date>.</p>
             <p>4. Presumably an error for <foreign xml:lang="grc">Μἂρχος</foreign>.</p>
             <p>l.5. Aged 8; see n.2</p>
             <p>6. Aged 3; see n.2.</p>

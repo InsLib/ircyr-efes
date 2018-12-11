@@ -118,13 +118,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><rs type="month" key="Χοιάκ"><w lemma="Χοιάκ"><supplied reason="lost">Χοιὰ</supplied>κ</w></rs> <num value="12">βι</num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><date ref="https://godot.date/id/ecbAAzw6zWy4Zq94jeFiDY"><gap reason="lost" extent="unknown" unit="character"/><rs type="month" key="Χοιάκ"><w lemma="Χοιάκ"><supplied reason="lost">Χοιὰ</supplied>κ</w></rs> <num value="12">βι</num></date> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head><p>
-               <gap reason="lost" extent="unknown" unit="character"/>
-               <supplied reason="lost">Choia</supplied>k 12</p></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p>. . . <date ref="https://godot.date/id/ecbAAzw6zWy4Zq94jeFiDY"> [Choia]k 12</date></p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>Choiak 12 = December 8</p>
