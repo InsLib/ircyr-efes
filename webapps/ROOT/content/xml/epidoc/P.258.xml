@@ -124,7 +124,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num> <rs type="month" key="Φαρμουθί"><w lemma="Φαρμουθί">Φαρμουθὶ</w></rs> <num value="4">δ</num> 
+                    <lb n="1"/><date ref="https://godot.date/id/XQfaPm6VZfVpHfq7t6rRj2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num> <rs type="month" key="Φαρμουθί"><w lemma="Φαρμουθί">Φαρμουθὶ</w></rs> <num value="4">δ</num></date> 
                     <lb n="2"/><persName type="attested" key="lgpn:V1-61570"><name nymRef="Πραξαγόρα">Πραξαγόρα</name> <persName type="attested" key="lgpn:V1-61368"><name nymRef="Ἰωάννης"><supplied reason="lost">Ἰ</supplied><unclear>ω</unclear>άνουϲ</name></persName></persName> 
                     <lb n="3"/><date type="life-span" dur="P13Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="13">ιγ</num> </date>
                 </ab>
@@ -140,9 +140,10 @@
             </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 12, Pharmouthi 4 <note>March 30</note>, Praxagora,  <supplied reason="subaudible">daughter</supplied> of Ioanes, aged 13.</p></div>
+            <p><date ref="https://godot.date/id/XQfaPm6VZfVpHfq7t6rRj2">Year 12, Pharmouthi 4</date>, Praxagora,  <supplied reason="subaudible">daughter</supplied> of Ioanes, aged 13.</p></div>
          <div type="commentary">
             <head>Commentary</head>
+            <p>March 30</p>
             <p> The name may indicates a Jew; see Reynolds loc.cit. </p>
          </div>
          

@@ -136,7 +136,7 @@
          
          <div type="edition" xml:lang="la" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="iubeo">Iussu</w> <persName type="emperor" key="domitianus"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>eratoris</ex></expan></w> 
+                    <lb n="1"/><w lemma="iubeo">Iussu</w> <date ref="https://godot.date/id/iqLe6kfhiR4t9LvSbKKiXH"><persName type="emperor" key="domitianus"><w lemma="imperator"><expan><abbr>Imp</abbr><ex>eratoris</ex></expan></w> 
                               <name nymRef="Domitianus">Domitiani</name> <name nymRef="Caesar">Cae
                     <lb n="2" break="no"/>saris</name> <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>usti</ex></expan></name> 
                                <name nymRef="Germanicus"><expan><abbr>Germ</abbr><ex>anici</ex></expan></name> 
@@ -147,8 +147,8 @@
                                <w lemma="patria"><abbr>p</abbr><ex>atriae</ex></w></expan>
                                <w lemma="consul"><expan><abbr>co</abbr><ex>n</ex><abbr><unclear>s</unclear></abbr><ex>ulis</ex></expan></w>
                                <hi rend="supraline"><num value="14"><unclear>X</unclear><supplied reason="lost">II</supplied>I<unclear>I</unclear></num> </hi>
-                    <lb n="4"/><w lemma="censor"><expan><abbr>cens</abbr><ex>oris</ex></expan></w> <w lemma="perpetuus">perpetui</w> </persName>
-                              <persName type="attested"><name nymRef="Caius"><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name nymRef="Pomponius">Pomponi
+                    <lb n="4"/><w lemma="censor"><expan><abbr>cens</abbr><ex>oris</ex></expan></w> <w lemma="perpetuus">perpetui</w> </persName></date>
+                              <persName type="attested" key="pir2P716"><name nymRef="Caius"><expan><abbr>C</abbr><ex>aius</ex></expan></name> <name nymRef="Pomponius">Pomponi
                     <lb n="5" break="no"/>us</name> <name nymRef="Gallus">Gallus</name> <name nymRef="Didius">Didius</name> <name nymRef="Rufus">Rufus</name></persName> 
                     <lb n="6"/><w lemma="proconsul"><expan><abbr>proco</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w> 
                     <w>locum</w>  <note><w lemma="possum">pusses<lb n="7" break="no"/>sum</w></note> <w lemma="ab">a</w> <w lemma="priuatus">priuatis</w> <w lemma="ciuitas">ciuitati</w> 
@@ -166,8 +166,8 @@
             </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head
-            ><p>By the command of the Emperor Domitianus Caesar Augustus Germanicus, Pontifex Maximus, 
-                    in the 8th term of his tribunician power, Father of the fatherland, consul for the 14th term, 
+            ><p>By the command of the <date ref="https://godot.date/id/iqLe6kfhiR4t9LvSbKKiXH">Emperor Domitianus Caesar Augustus Germanicus, Pontifex Maximus, 
+                    in the 8th term of his tribunician power, Father of the fatherland, consul for the 14th term</date>, 
                     Perpetual censor, C. Pomponius Gallus Didius Rufus, the proconsul, restored this place, which had been occupied
                     by private individuals, to the city of Ptolemais.</p></div>
          <div type="commentary">
