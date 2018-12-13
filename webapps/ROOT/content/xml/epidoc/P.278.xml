@@ -124,12 +124,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παοινί</w></rs> <num value="22">κβ</num> 
+                    <lb n="1"/><date ref="https://godot.date/id/MKLvxq84LBVeyUhsajhRND"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παοινί</w></rs> <num value="22">κβ</num></date> 
                     <w>ἐτελ<supplied reason="lost">ε</supplied>ύτησε</w> 
                     <lb n="2"/><persName type="attested" key="lgpn:V1-61227"><name nymRef="Κλαύδιος">Κλαῦδις</name> <name nymRef="Δράκων">Δράκων</name></persName> 
                     <date type="life-span" dur="P24Y3M15D"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="24">κδ</num> 
                     <w lemma="μείς">μη<lb n="3" break="no"/>νῶν</w> <num value="3">γ</num> <w>ἁμερᾶν</w> <num value="15">ιε</num> </date>
-                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6">ϛ</num> <rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs> <num value="25">κε</num> <w>ἐτελεύτ<unclear>ησ</unclear>ε</w> 
+                    <lb n="4"/><date ref="https://godot.date/id/3ESpgrypZs8akbQuwdbAtU"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6">ϛ</num> <rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs> <num value="25">κε</num></date> <w>ἐτελεύτ<unclear>ησ</unclear>ε</w> 
                     <lb n="5"/><persName type="attested" key="lgpn:V1-61163"><name nymRef="Κλαύδιος">Κλαῦδις</name> <name nymRef="Ἀχίλλας">Ἀχίλλας</name></persName> <date type="life-span" dur="P24Y2M5D"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="24">κδ</num> 
                     <lb n="6"/><w lemma="μείς">μηνῶν</w> <num value="2"><unclear>β</unclear></num> <w>ἁμερᾶν</w> <num value="5">ε</num> </date>
                 </ab>
@@ -160,8 +160,8 @@
             </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 2, Payni 22 <note>June 16</note>, Klaudis Drakon ended his life, aged 24 years 3 months and 15 days.</p> 
-                   <p> Year 6, Hathyr 25 <note>November 21</note>, 
+            <p><date ref="https://godot.date/id/MKLvxq84LBVeyUhsajhRND">Year 2, Payni 22</date>, Klaudis Drakon ended his life, aged 24 years 3 months and 15 days.</p> 
+                   <p><date ref="https://godot.date/id/3ESpgrypZs8akbQuwdbAtU">Year 6, Hathyr 25</date>, 
                     Klaudis Achillas ended  his life, aged 24 years, 2 months and 5 days.</p></div>
          <div type="commentary">
             <head>Commentary</head>
