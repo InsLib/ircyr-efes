@@ -120,8 +120,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                   <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num> <persName type="attested" key="lgpn:V1-61167"><name nymRef="Βάλαβος">Βάλαβος</name></persName> 
-                   <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> <persName type="attested" key="lgpn:V1-61194"><name nymRef="Δάχις">Δάχις</name></persName> 
+                   <lb n="1"/><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num></date> <persName type="attested" key="lgpn:V1-61167"><name nymRef="Βάλαβος">Βάλαβος</name></persName> 
+                   <lb n="2"/><date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num></date> <persName type="attested" key="lgpn:V1-61194"><name nymRef="Δάχις">Δάχις</name></persName> 
                     <lb n="3"/><gap reason="lost" quantity="1" unit="line"/><orig>ς</orig> 
                     <lb n="4"/><persName type="attested" key="lgpn:V1-61503"><name nymRef="Νίκαιος">Νικα<supplied reason="omitted">ί</supplied>ω</name> <persName type="attested" key="lgpn:V1-61429"><name nymRef="Λούκιος">Λου<supplied reason="lost">κίου</supplied></name></persName></persName>
                 </ab>
@@ -129,7 +129,10 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 12. Balabo Anno 2. Dachis  Di Niceo Lu-</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 12, Balabos. Year 2, Dachis. . . . ]s <supplied reason="subaudible">friend</supplied> of Nikaios, 
+            <div type="translation" source="#edd" xml:lang="en">
+               <p><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH">Year 12</date>, Balabos.</p> 
+               <p><date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb">Year 2</date>, Dachis</p>
+               <p>.  . . ]s <supplied reason="subaudible">friend</supplied> of Nikaios, 
                <supplied reason="subaudible">son</supplied> of Lou(kios)</p></div>
          </div>
          

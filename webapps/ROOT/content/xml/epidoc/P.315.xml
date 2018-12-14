@@ -119,13 +119,13 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="17">ζι</num> <persName type="attested"><name nymRef="Δεγε-"><seg part="I">Δεγ<unclear>ε</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><w part="F">ερος</w> <space quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><date ref="https://godot.date/id/AUEeZ6kTa3crdx84rWhznS"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="17">ζι</num></date> <persName type="attested"><name nymRef="Δεγε-"><seg part="I">Δεγ<unclear>ε</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><w part="F">εροϲ</w> <space quantity="3" unit="character"/><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>1. Year 17; </p></div>
+            <p><date ref="https://godot.date/id/AUEeZ6kTa3crdx84rWhznS">Year 17</date>: Dege[- . . .]eros </p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>Probably an ephebic graffito, for which see on <ref type="inscription" n="P03800">P.35</ref>.</p>

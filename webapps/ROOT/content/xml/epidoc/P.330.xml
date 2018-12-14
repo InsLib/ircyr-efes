@@ -125,12 +125,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ος</w> <space quantity="5" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num> 
+                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F">ος</w> <space quantity="5" unit="character"/> <date ref="https://godot.date/id/Ee7cqUpNoSaN32zaZytNsM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num></date> 
                     <persName type="attested" key="lgpn:V1-61571"><name nymRef="Πράξιμος">Πρ<unclear>ά</unclear>ξιμ<supplied reason="lost">ος</supplied></name></persName>
-                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num> <persName type="attested" key="lgpn:V1-61017"><name nymRef="Αἰάλαν">Αἰάλαν</name></persName>
+                    <lb n="2"/><date ref="https://godot.date/id/Ee7cqUpNoSaN32zaZytNsM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num></date> <persName type="attested" key="lgpn:V1-61017"><name nymRef="Αἰάλαν">Αἰάλαν</name></persName>
    <space quantity="3" unit="character"/> <persName type="attested" key="lgpn:V1-61237"><name nymRef="Ἔκφαντος">Ἔκφαντος</name></persName>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig>ς</orig> 
-                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num> <persName type="attested" key="lgpn:V1-61487"><name nymRef="Μίμας">Μείμα<supplied reason="lost" cert="low">ς</supplied></name></persName>
+                    <lb n="4"/><date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="2">β</num></date> <persName type="attested" key="lgpn:V1-61487"><name nymRef="Μίμας">Μείμα<supplied reason="lost" cert="low">ς</supplied></name></persName>
                 </ab>
 </div>
          <div type="apparatus">
@@ -145,8 +145,10 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>- os.  Anno 7. Fealàn.  Anno 2. Mimas -   Anno 7. Praximos. Ecfanto</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Left column: . . .]os. Year 7, Aialan. . . .]s. Year 2, Meimas.</p>
-            <p>Right column: Year 7, Praximos. Ekphantos</p></div>
+            <div type="translation" source="#edd" xml:lang="en">
+               <p>Left column: . . .]os. <date ref="https://godot.date/id/Ee7cqUpNoSaN32zaZytNsM">Year 7</date>, Aialan. . . .]s. 
+                  <date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb">Year 2</date>, Meimas.</p>
+            <p>Right column: <date ref="https://godot.date/id/Ee7cqUpNoSaN32zaZytNsM">Year 7</date>, Praximos. Ekphantos</p></div>
          </div>
          
          <div type="commentary">

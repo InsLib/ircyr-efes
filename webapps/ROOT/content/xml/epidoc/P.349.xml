@@ -125,15 +125,15 @@
 <ab>
    
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Ἱππίας">Ἱππίο<supplied reason="lost">υ</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="2"/> <w><supplied reason="lost">ἐφηβαρχοῦν</supplied>των</w> <persName type="attested"><name nymRef="Μελάνιππος">Μελα<supplied reason="lost">νίππου</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="2"/> <date><w><supplied reason="lost">ἐφηβαρχοῦν</supplied>των</w> <persName type="attested"><name nymRef="Μελάνιππος">Μελα<supplied reason="lost">νίππου</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/> <w>τοῦ</w> 
-                    <persName type="attested"><name nymRef="Ἀλέκτωρ">Ἀλέκτο<supplied reason="lost">ρος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
-                    <lb n="4"/> <w><supplied reason="lost">γυμνασιαρχ</supplied>ούντων</w> 
+                    <persName type="attested"><name nymRef="Ἀλέκτωρ">Ἀλέκτο<supplied reason="lost">ρος</supplied></name></persName></date> <gap reason="lost" extent="unknown" unit="character"/> 
+                    <lb n="4"/> <date><w><supplied reason="lost">γυμνασιαρχ</supplied>ούντων</w> 
                     <persName type="attested"><name nymRef="Φαι-">Φαι</name></persName> <gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w><unclear>α</unclear></w> <persName type="attested"><name nymRef="Τίμαρχος">Τιμάρχου</name> </persName>
                     <orig>Τ</orig><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/><orig>ου</orig> 
-                    <persName type="attested"><name nymRef="Φίλων">Φίλωνος</name></persName> <space quantity="1" unit="character"/> 
+                    <persName type="attested"><name nymRef="Φίλων">Φίλωνος</name></persName></date> <space quantity="1" unit="character"/> 
                     <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="7"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><supplied reason="lost">α</supplied>ρχησας</w> <space quantity="1" unit="character"/> 
                     <persName type="attested"><name><seg part="I">Ε</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
@@ -146,11 +146,9 @@
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head><p>
-               <gap reason="lost" extent="unknown" unit="character"/> of Hippias <gap reason="lost" extent="unknown" unit="character"/>, while Melanippos 
-            <gap reason="lost" extent="unknown" unit="character"/>  <supplied reason="subaudible">son</supplied> of Alektor <gap reason="lost" extent="unknown" unit="character"/>, 
-            were Directors of Ephebes, <gap reason="lost" extent="unknown" unit="character"/>, while Phai<gap reason="lost" extent="unknown" unit="character"/> and Timarchos 
-            <gap reason="lost" extent="unknown" unit="character"/> and Philo <gap reason="lost" extent="unknown" unit="character"/> were Directors of the Gymnasium,  
-            <gap reason="lost" extent="unknown" unit="character"/>
+               [ . . .] of Hippias  [ . . .], <date>while Melanippos [ . . .] <supplied reason="subaudible">son</supplied> of Alektor  [ . . .], 
+            were Directors of Ephebes</date>,  [ . . .], <date>while Phai[- . . .] and Timarchos  [ . . .] and Philo  [ . . .] were Directors of the Gymnasium</date>,  
+             [ . . .]
             </p></div>
          <div type="commentary">
             <head>Commentary</head>
