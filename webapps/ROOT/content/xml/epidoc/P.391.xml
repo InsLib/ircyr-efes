@@ -126,8 +126,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <g ref="symbols.xml#leaf"/> <num value="10">ι</num>
-                    <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παῦνε</w></rs> <num value="8">η</num>
+                    <lb n="1"/><date ref="https://godot.date/id/E8uPSAuCJTkmT6WmdbRu9b"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <g ref="symbols.xml#leaf"/> <num value="10">ι</num>
+                    <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παῦνε</w></rs> <num value="8">η</num></date>
                     <lb n="2"/><persName type="attested"><name nymRef="Φίλων">Φίλων</name>
                     <lb n="3"/><persName type="attested"><name nymRef="Διονύσιος">Διονυσίω</name></persName></persName>
                     <lb n="4"/><orig>η</orig> <date type="life-span" dur="P65Y"><num value="65">ξε</num> </date><gap reason="lost" quantity="3" unit="character"/>
@@ -135,12 +135,12 @@
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 10, Pauni 8 <note>2 June</note>, Philon,  <supplied reason="subaudible">son</supplied> of Dionysios, <supplied reason="omitted">aged</supplied> 65.</p></div>
+            <p><date ref="https://godot.date/id/E8uPSAuCJTkmT6WmdbRu9b">Year 10, Pauni 8</date>, Philon,  <supplied reason="subaudible">son</supplied> of Dionysios, <supplied reason="omitted">aged</supplied> 65.</p></div>
          <div type="commentary">
             <head>Commentary</head>
             
             <p>l. 1. Pauni 8 is June 2.</p>
-            <p>l. 4. Presumably  "aged 65"; but the first sign is clearly Η and not E.</p>
+            <p>Line 4: Presumably "aged 65"; but the first sign is clearly Η and not E.</p>
          </div>
          
       </body>

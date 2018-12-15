@@ -122,8 +122,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="15">ιε</num> 
+                     <lb n="1"/><date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="15">ιε</num></date> 
                     <persName type="attested"><name nymRef="Ἀρίμμαν">Ἀρ<supplied reason="lost" cert="low">ίμμα</supplied><lb n="2" break="no"/>ν</name> <persName type="attested"><name nymRef="Καπ-"><seg part="I">Καπ</seg></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
    <lb n="2a"/><gap reason="lost" quantity="1" unit="line"/>
                 </ab>
@@ -138,7 +138,7 @@
             </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p> 
-               <gap reason="lost" extent="unknown" unit="character"/>Year 15, Arimma, <supplied reason="subaudible">son</supplied> of ?Capito <gap reason="lost" extent="unknown" unit="character"/>
+               <date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL">Year 15</date>, Ar[imma]n, <supplied reason="subaudible">son</supplied> of ?Cap[ito . . .
             </p></div>
          <div type="commentary">
             <head>Commentary</head>

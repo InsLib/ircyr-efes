@@ -112,12 +112,7 @@
    </teiHeader><facsimile><graphic url="JMR_433_003" decls="#photograph"><desc>Face a (Joyce Reynolds, Tolmeita I (NB V).53)</desc></graphic>
       <graphic url="JMR_433_001" decls="#photograph"><desc>Face a (1961-05-26, Joyce Reynolds, III.3)</desc></graphic>
       <graphic url="JMR_433_002" decls="#photograph"><desc>Face b (1961-05-26, Joyce Reynolds, III.2)</desc></graphic>
-      <graphic url="JMRNB05_052" decls="#photograph"><desc>Face b (Joyce Reynolds, Tolmeita I (NB V).52)</desc></graphic><!--Dept.--><!--
-                    --><!--
-                    --><!--
-                    --><!--
-                    --><!--
-                --></facsimile>
+      <graphic url="JMRNB05_052" decls="#photograph"><desc>Face b (Joyce Reynolds, Tolmeita I (NB V).52)</desc></graphic><!--Dept.--></facsimile>
    <text>
       <body>
          <div type="bibliography">
@@ -128,14 +123,17 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="face" n="a" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name nymRef="Δημήτριος"><seg part="I"><supplied reason="lost">Δ</supplied>ημητριο</seg></name></persName>
                         <gap reason="lost" extent="unknown" unit="character"/>
-                    </ab></div><div subtype="face" n="b" type="textpart"><ab>
+                    </ab></div>
+            <div subtype="face" n="b" type="textpart"><ab>
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <w><supplied reason="lost">Κ</supplied>εφάλω</w> <gap reason="lost" extent="unknow" unit="character"/>
-                        <lb n="2"/><w lemma="ἔτος"><supplied reason="lost" cert="low"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></supplied></w> <num value="2">β</num> <persName type="attested"><name nymRef="Πτολεμαῖος">Πτο<supplied reason="lost">λεμαῖος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="2"/><date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb"><w lemma="ἔτος"><supplied reason="lost" cert="low"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></supplied></w> <num value="2">β</num></date> <persName type="attested"><name nymRef="Πτολεμαῖος">Πτο<supplied reason="lost">λεμαῖος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
 </div>
 </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head><p>References to Demetrios, and to ?Year 2</p></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p><note>a</note>: . . . D]emetrio[s . . .</p>
+              <p><note>b</note>: . . . of K]ephalos [ . . . ] <date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb">?Year 2</date> Pto[lemaio- . . .</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>Since the lettering of both a and b is rough enough to suggest graffiti, the stone probably came from the gymnasium 

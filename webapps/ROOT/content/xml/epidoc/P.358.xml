@@ -118,17 +118,16 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan> </w> <num value="11">ια</num> <persName type="attested"><name nymRef="Ῥοῦφος">Ῥο<supplied reason="lost">ῦφος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num> <persName type="attested" cert="low"><name nymRef="Σ-">Σ<gap reason="lost" extent="unknown" unit="character"/></name></persName>
-                    <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="13">ιγ</num> <persName type="attested" cert="low"><name nymRef="Πυ-">Πυ<gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                    <lb n="1"/><date ref="https://godot.date/id/RBRxZzgdQdSdz56bdagRWX"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan> </w> <num value="11">ια</num></date> <persName type="attested"><name nymRef="Ῥοῦφος">Ῥο<supplied reason="lost">ῦφος</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num></date> <persName type="attested" cert="low"><name nymRef="Σ-">Σ<gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                    <lb n="3"/><date ref="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="13">ιγ</num></date> <persName type="attested" cert="low"><name nymRef="Πυ-">Πυ<gap reason="lost" extent="unknown" unit="character"/></name></persName>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 11, Ru<supplied reason="lost">fus</supplied>
-            </p>
-            <p>Year 12, S[- . . .</p>
-            <p>Year 13, Pu[- . . .</p></div>
+            <p><date ref="https://godot.date/id/RBRxZzgdQdSdz56bdagRWX">Year 11</date>, Ru<supplied reason="lost">fus</supplied></p>
+            <p><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH">Year 12</date>, S[- . . .</p>
+            <p><date ref="https://godot.date/id/aiFranwdzxo4QonDse2yu2">Year 13</date>, Pu[- . . .</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p/>

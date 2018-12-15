@@ -112,9 +112,7 @@
          <change when="2009-05-06" who="CB">turned to XML and tidied</change>
          <change when="2009-02-24" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_456" decls="#photograph"><desc>Face (Joyce Reynolds, Tolmeita II. 25)</desc></graphic><!--
-                    --><!--
-                --></facsimile>
+   </teiHeader><facsimile><graphic url="JMR_456" decls="#photograph"><desc>Face (Joyce Reynolds, Tolmeita II. 25)</desc></graphic><</facsimile>
    <text>
       <body>
          <div type="bibliography">
@@ -126,20 +124,20 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="89">πθ</num> <rs type="month" key="Ἐπιφί"><w>Ἐπιφὶ</w></rs>
-                    <lb n="2"/><num value="5">ε</num> <persName type="attested"><name nymRef="Μνασιώ">Μνασιὼ</name> 
-                    <lb n="3"/><persName type="attested"><name nymRef="Θεύχρηστος">Θευχρήστω</name></persName></persName> 
+                    <lb n="1"/><date ref="https://godot.date/id/gGyWLQzZ99ueM9KZ54n5sa"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="89">πθ</num> <rs type="month" key="Ἐπιφί"><w>Ἐπιφὶ</w></rs>
+                    <lb n="2"/><num value="5">ε</num></date> <persName type="attested"><name nymRef="Μνασιώ">Μναϲιὼ</name> 
+                    <lb n="3"/><persName type="attested"><name nymRef="Θεύχρηστος">Θευχρήϲτω</name></persName></persName> 
                     <lb n="4"/><date type="life-span" dur="P1Y"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> <num value="1">α</num> </date>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 89, Epeiph 5 <note>C.E. 59, June 29</note>; 
+            <p><date ref="https://godot.date/id/gGyWLQzZ99ueM9KZ54n5sa">Year 89, Epeiph 5</date>, 
                Mnasio <supplied reason="subaudible">daughter</supplied> of Theuchrestos aged [?]1</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>ll. 1-2: 89 of the Actian era, Epeiph 5 (C.E. 59, June 29).</p>
-            <p>l. 4: Aged 1, 11 or a multiple of 10 + 1.</p>
+            <p>Line 4: Aged 1, 11 or a multiple of 10 + 1.</p>
          </div>
          
       </body>
