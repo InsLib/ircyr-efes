@@ -122,15 +122,15 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="14">ιδ</num> 
+                    <lb n="1"/><date ref="https://godot.date/id/ouhBTeRAKRdAYWYa6u7KKT"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="14">ιδ</num></date> 
                     <w>ἐτελεύ<lb n="2" break="no"/><supplied reason="lost">τησε</supplied></w>
                     <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 14, <gap reason="lost" extent="unknown" unit="character"/> 
-                    ended his life <gap reason="lost" extent="unknown" unit="character"/>
+            <p><date ref="https://godot.date/id/ouhBTeRAKRdAYWYa6u7KKT">Year 14</date>, x 
+                    ended his life [ . . . 
             </p></div>
          <div type="commentary">
             <head>Commentary</head>

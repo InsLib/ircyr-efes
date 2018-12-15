@@ -131,9 +131,9 @@
          </div>
          
          <div type="edition" xml:space="preserve"><div xml:lang="la" type="textpart"><ab>
-                    <lb n="1"/><persName type="emperor" key="vespasianus"><w><expan><abbr><supplied reason="lost">I</supplied><unclear>mp</unclear></abbr><ex>erator</ex></expan></w> 
+                    <lb n="1"/><date ref="https://godot.date/id/mPDJbzZ6tjKSBZXmaLB6oM"><persName type="emperor" key="vespasianus"><w><expan><abbr><supplied reason="lost">I</supplied><unclear>mp</unclear></abbr><ex>erator</ex></expan></w> 
                        <name nymRef="Caesar">Caesar</name> <name nymRef="Vespasianus">Vespa<lb n="2" break="no"/>sianus</name> <g ref="symbols.xml#stop"/> <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name> </persName> <g ref="symbols.xml#stop"/> <expan><w><abbr>pont</abbr><ex>ifex</ex></w> <g ref="symbols.xml#stop"/> <w><abbr>m</abbr><ex>aximus</ex></w></expan>
-                    <lb n="3"/><expan><w><abbr>tr</abbr><ex>ibunicia</ex></w> <g ref="symbols.xml#stop"/> <w><abbr>pot</abbr><ex>estate</ex></w></expan> <g ref="symbols.xml#stop"/> <num value="4">IIII</num>
+                    <lb n="3"/><expan><w><abbr>tr</abbr><ex>ibunicia</ex></w> <g ref="symbols.xml#stop"/> <w><abbr>pot</abbr><ex>estate</ex></w></expan> <g ref="symbols.xml#stop"/> <num value="4">IIII</num></date>
                     <w><expan><abbr>imp</abbr><ex>erator</ex></expan></w> <g ref="symbols.xml#stop"/> <num value="8">VIII</num>
                    <expan><w><abbr>p</abbr><ex>ater</ex></w> <g ref="symbols.xml#stop"/> <w><abbr>p</abbr><ex>atriae</ex></w></expan>
                     <lb n="4"/> <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w> <g ref="symbols.xml#stop"/> <num value="4">IIII</num> <g ref="symbols.xml#stop"/> <w><expan><abbr>desig</abbr><ex>natus</ex></expan></w> <g ref="symbols.xml#stop"/> <num value="5">V</num> <w lemma="per">per</w>
@@ -141,7 +141,7 @@
                     <lb n="6"/><w lemma="suus">suum</w> <g ref="symbols.xml#stop"/> <w lemma="hortus">hortum</w> <g ref="symbols.xml#stop"/> <lb n="7"/><expan><w><abbr>P</abbr><ex>opulo</ex></w><g ref="symbols.xml#stop"/> <placeName type="ethnic"><w lemma="Romanus"><abbr>R</abbr><ex>omano</ex></w></placeName></expan> 
                     <w><expan><abbr>rest</abbr><ex>ituit</ex></expan></w> <space quantity="6" unit="character"/>
                 </ab></div><div xml:lang="grc" type="textpart"><ab>
-                    <lb n="8"/><persName type="emperor" key="vespasianus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name>
+                    <lb n="8"/><date ref="https://godot.date/id/WpbvT9XHKpKMW9bYD7N8cm"><persName type="emperor" key="vespasianus"><w>Αὐτοκράτωρ</w> <name nymRef="Καῖσαρ">Καῖσαρ</name>
                     <lb n="9"/><name nymRef="Οὐεσπασιανός">Οὐεσ<unclear>πασ</unclear><supplied reason="lost">ια</supplied>νὸς</name></persName>
                     <w>ἀρχι<lb n="10" break="no"/>ερεὺς</w>
                     <w>μέγιστος</w> <w>δη<lb n="11" break="no"/>μαρχικῆς</w> <w>ἐξουσίας</w>
@@ -153,7 +153,7 @@
                     <w>τ<supplied reason="lost">ὸ</supplied></w> 
                     <num value="4">δ</num> 
                     <w>ἀποδεδειγ<supplied reason="lost">μέ</supplied><lb n="15" break="no"/>νος</w>
-                    <w>τὸ</w> <num value="5">ε</num>
+                    <w>τὸ</w> <num value="5">ε</num></date>
                     <w>διὰ</w> <persName type="attested"><name nymRef="Κόϊντος"><expan><abbr>Κ</abbr><ex>ουΐντου</ex></expan></name> <name nymRef="Πακώνιος">Πακω<supplied reason="lost">νίου</supplied></name>
                     <lb n="16"/><name nymRef="Ἀγριππῖνος">Ἀγριππείνου</name></persName> 
                     <w>ἰδίο<supplied reason="lost">υ</supplied></w>

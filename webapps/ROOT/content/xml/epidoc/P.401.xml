@@ -118,14 +118,20 @@
 
                     
                     <div type="textpart" n="i"><ab><lb n="1"/><persName type="attested"><name nymRef="Τιμα-"><seg part="I">Τιμα</seg></name></persName> <gap reason="lost" extent="3" unit="character"/></ab></div>
-   <div type="textpart" n="ii"><ab><orig>α</orig> <persName type="attested" key="lgpn:V1-61694"><name nymRef="Φίλων">Φίλων</name></persName></ab></div> 
-                   <div type="textpart" n="iii"><ab><lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> <num value="13">ιγ</num> 
+   <div type="textpart" n="ii"><ab>
+      <date ref="https://godot.date/id/wtdpMkHixnKf3paJYFzKXG"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> <num value="1">α</num></date> <persName type="attested" key="lgpn:V1-61694"><name nymRef="Φίλων">Φίλων</name></persName></ab></div> 
+                   <div type="textpart" n="iii"><ab>
+                      <lb n="1"/><date ref="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> <num value="13">ιγ</num></date> 
                     <persName type="attested"><name nymRef="Δ-"><seg part="I">Δ<gap reason="lost" quantity="1" unit="character"/>γ</seg></name></persName></ab></div>
-                    <div type="textpart" n="iv"><ab><lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num> <persName type="attested"><name nymRef="Ἄτθις">Ἄ<unclear>τθ</unclear>ι<supplied reason="lost">ς</supplied></name></persName></ab></div>
+                    <div type="textpart" n="iv"><ab>
+                       <lb n="1"/><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num></date> <persName type="attested"><name nymRef="Ἄτθις">Ἄ<unclear>τθ</unclear>ι<supplied reason="lost">ς</supplied></name></persName></ab></div>
                     
-                    <div type="textpart" n="v"><ab><lb n="1"/><orig>φι</orig></ab></div>
-                    <div type="textpart" n="vi"><ab><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>χος</orig></ab></div> 
-                    <div type="textpart" n="vii"><ab><lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> <num value="14">ιδ</num> 
+                    <div type="textpart" n="v"><ab>
+                       <lb n="1"/><orig>φι</orig></ab></div>
+                    <div type="textpart" n="vi">
+                       <ab><lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>χος</orig></ab></div> 
+                    <div type="textpart" n="vii">
+                       <ab><lb n="1"/><date ref="https://godot.date/id/ouhBTeRAKRdAYWYa6u7KKT"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> <num value="14">ιδ</num></date> 
                     <persName type="attested" key="lgpn:V1-61159"><name nymRef="Αὐγορῖνος">Αὐγορῖνος</name></persName> <orig><unclear>ς</unclear></orig> <persName type="attested"><name nymRef="Φάος">Φ<supplied reason="lost">ά</supplied>ο<unclear>ς</unclear></name></persName> <persName type="attested"><name nymRef="Ῥα-"><seg part="I">Ῥ<unclear>α</unclear></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/></ab></div>
                 
 </div>
@@ -155,10 +161,17 @@
                   <rdg resp="#cigiii">[Δίφ]ι[λος] ?</rdg></app>
             </listApp>
          </div>
-         <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p><note>i</note> Tima-</p>
+         <p><note>ii</note> <date ref="https://godot.date/id/wtdpMkHixnKf3paJYFzKXG">[Year] 1</date> Philo</p>
+         <p><note>iii</note> <date ref="https://godot.date/id/aiFranwdzxo4QonDse2yu2">[Year] 13</date>, D[ . . .</p>
+         <p><note>iv</note> <date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH">Year 12</date>, Atthis</p>
+         <p><note>v and vi</note> ?Traces of names</p>
+         <p><note>vii</note> <date ref="https://godot.date/id/ouhBTeRAKRdAYWYa6u7KKT">[Year] 14</date>, Augurinus ? Phaos Ra[- . . .</p></div>
          <div type="commentary">
             <head>Commentary</head>
-           <p>Very unclear, apparently on a damaged stone</p> <p/>
+           <p>Very unclear, apparently on a damaged stone</p>
+            <p>ii: Perhaps year Λ, 30</p>
          </div>
          
       </body>
