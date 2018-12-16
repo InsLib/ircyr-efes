@@ -119,15 +119,15 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15"><unclear>ει</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><num value="23"><unclear>γκ</unclear></num> <persName type="attested"><name nymRef="Ἀλδάμων"><unclear>Ἀλ</unclear>δά 
+                    <lb n="1"/><date ref="https://godot.date/id/fguCYZTEt4vPnpJbaCbpKL"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15"><unclear>ει</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><num value="23"><unclear>γκ</unclear></num></date> <persName type="attested"><name nymRef="Ἀλδάμων"><unclear>Ἀλ</unclear>δά 
                     <lb n="3" break="no"/>μων</name> <persName type="attested"><name nymRef="Ἰάσων">Ἰά<unclear>σ</unclear>ον<lb n="4" break="no"/>ος</name></persName></persName> 
                     <date type="life-span" dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="30">λ</num> </date>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 15, <gap reason="lost" extent="unknown" unit="character"/> <note>month</note> ?-3 <gap reason="lost" extent="unknown" unit="character"/>aldamon, <supplied reason="subaudible">son</supplied> of Iason, aged 30.</p></div>
+            <p><date ref="https://godot.date/id/fguCYZTEt4vPnpJbaCbpKL">Year 15, [?month] 23 </date><gap reason="lost" extent="unknown" unit="character"/>aldamon, <supplied reason="subaudible">son</supplied> of Iason, aged 30.</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>l. 2, a figure, probably 3 or 23, giving the day or the month followed by the beginning of the dead man's name which appears to be a compound of Damon.</p>
