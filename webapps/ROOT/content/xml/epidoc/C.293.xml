@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C24300" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -187,7 +187,7 @@
             <head>Commentary</head>
             <p>For the buildings, see Oliverio, line c.</p>
             <p>line 1: Oliverio proposed the title <foreign xml:lang="grc">Ἑκάται</foreign> after <foreign xml:lang="grc">Ἀρτάμιδι</foreign> (Cf. <foreign xml:lang="grc">Θεοις δαμοτελευς</foreign>  as in <ref type="inscription" n="C83200">M.271</ref>, 35-6). </p>
-            <p>l.6: Gaius Postumius Optatus also in <ref type="inscription" n="C18900">C.223</ref>, lines15ff. where his priesthoood is dated 106/107. </p>
+            <p>l.6: Gaius Postumius Optatus also in <ref type="inscription" n="C18900">C.223</ref>, lines 15ff. where his priesthoood is dated 106/107. </p>
          </div>
          
       </body>

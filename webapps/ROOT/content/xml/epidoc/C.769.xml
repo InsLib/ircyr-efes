@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C75900" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -119,8 +119,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested" key="lgpn:V1-64222"><name nymRef="Θεύχρηστος">Θ<supplied reason="lost">ε</supplied>ύχρηστο<supplied reason="lost">ς</supplied></name></persName> <supplied reason="lost"><w>τοῦ</w> <w>δεῖνα</w></supplied>
-                    <lb n="2"/> <w>ἱαριτεύων</w> <orig>κα</orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><date><persName type="attested" key="lgpn:V1-64222"><name nymRef="Θεύχρηστος">Θ<supplied reason="lost">ε</supplied>ύχρηστο<supplied reason="lost">ς</supplied></name></persName> <supplied reason="lost"><w>τοῦ</w> <w>δεῖνα</w></supplied>
+                    <lb n="2"/> <w>ἱαριτεύων</w></date> <orig>κα</orig><gap reason="lost" extent="unknown" unit="character"/>
                     
                     <lb n="3"/> <space quantity="3" unit="character"/> <w>ἀ <space quantity="1" unit="character"/>ν<space quantity="2" unit="character"/>έ <space quantity="1" unit="character"/><supplied reason="lost">θηκεν</supplied></w>
                 </ab>

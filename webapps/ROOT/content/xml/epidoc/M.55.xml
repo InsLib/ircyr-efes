@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="B05600" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -44,7 +44,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>Very rough and difficult to read: lines1-6, <height>ave. 0.025</height>, line 7, 
+                     <handNote>Very rough and difficult to read: lines 1-6, <height>ave. 0.025</height>, line 7, 
                         <height>0.015</height>;
                         lunate epsilon and sigma, cursive omega; strongly marked guide-lines except for lines 1,7, which may, therefore,
                         represent separate texts<!-- xref, in a similar relation to one another as those of  -->.</handNote>

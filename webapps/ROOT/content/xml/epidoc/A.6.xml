@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="A01200" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -188,7 +188,7 @@
                         <lb n="11"/><orig>ηρ</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="12"/><orig>κα</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="13"/><orig>μ</orig><gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="14"/><date corresp="https://godot.date/id/UGsKBAis8vjkqQEseo4oyG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="14"/><date ref="https://godot.date/id/UGsKBAis8vjkqQEseo4oyG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="15"/><orig><unclear>α</unclear></orig><gap reason="lost" extent="unknown" unit="character"/></date>
                         <lb n="16"/><orig>κα</orig><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="17"/><orig>μ</orig><gap reason="lost" extent="unknown" unit="character"/>

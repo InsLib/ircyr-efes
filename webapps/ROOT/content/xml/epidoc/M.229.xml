@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C82000" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -126,7 +126,7 @@
          <div type="edition" xml:space="preserve">
             <div subtype="face" n="a" type="textpart" xml:lang="la">
                <ab>
-                    <lb n="1"/><persName type="emperor" key="vespasianus"><w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar">Caisar</name> <name nymRef="Vespasianus">Vespa<lb n="2" break="no"/>sianus</name> <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName>
+                    <lb n="1"/><date ref="https://godot.date/id/eNEx3CGAZpHkvKSFydWCjE"><persName type="emperor" key="vespasianus"><w><expan><abbr>Imp</abbr><ex>erator</ex></expan></w> <name nymRef="Caesar">Caisar</name> <name nymRef="Vespasianus">Vespa<lb n="2" break="no"/>sianus</name> <name nymRef="Augustus"><expan><abbr>Aug</abbr><ex>ustus</ex></expan></name></persName>
                     <expan><w><abbr>pont</abbr><ex>ifex</ex></w> 
                     <lb n="3"/> <w><abbr>max</abbr><ex>imus</ex></w></expan>
                     <expan><w><abbr>trib</abbr><ex>unicia</ex></w> <w><abbr>pot</abbr><ex>estate</ex></w></expan> 
@@ -134,7 +134,7 @@
                     <lb n="4"/><num value="10"><unclear>X</unclear></num>
                     <expan><w><abbr><unclear>p</unclear></abbr><ex>ater</ex></w> 
                     <w><abbr><unclear>p</unclear></abbr><ex>atriae</ex></w></expan> 
-                    <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w> <num value="5">V</num>
+                    <w><expan><abbr>co</abbr><ex>n</ex><abbr>s</abbr><ex>ul</ex></expan></w> <num value="5">V</num></date>
                     <w lemma="per">pe<unclear>r</unclear></w> <persName type="attested"><name nymRef="Quintus"><expan><abbr>Q</abbr><ex>uintum</ex></expan></name> <name nymRef="Paconius">Pa<lb n="5" break="no"/>conium</name> <name nymRef="Agrippinus">Agrip <space quantity="1" unit="character"/> pinu<unclear>m</unclear></name></persName>
                     <lb n="6"/> <space quantity="1" unit="character"/>
                     <w><expan><abbr>leg</abbr><ex>atum</ex></expan></w> <w lemma="suus">suum</w> <w lemma="ager">agrum</w>

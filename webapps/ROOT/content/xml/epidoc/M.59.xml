@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="B06000" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -137,8 +137,8 @@
                         <name nymRef="Ὀδυσσσεύς">Ὀδυϲ<supplied reason="lost">ϲ</supplied>εὺϲ</name></persName> 
                         <w><expan><abbr>ἥκ</abbr><ex cert="low">ω</ex></expan></w>
                         <lb n="3"/> <w>ϲτρατιώτηϲ</w>
-                        <lb n="4"/><gap reason="lost" quantity="6" unit="character"/> <space quantity="1" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
-                        <num value="13">γι</num> 
+                        <lb n="4"/><gap reason="lost" quantity="6" unit="character"/> <space quantity="1" unit="character"/> <date ref="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
+                        <num value="13">γι</num></date> 
                     </ab>
             </div>
             <div subtype="section" n="b" type="textpart">
@@ -157,8 +157,8 @@
             <div subtype="section" n="f" type="textpart">
                <ab>
                   <lb n="1"/><persName type="attested"><name nymRef="Ἀριπαχθίς"><unclear>Ἀρ</unclear>ιπαχ<unclear>θ</unclear><supplied reason="lost" cert="low">ίς</supplied></name></persName>
-                        <w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἔτους</ex></expan></w>
-                  <num value="13"><unclear>ιγ</unclear><certainty locus="value" match="../@value" cert="low"/></num> 
+                        <date ref="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἔτους</ex></expan></w>
+                  <num value="13"><unclear>ιγ</unclear><certainty locus="value" match="../@value" cert="low"/></num></date> 
                        </ab>
                     </div>
             <div subtype="section" n="g" type="textpart">
@@ -170,8 +170,8 @@
             </div>
             <div subtype="section" n="h" type="textpart">
                        <ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <gap reason="lost" quantity="1" unit="character"/> <persName type="attested"><name nymRef="Δέγμος">Δέγμος</name></persName>
+                        <lb n="1"/><date ref="https://godot.date/id/UGsKBAis8vjkqQEseo4oyG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <gap reason="lost" quantity="1" unit="character"/></date> <persName type="attested"><name nymRef="Δέγμος">Δέγμος</name></persName>
                           <gap reason="lost" extent="unknown" unit="character"/>
                     </ab>
             </div>

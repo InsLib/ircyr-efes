@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C95300" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -42,7 +42,7 @@
                      </supportDesc>
                      <layoutDesc>
                         <layout><rs type="execution" key="scalpro">Inscribed</rs> on the face, initially with <ref type="inscription" target="igcyr091800">IGCyr 91800</ref>, 
-                           apparently in three lines; the first two lines were then erased, and replaced, in the shallow rasura, with lines1-2 below.</layout>
+                           apparently in three lines; the first two lines were then erased, and replaced, in the shallow rasura, with lines 1-2 below.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
@@ -147,7 +147,7 @@
             <head>Commentary</head>
             <p>The lettering is very similar to that of the marble base dedicated by the Cyrenaians to C. Cornelius Lentulus Marcellinus in 67 B.C.E. or shortly later, 
                <ref type="inscription" n="C21300">C.280</ref>; 
-               the honorand is probably one of the consuls of 77 B.C.E.; 
+               the honorand is probably one of the consuls of 77 B.C.E. http://romanrepublic.ac.uk/person/2023; 
                the base may reflect a trend in placating the rising power of Rome in the transitional phase of Cyrenaica’s incorporation into the control of the Senate, 
                Α.<!-- , who refers to the very similar base presented in our next lemma --> </p>
             

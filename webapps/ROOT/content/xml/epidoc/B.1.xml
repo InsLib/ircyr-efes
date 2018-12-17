@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="B08800" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -141,8 +141,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/> <space quantity="1" unit="character"/> <date><date corresp="https://godot.date/id/BdUqPRET4VMVYUSUKY66w9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="34">λδ</num></date> 
-                    <date><w>ἐπὶ</w> <persName type="attested" key="lgpn:V1-61814"><w lemma="ἱερεύς">ἱερέως</w> <w lemma="ὁ">τοῦ</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName> <name nymRef="Λῦσις">Λύσιος</name></persName></date></date> <space quantity="3" unit="character"/>
+                    <lb n="1"/> <space quantity="1" unit="character"/> <date><date ref="https://godot.date/id/BdUqPRET4VMVYUSUKY66w9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="34">λδ</num></date> 
+                    <date><w>ἐπὶ</w> <w lemma="ἱερεύς">ἱερέως</w> <w lemma="ὁ">τοῦ</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName> <persName type="attested" key="lgpn:V1-61814"><name nymRef="Λῦσις">Λύσιος</name></persName></date></date> <space quantity="3" unit="character"/>
                     <lb n="2"/> <space quantity="3" unit="character"/> <w>ἁδήματος</w> <w>ἀντίγραφον</w> <space quantity="3" unit="character"/>
                     <lb n="3"/><w lemma="ἐπεί">ἐπειδὴ</w> <persName type="attested" key="lgpn:V1-61920"><name nymRef="Ἀπολλόδωρος">Ἀπολλόδωρος</name> <persName type="attested" key="lgpn:V1-61919"><name nymRef="Παγκράτης">Παγκράτευς</name></persName></persName> <w lemma="ὁ">τῶν</w> <w>πολιτᾶν</w>
                     <lb n="4"/><w lemma="ὕπαρχος">ὑπάρχων</w> <w lemma="ἀπό">ἀπὸ</w> <w lemma="πρόγονος">προγόνων</w> <w lemma="ἐκ">ἐξ</w> <w>ἀ<unclear>ρχ</unclear>ᾶ<unclear>ς</unclear></w> <w>γνησἰων</w> <w lemma="καί">καὶ</w>
@@ -359,15 +359,15 @@ cité en apportant à tous un jugement équitable, ... </p></div>
             <p>line 1 gives the date by a local era and by the name of an eponymous priest of Apollo (not identifiable); the content of lines 3 ff. shows that the era must be one which began after 
                 the death of the last king of Cyrenaica (Ptolemy Apion) in 96 BC, and is here attested for the first time; year 34 = 62/1 BC.</p>
             <p>Laronde sees this as Actium,  giving 3/4 C.E.</p>
-            <p>l.7 gives the city name in the form <foreign xml:lang="grc">Βερενίκα</foreign>.</p>
+            <p>l.7 gives the city name in the form Βερενίκα.</p>
             <p>l.2 describes the document as a copy of a decree, using for decree a word otherwise only attested, as far as I have been able to discover, in Hesychios, s.v; the related
-                verb <foreign xml:lang="grc">ἁνδάνω</foreign>, however was used for the act of making a decree in Euhesperides (SEG XVIII.772). The copy omits the preamble so that
+                verb ἁνδάνω, however was used for the act of making a decree in Euhesperides (SEG XVIII.772). The copy omits the preamble so that
                 we have no information about the organs of civic government.</p>
-            <p>The decree honours Apollodorus, <supplied reason="subaudible">son</supplied> of Pancrates, for services to his city, particularly during a period that began shortly after the death of Ptolemy Apion (ll.6/7) when
+            <p>The decree honours Apollodorus, <supplied reason="subaudible">son</supplied> of Pankrates, for services to his city, particularly during a period that began shortly after the death of Ptolemy Apion (ll.6/7) when
                 the Romans inherited the kingdom but left the Greek cities free. In Cyrene the literary sources indicate that civil strife, intervention by Libyan tribesmen and quarrels with other
                 Greeks followed; it is now clear that something similar occurred at Berenice (ll.7/8). From c. 90 BC pirates, encouraged by Mithridates of Pontus, organised themselves into fleets 
                 whose actions led eventually to the appointment of Cn. Pompeius and the Pirate War of 67 BC; Pompey is known to have sent a legate to Cyrenaica during this war and piratical
-                attacks there were, in consequence, deducible, but this is the first clear proof (lline 14/15).  Probably in 75 BC the Romans decided to establish closer control over Cyrenaica, 
+                attacks there were, in consequence, deducible, but this is the first clear proof (lines 14/15).  Probably in 75 BC the Romans decided to establish closer control over Cyrenaica, 
                 although whatever was done at this date was seriously overhauled and extended by Pompey's legate in the aftermath of the Pirate War; the process of annexation therefore 
                 falls within the period of Apollodorus' activity, which very probably involved, at its latter end, negotiations with the Romans (i.32). For surveys of the evidence on this period
                 see S. I. Oost, CP 1963, 11f., J. M. Reynolds, JRS LII (1962) 97 f., E. Badian, JRS LV (1965) 119 f.</p>
@@ -375,11 +375,11 @@ cité en apportant à tous un jugement équitable, ... </p></div>
                 dialect forms and local usages (e.g. ἅδημα) preserved from the earlier city of Euhesperides and, in many cases at least, shared with Cyrene (which always claimed to be the
                 mother-city of this colony), despite its Hellenistic refoundation under the patronage of the Ptolemies.</p>
             <p>A detailed commentary on the language and restorations is not given here, but the following points should be observed.</p>
-            <p>l.8 <foreign xml:lang="grc">κακοῦργοι</foreign> is an imprecise term; Robert opts for 'brigands', but this is in itself imprecise - perhaps hostile Libyan tribesmen?; 
-                    a dissident Jewish group would presumably be named but a faction within the city remains a possibility, for the <foreign xml:lang="grc">ἀναρχια</foreign> should surely indicate that no regular
+            <p>l.8 κακοῦργοι is an imprecise term; Robert opts for 'brigands', but this is in itself imprecise - perhaps hostile Libyan tribesmen?; 
+                    a dissident Jewish group would presumably be named but a faction within the city remains a possibility, for the ἀναρχια should surely indicate that no regular
                     magistrates had been elected and suggests a context of civil strife.</p>
             <p>l.9 We are not told who invited Apollodorus to intervene. The young men whom he led should be ex-ephebes and the reference is evidence for the existence of an ephebic
-                    system at berenice, as also for a genuine military purpose in the training provided (see C. A. Forbes, ΝΕΟΙ (1933) 61 f., F. Poland, PW s.v. ΝΕΟΙ). These young men might 
+                    system at Berenice, as also for a genuine military purpose in the training provided (see C. A. Forbes, ΝΕΟΙ (1933) 61 f., F. Poland, PW s.v. ΝΕΟΙ). These young men might 
                 be expected to have an oligarchic bias while Apollodorus himself was clearly of the old aristocracy of the city (ll.3/4); so that the opposition may have been 
                 proposing democracy or a popularly supported tyranny.</p>
             <p>line 13 The unwalled state of the city is surprising.</p>
@@ -388,14 +388,14 @@ cité en apportant à tous un jugement équitable, ... </p></div>
                 judgements and led to civic harmony.</p>
             <p>line 19 may indicate that he built a city wall, but the reading is uncertain.</p>
             <p>ll.20 ff. are so fragmentary as to give little clear information. line 27 suggests that Apollodorus went on a voyage; line 32 that he was in touch with the senate at Rome (for if a 
-                local institution were intended the form used would surely be the Doric <foreign xml:lang="grc">σύγκλατοσ</foreign>); 
-                    Moretti's <foreign xml:lang="grc">
-                  <supplied reason="lost">μεγάλας ἀπο</supplied>/ δοχᾶς καί πίστ<supplied reason="lost">εως ἀξιωθείς</supplied>
-               </foreign> 
+                local institution were intended the form used would surely be the Doric σύγκλατοσ); 
+                    Moretti's 
+                 [μεγάλας ἀπο]/ δοχᾶς καί πίστ[εως ἀξιωθείς
+                
                 for the end of this line is very attractive; line 35 certainly refers to an embassy and while the reading remains uncertain in detail, Moretti is likely to be right with the sense 
-                of his <foreign xml:lang="grc">τοῖς τεπρεσ<supplied reason="lost">βευσαμένοις διὰ παντὸς τῶ χρό</supplied>/νω μεθόδιον ἀποδιδόμενος</foreign> in lines37ff. 
+                of his τοῖς τεπρεσ[βευσαμένοις διὰ παντὸς τῶ χρό]/νω μεθόδιον ἀποδιδόμενος in lines37 ff. 
                 the thought was perhaps that he chose to increase his personal income for the purpose of assisting the city, for he regarded the possession of money as an 
-                unstable possession (cf. LSJ s.v. <foreign xml:lang="grc">ἀβέβαιος</foreign> for comparable language) and continued to give an immortal example of civic virtue in lavish public expenditure.</p>
+                unstable possession (cf. LSJ s.v. ἀβέβαιος for comparable language) and continued to give an immortal example of civic virtue in lavish public expenditure.</p>
             <p>We have no means of telling how much is lost by the mutilation of the stone below, but perhaps not very much more than the instruction to copy the decree
                 on stone and erect it in a prominent public place.</p>
          </div>

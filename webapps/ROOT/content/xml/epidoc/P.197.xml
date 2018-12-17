@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P17100" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -113,11 +113,11 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><head xml:lang="en">Text
-                       </head><ab><lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="17">ιζ</num> <persName type="attested"><name nymRef="Ο-"><seg part="I">Ο</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
+                       </head><ab><lb n="1"/><date ref="https://godot.date/id/AUEeZ6kTa3crdx84rWhznS"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="17">ιζ</num></date> <persName type="attested"><name nymRef="Ο-"><seg part="I">Ο</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
             </ab>
 </div>
          <div type="translation" xml:space="preserve"><head>Translations</head>
-           <div type="translation" source="#edd" xml:lang="en"> <p>Year 17, O-[ . . .</p></div>
+           <div type="translation" source="#edd" xml:lang="en"> <p><date ref="https://godot.date/id/AUEeZ6kTa3crdx84rWhznS">Year 17</date>. O-[ . . .</p></div>
          </div>
          
          <div type="commentary">

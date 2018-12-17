@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="G10510" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -106,16 +106,16 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><ab>
-            <lb n="1"/><persName type="emperor" key="claudius1"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name> <name nymRef="Καῖσαρ">Καῖ
+            <lb n="1"/><date ref="https://godot.date/id/CqLo7ugF827o8WUiBwt488"><persName type="emperor" key="claudius1"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></name> <name nymRef="Κλαύδιος">Κλαύδιος</name> <name nymRef="Καῖσαρ">Καῖ
 	        <lb n="2" break="no"/>σαρ</name> <w lemma="σεβαστός">Σεβαστὸς</w>
 	        <lb n="3"/><w lemma="Γερμανικός">Γερμανικός</w>,
             <lb n="4"/><w lemma="ἀρχιερεὺς">ἀρχ<supplied reason="lost">ι</supplied>ερεὺς</w> <w lemma="μέγιστος">μέγ<unclear>ισ</unclear> 
 	          <lb n="5" break="no"/><supplied reason="lost">τ</supplied><unclear>ο</unclear>ς</w> <w lemma="δημαρχικος">δημαρχικῆς</w>
-	        <lb n="6"/><w lemma="ἐξουσία">ἐξουσίας</w> <w>τὸ</w> <num value="13">ιγ</num>, <w>αὐ-
+	        <lb n="6"/><w lemma="ἐξουσία">ἐξουσίας</w> <w>τὸ</w> <num value="13">ιγ</num>, <w>αὐ
             <lb n="7" break="no"/>τοκ<supplied reason="lost">ρά</supplied>τω<unclear>ρ</unclear></w> <w>τὸ</w> <num value="27">κζ</num> 
    	<lb n="8"/> <w>πατὴ<supplied reason="lost">ρ</supplied></w> <w>πατρίδος</w>,
 	  <lb n="9"/> <w>τιμητ<supplied reason="lost">ὴς</supplied></w> <w>ὕπατος</w> <w><supplied reason="lost">τὸ</supplied></w>
-	  <lb n="10"/><num value="5">ε</num> </persName>. <w>διὰ</w> <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name> <name nymRef="Ἀκίλιος">Ἀ<unclear>κ</unclear><supplied reason="lost">ιλί</supplied>ου</name> <name nymRef="Στράβων">Στράβω
+	  <lb n="10"/><num value="5">ε</num> </persName></date>. <w>διὰ</w> <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name> <name nymRef="Ἀκίλιος">Ἀ<unclear>κ</unclear><supplied reason="lost">ιλί</supplied>ου</name> <name nymRef="Στράβων">Στράβω
 	  <lb n="11" break="no"/>νος</name></persName> <w>ἰδίου</w> <w>π<supplied reason="lost">ρ</supplied>εσβε<corr>υτ</corr>οῦ</w>,
       <lb n="12"/><w lemma="μεταξυμεσίτης">μεταξ<supplied reason="lost">υ</supplied><unclear>με</unclear>σίτου</w> <w lemma="καὶ">καὶ</w> <w>τῆς</w>
 	  <lb n="13"/> <w>Κυρ<supplied reason="lost">ηναικῆς</supplied></w> <w><supplied reason="lost">ἐ</supplied>παρχίας</w> <w>ὅρους</w>
@@ -138,7 +138,7 @@
          <div type="commentary">
             <head>Commentary</head>
             <p>Is one fragment the left-hand corner fragment from Kwemet, now in the Museum at Beida, mentioned by <bibl><ptr target="mohamed-jmr1996a"/> <citedRange>4</citedRange>, p.1326-7</bibl>
-            <bibl> whence <title>SEG</title> <citedRange>46.2193</citedRange></bibl></p>
+            <bibl> whence <title>SEG</title> <citedRange>46.2193</citedRange></bibl>?</p>
             <p>Line 10: For Acilius Strabo see <bibl><ref type="external" 
                target="http://www.bbaw.de/forschung/pir/addenda/A/0082.html">PIR addenda</ref></bibl>; he was active in Cyrenaica under Claudius and 
                Nero: <ref type="inscription" n="A04000">A.25</ref>, <ref type="inscription" n="A08900">A.50</ref>, <ref type="inscription" n="A12210">A.68</ref>, 

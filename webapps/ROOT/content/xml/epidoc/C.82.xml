@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C70400" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -123,11 +123,11 @@
 <ab>
                     <lb n="1"/><persName type="attested" key="lgpn:V1-65122"><name nymRef="Νίκαιος"><unclear>Ν</unclear>είκαιοϲ</name> 
                        <persName type="attested" key="lgpn:V1-64499"><name nymRef="Καλλίμαχος">Καλλιμάχου</name></persName></persName> 
-                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-            <num value="55">νε</num> <persName type="attested" key="lgpn:V1-65667"><name nymRef="Σωγένης">Σωγένης</name> 
+                    <lb n="2"/><date ref="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+            <num value="55">νε</num></date> <persName type="attested" key="lgpn:V1-65667"><name nymRef="Σωγένης">Σωγένης</name> 
                <persName type="attested" key="lgpn:V1-63919"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name></persName></persName> 
-                    <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-            <num value="55">νε</num> <persName type="attested" key="lgpn:V1-63700"><name nymRef="Ἐπικράτης">Ἐπικράτης</name></persName> 
+                    <lb n="3"/><date ref="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+            <num value="55">νε</num></date> <persName type="attested" key="lgpn:V1-63700"><name nymRef="Ἐπικράτης">Ἐπικράτης</name></persName> 
                     <lb n="4"/><orig>λ</orig> <space extent="3" unit="character"/> <orig>γ</orig> <space extent="3" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <lb n="5"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <space extent="3" unit="character"/> <orig>πιϲ</orig>
                 </ab>

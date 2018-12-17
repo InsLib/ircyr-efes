@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C20200" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -139,7 +139,7 @@
                     <w><supplied reason="lost">σ</supplied>ύνπαντος</w> <w lemma="αὐτός">αὐτῶ</w> <w>οἴκω</w> <w lemma="ὁ">οἱ</w> <w>ἱαρὲς</w> 
                     <lb n="5"/><supplied reason="lost"><w>τῶ</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName> 
                         <w lemma="ὁ">τὰ</w></supplied> <w lemma="ἄγαλμα"><supplied reason="lost" cert="low">ἀγάλ</supplied>ματα</w>
-   <date corresp="https://godot.date/id/Cf6Sw2iKKw8Qk8EDedSnbh"><w lemma="ἐπί">ἐπὶ</w> <w>ἱαρεῦς</w> <persName type="attested" key="lgpn:V1-63008"><name nymRef="Τιβέριος">Τιβερίω</name> 
+   <date ref="https://godot.date/id/Cf6Sw2iKKw8Qk8EDedSnbh"><w lemma="ἐπί">ἐπὶ</w> <w>ἱαρεῦς</w> <persName type="attested" key="lgpn:V1-63008"><name nymRef="Τιβέριος">Τιβερίω</name> 
                     <lb n="6"/><supplied reason="lost"><name nymRef="Κλαύδιος">Κλαυδίω</name> <persName type="attested"><name nymRef="Ἀπολλώνιος">Ἀπολλωνίω</name></persName></supplied> 
                     <w><supplied reason="lost">υἵ</supplied>ω</w> <name nymRef="Πρεῖσκος">Πρείσκω</name></persName></date> <w>κατεσκεύαξαν</w>    <note>sic</note> 
                     <lb n="7"/><supplied reason="lost"><w lemma="ἐκ">ἐκ</w> <w>τᾶν</w> <w>τῶ</w></supplied> 

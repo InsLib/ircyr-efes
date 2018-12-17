@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C64700" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -120,14 +120,14 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15">ει</num>
-                    <lb n="2"/> <w>ἐπὶ</w> <w>εἱερέως</w> 
+                    <lb n="1"/><date><date ref="https://godot.date/id/MKvpSxXFU2U4Pacfo3wBmg"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="15">ει</num></date>
+                    <lb n="2"/> <date ref="https://godot.date/id/5H5gZigQeHgNXSJRkgde97"><w>ἐπὶ</w> <w>εἱερέως</w> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-65953"><name nymRef="Φιλίσκος">Φιλίσκου</name> 
-                    <lb n="4"/> <w>τοῦ</w> <persName type="attested" key="lgpn:V1-63908"><name nymRef="Εὐφάνης">Εὐφάνο<lb n="5" break="no"/>υ</name></persName></persName> <persName type="attested" key="lgpn:V1-62207"><name nymRef="Διδύμη">Διδύμη</name> 
+                    <lb n="4"/> <w>τοῦ</w> <persName type="attested" key="lgpn:V1-63908"><name nymRef="Εὐφάνης">Εὐφάνο<lb n="5" break="no"/>υ</name></persName></persName></date></date> <persName type="attested" key="lgpn:V1-62207"><name nymRef="Διδύμη">Διδύμη</name> 
                     <lb n="6"/><persName type="attested" key="lgpn:V1-62228"><name nymRef="Εὐφράνωρ">Εὐφράνορος</name></persName></persName> 
                     <lb n="7"/><date type="life-span" dur="P18Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="18">ιη</num> </date>
                      <lb n="7a"/> <space unit="line" extent="2"></space>
-                    <lb n="8"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="16">ιϛ</num> <w>ἐπὶ</w> <persName type="attested" key="lgpn:V1-65175"><name nymRef="Νικόστρατος">Νεικοστράτου</name></persName> 
+                    <lb n="8"/><date ref="https://godot.date/id/BFzSjBZC9UehiFNbqYrmdZ"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="16">ιϛ</num> <date ref="https://godot.date/id/EcfEQPopbxSYmSwVVkz4nW"><w>ἐπὶ</w> <persName type="attested" key="lgpn:V1-65175"><name nymRef="Νικόστρατος">Νεικοστράτου</name></persName></date></date> 
                     <lb n="9"/><persName type="attested" key="lgpn:V1-62203"><name nymRef="Βρισηΐς">Βρεισηὶς</name> <persName type="attested" key="lgpn:V1-62219"><name nymRef="Εὐάγγελος">Εὐανγέ<lb n="10" break="no"/>λου</name></persName></persName> 
                      <date type="life-span" dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="45">με</num> </date>
                 </ab>
@@ -150,7 +150,7 @@
             </div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>The stone was used in Hellenistic times, for public list <ref type="inscription" target="igcyr033100">IGCyr033100</ref>. 
+            <p>The stone was used in Hellenistic times, for a public list, <ref type="inscription" target="igcyr033100">IGCyr033100</ref>. 
                By the Roman period it had been converted into a tombstone. </p>
             <p>Line 5: 15 of the Actian Era = 16/15 B.C.E.; the date appears from  <ref type="inscription" n="C71400">C.140</ref> in which the same eponymus priest is named in an inscription which is certainly Augustan.
                 The use of the Cyrenaean priest of Apollo for dating here shows that Gubba was in the territory of Cyrene. </p>

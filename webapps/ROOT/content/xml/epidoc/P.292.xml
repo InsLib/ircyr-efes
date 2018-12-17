@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P39400" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -123,10 +123,10 @@
              
             <div subtype="fragment" n="i" type="textpart">
                <ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <lb n="1"/><date ref="https://godot.date/id/ubESdmvK4CHWX3vzp68to8"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                   <num value="55">νε</num> <persName type="attested" key="lgpn:V1-61643"><name nymRef="Τερτιάς">Τερτιὰϲ</name> 
                         <lb n="2"/><persName type="attested" key="lgpn:V1-61420"><name nymRef="Λασθένης">Λαϲθέν<supplied reason="lost">ο</supplied>υϲ</name></persName></persName> 
-                        <lb n="3"/><rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παῦνι</w></rs> <num value="4">δ</num> 
+                        <lb n="3"/><rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παῦνι</w></rs> <num value="4">δ</num> </date>
                </ab>
             </div>
             <div subtype="fragment" n="ii" type="textpart">
@@ -156,12 +156,13 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>i: Anno 55. Terza di Lastene, Payni 1.</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i: Year 55 <note>C.E. 24/25</note>, Tertias, <supplied reason="subaudible">daughter</supplied> of Lasthenes, Payni 4 <note>May 29</note>.</p> 
+            <div type="translation" source="#edd" xml:lang="en"><p>i: <date ref="https://godot.date/id/ubESdmvK4CHWX3vzp68to8">Year 55, Payni 4</date>, Tertias, <supplied reason="subaudible">daughter</supplied> of Lasthenes, .</p> 
             <p>ii: . . . ] Prokla [ . . . ], aged 75.</p></div>
          </div>
         
          <div type="commentary">
             <head>Commentary</head>
+            <p>C.E. 24/25, May 29</p>
             <p>i.1: On the development of feminine names in -άς from those in -α, see Robert</p>
          </div>
          

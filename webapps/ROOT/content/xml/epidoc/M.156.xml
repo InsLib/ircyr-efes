@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C86100" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -42,7 +42,7 @@
                      <handNote>Perhaps II century AD; probably 5 different hands; the face was originally laid out 
                         with seven deeply scored guidelines, but the first cutter began on the third. 
                         lines 1 - 5, <height>0.027</height>; line 6, <height>0.03</height>; line 7, <height>0.021</height>; line 8, <height>0.02</height>; line 9, <height>0.012</height>; line 10, <height>0.016</height>; 
-                        alpha with dropped bar in lines1, 2, 4 and perhaps 7,8, straight bar line 5, cursive in lines 7 - 9; lunate sigma and omega and lunate epsilon for the figure in line </handNote>
+                        alpha with dropped bar in lines 1, 2, 4 and perhaps 7,8, straight bar line 5, cursive in lines 7 - 9; lunate sigma and omega and lunate epsilon for the figure in line </handNote>
                   </handDesc>
                </physDesc>
                <history>

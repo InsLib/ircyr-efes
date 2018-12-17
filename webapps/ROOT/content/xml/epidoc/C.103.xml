@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C08500" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -42,7 +42,7 @@
                      </supportDesc>
                      <layoutDesc>
                         <layout><rs type="execution" key="scalpro">Inscribed</rs> on two faces; each entry in a different hand. A relief of a scroll runs round three sides at top. 
-                           On side a, lines 16-17, 22 in rasura. Side b, largely erased, c. 1/3 down some letters on a margin; this probably represents a first attempt to write teh list, 
+                           On side a, lines 16-17, 22 in rasura. Side b, largely erased, c. 1/3 down some letters on a margin; this probably represents a first attempt to write the list, 
                            abandoned for reasons of space (so Paci). </layout>
                        
                      </layoutDesc>
@@ -170,18 +170,18 @@
                     <lb n="31"/><persName type="attested" key="lgpn:V1-65058"><name nymRef="Μνασώι">Μνασὼι</name> <space quantity="3" unit="character"/> <persName type="attested"><name nymRef="Ἰάσων">Ἰ<supplied reason="lost">ά</supplied>σονος</name></persName></persName>
                     <lb n="32"/><persName type="attested" key="lgpn:V1-63143"><name nymRef="Ἀριστοδίκα">Ἀριστοδίκα</name> <persName type="attested" key="lgpn:V1-64429"><name nymRef="Ἰσοκράτης">Ἰσοκρά<unclear>τ</unclear>ευς</name></persName></persName> 
                     <lb n="33"/><persName type="attested" key="lgpn:V1-64952"><name nymRef="Μεγώ">Μεγὼ</name> <persName type="attested"><name nymRef="Ἀρίσταρχος">Ἀριστάρχω</name></persName></persName> 
-                    <lb n="34"/><date corresp="https://godot.date/id/VxJSNF2xNcSzTNjTQvUg7L"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="34"/><date ref="https://godot.date/id/VxJSNF2xNcSzTNjTQvUg7L"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="92">ϙβ</num></date> <persName type="attested" key="lgpn:V1-64742, lgpn:V1-64742"><name nymRef="Φαβία">Φαβία</name> <name nymRef="Κυδιμάχα">Κυδιμάχα</name>
                     <lb n="35"/> <space quantity="3" unit="character"/> <persName type="attested" key="lgpn:V1-65878"><name nymRef="Φάος">Φαώι</name></persName></persName> <space quantity="3" unit="character"/> 
-                    <lb n="36"/><date><date corresp="https://godot.date/id/Fi8tsNRiaL5NxRfs54RqLV"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="133">ρλγ</num></date> <date corresp="https://godot.date/id/P9zkF6cwpXCQyVnbCfZXhF"><w lemma="ὁ">τοῦ</w> <w lemma="καί">καὶ</w> <num value="6">ϛ</num></date> </date> 
+                    <lb n="36"/><date><date ref="https://godot.date/id/Fi8tsNRiaL5NxRfs54RqLV"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="133">ρλγ</num></date> <date ref="https://godot.date/id/P9zkF6cwpXCQyVnbCfZXhF"><w lemma="ὁ">τοῦ</w> <w lemma="καί">καὶ</w> <num value="6">ϛ</num></date> </date> 
                        <persName type="attested" key="lgpn:V1-64461"><name nymRef="Καλλιβώλα">Καλλιβώλα</name> <persName type="attested" key="lgpn:V1-62698"><name nymRef="Ἀλέξανδρος">Ἀλεξάνδ<supplied reason="lost">ρω</supplied></name></persName></persName>   
                 </ab>
             </div>
             <div subtype="face" n="b" type="textpart">
                <ab>    
                     <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="133">ϙλγ</num></date> <!-- check -->
+                    <num value="133">ρλγ</num></date> <!-- check -->
                 </ab>
 </div>
 </div>
@@ -205,7 +205,8 @@
                <app loc="31"><rdg  resp="#oliverioDAI">Μνασὼι - ι -</rdg></app>
                <app loc="32"><rdg  resp="#oliverioDAI">Ἀριστοδίκα Ἰσο[κράτ̣ε]υς</rdg></app>
                <app loc="33"><rdg  resp="#oliverioDAI">Μεγὼ Ἀριστο[δά]μω</rdg><note>, whence LGPN V1-63142</note></app>
-               <app></app>
+               <app loc="b"><rdg  resp="#paci2000"><note> Not previously recorded; note a misprint in SEG, ϙ for ρ</note></rdg></app>
+               
                </listApp>
          </div>
            

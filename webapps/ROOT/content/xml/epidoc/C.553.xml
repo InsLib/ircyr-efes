@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -41,7 +41,7 @@
                   </objectDesc>
                   <handDesc>
                      <handNote>III century C.E.; line 1, <height>0.04</height>, line 2, <height>0.037</height>, line 3, <height>0.03</height>, 
-                        line 4, <height>0.025</height>. varying forms, lunate sigma, omega. In lines1 and 2 letters are broad,
+                        line 4, <height>0.025</height>. varying forms, lunate sigma, omega. In lines 1 and 2 letters are broad,
                      and largely well spaced; in lines3 and 4 they are narrow and more closely packed.</handNote>
                   </handDesc>
                </physDesc>

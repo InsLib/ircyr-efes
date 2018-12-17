@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="G10000" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -99,10 +99,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>Ἔτουϲ</ex></expan></w> 
-               <num value="100"><unclear cert="low">ρ</unclear></num>, <w>ἐπὶ</w> <w><unclear>ἱ</unclear>αρέ
+            <lb n="1"/><date><date ref="https://godot.date/id/7xbKfrMbpCmjusQH2j4Ega"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>Ἔτουϲ</ex></expan></w>
+               <num value="100"><unclear cert="low">ρ</unclear></num>, <date><w>ἐπὶ</w> <w><unclear>ἱ</unclear>αρέ
             <lb n="2" break="no"/><unclear>ω</unclear>ϲ</w> <persName type="attested"><name nymRef="Μάξιμος">Μαξίμω</name></persName>,
-            <lb n="3"/><rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χυαχὶ</w></rs> <num value="26">ϛκ</num>,
+            <lb n="3"/><rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χυαχὶ</w></rs> <num value="26">ϛκ</num></date></date></date> 
             <lb n="4"/><persName type="attested"><name nymRef="Λύων"><unclear>Λύ</unclear>ων</name>
                <persName type="attested"><name nymRef="Ἀνδροκλῆς">Ἀν<lb n="5" break="no"/>δροκλεῦϲ</name></persName></persName>
             <lb n="6"/> <space extent="unknown" unit="character"/>
@@ -123,7 +123,7 @@
          </div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>1. Year 100 (era of Actium) = 69/70 C.E., on the assumption that ρ’ is the correct reading; but, π̣ʹ or π̣ι̣ʹ are possible.</p>
+            <p>1. Year 100 (era of Actium) = 69/70 C.E., on the assumption that ρ’ is the correct reading; but π̣ʹ or π̣ι̣ʹ are possible.</p>
             <p>1-2. The eponymous priest of Apollo at Kyrene; a Maximus (Μ(ᾶρκος) Ἀντώνιος Μάξιμος) is known in this function in the 1st cent. C.E. </p>
          </div>
          

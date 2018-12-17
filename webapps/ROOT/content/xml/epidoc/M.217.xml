@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C66200" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -113,7 +113,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/> <space quantity="3" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="100">ρ</num> <rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs> <num value="29">κθ</num> <space quantity="3" unit="character"/> 
+                    <lb n="1"/> <space quantity="3" unit="character"/> <date ref="https://godot.date/id/rqANFPgGVKsgnEmiRcSwZc"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="100">ρ</num> <rs type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs> <num value="29">κθ</num></date> <space quantity="3" unit="character"/> 
                     <lb n="2"/><persName type="attested"><name nymRef="Δαμοκράτης">Δαμοκράτης</name> <persName type="attested"><name nymRef="Ἄλεξις">Ἀλέξεις</name></persName></persName>
             <date type="life-span" dur="P5Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="5">ε</num> </date>
                     <lb n="3"/><persName type="attested"><name nymRef="θεύδωρος">θεύδωρος</name> <persName type="attested"><name nymRef="Ἁγησίστρατος">Ἁγησιστράτω</name></persName></persName> 

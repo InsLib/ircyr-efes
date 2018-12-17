@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="T70000" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -121,17 +121,17 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="16" xml:lang="grc">ι<unclear>ϛ</unclear></num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοάχι</w></rs>
-                    <lb n="2"/><num value="4" xml:lang="grc">δ</num> 
+                    <lb n="1"/><date ref="https://godot.date/id/PYJDsFwJn6Qs3w78jqhVrT"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="16">ι<unclear>ϛ</unclear></num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοάχι</w></rs>
+                    <lb n="2"/><num value="4">δ</num></date> 
                         <persName type="attested"><name nymRef="Τιμαίνετος">Τιμαίνετ<lb n="3" break="no"/><unclear>οϲ</unclear></name> 
                         <persName type="attested"><name nymRef="Ἀγάθαρχος">Ἀγαθάρχ<lb n="4" break="no"/><unclear>ω</unclear></name></persName></persName> 
                         <date type="life-span" dur="P70Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
-                        <num value="70" xml:lang="grc"><unclear>ο</unclear></num> </date> <persName type="attested"><name nymRef="Καλλώ">Καλλὼ</name>
+                        <num value="70"><unclear>ο</unclear></num> </date> <persName type="attested"><name nymRef="Καλλώ">Καλλὼ</name>
                     <lb n="5"/><persName type="attested"><name nymRef="Νίκων">Νίκωνοϲ</name></persName></persName> 
                     <lb n="6"/> <space quantity="1" unit="character"/> 
                         <date type="life-span" dur="P60Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
-                        <num value="60" xml:lang="grc">ξ</num> </date>
+                        <num value="60">ξ</num> </date>
                 </ab>
 </div>
          

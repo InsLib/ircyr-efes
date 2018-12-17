@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C77600" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -102,10 +102,7 @@
          <change when="2009-07-15" who="MR">turned to XML and tidied</change>
          <change when="2009-05-11" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_CD-5" decls="#photograph"><desc>Face (1968, Joyce Reynolds, I. 12)</desc></graphic><!--Dept.--><!--
-                    --><!--
-                    
-                --></facsimile>
+   </teiHeader><facsimile><graphic url="JMR_CD-5" decls="#photograph"><desc>Face (1968, Joyce Reynolds, I. 12)</desc></graphic><!--Dept.--></facsimile>
    <text>
       <body>
          
@@ -116,12 +113,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="118">ριη</num> 
-                    <rs type="month" key="Μεχίρ"><w lemma="Μεχίρ">Μεχὶρ</w></rs> <persName type="attested"><name nymRef="Νικασώ">Νικασὼ</name> 
+                    <lb n="1"/><date ref="https://godot.date/id/CnxnqgU93uvdQUpDE4rEdj"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="118">ριη</num> 
+                    <rs type="month" key="Μεχίρ"><w lemma="Μεχίρ">Μεχὶρ</w></rs></date> <persName type="attested"><name nymRef="Νικασώ">Νικασὼ</name> 
                         <persName type="attested"><name nymRef="Νικόδημος">Νεικ<lb n="2" break="no"/>οδήμω</name></persName></persName> 
                     <date type="life-span" dur="P15Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="15"><unclear>ε</unclear>ι</num> </date> 
-                    <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="120">ρκ</num> 
-                   <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοι<surplus>α</surplus><lb n="3" break="no"/>ὰχ</w></rs> <num value="25">εκ</num> 
+                   <date ref="https://godot.date/id/6QgfH33b8hThha3tz52rf2"> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="120">ρκ</num> 
+                   <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοι<surplus>α</surplus><lb n="3" break="no"/>ὰχ</w></rs> <num value="25">εκ</num></date> 
                     <gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">τοκρίτη</seg></name> 
                     <persName type="attested"><name nymRef="Νικόδημος">Νε<supplied reason="lost">ι<lb n="4" break="no"/>κο</supplied><unclear>δ</unclear><supplied reason="lost">η</supplied><unclear>μ</unclear>ω</name></persName> </persName>
                     <date type="life-span" dur="P22Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="22">κ<unclear>β</unclear></num> </date>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C78300" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -36,7 +36,8 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on one face which is worn. Two incised lines run approximately from the upper corners slantwise across the face to approximately the central point on the line of the moulding and lines have been incised across the moulding to simulate more elabo</layout>
+                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on one face which is worn. Two incised lines run approximately from the upper corners slantwise across the face to approximately the central point on the line of the moulding and 
+                           lines have been incised across the moulding to simulate more elaborate decoration.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>

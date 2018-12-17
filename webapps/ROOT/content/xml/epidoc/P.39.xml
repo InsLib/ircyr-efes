@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P04200" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -107,9 +107,7 @@
          <change when="2009-07-17" who="Pietro">turned to XML and tidied</change>
          <change when="2009-02-24" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="P_I_036" decls="#photograph"><desc>Face (Joyce Reynolds, Tolmeita II. 36)</desc></graphic><!--
-                    --><!--
-                --></facsimile>
+   </teiHeader><facsimile><graphic url="P_I_036" decls="#photograph"><desc>Face (Joyce Reynolds, Tolmeita II. 36)</desc></graphic></facsimile>
    <text>
       <body>
         
@@ -120,8 +118,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Ἵππαρχος">Ἵππαρχος</name></persName> 
-                        <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="15">ιε</num> <persName type="attested"><name nymRef="Πασαια"><unclear>Π</unclear>ασαι<unclear>α</unclear></name></persName>
+                        <lb n="2"/><date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="15">ιε</num></date> <persName type="attested"><name nymRef="Πασαια"><unclear>Π</unclear>ασαι<unclear>α</unclear></name></persName>
                         <w><expan><abbr><expan><abbr><am><g ref="symbols.xml#ΣΤΚ"/></am></abbr><ex>συγκ</ex></expan></abbr><ex>οίτοι</ex></expan></w>
                         
                     </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
@@ -138,12 +136,12 @@
             
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p><note>i</note>. Hipparchos, Year 15, Pasaia. Tent-fellows.</p>
+            <p><note>i</note>. Hipparchos, <date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL">Year 15</date>, Pasaia. Tent-fellows.</p>
             <p><note>ii</note>. Aristoteles, <supplied reason="subaudible">son</supplied> of Aristoteles.</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>i, line 2, Year 15, but the sign  is very uncertain.</p>
-            <p>for the resolution proposed see on (block I below) <ref type="inscription" n="P04600">P.43</ref>.</p>
+            <p>for the resolution proposed see on <!-- (block I below)  --><ref type="inscription" n="P04600">P.43</ref>.</p>
          </div>
          
       </body>

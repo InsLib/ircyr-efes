@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C13300" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><rs type="textType">List</rs> of ephebes</title>
+            <title><rs type="textType">Dedication</rs> by ephebes</title>
             <editor>Joyce M. Reynolds</editor>
          </titleStmt>
          <publicationStmt>
@@ -138,8 +138,8 @@
 <ab>
                     <!-- check number values missing "|" marks?  -->
                     <lb n="1"/> <space quantity="2" unit="character"/> <w>Τύχα</w> <w>Ἀγαθᾶ</w> 
-                    <lb n="2"/><date><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="254">σνδ</num></date> <w lemma="ὁ">τοῦ</w> <w lemma="καί">καὶ</w> <date corresp="https://godot.date/id/xmJvKQK2xNRKyuNQG8Aj3o"><num value="3">γ</num> 
+                    <lb n="2"/><date><date ref="https://godot.date/id/Fk9V2n8d5ktGEzfSfq7QaQ"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="254">σνδ</num></date> <w lemma="ὁ">τοῦ</w> <w lemma="καί">καὶ</w> <date ref="https://godot.date/id/xmJvKQK2xNRKyuNQG8Aj3o"><num value="3">γ</num> 
                     <w lemma="αὐτοκράτωρ">Αὐτοκρά<lb n="3" break="no"/>τορος</w> <persName type="emperor" key="severusalexander"><name nymRef="Καῖσαρ">Καίσαρος</name> 
                     <name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκου</ex></expan></name> <name nymRef="Αὐρήλιος">Αὐρηλίου</name> 
                     <lb n="4"/><name nymRef="Σεβῆρος">Σεβήρου</name> <name nymRef="Ἀλέξανδρος">Ἀλεξάνδρου</name> <g ref="symbols.xml#leaf"/> <lb n="5"/> <w>Εὐσεβοῦς</w> <w>Εὐτυχοῦς</w> <name nymRef="Σεβαστός">Σεβαστοῦ</name></persName></date> 

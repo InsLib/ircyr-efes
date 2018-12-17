@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C42800" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -127,7 +127,9 @@
             <gap reason="lost" extent="unknown" unit="character"/>
                    <lb n="5"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>m</unclear></w> 
                     <w lemma="denarius"><expan><abbr><am><g ref="symbols.xml#denarius"/></am></abbr><ex>denarii</ex></expan></w> 
-                    <num value="4000">ↀI𐆕</num> <w lemma="et">et</w> 
+                    <num value="4000">
+                       ↀI𐆕
+                    </num> <w lemma="et">et</w> 
             <orig><unclear>I</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="6"/><gap reason="lost" extent="unknown" unit="character"/> <w part="F"><unclear>s</unclear></w>
             <w lemma="aqua">aquae</w> <w lemma="in">in</w> <orig><unclear>e</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>

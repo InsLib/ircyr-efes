@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C18600" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -44,7 +44,7 @@
                   </objectDesc>
                   <handDesc>
                      <handNote>ll. 1,2,7, <height>0.025</height>; lines 3-6, <height>0.02</height>; line 8, <height>0.03</height>; 
-                        lines 9-11, <height>0.015</height>; lines12-35, <height atLeast="0.015" atMost="0.02">0.015 - 0.02</height>; 
+                        lines 9-11, <height>0.015</height>; lines 12-35, <height atLeast="0.015" atMost="0.02">0.015 - 0.02</height>; 
                         cursive omega in lines 1-8; lunate epsilon, lunate sigma, cursive omega, in lines 9-27; 
                         square sigma in line 22; dot for abbreviations</handNote>
                   </handDesc>
