@@ -37,7 +37,8 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="litteris scariphatis">Graffiti</rs>  on the east wall, to the left of the central niche; each entry in a different hand</layout>
+                        <layout><rs type="execution" key="litteris scariphatis">Graffiti</rs>  on the east wall, to the left of the central niche, below <ref type="inscription" n="C67400">M.207</ref>; 
+                           each entry in a different hand</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
@@ -122,14 +123,15 @@
                         <lb n="1"/><persName type="attested" key="lgpn:V1-63462"><name nymRef="Δᾶμις">Δάμιος</name> 
                             <lb n="2"/><persName type="attested" key="lgpn:V1-65410"><name nymRef="Ποντικός">Π<unclear>ο</unclear>ντικοῦ</name></persName></persName> 
                         <lb n="3"/><persName type="attested"><name nymRef="Διονύσιος">Διονύσιος</name></persName> 
-                        <lb n="4"/><persName type="attested"><name nymRef="Κοσβάρακος">Κοσβάρακος</name> 
-                            <lb n="5"/><persName type="attested"><persName type="attested"><name nymRef="Μάλιχος">Μαλίχου</name></persName></persName> 
+                        <lb n="4"/><persName type="attested" key="TMref9864"><name nymRef="Κοσβάρακος">Κοσβάρακος</name> 
+                            <lb n="5"/><persName type="attested"><persName type="attested" key="TMref71397"><name nymRef="Μάλιχος">Μαλίχου</name></persName></persName> 
                         <lb n="6"/><placeName type="ethnic"><w lemma="Ἰδουμαῖος">Ἰδουμαῖος</w></placeName></persName> 
                     </ab></div>
             <div subtype="column" n="2" type="textpart"><div subtype="section" n="a" type="textpart"><ab>
                             <lb n="1"/> <persName type="attested" key="lgpn:V1-62993"><name nymRef="Ἀπολλώνιος">Ἀπολλώνιος</name></persName> 
                             <lb n="2"/><persName type="attested"><persName type="attested" key="lgpn:V1-64707"><name nymRef="Κοζαδαῖος"><seg part="I">Κοζαδαιο</seg></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/> 
-                        </ab></div><div subtype="section" n="b" type="textpart"><ab>
+                        </ab></div>
+               <div subtype="section" n="b" type="textpart"><ab>
                             <lb n="1"/><persName type="attested"><name nymRef="Κράτερος">Κράτερος</name>
                                 <lb n="2"/><persName type="attested"><name nymRef="Σύμμαχος">Συμμάχου</name></persName>
                             <lb n="3"/><placeName type="ethnic"><w lemma="Ἰδουμαῖος">Ἰδουμαῖος</w></placeName></persName>
@@ -144,15 +146,12 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>2. a.1In view of the professed Idumaean origin of two members of this group of graffiti writers 
-               (ll.1.6, 2.b.3), 
-                    it seems possible that this is a name derived from Κοζέ who is recorded by Josephus, 
-                    Ant. XV. 7.9, as an Idumaean god. </p>
-            <p> Louis Robert notes that also Κυσβάρακος  
-                    has Semitic and probably idumaean character. </p>
+            <p>Line 1.4· Κοσβάρακος: In view of the professed Idumaean origin of two members of this group of graffiti writers 
+               (ll.1.6, 2.b.3), it seems possible that this is a name derived from Κοζέ who is recorded by Josephus, 
+               Ant. XV. 7.9, as an Idumaean god; for Idumaean names with the Kos- prefix see Trismegistos (www.trismegistos.org) s.v..</p>
             <p> Ferri argued that these graffiti are likely to be earlier than C.E. 70, 
                     since the name Idumaeos is not attested after the fall of Jerusalem, see PW IX, col. 918.
-                    The men were probably merchants rather than soldiers, who would be likely to give their rank and or unit.</p>
+                    The men were probably merchants rather than soldiers, who would be likely to give their rank and/or unit.</p>
          </div>
          
       </body>
