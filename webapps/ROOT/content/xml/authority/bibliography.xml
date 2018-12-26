@@ -1962,13 +1962,18 @@
                         <title level="j">Revue de Philologie</title> <biblScope unit="issue">n.s. 1</biblScope> <biblScope unit="pages">99-102</biblScope>
                         (= <title>OMS</title> OMS II, 1054-7)</bibl>
                     
-                    <bibl xml:id="robert1929"><author>L. <name type="surname">Robert</name></author> <date>1939</date> <title level="a">Décrets de Cyrène</title>, 
+                    <bibl xml:id="robert1929"><author>L. <name type="surname">Robert</name></author> <date>1929</date> <title level="a">Décrets de Cyrène</title>, 
                         <title level="j">Revue de Philologie</title> <biblScope unit="issue">n.s. 3</biblScope> <biblScope unit="pages">155-158</biblScope>
                         (= <title>OMS</title> II, 1121-24)</bibl>
                     
                     <bibl xml:id="robert1939"><author>L. <name type="surname">Robert</name></author> <date>1939</date> <title level="a">Décret de Cyrène pour un évergète</title>, 
                         <title level="j">Revue de Philologie</title> <biblScope unit="issue">n.s. 3</biblScope> <biblScope unit="pages">156-163</biblScope>
-                        (= <title>OMS</title> II, 1309-1316)</bibl><!-- check -->
+                        (= <title>OMS</title> II, 1309-1316)</bibl>
+                    
+                    
+                    <bibl xml:id="robert1939a"><author>L. <name type="surname">Robert</name></author> <date>1939</date> <title level="a">Onomastica</title>, 
+                        <title level="j">Revue de Philologie</title> <biblScope unit="issue">n.s. 3</biblScope> <biblScope unit="pages">179-180</biblScope>
+                        (= <title>OMS</title> II, 1332-1333)</bibl>
                     
                     <bibl xml:id="robert1940"><author>L. <name type="surname">Robert</name></author>
                         <date>1940</date>, <title level="m">Les gladiateurs dans l'orient grec</title>,
