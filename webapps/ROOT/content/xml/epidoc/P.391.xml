@@ -126,7 +126,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><date ref="https://godot.date/id/92ii4MGqLYmwifHWoDUysg"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <g ref="symbols.xml#leaf"/> <num value="10">ι</num>
+                    <lb n="1"/><date ref="https://godot.date/id/E8uPSAuCJTkmT6WmdbRu9b"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <g ref="symbols.xml#leaf"/> <num value="10">ι</num>
                     <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παῦνε</w></rs> <num value="8">η</num></date>
                     <lb n="2"/><persName type="attested"><name nymRef="Φίλων">Φίλων</name>
                     <lb n="3"/><persName type="attested"><name nymRef="Διονύσιος">Διονυσίω</name></persName></persName>
@@ -135,7 +135,7 @@
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p><date ref="https://godot.date/id/92ii4MGqLYmwifHWoDUysg">Year 10, Pauni 8</date>, Philon,  <supplied reason="subaudible">son</supplied> of Dionysios, <supplied reason="omitted">aged</supplied> 65.</p></div>
+            <p><date ref="https://godot.date/id/E8uPSAuCJTkmT6WmdbRu9b">Year 10, Pauni 8</date>, Philon,  <supplied reason="subaudible">son</supplied> of Dionysios, <supplied reason="omitted">aged</supplied> 65.</p></div>
          <div type="commentary">
             <head>Commentary</head>
             
