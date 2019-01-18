@@ -118,7 +118,7 @@
             <persName type="attested"><name nymRef="Ἁγεμόνα">Ἁγεμ<unclear>ό</unclear><supplied reason="lost" cert="low">να</supplied></name> 
                     <lb n="2"/><persName type="attested"><name nymRef="Καλλικράτης">Καλλι<unclear>κ</unclear><supplied reason="lost" cert="low">ράτους</supplied></name></persName></persName>
                     <lb n="3"/> <space quantity="2" unit="character"/> <date type="life-span" dur="P50Y" cert="low"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
-            <num atLeast="50" atMost="59">ν<gap reason="lost" quantity="1" unit="character"><certainty match=".." locus="name"/></gap></num> </date>
+            <num atLeast="50" atMost="59"><unclear>ν</unclear><gap reason="lost" quantity="1" unit="character"><certainty match=".." locus="name"/></gap></num> </date>
                     <lb n="4"/><date ref="https://godot.date/id/fqJpBXELsoyHoMRHtRMCjP"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="125">ρκε</num></date> 
             <gap reason="lost" quantity="5" unit="character" precision="low"/> 
                     <lb n="5"/><persName type="attested"><name nymRef="Πελέα">Πελή<supplied reason="lost">α</supplied></name> 
@@ -133,11 +133,11 @@
          
          <div type="commentary">
             <head>Commentary</head>
-            <p>line 1 if correctly read, 110 of the Actian era = C.E. 79/80; there is hardly room for a longer name than is supplied </p>
-            <p>l.2 Other names such as Καλλικ[λέους] are possible. </p>
+            <p>Line 1: If correctly read, 110 of the Actian era = C.E. 79/80 </p>
+            <p>l.2 There is hardly room for a longer name than is supplied; other names such as Καλλικ[λέους] are possible. </p>
             <p>l.3 Aged 50+. </p>
             <p>l.4 125 of the Actian era = C.E. 84/85; the month may have followed.</p>
-            <p>l.6 The age is in effect lost.</p>
+            <p>l.7: The age is in effect lost.</p>
          </div>
          
          

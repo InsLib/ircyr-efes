@@ -35,7 +35,7 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on one face; each entry in a different hand.</layout>
+                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on one face; no distinguishable change of hand between entries.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
@@ -49,10 +49,10 @@
                   </origin>
                   <provenance type="found">
                      <p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>: 
-                        <placeName type="monuList" ref="http://www.slsgazetteer.org/2091">Road from Beida to Cyrene</placeName>, near the Cyrene cross roads; found in <date type="found">1956</date>.</p>
+                        <placeName type="monuList" ref="http://www.slsgazetteer.org/2091">Road from Beida to Cyrene</placeName>, in the necropolis near the Cyrene cross roads; found in <date type="found">1956</date>.</p>
                   </provenance>
                         <provenance type="observed">
-                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName>.</p>
+                           <p><placeName type="monuList" ref="www.slsgazetteer.org/1492">Casa Parisi</placeName>.</p>
                         </provenance>
                      
                   
@@ -125,15 +125,14 @@
 </div>
          <div type="apparatus">
             <head>Apparatus</head>
-            <p/>
+            <p>Theoxena <supplied reason="subaudible">daughter</supplied> of Hagesistratos, aged 18.</p>
+            <p>Hagesistratos <supplied reason="subaudible">son</supplied> of Alexis, aged 55.</p>
+            <p><date ref="https://godot.date/id/bTCGdL4vJjG5BZnXqiqLaZ">Year 111, Phaophi 21</date>, Theodoros <supplied reason="subaudible">son</supplied> of Amyntas, aged 5.</p>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>l.2 Aged 18. </p>
-            <p> line 3 Aged 55. </p>
             <p> line 4 111 of the Actian Era, Phaophi 21 = C.E. 80, 18th October. </p>
-            <p> line 5 Aged 5.</p>
          </div>
          
       </body>

@@ -32,8 +32,8 @@
                      <layoutDesc>
                         <layout><rs type="execution" key="pictura">Painted</rs> beside several of the figures. 1: At the left of the entrance, figures of Perseus, Bellerephon and the Chimaera ; 
                         2. On the back wall, between the two arcosoli, Achilles, in a chariot, and the fallen Hector: the captions are for the two heroes, and (iii) for the two 
-                        horses of Achilles; 3. In the corner of the same wall, Odysseus abnd the Sirens: there are some traces of the caption for Odysseues. 
-                        The central figure of the three sirens holds a scroll with the text of ii; 4. On the right wall, Pyrrus triumphing over Polyxena. </layout>
+                        horses of Achilles; 3. In the corner of the same wall, Odysseus and the Sirens: there are some traces of the caption for Odysseues. 
+                        The central figure of the three sirens holds a scroll with the text of ii; 4. On the right wall, Pyrrus in the act of sacrificing Polyxena. </layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
@@ -87,7 +87,7 @@
          
          <change when="2017-04-05" who="CR">created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><surface/></facsimile>
+   </teiHeader><facsimile><!-- Dept E.3115-3118 --><surface/></facsimile>
    
    <text>
       <body>

@@ -117,10 +117,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested" key="lgpn:V1-64832"><name nymRef="Λούκιος">Λ<milestone unit="face"/>ούκι<supplied reason="omitted">ο</supplied>ϲ</name></persName>  
-           <persName type="attested" key="lgpn:V1-63714"><name nymRef="Ἐπίουρος">Ἐ<milestone unit="face"/><orig><unclear>π</unclear>ιο<unclear>ύ</unclear>ρ<supplied reason="lost">ου</supplied></orig></name></persName>
+                    <lb n="1"/><persName type="attested" key="lgpn:V1-64832"><name nymRef="Λούκιος">Λ<milestone unit="face" break="no"/>ούκι<supplied reason="omitted">ο</supplied>ϲ</name></persName>  
+           <persName type="attested" key="lgpn:V1-63714"><name nymRef="Ἐπίουρος">Ἐ<milestone unit="face" break="no"/><unclear>π</unclear>ιο<unclear>ύ</unclear>ρ<supplied reason="lost">ου</supplied></name></persName>
             <gap reason="lost" quantity="2" unit="character"/><milestone unit="face"/><gap reason="lost" atLeast="5" atMost="7" unit="character"/>
-            <w><supplied reason="lost">ἀν</supplied><milestone unit="face"/>έθηκε</w>
+            <w><supplied reason="lost">ἀν</supplied><milestone unit="face" break="no"/>έθηκε</w>
                 </ab>
 </div>
         

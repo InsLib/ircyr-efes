@@ -118,8 +118,8 @@
 <ab>
                     <lb n="1"/><date ref="https://godot.date/id/jcwCoDKVeGmYq7Mm3iX9b8"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="137"><unclear>ρλζ</unclear></num> 
                     <lb n="2"/><rs type="month" key="Ἁθύρ"><w lemma="Ἁθύρ">Ἁθύρ</w></rs> <num value="3">γ</num></date>
-            <persName type="attested"><name nymRef="Σώδαμος">Σώ<lb n="3" break="no"/><supplied reason="lost">δαμος</supplied></name> 
-                    <lb n="4"/><persName type="attested"><name nymRef="Ἀριστόδαμος">Ἀρισ<unclear>τω</unclear><lb n="5" break="no"/>δάμω</name></persName></persName> 
+            <persName type="attested"><name nymRef="Σώδαμος">Ϲώ<lb n="3" break="no"/><supplied reason="lost">δαμος</supplied></name> 
+                    <lb n="4"/><persName type="attested"><name nymRef="Ἀριστόδαμος">Ἀριϲ<unclear>τω</unclear><lb n="5" break="no"/>δάμω</name></persName></persName> 
                     <lb n="6"/><date type="life-span" dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                        <num value="25">κε</num> </date> <space quantity="1" unit="character"/>
                 </ab>
@@ -137,7 +137,7 @@
             <head>Commentary</head>
             <p>line 1 137 of the Actian Era = C.E. 106-107. </p>
             <p> Probably identical with the Sodamus in <ref type="inscription" n="C78500">M.148</ref>, lines 3-4 given the close similarity of decoration and letter forms
-               (especially the distinctive ...<!--sign--> for omega, which may be a reminiscence of Hebrew  ......... ) on the two stelae. </p>
+               (especially the distinctive omega, which may be a reminiscence of Hebrew lettering) on the two stelae. </p>
             <p> line 6 Aged 25.</p>
          </div>
          

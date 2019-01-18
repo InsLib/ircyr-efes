@@ -258,7 +258,7 @@
                   
                     <bibl xml:id="bowsky1987"><author>M. W. Baldwin <name type="surname">Bowsky</name></author>,
                         <date>1987</date>, <title level="a">M. Tittius Sex.f. Aem. and the Jews of Berenice (Cyrenaica)</title>
-                        <title level="j">American Journal of Philology</title>, <biblScope
+                        <title level="j">American Jounral of Philology</title>, <biblScope
                             unit="volume">108</biblScope>, <biblScope unit="pp">495-510</biblScope>
                     </bibl>
                  
@@ -363,7 +363,7 @@
                         <pubPlace>Berlin</pubPlace></bibl>
                     
                     <bibl xml:id="damerau1934"> <author>Paul <name type="surname">Damerau</name></author>
-                        <date>1934</date>, <title level="m">Kaiser Claudius II Goticus (268-270 n. Chr.)</title>,  
+                        <date>1934</date>, <title level="m">Faiser Cklaudiys II Goticus (268-270 n. Chr.)</title>,  
                         <pubPlace>Leipzig</pubPlace></bibl><!-- check -->
                     
                     <bibl xml:id="dellacella1819"><author>Paolo <name type="surname">Della
@@ -510,8 +510,7 @@
                         <title level="j">Notiziario Archeologico del
                             Ministero delle Colonie</title> <biblScope unit="volume">III</biblScope>,
                         <biblScope unit="pp">95-99</biblScope> with drawings, fig. 13-20 
-                        <!-- <ref target="http://periodici.librari.beniculturali.it/"/> -->
-                        </bibl>
+                        <ref target="http://periodici.librari.beniculturali.it/"/></bibl>
 
                     <bibl xml:id="ferri1923"><author>Silvio <name type="surname">Ferri</name></author>,
                             <date>1923</date>, <title level="m">Contributi di Cirene alla storia
@@ -520,14 +519,14 @@
                     
                     <bibl xml:id="ferri1925"><author>Silvio <name type="surname">Ferri</name></author>,
                         <date>1925</date>, <title level="m">Alcuni inscrizioni di Cirene</title>
-                        <title level="j">Abhandlungen Pr Akad Wissensch, phil.hist classe</title><!-- check pages --></bibl>
+                        <title level="j">Abhandlingen Pr Akad Wissensch, phil.hist classe</title><!-- check pages --></bibl>
                     
 
                     <bibl xml:id="ferri1926"><author>Silvio <name type="surname">Ferri</name></author>,
                             <date>1926</date>, <title level="a">Firme di legionari della Siria nella
                             Gran Sirte</title>, <title level="j">Rivista della Tripolitania</title>
                         <biblScope unit="volume">II</biblScope>, <biblScope unit="pp"
-                            >192-363</biblScope>, avialable at Biblioteca Nazionale, <ref target="http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/TO00193994/1925-1926/unico"/></bibl>
+                            >192-363</biblScope></bibl>
 
                     <bibl xml:id="ferri1927a"><author>Silvio <name type="surname">Ferri</name></author>, <date>1922</date>, 
                         <title level="a">La "Lex cathartica" di Cirene</title>  
@@ -546,12 +545,12 @@
                         reissued, <title level="j">Studi classici e orientali</title> 
                         <biblScope unit="volume">12</biblScope> <date>1963</date> <biblScope unit="pp">5-15</biblScope></bibl>
                     
-                   
+                    
+                    
                     <bibl xml:id="ferri1929"><author>Silvio <name type="surname">Ferri</name></author>
                         <date>1929</date><title level="a">Note di Epigrafia Cirenaica</title>, 
                         <title level="j">Historia: Studi storici per l'antichità classica</title>, <biblScope unit="volume">III</biblScope>,
-                        <biblScope unit="pp">399</biblScope>, available at Biblioteca Nazionale, <ref target="http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/TO00185644/1929/unico"></ref></bibl>
-                    <!-- WbgPH120 -->
+                        <biblScope unit="pp">399</biblScope></bibl><!-- WbgPH120 -->
                     
                     <bibl xml:id="cigiii"><author>J. <name type="surname">Franz</name></author>
                         <date>1853</date>, <title level="s">Corpus Inscriptionum

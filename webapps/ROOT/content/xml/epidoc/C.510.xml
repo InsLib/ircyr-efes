@@ -112,7 +112,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><persName type="attested"><name nymRef="Πο-"><seg part="I">Πο</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/><orig>μ<unclear>ισ</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig>ι<unclear>ρμιι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><persName type="attested"><name nymRef="Πο-"><seg part="I">Πο</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/><orig>μ<unclear>ιϲ</unclear></orig><gap reason="lost" quantity="1" unit="character"/><orig>ι<unclear>ρμιι</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>
          

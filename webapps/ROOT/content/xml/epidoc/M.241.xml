@@ -36,7 +36,7 @@
                               d <dimensions><width>0.08</width> <height>0.03</height></dimensions></p>
                         </support>
                      </supportDesc>
-                     <layoutDesc><layout><rs type="execution" key="pictura">Painted</rs> on the plaster, apparently from one text or group of texts. 
+                     <layoutDesc><layout><rs type="execution" key="pictura">Painted</rs> in black on the plaster, apparently from one text or group of texts. 
                          </layout>
                      </layoutDesc>
                   </objectDesc>
@@ -103,7 +103,7 @@
          <change when="2009-07-10" who="MR">turned to XML and tidied</change>
          <change when="2009-05-11" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><surface/></facsimile>
+   </teiHeader><facsimile><surface/><!-- Tracing by Martin Harrison --></facsimile>
    <text>
       <body>
          <div type="bibliography">
@@ -125,17 +125,17 @@
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
-            <div type="translation" source="#jmr-jbwp-rgg2003" xml:lang="en"><p>a: Cross: Indiction 5 [ . . .</p>
+            <div type="translation" source="#jmr-jbwp-rgg2003" xml:lang="en"><p>a: (Cross) Indiction 5 [ . . .</p>
             <p>b: . . . ] ?the church [ . . .</p>
             <p>c and d not translatable</p></div>
             </div>
         
          <div type="commentary">
             <head>Commentary</head>
-            <p>For the building, probably of the VI century, see Ward-Perkins, op. cit, 326-341</p>
-            <p>Ιn a the final letter may be  Ε or Σ. The superscript bar presumably indicates an abbreviation or contraction - possibly ἐνδη(κτίωνι) if not from ἐνδέω. </p>
-            <p> Perhaps b is [...τ]ὸν να(ον) κ[...] for NA = ναος cf. CIG 8653 of V-VFirst century </p>
-            <p> in d. interpretation depends on how much is abbreviated.</p>
+            <p>For the building, probably of the sixth century, see Ward-Perkins, op. cit, 326-341</p>
+            <p>Ιn a the final letter may be Ε or Ϲ. The superscript bar presumably indicates an abbreviation or contraction. </p>
+            <p>Perhaps b is [...τ]ὸν να(όν) κ[...]; ναός is well attested for a church byilding.</p>
+            <p>In d. interpretation depends on how much is abbreviated.</p>
          </div>
          
       </body>

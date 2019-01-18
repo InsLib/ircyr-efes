@@ -37,7 +37,8 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="litteris scariphatis">Graffiti</rs> on the east wall, to the right of the central niche; each entry in a different hand</layout>
+                        <layout><rs type="execution" key="litteris scariphatis">Graffiti</rs> on the east wall, to the right of the central niche; each entry in a different hand; 
+                           1 to the left, a above b, babove c; 2 to the right, a above b.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
@@ -46,7 +47,7 @@
                </physDesc>
                <history>
                   <origin>
-                     <origPlace>Unknown</origPlace>
+                     <origPlace>Findspot</origPlace>
                      <origDate notBefore="0001" notAfter="0200" precision="low" evidence="lettering">Probably first to second centuries C.E.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
@@ -128,7 +129,7 @@
                         <lb n="2"/> <w>ἐ<unclear>π</unclear>ῆλθε</w> <persName type="attested"><name nymRef="Ἄραχος">Ἀράχω</name></persName> </persName>
                         <lb n="3"/><gap reason="illegible" quantity="1" unit="line"/> </ab>
                         </div>
-                       <div subtype="section" n="c" type="textpart"><ab> <lb n="1"/><orig><unclear>Σ</unclear></orig>  <persName type="attested" key="lgpn:V1-62519"><name nymRef="Ἀγαθόκλεια">Αγαθόκλεα</name>  <orig>Ω</orig> 
+                       <div subtype="section" n="c" type="textpart"><ab> <lb n="1"/><orig><unclear>Ϲ</unclear></orig>  <persName type="attested" key="lgpn:V1-62519"><name nymRef="Ἀγαθόκλεια">Αγαθόκλεα</name>  <orig>Ω</orig> 
                         <lb n="2"/><persName type="attested" key="lgpn:V1-65730"><name nymRef="Σωσίστρατος">Σωσιστράτιος</name></persName> </persName></ab></div>
                     </div>
             <div subtype="column" n="2" type="textpart">    
@@ -153,10 +154,10 @@
          <div type="commentary">
             <head>Commentary</head>
             <p>Column 1.a: The normal sense of this formula in Cyrene is funerary, and Ferri in fact suggested that this chamber had originally been cut as a tomb, 
-               see also <ref type="inscription" n="C67300">M.206</ref>, above; but it is difficult to feel that he is correct, 
+               see also <ref type="inscription" n="C67300">M.206</ref>, above; but it is difficult to feel that τηισ is correct, 
                all the more as this text seems to be unrelated to any loculus 
-               or other type of burial place. Ferri's alternative suggestion that Jason was the owner of the site seems more acceptable 
-               <!-- (as suggested by Bokl for IG XIII.3.1022, 1655 from Thera) ???-->.</p>
+               or other type of burial place. Ferri's alternative suggestion that Jason was the owner of the site seems more acceptable
+               <!-- (as suggested by Bokl for IG XIII.3.1022, 1655 from Thera, ab=nd texts fromnm the Roman Agora at Athens) ???-->.</p>
          </div>
          
       </body>

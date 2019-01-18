@@ -19,12 +19,12 @@
          </publicationStmt>
          <sourceDesc>
             <msDesc>
-               <msIdentifier><msName>n/a</msName></msIdentifier><!--Not inventoried -->
+               <msIdentifier><msName>77-73</msName></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc>
                         <support>
-                           <p>Fragment from left-hand side of coarse-grained white <material>marble</material> <objectType>feature</objectType>  
+                           <p>Fragment from left-hand side ofa coarse-grained white <material>marble</material> <objectType>feature</objectType>  
                               (<dimensions>
                                  <width>0.085</width>
                                  <height>0.065</height>
@@ -54,7 +54,7 @@
                               </p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList"/>; not inventoried.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName> ><idno type="invNo">77-73</idno>.</p>
                         </provenance>
                      
                   
