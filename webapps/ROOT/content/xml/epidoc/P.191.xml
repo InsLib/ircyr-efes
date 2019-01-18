@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P16600" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -116,14 +116,14 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10">ι</num>
+                <lb n="1"/><date ref="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="10">ι</num></date>
                <persName type="attested"><name nymRef="Ἀπολλ-"><seg part="I">Ἀπολ<unclear>λ</unclear></seg></name></persName> <gap
                   reason="lost" extent="unknown" unit="character"/> 
             </ab>
          </div>
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
-            <div  type="translation" source="#edd" xml:lang="en"><p>Year 10, Apoll[ . . .</p></div>
+            <div  type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB">Year 10</date>. Apoll[ . . .</p></div>
          </div>
          
          <div type="commentary">

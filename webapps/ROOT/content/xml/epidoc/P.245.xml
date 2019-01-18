@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P34600" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -127,7 +127,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num> <persName type="attested" key="lgpn:V1-61435"><name nymRef="Λύκα">Λύκα</name> 
+                    <lb n="1"/><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num></date> <persName type="attested" key="lgpn:V1-61435"><name nymRef="Λύκα">Λύκα</name> 
                     <persName type="attested" key="lgpn:V1-61622"><name nymRef="Σταλάκκιος">Ϲταλακ<lb n="2" break="no"/> <space quantity="1" unit="character"/>κίου</name></persName></persName> 
             <date type="life-span" dur="P45Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="45">με</num> </date>
                 </ab>
@@ -145,7 +145,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 18. Luca di Stalaccio, di anni 45.</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 12, Lyka <supplied reason="subaudible">daughter</supplied> of Stalakkios, aged 45.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH">Year 12</date>, Lyka <supplied reason="subaudible">daughter</supplied> of Stalakkios, aged 45.</p></div>
          </div>
         
          <div type="commentary">

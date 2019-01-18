@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="T03600" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -123,12 +123,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                            <num value="7" xml:lang="grc">ζ</num> 
+                            <num value="7">ζ</num> 
                         <lb n="2"/><persName type="attested"><name nymRef="Σετιανός">Σετιαν<lb n="3" break="no"/>ὸς</name> 
                             <persName type="attested"><name nymRef="Ἀνδεομηδος">Ἀνδε<lb n="4" break="no"/>ομήδ<unclear>ο</unclear><lb n="5" break="no"/>υ</name></persName><!-- check --></persName>
                     </ab></div><div subtype="part" n="ii" type="textpart"><ab>
                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                            <num value="3" xml:lang="grc">γ</num>
+                            <num value="3">γ</num>
                         <lb n="2"/><persName type="attested"><name nymRef="Λούκιος">Λούκιο<supplied reason="lost">ς</supplied></name>
                         <lb n="3"/><name nymRef="Καύλιος">Καύλιο<supplied reason="lost">ς</supplied></name>
                         <lb n="4"/><name nymRef="Πάνθης">Πάνθης</name></persName> 

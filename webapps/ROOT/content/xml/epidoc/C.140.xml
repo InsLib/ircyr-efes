@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C71400" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -123,9 +123,10 @@
                     <lb n="1"/><persName type="divine" key="apollo"><w>θεὸς</w></persName> <g ref="symbols.xml#leaf"/> <persName type="divine" key="agathetyche"><w>Τύχα</w>
                        <g ref="symbols.xml#leaf"/> <w>ἀγαθά</w></persName>
                     <lb n="2"/> <w>Ἱαρὲς</w> <w>τῶ</w> <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName>
-                    <lb n="3"/><date corresp="https://godot.date/id/D2XBxd7ECHVUMF4kmpobrJ"><persName type="attested" key="lgpn:V1-63373"><name nymRef="Βαρκαῖος">Βαρκαῖος</name> <g ref="symbols.xml#leaf"/> 
-                       <persName type="attested" key="lgpn:V1-63907"><name nymRef="Εὐφάνης">Εὐφάνευς</name></persName></persName></date> <g ref="symbols.xml#leaf"/> <lb n="4"/><date corresp="https://godot.date/id/5H5gZigQeHgNXSJRkgde97"><persName type="attested" key="lgpn:V1-65955"><name nymRef="Φίλισκος">Φίλισκος</name> <g ref="symbols.xml#leaf"/> <persName type="attested" key="lgpn:V1-65953"><name nymRef="Φίλισκος">Φιλίσκου</name></persName>
-                    <lb n="5"/> <w>φύσει</w> <w>δὲ</w> <persName type="attested" key="lgpn:V1-63906"><name nymRef="Εὐφάνης">Εὐφάνευς</name></persName></persName></date>
+                    <lb n="3"/><persName type="attested" key="lgpn:V1-63373"><name nymRef="Βαρκαῖος">Βαρκαῖος</name> <g ref="symbols.xml#leaf"/> 
+                       <persName type="attested" key="lgpn:V1-63907"><name nymRef="Εὐφάνης">Εὐφάνευς</name></persName></persName> <g ref="symbols.xml#leaf"/> 
+               <lb n="4"/><persName type="attested" key="lgpn:V1-65955"><name nymRef="Φίλισκος">Φίλισκος</name> <g ref="symbols.xml#leaf"/> <persName type="attested" key="lgpn:V1-65953"><name nymRef="Φίλισκος">Φιλίσκου</name></persName>
+                    <lb n="5"/> <w>φύσει</w> <w>δὲ</w> <persName type="attested" key="lgpn:V1-63906"><name nymRef="Εὐφάνης">Εὐφάνευς</name></persName></persName>
                 </ab>
          </div>
          

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C67200" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -36,7 +36,7 @@
                            </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="litteris scariphatis">Cut or scratched</rs> written on plaster at various unspecified points on the walls.</layout>
+                        <layout><rs type="execution" key="litteris scariphatis">Cut or scratched</rs> on plaster at various unspecified points on the walls.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
@@ -49,8 +49,8 @@
                      <origDate notBefore="-0100" notAfter="0300" precision="low" evidence="lettering context">First century B.C.E. - third century C.E.</origDate>
                   </origin>
                   <provenance type="found"><p><placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/1263">Gebel Akhdar: West of Cyrene</placeName>:
-                     <placeName type="monuList" ref="http://www.slsgazetteer.org/1238">Bu Darag</placeName>, in Wadi Bu Nabeh; 
-                              Recorded by Ferri, we could not find them. He noted also "graffiti arabi" which again we did not find.</p>
+                     <placeName type="monuList" ref="http://www.slsgazetteer.org/1238">Bu Darag</placeName>, in Wadi Bu Nabeh. 
+                              Recorded by Ferri; we could not find them. He noted also "graffiti arabi" which again we did not find.</p>
                         </provenance>
                         <provenance type="observed">
                            <p>Findspot.</p>
@@ -129,8 +129,8 @@
          <div type="apparatus">
             <head>Apparatus</head>
             <listApp>
-               <app loc="a"><rdg resp="#SEG">Πτολε[μαῖος] <lb/> Διόδωρος <lb/> ἦλ[θον] οἱ ΙΤΙΑΝΣ - -</rdg></app>
-               <app loc="b"><rdg resp="#SEG">Ἦλιθ -- <lb/> -- ἧκά Μικλωνι[-...]</rdg></app>
+               <app loc="a, 5"><rdg resp="#SEG">ἦλ[θον] οἱ ΙΤΙΑ/Ϲ - -</rdg></app>
+               <app loc="b"><rdg resp="#SEG">Ἦλθ -- <lb/> -- ἧκα Μι<unclear>κ</unclear>λ<unclear>ω</unclear>νι[-...</rdg></app>
             </listApp>
            
          </div>

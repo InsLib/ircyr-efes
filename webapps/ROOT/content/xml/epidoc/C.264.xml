@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C73900" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -118,8 +118,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><date><date corresp="https://godot.date/id/R56gwydznMsoMXdGJ6HmRa"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
-                    <num value="179">ροθ</num></date> <g ref="symbols.xml#stop"/> <w>τοῦ</w> <w>καὶ</w> <date corresp="https://godot.date/id/Hsj3zhgLBsiSpSmphXYxEF"><num value="11">ια</num> <g ref="symbols.xml#stop"/> <persName type="emperor" key="antoninuspius"><name nymRef="Ἀντωνῖνος">Ἀντω<unclear>ν</unclear><supplied reason="lost">είνου</supplied></name>
+                    <lb n="1"/><date><date ref="https://godot.date/id/R56gwydznMsoMXdGJ6HmRa"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
+                    <num value="179">ροθ</num></date> <g ref="symbols.xml#stop"/> <w>τοῦ</w> <w>καὶ</w> <date ref="https://godot.date/id/Hsj3zhgLBsiSpSmphXYxEF"><num value="11">ια</num> <g ref="symbols.xml#stop"/> <persName type="emperor" key="antoninuspius"><name nymRef="Ἀντωνῖνος">Ἀντω<unclear>ν</unclear><supplied reason="lost">είνου</supplied></name>
                     <lb n="2"/><name nymRef="Καῖσαρ">Καίσαροϲ</name></persName></date></date> <g ref="symbols.xml#stop"/> <persName type="attested"><persName type="attested"><name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βερίου</ex></expan></name> <g ref="symbols.xml#stop"/> <name nymRef="Κλαύδιος">Κλαυδί<supplied reason="lost">ου</supplied></name></persName>
                <gap reason="lost" quantity="7" unit="character" precision="low"/>
                     <lb n="3"/> <w><supplied reason="lost">υ</supplied>ἱὸς</w> <g ref="symbols.xml#stop"/> <name nymRef="Τιβέριος"><expan><abbr>Τι</abbr><ex>βέριοϲ</ex></expan></name> <g ref="symbols.xml#stop"/> <name nymRef="Κλαύδιος">Κλαύδιοϲ</name> <g ref="symbols.xml#stop"/> <name nymRef="Απ-"><seg part="I">Ἀ<unclear>π</unclear></seg></name></persName> <gap reason="lost" quantity="5" unit="character"/>

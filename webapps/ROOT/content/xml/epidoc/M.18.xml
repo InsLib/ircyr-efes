@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="B01900" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -124,7 +124,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="70">ο</num>
+                    <lb n="1"/><date ref="https://godot.date/id/aNHe7rTzEijnddyZKPXD42"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="70">ο</num></date>
                     <persName type="attested"><name nymRef="Θεο-νας">Θεο<gap reason="lost" quantity="2" unit="character"/><unclear>ι</unclear>ας</name> 
                     <persName type="attested" key="lgpn:V1-62013"><name nymRef="Ἀριστόδημος">Ἀρ<unclear>ι</unclear><supplied reason="lost">σ</supplied><unclear>τ</unclear>οδή<supplied reason="lost">μ</supplied>ω</name></persName></persName>
                     <lb n="2"/> <w>κεντυρ<supplied reason="lost">ίω</supplied><unclear>ν</unclear></w> 

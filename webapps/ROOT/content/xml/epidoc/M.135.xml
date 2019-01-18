@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="G04000" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -42,7 +42,7 @@
                   </objectDesc>
                   <handDesc>
                      <handNote>Lunate epsilon, sigma, omega. a: <height>0.06</height>; b: line 1, <height>0.035</height>; line 2, <height>0.055</height>; 
-                        lines3,4,6, <height>0.06</height>; lines5,7, <height>0.04</height>; c: lines1,4,6, <height>0.05</height>; line 2, <height>0.055</height>; lines3,5, <height>0.06</height>;</handNote>
+                        lines3,4,6, <height>0.06</height>; lines5,7, <height>0.04</height>; c: lines 1,4,6, <height>0.05</height>; line 2, <height>0.055</height>; lines3,5, <height>0.06</height>;</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -143,10 +143,10 @@
                     <lb n="1"/> <w>ἐγέ
                        <lb n="2" break="no"/>νετο</w> <w>καὶ</w> 
                     <lb n="3"/> <w>τοῦτο</w> <w>τὸ</w> <w>ἀ<lb n="4" break="no"/>γαθόν</w> <w>ἔργον</w> 
-                    <lb n="5"/> <w>ἐπί</w> <persName type="attested" key="lgpn:V1-60882"><name nymRef="Θεόδωρος">Θεοδώρου</name> 
+                    <lb n="5"/> <date><date><w>ἐπί</w> <persName type="attested" key="lgpn:V1-60882"><name nymRef="Θεόδωρος">Θεοδώρου</name> 
                     <lb n="6"/> <w>τοῦ</w> <w><expan><abbr>ὁσιωτατο</abbr><ex>υ</ex></expan></w> 
-                    <lb n="7"/> <w>νέου</w> <w><expan><abbr>ἐπισκό</abbr><ex>που</ex></expan></w> </persName>
-               <lb n="8"/> <w><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w> <num value="3">γ</num>
+                    <lb n="7"/> <w>νέου</w> <w><expan><abbr>ἐπισκό</abbr><ex>που</ex></expan></w> </persName></date>
+               <lb n="8"/> <date ref="https://godot.date/id/K4kJUFbcNjmRxxGMVzLJEU"><w><expan><abbr>ἰνδ</abbr><ex>ικτιῶνος</ex></expan></w> <num value="3">γ</num></date></date>
                     </ab>
                     </div>
             <div n="c" type="textpart">

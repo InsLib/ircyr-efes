@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C68000" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><rs type="textType">Visitor</rs>s <rs type="textType">name</rs>s</title>
+            <title><rs type="textType">Name</rs>s of <rs type="textType">visitor</rs>s</title>
             <editor>Joyce M. Reynolds</editor>
          </titleStmt>
          <publicationStmt>
@@ -124,6 +124,8 @@
                     <lb n="7"/><persName type="attested"><name nymRef="Σ-"><seg part="I">Σ</seg><gap reason="lost" quantity="2" unit="character"/><seg part="F">ίας</seg></name></persName> 
                     <lb n="8"/><persName type="attested" key="lgpn:V1-63796"><name nymRef="Εὐδαίμων">Εὐδαίμων</name></persName> 
                     <lb n="9"/><orig>Ε<unclear>μ</unclear><gap reason="lost" quantity="2" unit="character"/>θ<gap reason="lost" quantity="1" unit="character"/>σαν</orig>
+   <lb n="10"/><persName type="attested"><name nymRef="Παυσ-"><seg part="I">Παυσ</seg></name></persName>
+   <lb n="10a"/><gap reason="lost" unit="line" quantity="1"/>
                 </ab>
 </div>
          <div type="apparatus">

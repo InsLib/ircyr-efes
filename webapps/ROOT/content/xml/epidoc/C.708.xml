@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C45800" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -40,11 +40,11 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout>Graffiti <rs type="execution" key="scalpro">inscribed</rs> on on face.</layout>
+                        <layout>Graffiti <rs type="execution" key="scalpro">inscribed</rs> on one face.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>I cent; line 1, first three letters, <height>0.026</height>, remainder <height>0.18</height>; line 2, <height>0.11</height>; 
+                     <handNote>First century C.E.; line 1, first three letters, <height>0.026</height>, remainder <height>0.18</height>; line 2, <height>0.11</height>; 
                         line 3, <height>0.03</height>.</handNote>
                   </handDesc>
                </physDesc>
@@ -120,13 +120,13 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="column" n="1" type="textpart"><ab>
-                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                            <num value="54"><unclear>νδ</unclear></num>
+                            <lb n="1"/><date ref="https://godot.date/id/h3Fbi4Cg4poL5Mn9nfL8ad"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                            <num value="54"><unclear>νδ</unclear></num></date>
                         </ab></div><div subtype="column" n="2" type="textpart"><ab>
                             <lb n="1"/><persName type="attested" key="lgpn:V1-63012"><name nymRef="Ἀπολλώς">Ἀπολλὼς</name>
                             <lb n="2"/><persName type="attested" key="lgpn:V1-62930"><name nymRef="Ἀντίοχος">Ἀντιόχο<unclear>υ</unclear></name></persName></persName>
-                            <lb n="3"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                            <num value="55">νε</num> <w part="I">κα<unclear>λ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+                            <lb n="3"/><date ref="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                            <num value="55">νε</num></date> <w part="I">κα<unclear>λ</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
                         </ab>
 </div>
 </div>

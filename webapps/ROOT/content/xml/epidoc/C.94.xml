@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C07900" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -121,7 +121,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/> <w>Νομοφύλακες</w>
-                    <lb n="2"/> <w>οἱ</w> <w>ἐφ’</w><w>ἱαρεῦς</w> <persName type="attested" key="lgpn:V1-63786"><name nymRef="Εὐβάτας">Εὐβάτα</name></persName>
+                    <lb n="2"/> <w>οἱ</w> <date ref="https://godot.date/id/5iw2q96T36nqyARjioqmPf"><w>ἐφ’</w><w>ἱαρεῦς</w> <persName type="attested" key="lgpn:V1-63786"><name nymRef="Εὐβάτας">Εὐβάτα</name></persName></date>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-63171"><name nymRef="Ἀριστοτέλης">Ἀριστοτέλης</name> <persName type="attested" key="lgpn:V1-63170"><name nymRef="Ἀριστοτέλης">Ἀριστοτέλευς</name></persName></persName>
                         <lb n="4"/><persName type="attested" key="lgpn:V1-63456"><name nymRef="Δαμήτριος">Δαμάτριος</name> <persName type="attested" key="lgpn:V1-62793"><name nymRef="Ἀμμώνιος">Ἀμμωνίω</name></persName></persName>
                         <lb n="5"/><persName type="attested" key="lgpn:V1-64450"><name nymRef="Κάϊκος">Κάϊκος</name> <persName type="attested" key="lgpn:V1-63099"><name nymRef="Ἄριστις">Ἀρίστιος</name></persName> </persName>

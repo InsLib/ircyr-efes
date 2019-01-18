@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C33100" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -122,7 +122,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><date corresp="https://godot.date/id/RWHFzypjwf8vwkqBtmVJJJ"><w><supplied reason="lost">ἐ</supplied>π’</w> <w><supplied reason="lost">ἱερ</supplied>έος</w> 
+                    <lb n="1"/><date ref="https://godot.date/id/RWHFzypjwf8vwkqBtmVJJJ"><w><supplied reason="lost">ἐ</supplied>π’</w> <w><supplied reason="lost">ἱερ</supplied>έος</w> 
                     <persName type="divine" key="apollo"><w><supplied reason="omitted">τ</supplied>οῦ</w>
                     <lb n="2"/><supplied reason="lost"><w>κτιστοῦ</w> <name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></supplied></persName></date><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2a"/><gap reason="lost" extent="unknown" unit="line"/>

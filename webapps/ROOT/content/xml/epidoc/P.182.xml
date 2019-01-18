@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P15700" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -118,26 +118,26 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <div subtype="section" n="i" type="textpart">
                <ab>
-                <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num></date>
+                <lb n="1"/><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num></date>
                   <persName type="attested"><name nymRef="Κλα-"><seg part="I">Κλα</seg><gap reason="lost" extent="unknown" unit="character"/></name></persName>
                   <lb n="2"/><orig>ἀμων</orig><gap reason="lost" extent="unknown" unit="character"/>
                </ab>
             </div>
             <div subtype="section" n="ii" type="textpart">
                <ab>
-                    <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="1">α</num></date>
+                    <lb n="1"/><date ref="https://godot.date/id/wtdpMkHixnKf3paJYFzKXG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="1">α</num></date>
                <gap reason="lost" extent="unknown" unit="character"/></ab>
             </div>
             <div subtype="section" n="iii" type="textpart">
                <ab>
-                    <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num></date>
+                    <lb n="1"/><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="12">ιβ</num></date>
                   <persName type="attested"><name nymRef="Πα-"><seg part="I">Π<unclear>α</unclear></seg></name></persName> <gap
                      reason="lost" extent="unknown" unit="character"/>
                </ab>
             </div>
             <div subtype="section" n="iv" type="textpart">
                <ab>
-                  <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                  <lb n="1"/><date ref="https://godot.date/id/RBRxZzgdQdSdz56bdagRWX"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                        <num value="11">ια</num></date>
                   <persName type="attested"><name nymRef="Α-"><seg part="I"><unclear>Α</unclear></seg></name></persName> <gap
                      reason="lost" extent="unknown" unit="character"/>
@@ -149,17 +149,17 @@
                <app loc="i.2">
                   <note>Kraeling reported a line, but made out no letters</note>
                </app>
-               <app loc="iii.1">
+               <app loc="iii">
                   <rdg resp="#kraeling1962">LΙΒ Π[</rdg>
                </app>
             </listApp>
          </div>
          
          <div type="translation" xml:space="preserve">
-            <p>i. Year 12.</p>
-            <p>ii. Year 1.</p>
-            <p>iii.Year 12</p>
-            <p>iv.  Year 11.</p>
+            <p><note>i</note> <date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH">Year 12</date>. Kla[-</p>
+            <p><note>ii</note> <date ref="https://godot.date/id/wtdpMkHixnKf3paJYFzKXG">Year 1</date>.</p>
+            <p><note>iii</note> <date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH">Year 12</date>. Pa[-</p>
+            <p><note>iv</note>  <date ref="https://godot.date/id/RBRxZzgdQdSdz56bdagRWX">Year 11</date>. A[-</p>
          </div>
          
          <div type="commentary">

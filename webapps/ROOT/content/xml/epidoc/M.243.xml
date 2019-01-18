@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C82700" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -44,7 +44,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>No measurements.</handNote>
+                     <handNote>0.01-0.025; lunate sigma</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -112,7 +112,8 @@
       <graphic url="JMRNB09_054" decls="#photograph"><desc>a, left end (E.Alföldi-Rosenbaum: Reynolds IX.54)</desc></graphic>
       <graphic url="JMRNB09_053" decls="#photograph"><desc>a, right end (E.Alföldi-Rosenbaum: Reynolds IX.53)</desc></graphic>
       <graphic url="JMRNB09_052" decls="#photograph"><desc>a.vi (E.Alföldi-Rosenbaum: Reynolds IX.52)</desc></graphic>
-      <!--  <graphic url="JMRNB09_056" decls="#photograph"><desc>d, all (E.Alföldi-Rosenbaum: Reynolds IX.56)</desc></graphic>--></facsimile>
+      <!--  <graphic url="JMRNB09_056" decls="#photograph"><desc>d, all (E.Alföldi-Rosenbaum: Reynolds IX.56)</desc></graphic>
+        Tracing by Martin Harrison --></facsimile>
    <text>
       <body>
          <div type="bibliography">
@@ -126,20 +127,20 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="a" type="textpart"><div subtype="fragment" n="i" type="textpart"><ab>
                             <lb n="1"/><g ref="symbols.xml#crux"/> <w><expan><abbr>βοή</abbr><ex>θ</ex><abbr>ει</abbr></expan></w> <orig>ιν</orig> <g ref="symbols.xml#crux"/> <gap reason="lost" extent="unknown" unit="character"/><orig>ιν</orig>
                         </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
-                            <lb n="1"/><g ref="symbols.xml#crux"/> <orig>ΒΕΝΟΝΙBΕΚΑΥΤΙΟΣΜΙΝΙΣΟΝ</orig><orig>δ</orig>
-                           <persName type="divine" key="abras"><name nymRef="Ἀβρας">Ἀβ<unclear>ρ</unclear>ας</name></persName> <orig><unclear>β</unclear>αο</orig>
+                            <lb n="1"/><g ref="symbols.xml#crux"/> <orig>ΒΕΝΟΝΙBΕΚΑΥΤΙΟϹΜΙΝΙϹΟΝ</orig><orig>δ</orig>
+                           <persName type="divine" key="abraham"><name nymRef="Ἀβραάμ">Ἀβ<unclear>ρ</unclear>α</name></persName> <orig>ς<unclear>β</unclear>αο</orig>
                         </ab></div><div subtype="fragment" n="iii" type="textpart"><ab>
-                            <lb n="1"/><orig>δρεανεοsνειοςα</orig> <g ref="symbols.xml#stop"/> <orig>νο</orig>
+                            <lb n="1"/><orig>δρεανεοϲνειοϲα</orig> <g ref="symbols.xml#stop"/> <orig>νο</orig>
                         </ab></div><div subtype="fragment" n="iv" type="textpart"><ab>
                             <lb n="1"/><orig>ανδαρε</orig>
                         </ab></div><div subtype="fragment" n="v" type="textpart"><ab>
-                            <lb n="1"/><orig>αδρεας</orig>
+                            <lb n="1"/><orig>αδρεαϲ</orig>
                            </ab></div><div subtype="fragment" n="vi" type="textpart"><ab>
                             <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>αγια</orig>
-                             <lb n="2"/> <persName type="attested"><name nymRef="Ἀνδρέας">Ἀνδρέας</name></persName> 
+                             <lb n="2"/> <persName type="attested"><name nymRef="Ἀνδρέας">Ἀνδρέαϲ</name></persName> 
                         </ab></div></div><div subtype="fragment" n="b" type="textpart">
                            <div subtype="fragment" n="i" type="textpart"><ab>
-                            <lb n="1"/><persName type="attested"><name nymRef="Πέτρος">Πέτρος</name></persName>
+                            <lb n="1"/><persName type="attested"><name nymRef="Πέτρος">Πέτροϲ</name></persName>
                         <lb n="1"/><orig>α<unclear>ωακ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                         </ab></div><div subtype="fragment" n="iii" type="textpart"><ab>
                            <lb n="1"/><orig>αχεου</orig>
@@ -151,7 +152,7 @@
                               </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
                                   <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ρ</unclear>ιον</orig><gap reason="lost" extent="unknown" unit="character"/>
                               </ab><div subtype="fragment" n="iii" type="textpart"><ab>
-                           <persName type="divine" key="christus"><name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριστ</ex><abbr>έ</abbr></expan></name></persName></ab>
+                           <persName type="divine" key="christus"><name nymRef="Χριστός"><expan><abbr>Χ</abbr><ex>ριϲτ</ex><abbr>έ</abbr></expan></name></persName></ab>
                               </div><div subtype="fragment" n="d" type="textpart"><ab>
                             <note>No legible words</note></ab>
                       </div>
@@ -166,11 +167,12 @@
             <head>Commentary</head>
             <p>For the building, probably of the VI century, see Ward-Perkins, op. cit, 326-341</p>
             <p>a.i. Perhaps βο(ηθει) Νειου  cross Ἠλιου </p>
-            <p> a.ii. For ΤΕΝΟΝΙΔΕΚΑΥΤΙΟΣ I have no proposal; ΜΙΝΙΣΟΝ is perhaps for ΜΝΗΣΟΝ;  the subsequent J I cannot explain, but the name Ἀβρα(αμ) is clear, followed by S which might be a mark of abbreviation or a stop; the final letters ΣΙΤΑΟ  are again obscure - but may perhaps be the name of a suppliant whom Abraham is asked to remember. For Abraham cf. the wall plaster found in the North west room. a. iii f. Perhaps names of suppliants; for Νειος, cf. </p>
-            <p> b. Perhaps the name of suppliants. </p>
-            <p> b. ii the reading is uncertain. </p>
-            <p> c. unexplained, perhaps part of a name. </p>
-            <p> only d.i. seems susceptible of interpretation as Χ(ριστ)ε.</p>
+            <p> a.ii. For ΤΕΝΟΝΙΔΕΚΑΥΤΙΟϹ I have no proposal; ΜΙΝΙϹΟΝ is perhaps for ΜΝΗϹΟΝ;  the subsequent J I cannot explain, but the name Ἀβρα(αμ) is clear, followed by S which might be a mark of abbreviation or a stop; 
+               the final letters ΒΑΟ  are again obscure - but may perhaps be the name of a suppliant whom Abraham is asked to remember. For Abraham cf. the wall plaster found in the North west room. a. iii f. Perhaps names of suppliants; for Νειος, cf. </p>
+            <p>b. Perhaps the name of suppliants. </p>
+            <p>b. ii the reading is uncertain. </p>
+            <p>c. unexplained, perhaps part of a name. </p>
+            <p>Only d.i. seems susceptible of interpretation as Χ(ριστ)ε.</p>
          </div>
          
       </body>

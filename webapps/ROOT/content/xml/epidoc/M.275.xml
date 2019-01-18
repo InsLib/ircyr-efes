@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C80600" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -126,31 +126,32 @@
                         <graphic url="C80500" decls="#photograph"><desc>Face a</desc></graphic>
                         <graphic url="Photos_0157" decls="#photograph"><desc>Face a, with part of upper right face missing</desc></graphic>
                         <!--  Dept. F. 4660 (face B)???; no photo of face C? -->
+                       
                      </facsimile>
    <text>
       <body>
          <div type="bibliography">
             <head>Bibliography</head>
             <p>
-               <bibl>
-                  <ptr target="jmr1971c"/> <citedRange>1</citedRange></bibl>, whence <bibl><title>AE</title> <citedRange>1974.682</citedRange></bibl>
-               , and <bibl><title>EDH</title> <citedRange>HD011697</citedRange></bibl>,
+               <bibl>Faces a and b: 
+                  <ptr target="jmr1971c"/> <citedRange>1</citedRange></bibl>, whence <bibl><title>AE</title> <citedRange>1974.682</citedRange></bibl>, 
+               and <bibl><title>EDH</title> <citedRange>HD011697</citedRange></bibl>,
                whence also <bibl><title>SEG</title> <citedRange>26.1819</citedRange></bibl>, 
                <bibl><ref type="external" 
-                  target="http://www.bbaw.de/forschung/pir/addenda/A/0082.html">PIR addenda</ref></bibl>
+                  target="http://www.bbaw.de/forschung/pir/addenda/A/0082.html">PIR addenda</ref></bibl>  <!-- Check face C -->
             </p>
          </div>
          
          <div type="edition" xml:space="preserve">
             <div subtype="face" n="a" xml:lang="grc" type="textpart">
                <ab>
-                    <lb n="1"/><persName type="emperor" key="claudius"><name nymRef="Τιβέριος"><supplied reason="lost"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></supplied></name> <name nymRef="Κλαύδιος">Κλαύδιος</name> <space quantity="1" unit="character"/>
+                    <lb n="1"/><date ref="https://godot.date/id/CqLo7ugF827o8WUiBwt488"><persName type="emperor" key="claudius"><name nymRef="Τιβέριος"><supplied reason="lost"><expan><abbr>Τι</abbr><ex>βέριος</ex></expan></supplied></name> <name nymRef="Κλαύδιος">Κλαύδιος</name> <space quantity="1" unit="character"/>
                     <lb n="2"/><supplied reason="lost" cert="low"> <space quantity="1" unit="character"/></supplied> <name nymRef="Κλαύδιος"><supplied reason="lost">Κ</supplied><unclear>α</unclear>ῖσαρ</name> <name nymRef="Σεβαστός">Σεβαστὸς</name>
                     <lb n="3"/><supplied reason="lost" cert="low"> <space quantity="3" unit="character"/></supplied> <name nymRef="Γερμανικός">Γερμαν<supplied reason="lost">ι</supplied>κὸς</name></persName> <space quantity="1" unit="character"/>
                     <lb n="4"/><supplied reason="lost" cert="low"> <space quantity="3" unit="character"/></supplied> <w><supplied reason="lost">ἀρχ</supplied><unclear>ι</unclear>ερεὺς</w> <w>μέγιστος</w>
                     <lb n="5"/> <space quantity="1" unit="character"/> <w>δη<unclear>μα</unclear>ρ<supplied reason="lost">χικῆ</supplied>ς</w> <w>ἐξου<lb n="6" break="no"/>σ<supplied reason="lost">ία</supplied>ς</w> <w>τὸ</w> <num value="13"><unclear>ιγ</unclear></num> <w><unclear>αὐ</unclear>τοκρά<lb n="7" break="no"/><unclear>τ</unclear><supplied reason="lost">ω</supplied><unclear>ρ</unclear></w> <w>τὸ</w> <num value="27">κζ</num> <w><unclear>π</unclear>α<unclear>τ</unclear><supplied reason="lost">ὴρ</supplied></w>
                     <lb n="8"/> <w>π<unclear>α</unclear>τρ<space quantity="1" unit="character"/> ίδος</w> <w>τιμητὴς</w>
-                    <lb n="9"/><supplied reason="lost" cert="low"> <space quantity="3" unit="character"/></supplied> <w><supplied reason="lost">ὕπα</supplied><unclear>τ</unclear>ος</w> <supplied reason="lost"><w>τὸ</w> <num value="5">ε</num> </supplied>
+                    <lb n="9"/><supplied reason="lost" cert="low"> <space quantity="3" unit="character"/></supplied> <w><supplied reason="lost">ὕπα</supplied><unclear>τ</unclear>ος</w> <supplied reason="lost"><w>τὸ</w> <num value="5">ε</num> </supplied></date>
                     <lb n="10"/> <w>διὰ</w> <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ευκὶου</ex></expan></name> <name nymRef="Ἀκίλιος">Ἀ<unclear>κ</unclear><supplied reason="lost">ιλίο</supplied>υ</name> <space quantity="1" unit="character"/>
                     <lb n="11"/><name nymRef="Στράβων"><unclear>Στράβ</unclear> <space quantity="5" unit="character"/><lb n="12" break="no"/><unclear>ωνος</unclear></name></persName> <w>τοῦ</w> <space quantity="3" unit="character"/>
                     <lb n="13"/> <w>ἰδίου</w> <w>πρεσβ<unclear>ευ</unclear>τοῦ</w> 
@@ -172,7 +173,7 @@
             <div subtype="face" n="c" xml:lang="grc" type="textpart">
                         <ab>
                             <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/>
-                            <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor" key="claudius"><name nymRef="Κλαύδιος">Kλαύδ<unclear>ι</unclear>ος</name>
+                            <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <date><persName type="emperor" key="claudius"><name nymRef="Κλαύδιος">Kλαύδ<unclear>ι</unclear>ος</name>
                                 <gap reason="lost" extent="unknown" unit="character"/>
                             <lb n="2"/><name nymRef="Καῖσαρ"><supplied reason="lost">Κ</supplied>αῖσα<supplied reason="lost">ρ</supplied></name> <name nymRef="Σεβαστός">Σεβαστὸς</name>
                             <lb n="3"/><placeName type="ethnic"><w><supplied reason="lost">Γ</supplied>ερμ<supplied reason="lost">ανι</supplied>κὸς</w></placeName></persName>
@@ -182,7 +183,7 @@
                             <lb n="6" break="no"/><gap reason="lost" quantity="3" unit="character"/> <w>σ<supplied reason="lost">ια</supplied>ς</w> <w>τὸ</w> 
                                     <num value="8"><unclear>η</unclear></num> <w>αὐτοκρά<lb n="7" break="no"/><supplied reason="lost">τωρ</supplied></w> <w>τὸ</w>
                                     <num value="27">κζ</num> <w>πα<unclear>τ</unclear><supplied reason="lost">ὴρ</supplied></w>
-                            <lb n="8"/> <w><supplied reason="lost">πατρ</supplied>ίδος</w> <w>τιμητὴς</w>
+                            <lb n="8"/> <w><supplied reason="lost">πατρ</supplied>ίδος</w> <w>τιμητὴς</w></date>
                             <lb n="9"/><orig>οσ</orig>
                             <lb n="9a"/> <space quantity="1" unit="line"/>
                             <lb n="10"/> <w>διὰ</w> <orig>λα<unclear>κ</unclear></orig>

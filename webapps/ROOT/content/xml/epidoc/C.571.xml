@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C26200" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -120,10 +120,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἐπί">ἐπὶ</w> <w lemma="ἱερεύς"><w lemma="ἱερεύς">ἱερ<supplied reason="lost">έω</supplied>ς</w></w> <persName type="divine" key="apollo"><w lemma="ὁ">τοῦ</w> 
+                    <lb n="1"/><date><w lemma="ἐπί">ἐπὶ</w> <w lemma="ἱερεύς"><w lemma="ἱερεύς">ἱερ<supplied reason="lost">έω</supplied>ς</w></w> <persName type="divine" key="apollo"><w lemma="ὁ">τοῦ</w> 
                     <w>κ<unclear>τ</unclear><supplied reason="lost">ί</supplied><unclear>σ</unclear>του</w>
                     <lb n="2"/><name nymRef="Ἀπόλλων">Ἀπόλλωνος</name></persName>
-                    <lb n="3"/><gap reason="lost" quantity="4" unit="character"/> <w>νίου</w> <persName type="attested"><name nymRef="Μνήσαρχος">Μ<supplied reason="lost">ν</supplied>ησάρχου</name></persName>
+                    <lb n="3"/><gap reason="lost" quantity="4" unit="character"/> <w>νίου</w> <persName type="attested"><name nymRef="Μνήσαρχος">Μ<supplied reason="lost">ν</supplied>ησάρχου</name></persName></date>
                     <lb n="4"/><gap reason="lost" quantity="13" unit="character" precision="low"/><orig>ευ</orig><gap reason="lost" quantity="2" unit="character"/>
                     <lb n="4a"/><gap reason="lost" extent="unknown" unit="line"/>
                 </ab>

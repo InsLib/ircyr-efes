@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="T37100" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -118,7 +118,7 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p><bibl><ptr target="pacho1827"/> <citedRange>LXXXII</citedRange></bibl>, whence
-               <bibl><ptr target="cigiii"/> <citedRange>5303</citedRange>, lines1-5</bibl>;
+               <bibl><ptr target="cigiii"/> <citedRange>5303</citedRange>, lines 1-5</bibl>;
                     <bibl>
                        <ptr target="oliverioDAI"/> <citedRange>346</citedRange> (220, La.XI.2,2)</bibl>, whence
                     <bibl>

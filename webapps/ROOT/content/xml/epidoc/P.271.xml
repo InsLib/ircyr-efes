@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P37300" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -130,14 +130,14 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="1">α</num> <persName type="attested" key="lgpn:V1-61434"><name nymRef="Λύκα">Λύκα</name>
+                    <lb n="1"/><date ref="https://godot.date/id/wtdpMkHixnKf3paJYFzKXG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="1">α</num></date> <persName type="attested" key="lgpn:V1-61434"><name nymRef="Λύκα">Λύκα</name>
                         <lb n="2"/><persName type="attested" key="lgpn:V1-61318"><name nymRef="Θεύδωρος">Θευδώρω</name></persName></persName> <date type="life-span" dur="P5Y10M"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="5"><unclear>ε</unclear></num> 
                     <lb n="3"/><w lemma="μείς">μηνῶν</w> <num value="10"><unclear>ι</unclear></num> </date>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 1, Lyka, <supplied reason="subaudible">daughter</supplied> of Theudoros, aged 5 years 10 months.</p></div>
+            <div type="translation" xml:id="en" source="#jmr1983"><p><date ref="https://godot.date/id/wtdpMkHixnKf3paJYFzKXG">Year 1</date>, Lyka, <supplied reason="subaudible">daughter</supplied> of Theudoros, aged 5 years 10 months.</p></div></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>lline 1-2 The name indicates a Jew. The Doric forms in the patronymic are to be noted.</p>

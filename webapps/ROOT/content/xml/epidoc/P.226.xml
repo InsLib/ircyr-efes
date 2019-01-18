@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P32000" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -126,7 +126,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> 
-                    <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ"><unclear>Χο</unclear>ά<lb n="2" break="no"/>χ</w></rs> <num value="5">ε</num> 
+                    <date ref="https://godot.date/id/qtL27e384Lq3KNAkfzeFwe"><rs type="month" key="Χοιάκ"><w lemma="Χοιάκ"><unclear>Χο</unclear>ά<lb n="2" break="no"/>χ</w></rs> <num value="5">ε</num></date> 
                     <orig><unclear>λλ</unclear></orig><gap reason="lost" quantity="2" unit="character"/><orig>ε</orig> 
                     <lb n="3"/><gap reason="lost" quantity="1" unit="line" precision="low"/>
                     <lb n="4"/><persName type="attested"><name nymRef="Ξενο-">Ξε<unclear>νο</unclear></name></persName> <gap reason="lost" quantity="3" unit="character"/><orig>μα</orig> 
@@ -138,7 +138,7 @@
          </div>
          
          <div type="translation" xml:space="preserve">
-            <p>On the 5th of the month Choiak 
+            <p>On <date ref="https://godot.date/id/qtL27e384Lq3KNAkfzeFwe">the 5th of the month Choiak</date> [ . . . 
             <gap reason="lost" extent="unknown" unit="character"/>
             </p>
          </div>

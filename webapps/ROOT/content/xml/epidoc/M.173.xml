@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C81300" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -118,7 +118,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><persName type="emperor" key="nero"><name nymRef="Νέρων"><supplied reason="lost">Νέρων</supplied></name>
+                    <lb n="1"/><date ref="https://godot.date/id/gYzVoamhtgJNK2vK3hTyhc"><persName type="emperor" key="nero"><name nymRef="Νέρων"><supplied reason="lost">Νέρων</supplied></name>
                        <name nymRef="Κλαύδιος"><supplied reason="lost">Κλαύδι</supplied>ο<supplied reason="lost">ς</supplied></name>
                     <lb n="2"/><persName type="emperor" key="claudius"><w><supplied reason="lost">θεοῦ</supplied></w>
                        <name nymRef="Κλαύδιος"><supplied reason="lost">Κλαυδίου</supplied></name></persName>
@@ -134,7 +134,7 @@
                     <name nymRef="Γερμανικός">Γερ<lb n="8" break="no"/><supplied reason="lost">μα</supplied>νικὸς</name></persName>
                     <w>ἀρχ<supplied reason="lost">ιερεὺς</supplied></w><lb n="9"/> <w>μέγιστος</w> 
                     <w>δ<supplied reason="lost">ημαρχ</supplied><lb n="10" break="no"/><supplied reason="lost">ι</supplied>κῆς</w>
-                    <w>ἐξου<supplied reason="lost">σίας</supplied></w><lb n="11"/> <w><supplied reason="lost">α</supplied>ὐτοκράτωρ</w> <w><supplied reason="lost">ὕπατος</supplied></w>
+                    <w>ἐξου<supplied reason="lost">σίας</supplied></w><lb n="11"/> <w><supplied reason="lost">α</supplied>ὐτοκράτωρ</w> <w><supplied reason="lost">ὕπατος</supplied></w></date>
                     <lb n="12"/> <w><supplied reason="lost">δι</supplied>ὰ</w> <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ουκίου</ex></expan></name> 
                     <name nymRef="Ἀκίλιος">Ἀκιλ<supplied reason="lost">υ</supplied></name> <name nymRef="Στράβων"><supplied reason="lost">Στράβ</supplied><lb n="13" break="no"/><supplied reason="lost">ων</supplied>ο<supplied reason="lost">ς</supplied></name></persName> <w>το<supplied reason="lost">ῦ</supplied></w> <w><supplied reason="lost">ἱ</supplied>δίου</w>
                     <lb n="14"/> <w>πρεσβευτο<supplied reason="lost">ῦ</supplied></w>

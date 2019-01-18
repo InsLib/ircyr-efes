@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="T02600" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -128,7 +128,7 @@
                             <persName type="attested"><name nymRef="Πόπλιος">Πόπλιος</name></persName>
                         </ab></div>
          </div><div subtype="part" n="b" type="textpart"><ab>
-                      <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6" xml:lang="grc">ϛ</num>                   
+                      <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6">ϛ</num>                   
                       <lb n="2"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἰου-"><seg part="I">Ἰου</seg></name> <space quantity="1" unit="character"/>                     
                       <lb n="3"/><orig><unclear>π</unclear></orig></persName> <space quantity="3" unit="character"/> 
                       <lb n="3a"/> <space extent="unknown" unit="line"/> 

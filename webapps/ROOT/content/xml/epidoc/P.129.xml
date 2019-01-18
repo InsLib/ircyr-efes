@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P13200" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -122,10 +122,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="7">ζ</num> <persName type="attested"><name nymRef="Καπ-"><seg part="I">Καπ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="7">ζ</num> <persName type="attested"><name nymRef="Δημ-"><seg part="I">Δημ</seg></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><date ref="https://godot.date/id/Ee7cqUpNoSaN32zaZytNsM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="7">ζ</num></date> <persName type="attested"><name nymRef="Καπ-"><seg part="I">Καπ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="2"/><date ref="https://godot.date/id/Ee7cqUpNoSaN32zaZytNsM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="7">ζ</num></date> <persName type="attested"><name nymRef="Δημ-"><seg part="I">Δημ</seg></name> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3"/><persName type="attested"><name nymRef="Δημ-"><seg part="I">Δημ</seg></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
 </div>

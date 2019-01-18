@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P10100" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -137,11 +137,11 @@
             <ab>
                     <lb n="0"/><gap reason="lost" extent="unknown" unit="line"><certainty match=".." locus="name"/></gap>
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>iei</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
-                    <lb n="2"/><gap reason="lost" quantity="12" unit="character" precision="low"/><w part="F">ssunt</w> <w part="I" lemma="deduco">deduca</w> <gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><supplied reason="lost"><name nymRef="Cnaeus"><expan><abbr>Cn</abbr><ex>aeus</ex></expan></name> <name nymRef="Cornelius">Cornelius</name></supplied>
+                    <lb n="2"/><gap reason="lost" quantity="12" unit="character" precision="low"/><w part="F">ssunt</w> <w part="I" lemma="deduco">deduca</w> <gap reason="lost" extent="unknown" unit="character"/> <persName type="attested" key="dprr:2082"><supplied reason="lost"><name nymRef="Cnaeus"><expan><abbr>Cn</abbr><ex>aeus</ex></expan></name> <name nymRef="Cornelius">Cornelius</name></supplied>
                     <lb n="3"/><name nymRef="Lentulus"><supplied reason="lost">Lent</supplied>ulus</name> <name nymRef="Publius"><expan><abbr>P</abbr><ex>ubli</ex></expan></name>
                     <w lemma="filius"><expan><abbr>f</abbr><ex>ilius</ex></expan></w> <name nymRef="Marcelleinus">Marcelleinus</name></persName> <space quantity="1" unit="character"/> <w lemma="legatus">le<supplied reason="lost">gatus</supplied></w> <supplied reason="lost"><w lemma="propraetor">pro 
                         <expan><abbr>pr</abbr><ex>aetore</ex></expan></w></supplied><gap reason="lost" extent="unknown" unit="character"/>
-                    <supplied reason="lost"><persName type="attested"><name nymRef="Cnaeus"><expan><abbr>Cn</abbr><ex>aei</ex></expan></name> <name nymRef="Pompeius">Pompeii</name> <name nymRef="Magnus">Magni</name></persName></supplied>
+                    <supplied reason="lost"><persName type="attested" key="dprr:1976"><name nymRef="Cnaeus"><expan><abbr>Cn</abbr><ex>aei</ex></expan></name> <name nymRef="Pompeius">Pompeii</name> <name nymRef="Magnus">Magni</name></persName></supplied>
                     <lb n="4"/><supplied reason="lost"/><w lemma="imperator"><supplied reason="lost">im</supplied>peratoris</w> 
                     <gap reason="lost" quantity="4" unit="character"/> <w part="F"><unclear>i</unclear>o</w>
                     <space quantity="1" unit="character"/> <w lemma="praedium">praedia</w> <gap reason="lost" extent="unknown" unit="character"/> 
@@ -171,7 +171,7 @@
             </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p><gap reason="lost" extent="unknown" unit="character"/> may lead 
+            <p>[ . . .] may lead 
                <gap reason="lost" extent="unknown" unit="character"/> [Gnaeus Cornelius Len]tulus Marcelleinus, son of Publius, [propraetorian] le[gate} of
             [Gnaeus Pompeius Magnus] commander <gap reason="lost" extent="4" unit="character"/>. Properties <gap reason="lost" extent="unknown" unit="character"/> 
             to Baso son of Antiochos Aegeatos properties <gap reason="lost" extent="unknown" unit="character"/> are 
@@ -194,7 +194,7 @@
                 For his title, see on line 4 below.</p>
             <p>Line 3 The reading is clear and imposes the present subjunctive of <foreign xml:lang="la">deducere</foreign> - e.g. 
                 <foreign xml:lang="la">deducat, deducantur</foreign>; it indicates the establishment of colonists (see on line 5). </p>
-            <p> line 4: In the context <foreign xml:lang="la">Imperator</foreign> can only refer to Pompey, who was acclaimed for his victory
+            <p> line 4: In the context <foreign xml:lang="la">Imperator</foreign> can only refer to Pompey (dprr:1976), who was acclaimed for his victory
                     over the pirates in the summer of 67 and would continue to hold the title until his triumph.
                     Its appearance dates the text after that victory. The use of Pompey's name in the genitive
                     could be explained either as depending on some word or phrase like <foreign xml:lang="la">iussu</foreign>

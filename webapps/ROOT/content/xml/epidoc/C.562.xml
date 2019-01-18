@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C54300" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -140,23 +140,23 @@
 
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><date corresp="https://godot.date/id/haw7wcmiPEod7VXyu92BQB"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="1"/><date ref="https://godot.date/id/haw7wcmiPEod7VXyu92BQB"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="128">ρκη</num></date>  <persName type="attested"><name nymRef="Ἀθην-"><seg part="I">Ἀθη<supplied reason="lost">ν</supplied></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><date type="life-span" dur="P68Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num value="68"><unclear>ξ</unclear>η</num> </date>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-63716"><name nymRef="Ἐπίστρατος">Ἐπίστρατος</name>
                     <lb n="4"/><persName type="attested" key="lgpn:V1-65072"><name nymRef="Μουσαῖος">Μο<unclear>υ</unclear>σα<supplied reason="lost">ί</supplied><unclear>ω</unclear></name></persName> </persName>
-                    <lb n="5"/><date><date corresp="https://godot.date/id/tEn8uirYcosgX6xNA6tui8"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="109">ρθ</num></date> <date corresp="https://godot.date/id/BNVE4ovPzbtqRAUA2npaQb"><w>τοῦ</w> <w>καὶ</w> <num value="8">η</num></date></date>
+                    <lb n="5"/><date><date ref="https://godot.date/id/tEn8uirYcosgX6xNA6tui8"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="109">ρθ</num></date> <date ref="https://godot.date/id/BNVE4ovPzbtqRAUA2npaQb"><w>τοῦ</w> <w>καὶ</w> <num value="8">η</num></date></date>
                     <lb n="6"/> <persName type="attested" key="lgpn:V1-60937"><name nymRef="Ῥοδόκλεια">Ῥοδόκλεια</name> <persName type="attested" key="lgpn:V1-64275"><name nymRef="Θρασύμαχος">Θρα<lb n="7" break="no"/>ϲυμάχω</name></persName></persName> 
             <date type="life-span" dur="P55Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="55">νε</num> </date>
-                    <lb n="8"/><g ref="symbols.xml#leaf"/> <date><date corresp="https://godot.date/id/tEn8uirYcosgX6xNA6tui8"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <gap reason="lost" quantity="1" unit="character"/><num value="109">ρθ</num></date> <date corresp="https://godot.date/id/RALf7THcGdiLSuts7J4Yab"><w>τοῦ</w> <w>κ<supplied reason="lost">αὶ</supplied></w> 
+                    <lb n="8"/><g ref="symbols.xml#leaf"/> <date><date ref="https://godot.date/id/tEn8uirYcosgX6xNA6tui8"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <gap reason="lost" quantity="1" unit="character"/><num value="109">ρθ</num></date> <date ref="https://godot.date/id/RALf7THcGdiLSuts7J4Yab"><w>τοῦ</w> <w>κ<supplied reason="lost">αὶ</supplied></w> 
                         <supplied reason="lost"><num value="8">η</num></supplied></date></date> <persName type="attested" key="lgpn:V1-64679"><name nymRef="Κλευπάτρα">Κλευπάτρα</name>
                     <lb n="9"/><persName type="attested" key="lgpn:V1-64894"><name nymRef="Λῦσις">Λύσιδ<unclear>ο</unclear>ς</name></persName></persName> 
             <date type="life-span" dur="P40Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> 
                     <num atLeast="40">μ</num> </date> <g ref="symbols.xml#leaf"/> 
-               <lb n="10"/><date corresp="https://godot.date/id/nHDAniNEt2grnJc8Qw9CGn"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
+               <lb n="10"/><date ref="https://godot.date/id/nHDAniNEt2grnJc8Qw9CGn"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
                      <num atLeast="100">ρ<gap reason="lost" atLeast="1" atMost="2" unit="character"/></num></date> 
                     <orig>ευη</orig><gap reason="lost" extent="unknown" unit="character"/>
                 </ab>

@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="G04900" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -119,8 +119,8 @@
             </div>
             <div subtype="column" n="ii" type="textpart">
                <ab>
-                         <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                  <num value="84">πδ</num> <persName type="attested"><name nymRef="Τελεσώ"><corr cert="low">Τ</corr>ελέσω</name>
+                         <lb n="1"/><date ref="https://godot.date/id/WY8htfHzTQqADfVhUxsBMH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                  <num value="84">πδ</num></date> <persName type="attested"><name nymRef="Τελεσώ"><corr cert="low">Τ</corr>ελέσω</name>
                          <lb n="2"/><persName type="attested"><name nymRef="Ἀριστέας">Ἀρισστέα</name></persName></persName> <note>sic</note>
                          <date type="life-span" dur="P36Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                             <num value="36">λϛ</num> </date>

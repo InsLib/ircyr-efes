@@ -88,7 +88,8 @@
                         <editor>S. <name type="surname">Antolini</name></editor>, 
                         <editor>A. <name type="surname">Arnaldi</name></editor> and <editor>E. <name type="surname">Lanzillotta</name></editor> 
                         <title level="m">Atti della “Giornata di Studi per Lidio Gasperini” Roma 5 giugno 2008</title>, <pubPlace>Tivoli</pubPlace>, 
-                        <biblScope>77-99</biblScope>, available at Academia, <ref target="https://www.academia.edu/2390577/S._ANTOLINI_Un_nuovo_decreto_onorario_da_Cirene_in_Atti_della_Giornata_di_Studi_per_Lidio_Gasperini_Roma_5_giugno_2008_a_cura_di_S._ANTOLINI_-_A._ARNALDI_-_E._LANZILLOTTA_a_cura_di_Tivoli_2010_pp._77-99"/></bibl>
+                        <biblScope>77-99</biblScope>, available at Academia, 
+                        <ref target="https://www.academia.edu/2390577/S._ANTOLINI_Un_nuovo_decreto_onorario_da_Cirene_in_Atti_della_Giornata_di_Studi_per_Lidio_Gasperini_Roma_5_giugno_2008_a_cura_di_S._ANTOLINI_-_A._ARNALDI_-_E._LANZILLOTTA_a_cura_di_Tivoli_2010_pp._77-99"/></bibl>
                     
 
                     <bibl xml:id="antolini-paci2008"><author>S. <name type="surname">Antolini</name></author> and 
@@ -141,7 +142,7 @@
                             inscription from Bereniki in Cyrenaica (in Hebrew)</title>, <title level="j"
                             >Bulletin of the Israel Exploration Society</title>
                         <biblScope unit="issue">25</biblScope>, <biblScope unit="pp"
-                            >167-174</biblScope> Available at Digital Library for Internation Research Archive, 
+                            >167-174</biblScope> Available at Digital Library for International Research Archive, 
                         Item #2342, <ref target= "http://www.dlir.org/archive/items/show/2457"></ref></bibl>
 
                     <bibl xml:id="applebaum1962"><author>Shimon <name type="surname"
@@ -165,7 +166,7 @@
                         >Bacchielli</name></author>, <date>1993</date>, <title level="a">Pittura funeraria antica in Cirenaica</title>, 
                         in <title level="j">Libyan Studies</title>
                         <biblScope unit="issue">24</biblScope>, <biblScope unit="pp"
-                            >77-116</biblScope></bibl>
+                            >77-116</biblScope>, https://doi.org/10.1017/S0263718900001989</bibl>
                     
                     <bibl xml:id="bacchielli1995"><author>Lidiano <name type="surname"
                         >Bacchielli</name></author> and <author>Maria Rosata<name type="surname"
@@ -257,7 +258,7 @@
                   
                     <bibl xml:id="bowsky1987"><author>M. W. Baldwin <name type="surname">Bowsky</name></author>,
                         <date>1987</date>, <title level="a">M. Tittius Sex.f. Aem. and the Jews of Berenice (Cyrenaica)</title>
-                        <title level="j">American Jounral of Philology</title>, <biblScope
+                        <title level="j">American Journal of Philology</title>, <biblScope
                             unit="volume">108</biblScope>, <biblScope unit="pp">495-510</biblScope>
                     </bibl>
                  
@@ -362,7 +363,7 @@
                         <pubPlace>Berlin</pubPlace></bibl>
                     
                     <bibl xml:id="damerau1934"> <author>Paul <name type="surname">Damerau</name></author>
-                        <date>1934</date>, <title level="m">Faiser Cklaudiys II Goticus (268-270 n. Chr.)</title>,  
+                        <date>1934</date>, <title level="m">Kaiser Claudius II Goticus (268-270 n. Chr.)</title>,  
                         <pubPlace>Leipzig</pubPlace></bibl><!-- check -->
                     
                     <bibl xml:id="dellacella1819"><author>Paolo <name type="surname">Della
@@ -509,7 +510,8 @@
                         <title level="j">Notiziario Archeologico del
                             Ministero delle Colonie</title> <biblScope unit="volume">III</biblScope>,
                         <biblScope unit="pp">95-99</biblScope> with drawings, fig. 13-20 
-                        <ref target="http://periodici.librari.beniculturali.it/"/></bibl>
+                        <!-- <ref target="http://periodici.librari.beniculturali.it/"/> -->
+                        </bibl>
 
                     <bibl xml:id="ferri1923"><author>Silvio <name type="surname">Ferri</name></author>,
                             <date>1923</date>, <title level="m">Contributi di Cirene alla storia
@@ -518,14 +520,14 @@
                     
                     <bibl xml:id="ferri1925"><author>Silvio <name type="surname">Ferri</name></author>,
                         <date>1925</date>, <title level="m">Alcuni inscrizioni di Cirene</title>
-                        <title level="j">Abhandlingen Pr Akad Wissensch, phil.hist classe</title><!-- check pages --></bibl>
+                        <title level="j">Abhandlungen Pr Akad Wissensch, phil.hist classe</title><!-- check pages --></bibl>
                     
 
                     <bibl xml:id="ferri1926"><author>Silvio <name type="surname">Ferri</name></author>,
                             <date>1926</date>, <title level="a">Firme di legionari della Siria nella
                             Gran Sirte</title>, <title level="j">Rivista della Tripolitania</title>
                         <biblScope unit="volume">II</biblScope>, <biblScope unit="pp"
-                            >192-363</biblScope></bibl>
+                            >192-363</biblScope>, avialable at Biblioteca Nazionale, <ref target="http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/TO00193994/1925-1926/unico"/></bibl>
 
                     <bibl xml:id="ferri1927a"><author>Silvio <name type="surname">Ferri</name></author>, <date>1922</date>, 
                         <title level="a">La "Lex cathartica" di Cirene</title>  
@@ -544,12 +546,12 @@
                         reissued, <title level="j">Studi classici e orientali</title> 
                         <biblScope unit="volume">12</biblScope> <date>1963</date> <biblScope unit="pp">5-15</biblScope></bibl>
                     
-                    
-                    
+                   
                     <bibl xml:id="ferri1929"><author>Silvio <name type="surname">Ferri</name></author>
                         <date>1929</date><title level="a">Note di Epigrafia Cirenaica</title>, 
                         <title level="j">Historia: Studi storici per l'antichità classica</title>, <biblScope unit="volume">III</biblScope>,
-                        <biblScope unit="pp">399</biblScope></bibl><!-- WbgPH120 -->
+                        <biblScope unit="pp">399</biblScope>, available at Biblioteca Nazionale, <ref target="http://digitale.bnc.roma.sbn.it/tecadigitale/giornale/TO00185644/1929/unico"></ref></bibl>
+                    <!-- WbgPH120 -->
                     
                     <bibl xml:id="cigiii"><author>J. <name type="surname">Franz</name></author>
                         <date>1853</date>, <title level="s">Corpus Inscriptionum
@@ -1962,13 +1964,18 @@
                         <title level="j">Revue de Philologie</title> <biblScope unit="issue">n.s. 1</biblScope> <biblScope unit="pages">99-102</biblScope>
                         (= <title>OMS</title> OMS II, 1054-7)</bibl>
                     
-                    <bibl xml:id="robert1929"><author>L. <name type="surname">Robert</name></author> <date>1939</date> <title level="a">Décrets de Cyrène</title>, 
+                    <bibl xml:id="robert1929"><author>L. <name type="surname">Robert</name></author> <date>1929</date> <title level="a">Décrets de Cyrène</title>, 
                         <title level="j">Revue de Philologie</title> <biblScope unit="issue">n.s. 3</biblScope> <biblScope unit="pages">155-158</biblScope>
                         (= <title>OMS</title> II, 1121-24)</bibl>
                     
                     <bibl xml:id="robert1939"><author>L. <name type="surname">Robert</name></author> <date>1939</date> <title level="a">Décret de Cyrène pour un évergète</title>, 
                         <title level="j">Revue de Philologie</title> <biblScope unit="issue">n.s. 3</biblScope> <biblScope unit="pages">156-163</biblScope>
-                        (= <title>OMS</title> II, 1309-1316)</bibl><!-- check -->
+                        (= <title>OMS</title> II, 1309-1316)</bibl>
+                    
+                    
+                    <bibl xml:id="robert1939a"><author>L. <name type="surname">Robert</name></author> <date>1939</date> <title level="a">Onomastica</title>, 
+                        <title level="j">Revue de Philologie</title> <biblScope unit="issue">n.s. 3</biblScope> <biblScope unit="pages">179-180</biblScope>
+                        (= <title>OMS</title> II, 1332-1333)</bibl>
                     
                     <bibl xml:id="robert1940"><author>L. <name type="surname">Robert</name></author>
                         <date>1940</date>, <title level="m">Les gladiateurs dans l'orient grec</title>,

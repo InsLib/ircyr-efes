@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C67400" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -37,11 +37,11 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on the east wall, to the left of the central niche.</layout>
+                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on the east wall, to the left of the central niche; <ref type="inscription" n="C67500">M.208</ref> inscribed below.</layout>
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>First-second century: lunate sigma, square sigma, cursive omega, capital omega.<!-- check --></handNote>
+                     <handNote>First-second century: square sigma</handNote>
                   </handDesc>
                </physDesc>
                <history>

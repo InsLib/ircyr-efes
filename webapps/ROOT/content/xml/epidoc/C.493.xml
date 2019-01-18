@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -19,12 +19,12 @@
          </publicationStmt>
          <sourceDesc>
             <msDesc>
-               <msIdentifier><msName>n/a</msName></msIdentifier><!--Not inventoried -->
+               <msIdentifier><msName>77-73</msName></msIdentifier>
                <physDesc>
                   <objectDesc>
                      <supportDesc>
                         <support>
-                           <p>Fragment from left-hand side of coarse-grained white <material>marble</material> <objectType>feature</objectType>  
+                           <p>Fragment from left-hand side ofa coarse-grained white <material>marble</material> <objectType>feature</objectType>  
                               (<dimensions>
                                  <width>0.085</width>
                                  <height>0.065</height>
@@ -54,7 +54,7 @@
                               </p>
                         </provenance>
                         <provenance type="observed">
-                           <p><rs type="monuList"/>; not inventoried.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName> ><idno type="invNo">77-73</idno>.</p>
                         </provenance>
                      
                   

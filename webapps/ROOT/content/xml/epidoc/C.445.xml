@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="C88700" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><rs type="textType">Honours</rs> for Aretaphila</title>
+            <title><rs type="textType">Dedication</rs> for Aretaphila</title>
             <editor>Joyce M. Reynolds</editor>
          </titleStmt>
          <publicationStmt>
@@ -41,7 +41,7 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on the face. lines1-2 are cut on a lightly erased area and more widely spaced than the rest,
+                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on the face. lines 1-2 are cut on a lightly erased area and more widely spaced than the rest,
                            while lines3-4 are rather closer together.</layout>
                      </layoutDesc>
                   </objectDesc>

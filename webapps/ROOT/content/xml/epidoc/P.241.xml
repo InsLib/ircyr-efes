@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P34200" xml:lang="en">
    <teiHeader>
       <fileDesc>
@@ -124,14 +124,14 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="1"/><date ref="https://godot.date/id/hxfk4JbbUrshDKxsSHpf9J"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
             <num value="12">βι</num> <rs type="month" key="Χοιάκ"><w lemma="Χοιάκ">Χοαχὶ</w></rs> <note>sic</note>
-                    <lb n="2"/> <num value="12">βι</num> <persName type="attested" key="lgpn:V1-61278"><name nymRef="Εὐφρίω">Εὐφρίω</name> 
+                    <lb n="2"/> <num value="12">βι</num></date> <persName type="attested" key="lgpn:V1-61278"><name nymRef="Εὐφρίω">Εὐφρίω</name> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-61012"><name nymRef="Ἀθηναγόρας">Ἀθηναγό<lb n="4" break="no"/> <space quantity="4" unit="character"/>ρα</name></persName></persName>
             <num value="18">ιη</num>
    <space quantity="4" unit="line"/>
-                    <lb n="5"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-            <num value="12">ιβ</num> <rs type="month" key="Τυβί"><w lemma="Τυβί">Τυβὶ</w></rs> <space quantity="1" unit="character"/><num value="6">ϛ</num>
+                    <lb n="5"/><date ref="https://godot.date/id/fNZhcXVJhU7hYZxwXiwzo4"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+            <num value="12">ιβ</num> <rs type="month" key="Τυβί"><w lemma="Τυβί">Τυβὶ</w></rs> <space quantity="1" unit="character"/> <num value="6">ϛ</num></date>
                     <lb n="6"/><persName type="attested" key="lgpn:V1-61141"><name nymRef="Ἀριστόνικος">Ἀριστόνικο<lb n="7" break="no"/>ς</name>
                       <persName type="attested" key="lgpn:V1-61012"><name nymRef="Ἀθηναγόρας"><unclear>Ἀθ</unclear>ηναγόρα</name></persName></persName> 
                     <lb n="8"/><date type="life-span" dur="P8Y"><supplied reason="lost" cert="low"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied>
@@ -150,9 +150,9 @@
             </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 12, Choiak 12, Euphrio <supplied reason="subaudible">son</supplied> of Athenagoras, aged 18. 
+            <p><date ref="https://godot.date/id/hxfk4JbbUrshDKxsSHpf9J">Year 12, Choiak 12</date>, Euphrio <supplied reason="subaudible">son</supplied> of Athenagoras, aged 18. 
             </p>
-            <p>Year 12, Tybi 6, Aristonikos <supplied reason="subaudible">son</supplied> of Athenagoras, (?aged) ?8</p></div>
+            <p><date ref="https://godot.date/id/fNZhcXVJhU7hYZxwXiwzo4">Year 12, Tybi 6</date>, Aristonikos <supplied reason="subaudible">son</supplied> of Athenagoras, (?aged) ?8</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>Line 8:, aged 8, 18 or a multiple of ten, plus eight.</p>

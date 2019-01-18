@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://relaxng.org/ns/structure/1.0"?>
 <?xml-model href="http://www.stoa.org/epidoc/schema/dev/ircyr-checking.sch" schematypens="http://purl.oclc.org/dsdl/schematron"?>
-<?xml-model href="http://www.stoa.org/epidoc/schema/latest/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
+<?xml-model href="http://www.stoa.org/epidoc/schema/dev/tei-epidoc.rng" schematypens="http://purl.oclc.org/dsdl/schematron"?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0" xml:id="P25700" xml:lang="en">
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title><rs type="textType">Ephebic</rs> <rs type="textType">honours</rs></title>
+            <title><rs type="textType">Ephebic</rs> <rs type="textType" cert="low">honours</rs></title>
             <editor>Joyce M. Reynolds</editor>
          </titleStmt>
          <publicationStmt>
@@ -118,7 +118,7 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="11">ια</num> 
+                    <lb n="1"/><date ref="https://godot.date/id/RBRxZzgdQdSdz56bdagRWX"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="11">ια</num></date> 
                    <lb n="2"/> <persName type="attested"><name nymRef="Πεντίας">Πεντίας</name>
                    <lb n="3"/><persName type="attested"><name nymRef="Ἀγαθοκλῆς"><supplied reason="lost">Ἀ</supplied>γαθοκλέους</name></persName></persName>
                    <lb n="4"/><gap reason="lost" quantity="3" unit="character"/> <w>φίλος</w> <persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>αίου</ex></expan></name>
@@ -127,7 +127,7 @@
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 11, Pentias, <supplied reason="subaudible" cert="low">son</supplied> of Agathokles <gap reason="lost" quantity="3" unit="character"/>  
+            <p><date ref="https://godot.date/id/RBRxZzgdQdSdz56bdagRWX">Year 11</date>, Pentias, <supplied reason="subaudible" cert="low">son</supplied> of Agathokles <gap reason="lost" quantity="3" unit="character"/>  
                <supplied reason="subaudible">friend</supplied>, <supplied reason="subaudible" cert="low">honoured</supplied> Gaius Paccius Paelignos.</p></div>
          <div type="commentary">
             <head>Commentary</head>
