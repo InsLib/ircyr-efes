@@ -56,7 +56,7 @@
                <history>
                   <origin>
                      <origPlace>Unknown</origPlace>
-                     <origDate evidence="lettering" notBefore="0100" notAfter="0199" cert="low" precision="medium">Probably second century AD</origDate>
+                     <origDate evidence="lettering" notBefore="0100" notAfter="0199" cert="low" precision="low">Probably second century AD</origDate>
                   </origin>
                   <provenance type="found">
                            <p><date type="found"></date>
