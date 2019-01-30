@@ -59,11 +59,12 @@
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/909">Cyrene</placeName>: Found between <date type="found">1971</date> and <date type="found">1978</date>.
-                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1381">Sanctuary of Demeter and Kore</placeName>, in excavations; a at D14/E14<!-- xref --> ; b at D12<!-- xref --> c unrecorded. 
+                              <placeName type="monuList" ref="http://www.slsgazetteer.org/1381">Sanctuary of Demeter and Kore</placeName>, in excavations; a at D14/E14; b at D12, c unrecorded. 
                            </p>
                         </provenance>
                         <provenance type="observed">
-                           <p>Findspot.</p>
+                           <p><placeName type="monuList" ref="http://www.slsgazetteer.org/933">Cyrene Museum</placeName><idno type="invNo">71-116</idno> (c), 
+                              <idno type="invNo">73-1026</idno> (b), <idno type="invNo">78-736</idno> (a).</p>
                         </provenance>
                      
                   
