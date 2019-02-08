@@ -120,13 +120,13 @@
          <div type="bibliography">
             <head>Bibliography</head>
             <p>Mentioned <bibl>
-               <ptr target="jmr1990"/> <citedRange>p.72</citedRange>, n.34</bibl></p>
+               <ptr target="jmr1990"/> <citedRange>p.72</citedRange>, n.34</bibl></p><!-- check -->
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
-                    <num value="3">γ</num>
+                    <lb n="1"/><date ref="https://godot.date/id/P5Lqyyu6Qc8NHo4w5NeyEP"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
+                    <num value="3">γ</num></date>
                     <lb n="2"/> <w>Κόϲμοϲ</w> 
                     <lb n="3"/> <w>δημοϲιω<lb n="4" break="no"/>νικόϲ</w> 
             <date type="life-span" dur="P22Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
@@ -134,10 +134,10 @@
          </ab>
 </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 30, Kosmos, slave of the <foreign xml:lang="la">publicani</foreign>, aged 22.</p></div>
+            <p><date ref="https://godot.date/id/P5Lqyyu6Qc8NHo4w5NeyEP">Year 3</date>, Kosmos, slave of the <foreign xml:lang="la">publicani</foreign>, aged 22.</p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>ll. 3-4, δημοσιω/νικός, presumably 'belonging to the Publicani'; see Introduction, p. XXX.</p>
+            <p>ll. 3-4, δημοσιω/νικός, presumably 'belonging to the Publicani'.<!-- see Introduction, p. XXX. --> </p>
          </div>
          
       </body>

@@ -148,8 +148,8 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
        <lb n="1"/> <space extent="8" unit="character"/><orig>υ</orig>             
-   <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="13">ιγ</num> <persName type="attested" key="lgpn:V1-61565"><name nymRef="Πόπλιος">Πόπλιος</name></persName>
+   <lb n="2"/><date ref="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="13">ιγ</num></date> <persName type="attested" key="lgpn:V1-61565"><name nymRef="Πόπλιος">Πόπλιος</name></persName>
                 </ab>
 </div>
          <div type="apparatus">
@@ -162,7 +162,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 13. Publio.</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 13, Publius.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/aiFranwdzxo4QonDse2yu2">Year 13</date>, Publius.</p></div>
          </div>
          
          <div type="commentary">
