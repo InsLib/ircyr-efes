@@ -113,13 +113,13 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="2">β</num>
+                    <lb n="1"/><date ref="https://godot.date/id/Rai9BcWnP57dwR9heoAZq4"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="2">β</num></date>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 2.</p></div>
+            <p><date ref="https://godot.date/id/Rai9BcWnP57dwR9heoAZq4">Year 2</date>.</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p/>

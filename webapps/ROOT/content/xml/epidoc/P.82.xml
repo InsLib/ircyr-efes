@@ -128,13 +128,13 @@
             
             <div type="edition" xml:lang="grc" xml:space="preserve"><ab>
                 <lb n="0"/><gap reason="lost" extent="unknown" unit="line"/> 
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor"><supplied reason="lost"><w lemma="ἀρχιερεύς">ἀρχιερεὺς</w></supplied>
+                    <lb n="1"/><date ref="https://godot.date/id/HLozdHJGTicVn67rmjNhQG"><gap reason="lost" extent="unknown" unit="character"/> <persName type="emperor"><supplied reason="lost"><w lemma="ἀρχιερεύς">ἀρχιερεὺς</w></supplied>
                    <lb n="2"/><w lemma="μέγας"><supplied reason="lost">μέγιϲτ</supplied>οϲ</w>
                         <w>δα<supplied reason="lost">μαρχικᾶϲ</supplied></w> 
                         <supplied reason="lost"><w lemma="ἐξουσία">ἐξ<lb n="3" break="no"/>ουϲίαϲ</w></supplied>
                           <w lemma="ὁ">τὸ</w> <num value="5">ε</num>
                         <w lemma="πατήρ"><unclear>π</unclear><supplied reason="lost">ατὴρ</supplied></w>
-                        <supplied reason="lost"><w lemma="πατρίς">πατρίδοϲ</w></supplied></persName>
+                        <supplied reason="lost"><w lemma="πατρίς">πατρίδοϲ</w></supplied></persName></date>
                <lb n="4"/><gap reason="lost" extent="unknown" unit="character"/><orig>ψ<unclear>λιλ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/> 
                     <lb n="4a"/><gap reason="lost" extent="unknown" unit="line"/>
             </ab>
@@ -154,12 +154,12 @@
                 </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translations</head>
-            <div type="translation" source="#edd" xml:lang="en"><p> . . .  High Priest (Pontifex Maximus)] in the 5th term of trib[unician power, father of his country  . . .</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p> . . .  High Priest (Pontifex Maximus)] <date ref="https://godot.date/id/HLozdHJGTicVn67rmjNhQG">in the 5th term of trib[unician power</date>, father of his country  . . .</p></div>
          </div>
          
          <div type="commentary">
             <head>Commentary</head>
-            <p>These lines seem to contain part of the title of an emperor.</p>
+            <p>These lines seem to contain part of the title of an emperor in the nominative - recording some intervention or action.</p>
          </div>
          
       </body>

@@ -151,9 +151,9 @@
                             <w lemma="sum">erunt</w> <w><expan><abbr>a</abbr><ex>nte</ex></expan></w> 
                             <w lemma="dies"><expan><abbr>d</abbr><ex>iem</ex></expan></w> 
                            <num value="3">III</num> </supplied> 
-                        <w><unclear>non</unclear><supplied reason="lost">as</supplied></w> 
+                       <date> <w><unclear>non</unclear><supplied reason="lost">as</supplied></w> 
                         <lb n="5"/><supplied reason="lost"><w>Ianuarias</w> <w lemma="qui">quae</w> 
-                           <w lemma="proximus">proximae</w></supplied> 
+                           <w lemma="proximus">proximae</w></supplied></date> 
                         <w lemma="populus"><supplied reason="lost">pop</supplied>ulo</w> 
                   <placeName type="ethnic"><w lemma="Romanus">Ro<lb n="6" break="no"/><supplied reason="lost">mano</supplied></w></placeName> 
                   <supplied reason="lost"><w lemma="Quirites">Quiritibus</w> 
