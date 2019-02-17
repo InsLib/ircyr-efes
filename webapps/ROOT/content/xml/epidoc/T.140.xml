@@ -130,8 +130,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60278"><name nymRef="Ροκγαν">Ροκγαν</name></persName> 
-            <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="20">κ</num>
+            <date ref="https://godot.date/id/WLbn4frt5A2AqqcAtRgroU"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="20">κ</num></date>
                     </ab></div>
             <div subtype="part" n="ii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60279"><name nymRef="Ἀρίστοφος">Ἀρίστοφος</name>
@@ -161,7 +161,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Roncån Aristofo ad Anussan</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Ronkan, year 20. Aristophos to/for Anussan. Peri-</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p>Ronkan, <date ref="https://godot.date/id/WLbn4frt5A2AqqcAtRgroU">year 20</date>. Aristophos to/for Anussan. Peri-</p></div>
          </div>
          
          <div type="commentary">

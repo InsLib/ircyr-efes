@@ -147,7 +147,7 @@
                        </ab></div>
             <div subtype="part" n="iv" type="textpart"><ab>
                            <lb n="1"/><persName type="attested" key="lgpn:VI-60189"><name nymRef="Ἀνδρότιμος">Ἀνδρό<lb n="2" break="no"/>τιμο<supplied reason="lost">ς</supplied></name></persName> 
-               <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="4">δ</num>
+               <date ref="https://godot.date/id/aFMpYxvXxYJ2jYWrjL2K37"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="4">δ</num></date>
                        </ab></div>
             <div subtype="part" n="v" type="textpart"><ab>
                             <lb n="1"/><persName type="attested" key="lgpn:VI-60191"><name nymRef="Ἀμμώνιος">Ἀμμώνιος</name></persName>
@@ -174,7 +174,7 @@
          </div>
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Comos a tutti Melanzio ? Androtimo anno 6 Amidonio.</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i. Philokomos. ii. Pasikles. iii. Melantios. iv. Androtimos, year 4. 
+            <div type="translation" source="#edd" xml:lang="en"><p>i. Philokomos. ii. Pasikles. iii. Melantios. iv. Androtimos, <date ref="https://godot.date/id/aFMpYxvXxYJ2jYWrjL2K37">year 4</date>. 
             v. Ammonios</p></div>
          </div>
          <div type="commentary">

@@ -118,8 +118,8 @@
                             <lb n="1"/><persName type="attested"><name nymRef="Ἀπολλώνιος">Ἀπολλώνιος</name> 
                         <lb n="2"/><persName type="attested"><name nymRef="Πε-"><seg part="I">Πε</seg><del rend="erasure"><gap reason="lost" quantity="8" unit="character"/></del><seg part="F">ω</seg></name></persName></persName>
                         </ab></div><div subtype="fragment" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="45">με</num> <persName type="attested"><name nymRef="Ἵππαρχος">Ἵππαρχος</name></persName>
+                        <lb n="1"/><date ref="https://godot.date/id/Z5m5gTBF9N8NockFCa7G6J"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="45">με</num></date> <persName type="attested"><name nymRef="Ἵππαρχος">Ἵππαρχος</name></persName>
                     </ab></div><div subtype="fragment" n="iii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Θανύρις">Θανυ<unclear>ρ</unclear>ις</name>
                     <lb n="2"/><persName type="attested"><name nymRef="Δημήτριος">Δημητρίου</name></persName></persName>
@@ -141,7 +141,10 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p>i: Apollonios <supplied reason="subaudible">?son/?friend</supplied> of Pe-</p>
+            <p>ii: <date ref="https://godot.date/id/Z5m5gTBF9N8NockFCa7G6J">Year 45</date>, Hipparchos</p>
+            <p>Thanuris <supplied reason="subaudible">?son/?friend</supplied> of Demetrios</p><p/></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>ii. 45 of the Actian era = C.E. 15/16.</p>
