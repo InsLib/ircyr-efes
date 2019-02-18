@@ -154,16 +154,16 @@
                            <lb n="1"/><persName type="attested"  key="lgpn:V1-60217"><name nymRef="Ἀπολλώνιος">Ἀπολλώνιοϲ</name></persName>
                        </ab></div>
             <div subtype="part" n="ii" type="textpart"><ab>
-                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num>
+                           <lb n="1"/><date ref="https://godot.date/id/Ee7cqUpNoSaN32zaZytNsM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="7">ζ</num></date>
                        </ab></div>
             <div subtype="part" n="iii" type="textpart"><ab>
-                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="40">μ</num>
+                           <lb n="1"/><date ref="https://godot.date/id/puESXHZfTKfs9yv8eWsbnh"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="40">μ</num></date>
                            <lb n="2"/> <persName type="attested" key="lgpn:V1-60222"><name nymRef="Ἀτθυμάλλας">Ἀτθυμάλλαϲ</name></persName>
                            <lb n="3"/> <w>φί<supplied reason="lost">λος</supplied></w>
                            <lb n="4"/><persName type="attested" key="lgpn:V1-60219"><name nymRef="Στρατοκλῆς">Στρατοκλεῖ</name></persName> 
                        </ab></div
             ><div subtype="part" n="iv" type="textpart"><ab>
-                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="8">η</num> 
+                           <lb n="1"/><date ref="https://godot.date/id/uggB4UR8WuKoFkouddSKob"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="8">η</num></date> 
                            <persName type="attested" key="lgpn:V1-60220"><name nymRef="Δαμοκλῆς">Δαμοκλῆϲ</name>
                    <lb n="2"/> <persName type="attested" key="lgpn:V1-60221"><name nymRef="Δαμοκλῆς">Δαμοκλεῦϲ</name></persName></persName>
                        </ab></div>
@@ -206,14 +206,13 @@
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>164: -ni Apollonio. Anno 40, Ethimalla Fi- di Stratocle. 
                Anno 8, Democle di Democle, Emisathis ?. 165: Anisan di Nicasia? F- oc- di Eutacto ?</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i: Apollonios. ii: Year 7. iii: Year 40. Atthumallas, friend of Stratokles. 
-            iv. Year 8. Damokles son of Damokles. v. Emisathis. vi Anussan. vii. Nikas. viii. Eutychos. ix. Philok-</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p>i: Apollonios. ii: <date ref="https://godot.date/id/Ee7cqUpNoSaN32zaZytNsM">Year 7</date>. 
+               iii: <date ref="https://godot.date/id/puESXHZfTKfs9yv8eWsbnh">Year 40</date>. Atthumallas, friend of Stratokles. 
+            iv. <date ref="https://godot.date/id/uggB4UR8WuKoFkouddSKob">Year 8</date>. Damokles son of Damokles. v. Emisathis. vi Anussan. vii. Nikas. viii. Eutychos. ix. Philok-</p></div>
          </div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>iii.2: for the name see Masson (1976) p.58
-               2.40 of the Actian Era = C.E. 9/10. 3. </p>
-            <p> 4. Year 8.</p>
+            <p></p>
          </div>
          
       </body>

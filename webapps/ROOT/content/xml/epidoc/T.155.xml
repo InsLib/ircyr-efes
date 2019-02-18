@@ -144,14 +144,14 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
                            <persName type="attested" key="lgpn:V1-60249"><name nymRef="Γιλδαν">Γ<unclear>ι</unclear><unclear>λδ</unclear>αν</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
          </ab></div><div subtype="part" n="ii" type="textpart"><ab>
-                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                           <num value="56">νϛ</num> <orig>ι<gap reason="lost" extent="unknown" unit="character"/>
+                           <lb n="1"/><date ref="https://godot.date/id/ctTMgwU9xVmjsEtChP8Yce"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                           <num value="56">νϛ</num></date> <orig>ι<gap reason="lost" extent="unknown" unit="character"/>
 
 </orig>                           <lb n="2"/><persName type="attested"><name nymRef="Ἀρισ-"><seg part="I">Ἀρισ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                        </ab></div>
             <div subtype="part" n="iii" type="textpart"><ab>
-                           <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                           <num value="79"><unclear>ο</unclear>θ</num> <gap reason="lost" extent="unknown" unit="character"/>
+                          <date ref="https://godot.date/id/2crkCU5wPe3riSKoqPx9J4"> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                           <num value="79"><unclear>ο</unclear>θ</num></date> <gap reason="lost" extent="unknown" unit="character"/>
 
                        </ab>
 </div>
@@ -159,17 +159,18 @@
          <div type="apparatus">
             <head>Apparatus</head>
             <listApp>
-                    <app loc="ii 1">
-                  <rdg>or ?ΣΙ<gap reason="lost" extent="unknown" unit="character"/>
-                     <note>Oliverio read (Ἔτους) νςʹ, whence SEG</note></rdg>
+               <app loc="ii 1"><rdg resp="#oliverioDAI">(Ἔτους) νσʹ</rdg>
+                  <rdg><note>; also possible is ν΄ ΣΙ[ . . .</note></rdg>
+               </app>
+               <app loc="iii"><note>Not reported by Oliverio</note></rdg>
                </app>
                 </listApp>
          </div>
           
             <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 250 Aris-</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i. Gildan. ii. Year 56, Aris- 
-               iii Year 79</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p>i. Gildan. ii. <date ref="https://godot.date/id/ctTMgwU9xVmjsEtChP8Yce">Year 56</date>, Aris- 
+               iii <date ref="https://godot.date/id/2crkCU5wPe3riSKoqPx9J4">Year 79</date></p></div>
          </div>
             
          <div type="commentary">

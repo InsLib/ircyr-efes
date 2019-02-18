@@ -126,8 +126,8 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
-                            <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                            <num value="12"><unclear>ι</unclear><unclear>β</unclear></num> 
+                            <lb n="1"/><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                            <num value="12"><unclear>ι</unclear><unclear>β</unclear></num></date> 
                             <persName type="attested"><name nymRef="Πραξιτέλης">Πραξιτέλης</name></persName>
                         </ab></div>
             <div subtype="part" n="ii" type="textpart"><ab>
@@ -145,7 +145,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>i. Year 12.</p>
+            <p>i. <date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH">Year 12</date>.</p>
             <p></p>
          </div>
          
