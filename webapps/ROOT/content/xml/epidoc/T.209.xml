@@ -127,8 +127,8 @@
                         <gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="M"><unclear>κρ</unclear>ατ</seg></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="1">α</num> 
+                        <lb n="1"/><date ref="https://godot.date/id/wtdpMkHixnKf3paJYFzKXG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="1">α</num></date> 
                         <gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">ρατ<unclear>ω</unclear></seg></name></persName>
                         <orig><unclear>λ</unclear>ι<unclear>ακ</unclear><gap reason="lost" extent="unknown" unit="character"/></orig>
                     </ab></div>
@@ -159,7 +159,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Sogene di Cat-  Anno 1 - Arimma Apron di Apol-</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i: Sogenes, <supplied reason="subaudible">son of</supplied> -krat- ii: Year 1; 
+            <div type="translation" source="#edd" xml:lang="en"><p>i: Sogenes, <supplied reason="subaudible">son</supplied> of -krat- ii: <date ref="https://godot.date/id/wtdpMkHixnKf3paJYFzKXG">Year 1</date>; 
             iii: Arimmas Apron Apol- ; iv: Kleog<supplied reason="lost">enes</supplied></p></div>
          </div>
          

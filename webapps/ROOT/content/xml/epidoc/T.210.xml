@@ -124,8 +124,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
-                    <num value="2">β</num>
+                    <lb n="1"/><date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
+                    <num value="2">β</num></date>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60360"><name nymRef="Ἀθηνόδωρος">Ἀθηνόδωροϲ</name>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60359"><name nymRef="Εὐδαίμων">Εὐδαίμονοϲ</name></persName></persName> 
                     <lb n="4"/><w lemma="γραμματεύς">γραμματεὺ<supplied reason="lost">ϲ</supplied></w>
@@ -135,7 +135,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Year 2. Atenodoro di Eudemon, segretario degli efebi</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 2. Athenodoros <supplied reason="subaudible">son of</supplied> Eudaimon, secretary to the ephebes.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/dFvHipwoLB8gihLbUGw5Nb">Year 2</date>. Athenodoros <supplied reason="subaudible">son</supplied> of Eudaimon, secretary to the ephebes.</p></div>
          </div>
          
          <div type="commentary">

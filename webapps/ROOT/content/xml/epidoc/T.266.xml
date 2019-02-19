@@ -117,9 +117,9 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
              
             <ab>
-                    <lb n="1"/><supplied reason="lost" cert="low"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied>
+                    <lb n="1"/><date ref="https://godot.date/id/jmPa2yLnZecxZL2C43V9id"><supplied reason="lost" cert="low"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied>
                <rs type="month" key="Ἁθύρ"><w lemma="Ἁθύρ"><supplied reason="lost">Ἁ</supplied>θὺρ</w></rs>
-               <num value="7"><unclear>ζ</unclear></num>
+               <num value="7"><unclear>ζ</unclear></num></date>
                     <lb n="2"/><persName type="attested"><name nymRef="Πύρρος"><unclear>Π</unclear><supplied reason="lost">ύ</supplied>ρ<unclear>ρ</unclear>ος</name> 
                     <lb n="3"/><persName type="attested"><name nymRef="Λόγγος"><supplied reason="lost">Λ</supplied><unclear>ό</unclear>νγου</name></persName></persName> 
                     <lb n="4"/><date type="life-span" dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
@@ -131,7 +131,7 @@
          
          <div type="translation" xml:space="preserve">
             <head>Translation</head>
-            <p>Year <gap reason="lost" extent="unknown" unit="character"/> Hathyr 6, Pyrrus <supplied reason="subaudible">son</supplied> of Longus aged 20.</p>
+            <p><date ref="https://godot.date/id/jmPa2yLnZecxZL2C43V9id">Year_ Hathyr 7</date>, Pyrrus <supplied reason="subaudible">son</supplied> of Longus aged 20.</p>
          </div>
          
          <div type="commentary">
