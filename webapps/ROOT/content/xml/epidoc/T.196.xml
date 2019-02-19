@@ -127,10 +127,10 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><date ref="https://godot.date/id/6DQUEwFVWY2wxr8FygY9B3"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="8">η</num> <w lemma="αὐτοκράτωρ">Αὐτοκράτορος</w> 
                     <lb n="2"/><persName type="emperor" key="domitianus"><name nymRef="Δομιτιανός">Δομιτιανοῦ</name> 
-                    <lb n="3"/><name nymRef="Καῖσαρ">Καίσαρος</name></persName> 
+                    <lb n="3"/><name nymRef="Καῖσαρ">Καίσαρος</name></persName></date> 
                     <persName type="attested" key="lgpn:V1-60355"><name nymRef="Ἰσίδωρος">Ἰσίδω<lb n="4" break="no"/><unclear>ρ</unclear>ος</name></persName> 
                     <w lemma="καί">καὶ</w> <persName type="attested" key="lgpn:V1-60356"><name nymRef="Διασθένης">Διασ<unclear>θέ</unclear><lb n="5" break="no"/><unclear>νης</unclear></name></persName>
                 </ab>
@@ -143,7 +143,7 @@
         
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 9 del imperatore Domiziano Cesare. Isidoro e Diastene ?</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 9 of Emperor Domitian Caesar, Isidore and Diasthenes.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/6DQUEwFVWY2wxr8FygY9B3">Year 8 of Emperor Domitian Caesar</date>, Isidore and Diasthenes.</p></div>
          </div>
          
          <div type="commentary">

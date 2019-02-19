@@ -125,8 +125,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="18">ιη</num> <persName type="attested" key="lgpn:V1-60334"><name nymRef="Λούκιος">Λού<lb n="2" break="no"/>κιος</name> 
+                    <lb n="1"/><date ref="https://godot.date/id/Z45LFLgkUbiYUojqCXY7iM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="18">ιη</num></date> <persName type="attested" key="lgpn:V1-60334"><name nymRef="Λούκιος">Λού<lb n="2" break="no"/>κιος</name> 
                        <persName type="attested" key="lgpn:V1-60333"><name nymRef="Καρνεάδας">Κα<lb n="3" break="no"/>ρνεάδου</name></persName></persName>
                 </ab>
 </div>
@@ -145,7 +145,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Year 18. Lucio di Carneade</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 18. Lucius <supplied reason="subaudible">son of</supplied> Karneades</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/Z45LFLgkUbiYUojqCXY7iM">Year 18</date>. Lucius <supplied reason="subaudible">son of</supplied> Karneades</p></div>
          </div>
          
          <div type="commentary">

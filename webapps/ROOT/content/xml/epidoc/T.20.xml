@@ -120,14 +120,14 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="17">ιζ</num> <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> 
+                    <lb n="1"/><date ref="https://godot.date/id/AUEeZ6kTa3crdx84rWhznS"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="17">ιζ</num></date> <persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> 
                     <lb n="2"/><name nymRef="Ἄννιος">Ἄννιος</name> 
                     <lb n="3"/><name nymRef="Πακειλιανός">Πακειλι<lb n="4" break="no"/>ανός</name></persName>
                 </ab>
 </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head><p>line 1 year 17</p></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head><p><date ref="https://godot.date/id/AUEeZ6kTa3crdx84rWhznS">Year 17, Lucius Annius Pakeilianos</date></p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p/>
