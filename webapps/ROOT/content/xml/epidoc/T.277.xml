@@ -120,8 +120,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="98">ϙη</num> <rs type="month" key="Φαωφί"><w lemma="Φαωφί">Φαωφὶ</w></rs> <num value="26">κ<unclear>ϛ</unclear></num> 
+                    <lb n="1"/><date ref="https://godot.date/id/pavpkrnwkbuBnDXgUPKzc7"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="98">ϙη</num> <rs type="month" key="Φαωφί"><w lemma="Φαωφί">Φαωφὶ</w></rs> <num value="26">κ<unclear>ϛ</unclear></num></date> 
                     <lb n="2"/><persName type="attested"><name nymRef="Τρυφηνία">Τρυφή<supplied reason="lost">νία</supplied></name>
                     <lb n="3"/><persName type="attested"><name nymRef="Καλλίμαχος"><unclear>Κ</unclear><supplied reason="lost">α</supplied><unclear>λλ</unclear>ι<unclear>μ</unclear>ά<unclear>χου</unclear></name></persName></persName>
                     <lb n="4"/><date type="life-span" dur="P20Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
@@ -132,7 +132,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>L1: 98 of the Actian era, Phaophi 26 = C.E.67 October 24. L4: Aged 20.</p>
+            <p>L1: <date ref="https://godot.date/id/pavpkrnwkbuBnDXgUPKzc7">Year 98, Phaophi 26</date> = C.E.67 October 24. L4: Aged 20.</p>
          </div>
          
       </body>
