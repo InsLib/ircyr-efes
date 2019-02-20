@@ -108,10 +108,7 @@
          <change when="2008-09-01" who="VA">turned to XML and tidied</change>
          <change when="2008-08-18" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMR_105_003" decls="#photograph"><desc>Text (Joyce Reynolds, Tocra IV.4.28A, NS.V.40)</desc></graphic><!--Dept. --><!--
-                    --><!--
-                    
-                --></facsimile>
+   </teiHeader><facsimile><graphic url="JMR_105_003" decls="#photograph"><desc>Text (Joyce Reynolds, Tocra IV.4.28A, NS.V.40)</desc></graphic><!--Dept. --></facsimile>
    <text>
       <body>
        

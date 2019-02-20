@@ -119,7 +119,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><persName type="attested"><name nymRef="Εἰρήνα">Εἰρή<unclear>ν</unclear>α</name></persName> 
-                        <date type="life-span" dur="P5Y"><w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἐτῶν</ex></expan></w> <num xml:lang="grc">ε</num> </date> 
+                        <date type="life-span" dur="P5Y"><w><expan><abbr><am><unclear><g ref="symbols.xml#year"/></unclear></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="5">ε</num> </date> 
                     <lb n="1a"/><gap reason="lost" quantity="1" unit="line"/>
                 </ab>
 </div>
@@ -127,10 +127,8 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>line 1 probably the age? <foreign xml:lang="grc">L <num value="5">ε</num>
-               </foreign> = 5, 
-                    or <foreign xml:lang="grc">L <num value="15">ιε</num>
-               </foreign> = 15.</p>
+            <p>line 1 probably the age? L ε΄= 5, 
+                    or L ιε΄= 15.</p>
          </div>
          
       </body>

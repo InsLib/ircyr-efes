@@ -125,15 +125,15 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="5">ε</num> <rs type="month" key="Τυβί"><w lemma="Τυβί">Τυβὶ</w></rs> <num value="20">κ</num>
+                    <lb n="1"/><date ref="https://godot.date/id/KwEVLYtYCZaGGnCVeDZDDR"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="5">ε</num> <rs type="month" key="Τυβί"><w lemma="Τυβί">Τυβὶ</w></rs> <num value="20">κ</num></date>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60481"><name nymRef="Αἰγλάνωρ">Ἐγλάνωρ</name>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60482"><name nymRef="Σωγένης">Σωγένευς</name></persName></persName>
                     <lb n="4"/><date type="life-span" dur="P18Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="18">ιη</num> </date>
-                    <lb n="5"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="5"/><date ref="https://godot.date/id/ZrHy5JHmEAqf25Z8bwg9sd"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="5">ε</num> <rs type="month" key="Φαρμουθί"><w lemma="Φαρμουθί">Φαρμο
-                        <lb n="6" break="no"/>υθὶ</w></rs> <num value="24">δκ</num> 
+                        <lb n="6" break="no"/>υθὶ</w></rs> <num value="24">δκ</num></date> 
                     <persName type="attested" key="lgpn:V1-60821"><name nymRef="Σωγένης">Σ<supplied reason="lost">ω</supplied>
                     <lb n="7" break="no"/>γένη<supplied reason="lost">ς</supplied></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                 </ab>
@@ -157,14 +157,15 @@
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 5, Tybi 20. Eglanor di Sogene, di anni 18</p>
                <p>Anno 5, Pharmouthi 24. Sogene -</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 5, Tybi 10 <note>January 15</note>, Eglanor, <supplied reason="subaudible">son</supplied> of Sogenes, aged 18.
-                    </p><p>Year 5 <note>April 19</note>, Pharmouthi 24, Sogenes [ . . .</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/KwEVLYtYCZaGGnCVeDZDDR">Year 5, Tybi 10</date>, 
+               Eglanor, <supplied reason="subaudible">son</supplied> of Sogenes, aged 18.</p>
+               <p><date ref="https://godot.date/id/ZrHy5JHmEAqf25Z8bwg9sd">Year 5, Pharmouthi 24</date>, Sogenes [ . . .</p></div>
        </div>
          
           
          <div type="commentary">
             <head>Commentary</head>
-          
+          <note>January 15</note><note>April 19</note>
          </div>
          
       </body>

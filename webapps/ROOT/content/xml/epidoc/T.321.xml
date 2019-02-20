@@ -125,9 +125,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><date ref="https://godot.date/id/yYzNKHRj9igd2u9BZZLrQW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="7">ζ</num> <w>Θῶ<unclear>θ</unclear><supplied reason="lost">υ</supplied></w> 
-                    <lb n="2"/><num value="15">ει</num> <persName type="attested" key="lgpn:V1-60455"><name nymRef="Λεύκιππος">Λε<unclear>ύ</unclear><supplied reason="lost">κιπ</supplied><lb n="3" break="no"/>πος</name></persName> 
+                    <lb n="2"/><num value="15">ει</num></date> <persName type="attested" key="lgpn:V1-60455"><name nymRef="Λεύκιππος">Λε<unclear>ύ</unclear><supplied reason="lost">κιπ</supplied><lb n="3" break="no"/>πος</name></persName> 
                     <persName type="attested"><name nymRef="Λ-"><seg part="I"><unclear>Λ</unclear></seg></name></persName> <gap reason="lost" quantity="4" unit="character"/> 
                     <lb n="4"/><gap reason="lost" quantity="2" unit="character"/>  
                     <orig><unclear>Λε</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
@@ -168,7 +168,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 7, Thothy 15. Leucippo di L-</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 7, Thoth 15 (September 12), Leukippos 
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/yYzNKHRj9igd2u9BZZLrQW">Year 7, Thoth 15</date> (September 12), Leukippos 
                ? <supplied reason="subaudible">son</supplied> of L-</p></div>
        </div>
          

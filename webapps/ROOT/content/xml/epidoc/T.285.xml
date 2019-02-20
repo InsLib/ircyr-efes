@@ -116,17 +116,17 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="70"><unclear>ο</unclear></num> <persName type="attested">
-                    <gap reason="lost" quantity="1" unit="character"/> <name><seg part="F"><unclear>ηπ</unclear>ωνιος</seg></name>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F"><unclear>υσο</unclear>υ</seg></name></persName></persName>
+                    <lb n="1"/><date ref="https://godot.date/id/aNHe7rTzEijnddyZKPXD42"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="70"><unclear>ο</unclear></num></date> <persName type="attested">
+                    <gap reason="lost" quantity="1" unit="character"/> <name><seg part="F"><unclear>ηπ</unclear>ωνιοϲ</seg></name>
+                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F"><unclear>υϲο</unclear>υ</seg></name></persName></persName>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>L1: If correctly read, 70 of the Actian era = C.E.39/40.</p>
+            <p>L1: If correctly read, <date ref="https://godot.date/id/aNHe7rTzEijnddyZKPXD42">70 of the Actian era</date> = C.E.39/40.</p>
          </div>
          
       </body>

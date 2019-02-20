@@ -117,10 +117,10 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="11">ια</num>                                       
+                        <lb n="1"/><date ref="https://godot.date/id/RBRxZzgdQdSdz56bdagRWX"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="11">ια</num></date>                                       
                         <lb n="2"/><gap  reason="lost" extent="unknown" unit="line"/>
                     </ab></div><div subtype="part" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan> </w> <num value="5">ε</num>
+                        <lb n="1"/><date ref="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan> </w> <num value="5">ε</num></date>
                         <lb n="2"/><persName type="attested"><name nymRef="Πόπλιος"><expan><abbr>Π</abbr><ex>όπλιος</ex></expan></name><g ref="symbols.xml#stop"/> <w>τα<unclear>μ</unclear><lb n="3" break="no"/>ε<supplied reason="lost">ιο</supplied><unclear>ς</unclear></w> 
                             <persName type="divine" key="serapis"><name nymRef="Σέραπις">Σερα<lb n="4" break="no"/>π<supplied reason="lost">ι</supplied><unclear>ω</unclear></name></persName> 
                             <placeName>Kανω<lb n="5" break="no"/>που</placeName></persName><!-- check -->
@@ -129,7 +129,8 @@
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>i, line  1, year 11.</p><p>ii, line  1, year 5.</p></div>
+            <p>i:<date ref="https://godot.date/id/RBRxZzgdQdSdz56bdagRWX">Year 11</date> [ . . ..</p>
+            <p>ii: <date ref="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW">Year 5</date>, </p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>ii, line  1, cut above the wreath.</p>

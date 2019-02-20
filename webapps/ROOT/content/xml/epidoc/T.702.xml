@@ -117,7 +117,7 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> 
-                        <num xml:lang="grc"><gap reason="lost" quantity="1" unit="character"/></num> 
+                        <num><gap reason="lost" quantity="1" unit="character"/></num> 
                         <rs type="month" key="Φαμενώθ"><w><supplied reason="lost">Φ</supplied>α<supplied reason="lost">μ</supplied>ε<unclear>νὼ</unclear>θ</w></rs>
                         <num value="8" xml:lang="grc">η</num>
                     <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/> 
@@ -125,7 +125,7 @@
                            <lb n="2a"/><gap reason="lost" extent="1" unit="line"/> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60138"><name nymRef="Σωσικράτης">Σωσικ<unclear>ρ</unclear>άτου</name></persName></persName> 
                        <lb n="3a"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w></supplied> 
-                        <num xml:lang="grc"><gap reason="lost" quantity="1" unit="character"/></num>
+                        <num><gap reason="lost" quantity="1" unit="character"/></num>
                     <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                         <num value="87" xml:lang="grc">πζ</num> 
                         <rs type="month" key="Μεσορή"><w><unclear>Μ</unclear><supplied reason="lost">ε</supplied>σορὴ</w></rs> 
