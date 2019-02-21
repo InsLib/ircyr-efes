@@ -121,7 +121,7 @@
                             <lb n="2"/><gap reason="lost" quantity="1" unit="character"/><orig>σε<unclear>ρ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>                    
                             <lb n="3"/><gap reason="lost" extent="unknown" unit="line"/>
                         </ab></div><div subtype="part" n="ii" type="textpart"><ab>
-                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan> </w> <num xml:lang="grc">ι<gap reason="lost" quantity="1" unit="character"/></num>              
+                           <lb n="1"/><date ref="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan> </w> <num value="10">ι<gap reason="lost" quantity="1" unit="character"/></num></date>              
                            <lb n="2"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ούκιος</ex></expan></name> 
                                 <name nymRef="Νο-"><seg part="I">Νο</seg><gap reason="lost" extent="unknown" unit="character"/>
                                    <lb n="3" break="no"/><seg part="F">ος</seg></name> <name nymRef="Ι-"><seg part="I"><unclear>Ι</unclear></seg><gap reason="lost" extent="unknown" unit="character"/>
@@ -130,13 +130,12 @@
 </div>
 </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head><p>ii, line 1, year 10+.</p></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head><p>ii, line 1, <date ref="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB">Year 10+</date>.</p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>ii. line 2 The nomen was perhaps <foreign xml:lang="grc">Νόβιος</foreign> 
-                    or <foreign xml:lang="grc">Νόνιος</foreign>, the cognomen 
-                    <foreign xml:lang="grc">Πολύβιος</foreign> or 
-                    <foreign xml:lang="grc">Καλλίβιος</foreign>.</p>
+            <p>ii. line 2 The nomen was perhaps Νόβιος 
+                    or Νόνιος, the cognomen 
+                    Πολύβιος or Καλλίβιος.</p>
          </div>
          
       </body>

@@ -115,8 +115,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="4">δ</num> <persName type="attested"><name nymRef="Ζην-"><seg part="I">Ζην</seg></name> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><date ref="https://godot.date/id/aFMpYxvXxYJ2jYWrjL2K37"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="4">δ</num></date> <persName type="attested"><name nymRef="Ζην-"><seg part="I">Ζην</seg></name> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><persName type="attested"><name nymRef="Ἀνίοχος">Ἀνιόχο<unclear>υ</unclear></name></persName></persName>
                 </ab>
 </div>
@@ -130,10 +130,11 @@
                </app>
             </listApp>
          </div>
-         <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p><date ref="https://godot.date/id/aFMpYxvXxYJ2jYWrjL2K37">Year 4</date>, Zen- . . <supplied reason="subaudible">?son/?friend</supplied> of Aniochos</p><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>Year 4; </p>
+            <p>; </p>
          </div>
          
       </body>

@@ -118,14 +118,14 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="19">ιθ</num> <persName type="attested" key="lgpn:V1-60386"><name nymRef="Καρνήδας">Καρνήδας</name></persName> 
+                    <lb n="1"/><date ref="https://godot.date/id/QEEpTtCKhwLjNEhLvD8woK"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="19">ιθ</num></date> <persName type="attested" key="lgpn:V1-60386"><name nymRef="Καρνήδας">Καρνήδας</name></persName> 
                </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 19. Carneda</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 19. Karnedas.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/QEEpTtCKhwLjNEhLvD8woK">Year 19</date>. Karnedas.</p></div>
        </div>
          
          <div type="commentary">

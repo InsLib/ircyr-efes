@@ -124,9 +124,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <lb n="1"/><date ref="https://godot.date/id/WPVDJcChZQFzdfN42Bq6TV"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
                     <num value="2">β</num> <rs type="month" key="Θώθ"><w>Θώθυ</w></rs>
-                    <lb n="2"/><num value="25"><unclear>ε</unclear>κ</num>
+                    <lb n="2"/><num value="25"><unclear>ε</unclear>κ</num></date>
                     <persName type="attested" key="lgpn:V1-60440"><name nymRef="Βάσσος"><unclear>Β</unclear>άσ<lb n="3" break="no"/>σος</name> 
                        <persName type="attested" key="lgpn:V1-60439"><name nymRef="Καρνήδας">Καρ<lb n="4" break="no"/>νήδα</name></persName></persName> 
             <date type="life-span" dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
@@ -154,7 +154,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 2, Thothy 25. Bassi di Carneda, di anni 15.</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 2, Thoth 25 (September 22), Bassos <supplied reason="subaudible">son of</supplied> Karnedas, aged 25.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/WPVDJcChZQFzdfN42Bq6TV">Year 2, Thoth 25</date> (September 22), Bassos <supplied reason="subaudible">son</supplied> of Karnedas, aged 25.</p></div>
        </div>
          
          <div type="commentary">

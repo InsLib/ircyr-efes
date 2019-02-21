@@ -137,12 +137,12 @@
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60227"><name nymRef="Ἀρίσαν">Ἀρί<unclear>σαν</unclear></name></persName>
                     </ab></div>
             <div subtype="fragment" n="iii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="40">μ</num> <persName type="attested"><name nymRef="Φιλ-"><seg part="I">Φιλ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><date ref="https://godot.date/id/puESXHZfTKfs9yv8eWsbnh"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="40">μ</num></date> <persName type="attested"><name nymRef="Φιλ-"><seg part="I">Φιλ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div subtype="fragment" n="iv" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="14">ιδ</num> <persName type="attested" key="lgpn:V1-60226"><name nymRef="Ἀριστέας">Ἀριστέας</name></persName>
+                        <lb n="1"/><date ref="https://godot.date/id/ouhBTeRAKRdAYWYa6u7KKT"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="14">ιδ</num></date> <persName type="attested" key="lgpn:V1-60226"><name nymRef="Ἀριστέας">Ἀριστέας</name></persName>
                     </ab>
 </div>
 </div>
@@ -159,7 +159,8 @@
          </div>
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Menio? Aribeo ? Anno 10 Fil- Anno 14 Aristeas</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i.: Menes. ii: Arisan. iii: Year 40 <supplied reason="subaudible">9/10 AD</supplied>, Phil-. iv: Year 14, Aristeas.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p>i.: Menes. ii: Arisan. 
+               iii: <date ref="https://godot.date/id/puESXHZfTKfs9yv8eWsbnh">Year 40</date>, Phil-. iv: <date ref="https://godot.date/id/ouhBTeRAKRdAYWYa6u7KKT">Year 14</date>, Aristeas.</p></div>
          </div>
          <div type="commentary">
             <head>Commentary</head>

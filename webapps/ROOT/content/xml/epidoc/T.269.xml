@@ -118,8 +118,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> <num><gap reason="lost" atLeast="1" atMost="3" unit="character"/></num> 
-                    <rs type="month" key="Θώθ"><w lemma="Θώθ"><supplied reason="lost">Θώ</supplied>θυ</w></rs> <num value="23">κγ</num> 
+                    <lb n="1"/><date ref="https://godot.date/id/XyYfayrGmp6iPKeJnvJmmB"><supplied reason="lost"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w></supplied> <num><gap reason="lost" atLeast="1" atMost="3" unit="character"/></num> 
+                    <rs type="month" key="Θώθ"><w lemma="Θώθ"><supplied reason="lost">Θώ</supplied>θυ</w></rs> <num value="23">κγ</num></date> 
                     <lb n="2"/><orig><unclear>η</unclear></orig> 
                     <gap reason="lost" quantity="5" unit="character" precision="low"/><orig>η<unclear>τι</unclear></orig>
                     <lb n="3"/><orig>κω</orig><gap reason="lost" quantity="2" unit="character"/><orig><unclear>κ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
@@ -128,11 +128,11 @@
                 </ab>
 </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p>[Year ?] Thoth 23 . . .  aged 18</p><p/></div>
          <div type="commentary">
-            <head>Commentary</head>
-            <p>Line 1: If correctly read between 30 and 40 of the Actian era = 2 B.C - C.E. 10, Hathyr 22
-                    (November 18), Line 4: Aged 18.</p>
+            <head>Commentary</head><!-- check -->
+            <p><!-- Line 1: If correctly read between 30 and 40 of the Actian era = 2 B.C - C.E. 10, Hathyr 22 (November 18),--></p>
          </div>
          
       </body>

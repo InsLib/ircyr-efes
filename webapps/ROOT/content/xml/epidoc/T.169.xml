@@ -127,8 +127,8 @@
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60315"><name nymRef="Λίχας">Λίχα</name></persName>
                     </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="1">α</num> <persName type="attested" key="lgpn:V1-60316"><name nymRef="Ῥινακας" cert="low">Ῥινακα</name></persName>
+                        <lb n="1"/><date ref="https://godot.date/id/wtdpMkHixnKf3paJYFzKXG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="1">α</num></date> <persName type="attested" key="lgpn:V1-60316"><name nymRef="Ῥινακας" cert="low">Ῥινακα</name></persName>
                     </ab>
 </div>
 </div><div type="apparatus">
@@ -142,7 +142,7 @@
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>di Liche ? Anno ? Arinaca</p></div>
             <div type="translation" source="#edd" xml:lang="en"><p>i: - of Lichas; 
-               ii: Year 1, Rinakas.</p></div>
+               ii: <date ref="https://godot.date/id/wtdpMkHixnKf3paJYFzKXG">Year 1</date>, Rinakas.</p></div>
          </div>
          
          <div type="commentary">

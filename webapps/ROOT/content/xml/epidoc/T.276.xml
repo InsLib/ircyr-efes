@@ -122,8 +122,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="113">ργι</num> <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παῦ<lb n="2" break="no"/>νι</w></rs> <num value="4">δ</num>
+                    <lb n="1"/><date ref="https://godot.date/id/RzFrgEfRvRjuCZyYKXigwH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="113">ργι</num> <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παῦ<lb n="2" break="no"/>νι</w></rs> <num value="4">δ</num></date>
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60004"><name nymRef="Σελανία">Σ<unclear>ελ</unclear>ανία</name>
                     <lb n="4"/><persName type="attested" key="lgpn:V1-60005"><name nymRef="Δημήτριος">Δημητ<supplied reason="lost">ρ</supplied><lb n="5" break="no"/>ίω</name></persName></persName>
             <date type="life-span" dur="P23Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
@@ -154,7 +154,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>L2: 113 of the Actian era Payni 4 = C.E. 83 May 29. L5: Aged 23.</p>
+            <p>L2: <date ref="https://godot.date/id/RzFrgEfRvRjuCZyYKXigwH">Year 113, Payni 4</date> = C.E. 83 May 29. L5: Aged 23.</p>
             <p>Robinson suggested: 
                L ργ΄ [Χο]ιὰ[κ α΄ Ἰδ[ομενε]ύ[ς] Δημ[ητρίου L κγ΄</p>
             

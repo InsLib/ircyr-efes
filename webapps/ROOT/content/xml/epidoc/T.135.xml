@@ -112,7 +112,8 @@
          <change when="2009-02-06" who="VA">turned to XML and tidied</change>
          <change when="2008-08-18" who="GB">mailmerged: created from template</change>
       </revisionDesc>
-   </teiHeader><facsimile><graphic url="JMRNS02_020" decls="#photograph"><desc>View of group (Reynolds NS.II.20)</desc></graphic><graphic url="DSC05342" decls="#photograph"><desc>View of group (2008, H.Walda)</desc></graphic>
+   </teiHeader><facsimile><graphic url="JMRNS02_020" decls="#photograph"><desc>View of group (Reynolds NS.II.20)</desc></graphic>
+      <graphic url="DSC05342" decls="#photograph"><desc>View of group (2008, H.Walda)</desc></graphic>
       <graphic url="JMRSB05_300" decls="#photograph"><desc>View of wall (Reynolds, SB.V.300)</desc></graphic>
       <graphic url="PachoLXXXI" decls="#photograph"><desc>Transcription (1827, Pacho, plate LXXXI)</desc></graphic></facsimile>
    <text>
@@ -131,8 +132,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
-                    <num value="32"><unclear>λ</unclear>β</num>
+                    <lb n="1"/><date ref="https://godot.date/id/mEq9hM8dFBGgdNiciPGWJn"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> 
+                    <num value="32"><unclear>λ</unclear>β</num></date>
                     <lb n="2"/><persName type="attested"><name nymRef="Λούκιος"><expan><abbr>Λ</abbr><ex>ούκιοϲ</ex></expan></name>
                         <name nymRef="Ὀκτάβιος">Ὀκτάβιοϲ</name>
                     <lb n="3"/><name nymRef="Γρανιανός">Γρανιανόϲ</name></persName>
@@ -154,7 +155,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 32, L.Ottavio Graniano</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 32. L. Octavius Granianus</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/mEq9hM8dFBGgdNiciPGWJn">Year 32</date>. L. Octavius Granianus</p></div>
          </div>
          
          <div type="commentary">

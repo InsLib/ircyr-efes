@@ -123,8 +123,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                     <num value="11">ια</num> <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Πα<lb n="2" break="no"/>ῦνι</w></rs> <num value="15">ιε</num> 
+                    <lb n="1"/><date ref="https://godot.date/id/jtA6eYWsYmYXzZzSgHfcpQ"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                     <num value="11">ια</num> <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Πα<lb n="2" break="no"/>ῦνι</w></rs> <num value="15">ιε</num></date> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60461"><name nymRef="Διόδοτος"><unclear>Δ</unclear>ιόδοτ<lb n="4" break="no"/>ος</name> 
                        <persName type="attested" key="lgpn:V1-60466"><name nymRef="Ὕρατθις">Ὑράτ<lb n="5" break="no"/>θιος</name></persName></persName> 
                     <lb n="6"/><date type="life-span" dur="P44Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
@@ -140,7 +140,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 1, Payni 15. Diodoto di Tatthis, di anni 44.</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 11, Paυni 15 (June 9). Diodotos <supplied reason="subaudible">son of</supplied> Hyratthis, aged 44.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/jtA6eYWsYmYXzZzSgHfcpQ">Year 11, Payni 15</date> (June 9), Diodotos <supplied reason="subaudible">son</supplied> of Hyratthis, aged 44.</p></div>
        </div>
          
          <div type="commentary">

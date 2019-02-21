@@ -131,8 +131,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                   <lb n="1"/><rs type="month" key="Ἐπιφί"><w><expan><abbr><unclear>Ἐπ</unclear>ι</abbr><ex>φὶ</ex></expan></w></rs> 
-                    <num value="28">κη</num> <space quantity="1" unit="character"/>
+                   <lb n="1"/><date ref="https://godot.date/id/sQJz4tEvZXnCnYybz5A65N"><rs type="month" key="Ἐπιφί"><w><expan><abbr><unclear>Ἐπ</unclear>ι</abbr><ex>φὶ</ex></expan></w></rs> 
+                    <num value="28">κη</num></date> <space quantity="1" unit="character"/>
                     <lb n="2"/> <persName type="attested"><name nymRef="Γεις"><unclear>Γ</unclear>ειϲ</name></persName>
                     <w><unclear>δ</unclear><supplied reason="lost">ο</supplied>ύ
                         <lb n="3" break="no"/>λη</w> <persName type="attested"><name nymRef="Σα-"><seg part="I">Ϲ<unclear>α</unclear></seg><gap reason="lost" quantity="2" unit="character"/><seg part="F"><unclear>τ</unclear><lb n="4" break="no"/>υ<unclear>λλα</unclear></seg></name></persName> 
@@ -171,19 +171,14 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Epiph 28. Sismula di Omargillione</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>a: Epeiph 28. Geis, slave of Sa[?]ulla, aged ?3.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p>a: <date ref="https://godot.date/id/sQJz4tEvZXnCnYybz5A65N">Epeiph 28</date>. Geis, slave of Sa[?]ulla, aged ?3.</p></div>
        </div>
          
          <div type="commentary">
             <head>Commentary</head>
-            <p>
-                    L1: Epeiph 28 (July 22). The abbreviation of the month name is
-                    unusual but seems the most natural explanation, since the cutter 
-                    left space at the end of the line as if he had completed his word of 
-                    phrase; against it is the absence of any space between επι and κη.
+            <p>L1: (July 22).
                 </p>
-            <p>
-                    Perhaps, aged 3, 13 or a multiple of 10+3.
+            <p>Line 4:   Perhaps, aged 3, 13 or a multiple of 10+3.
                 </p>
          </div>
          

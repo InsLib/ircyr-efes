@@ -118,8 +118,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="18">ιη</num> 
+                    <lb n="1"/><date ref="https://godot.date/id/Z45LFLgkUbiYUojqCXY7iM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="18">ιη</num> </date>
                     <lb n="2"/><persName type="attested"><name nymRef="Λούκιος">Λουκις</name> 
                     <lb n="3"/><name nymRef="Ἀνθέστιος">Ἀνθεστις</name> 
                     <lb n="4"/><name nymRef="Ἀπολλώνιος" cert="low">Ἀπολλην<lb n="5" break="no"/> <space quantity="1" unit="character"/> ις</name></persName> <space quantity="1" unit="character"/>
@@ -129,7 +129,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>For the significance of the wreath see 70. line 1, year 18</p>
+            <p>For the significance of the wreath see 70. line 1, <date ref="https://godot.date/id/Z45LFLgkUbiYUojqCXY7iM">Year 18</date></p>
          </div>
          
       </body>

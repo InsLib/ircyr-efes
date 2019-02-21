@@ -122,9 +122,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><date ref="https://godot.date/id/fj5wavAeSBwQwepTVLsY5k"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <gap reason="lost" quantity="1" unit="character"/><num value="2">β</num> <rs type="month" key="Θώθ"><w>Θώθυ</w></rs> 
-                    <lb n="2"/><num value="1">α</num> <persName type="attested"><name nymRef="Νύων">Νύων</name> <persName type="attested"><name nymRef="Ἐπάγαθος">Ἐ<lb n="3" break="no"/>παγάθω</name></persName></persName>
+                    <lb n="2"/><num value="1">α</num></date> <persName type="attested"><name nymRef="Νύων">Νύων</name> <persName type="attested"><name nymRef="Ἐπάγαθος">Ἐ<lb n="3" break="no"/>παγάθω</name></persName></persName>
                     <lb n="4"/><date type="life-span" dur="P2Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="2">β</num> </date>
                 </ab>
@@ -133,7 +133,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>L2: Year 2, 12, or multiple of 10 + 2, Thoth 1 (August 29). L4: Aged 2.</p>
+            <p>L2: <date ref="https://godot.date/id/fj5wavAeSBwQwepTVLsY5k">Year 2, 12, or multiple of 10 + 2, Thoth 1</date> (August 29). L4: Aged 2.</p>
          </div>
          
       </body>

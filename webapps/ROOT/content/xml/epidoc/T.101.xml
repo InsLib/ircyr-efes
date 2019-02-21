@@ -7,7 +7,7 @@
    <teiHeader>
       <fileDesc>
          <titleStmt>
-            <title>Fragmentary <rs type="textType">Ephebic</rs> <rs type="textType">name</rs>s</title>
+            <title>Fragmentary <rs type="textType">ephebic</rs> <rs type="textType">name</rs>s</title>
             <editor>Joyce M. Reynolds</editor>
          </titleStmt>
          <publicationStmt>
@@ -38,7 +38,7 @@
                      </layoutDesc>
                   </objectDesc>
                   <handDesc>
-                     <handNote>ll. 1-2 <height>0.08</height>; line  3 <height>0.10</height>; L for ἔτους</handNote>
+                     <handNote>Lines 1-2, <height>0.08</height>; line  3, <height>0.10</height>; L for ἔτους</handNote>
                   </handDesc>
                </physDesc>
                <history>
@@ -112,17 +112,18 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="30">λ</num> <orig><unclear>ο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><date ref="https://godot.date/id/df32KTiYDRaJcTmhkGLsb9"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="30">λ</num></date> <orig><unclear>ο</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><persName type="attested"><name nymRef="Περ-"><seg part="I">Περ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="3"/><persName type="attested"><name nymRef="Νησ-"><seg part="I">Νησ</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                  </ab>
 </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p><date ref="https://godot.date/id/df32KTiYDRaJcTmhkGLsb9">Year 30</date> . . .  Per- . . . Nes- . . .</p><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>l. 1: 30 of the Actian era = 1 B-C.-1 C.E.</p>
+            <p>The circular letter in line 1 might perhaps be from φίλοι</p>
          </div>
          
       </body>

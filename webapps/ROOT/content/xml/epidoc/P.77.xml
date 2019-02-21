@@ -125,8 +125,8 @@
                     <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/>
                     <persName type="attested"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>άϊοϲ</ex></expan></name>
                     <name nymRef="Ἰούλιος">Ἰού<supplied reason="lost">λ</supplied><lb n="2" break="no"/>ιος</name> <name nymRef="Ἡρώδης">Ἡ<lb n="3" break="no"/>ρώδης</name></persName>
-                    <lb n="4"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="17">ιζ</num> <persName type="attested"><name nymRef="Ἀρταφάν">Ἀρταφὰ<supplied reason="lost">ν</supplied></name>
+                    <lb n="4"/><date ref="https://godot.date/id/HSznQrbhF9kACXTYjzJCz7"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="17">ιζ</num></date> <persName type="attested"><name nymRef="Ἀρταφάν">Ἀρταφὰ<supplied reason="lost">ν</supplied></name>
                      <lb n="5"/><name nymRef="Γάϊος">Γαΐου</name></persName>
                      <lb n="6"/> <w>φίλοι</w>
                 </ab>
@@ -140,12 +140,12 @@
             </listApp>
          </div>
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Gaius Julius Herodes. Year 17, Artaphan <supplied reason="subaudible">son</supplied> of Gaius, friends.</p></div>
+            <p>Gaius Julius Herodes. <date ref="https://godot.date/id/HSznQrbhF9kACXTYjzJCz7">Year 17</date>, Artaphan <supplied reason="subaudible">son</supplied> of Gaius, friends.</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>The large schematic wreath with pendant ribbons occupying the right side of the inscribed face probably indicates an ephebic victor, 
-               see 61, introductionXXX; but there is no trace of an inscription within the wreath.</p>
-            <p>l. 6, see XXX and introduction, XXX for this ephebic term; the plural implies a reference to Herodes as well as Artaphan.</p>
+               as in <ref type="inscription" n="P06800">P.66</ref>; but there is no trace of an inscription within the wreath.</p>
+            <p>Line 6: cf. <ref type="inscription" n="P02600">P.22</ref>, <ref type="inscription" n="P04300">P.40</ref><!-- and introduction, XXX --> for this ephebic term; the plural implies a reference to Herodes as well as Artaphan.</p>
          </div>
          
       </body>

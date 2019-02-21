@@ -121,9 +121,9 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     <lb n="0"/><gap reason="lost" quantity="1" unit="line"><certainty match=".." locus="name"/></gap>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><date ref="https://godot.date/id/b5tc49PSrNKTqnfwBWgTmd"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="5">ε</num> <space quantity="5" unit="character"/>
-                    <lb n="2"/><rs type="month" key="Φαρμουθί"><w lemma="Φαρμουθί">Φαρμο<supplied reason="omitted">υ</supplied>θὶ</w></rs> <num value="4">δ</num>
+                    <lb n="2"/><rs type="month" key="Φαρμουθί"><w lemma="Φαρμουθί">Φαρμο<supplied reason="omitted">υ</supplied>θὶ</w></rs> <num value="4">δ</num></date>
                     <lb n="3"/><persName type="attested"><name nymRef="Ὀφελλία">Ὀ<unclear>φ</unclear>ελλία</name>
                     <lb n="4"/><name nymRef="Πῶλλα"><unclear>Πω</unclear>λ<unclear>α</unclear></name></persName>
                     <date type="life-span" dur="P25Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
@@ -142,7 +142,7 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>L2: Year 5, Pharmouthi 4 (March 30). L4: Aged 25.</p>
+            <p>L2: <date ref="https://godot.date/id/b5tc49PSrNKTqnfwBWgTmd">Year 5, Pharmouthi 4</date> (March 30). L4: Aged 25.</p>
          </div>
          
       </body>

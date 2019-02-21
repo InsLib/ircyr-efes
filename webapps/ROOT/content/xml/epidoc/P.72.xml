@@ -115,8 +115,8 @@
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
                            <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/> <persName type="attested"><name><seg part="F">ολιος</seg></name></persName> 
                        </ab></div><div subtype="part" n="ii" type="textpart"><ab>
-                      <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                            <num value="13">ιγ</num>
+                      <lb n="1"/><date ref="https://godot.date/id/aereZWnNTs2tRFwQdnGNKW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                            <num value="13">ιγ</num></date>
                             <persName type="attested"><name nymRef="Φίλων">Φίλω<supplied reason="lost">ν</supplied></name>
                     <lb n="2"/><persName type="attested"><name nymRef="Εὔδαμος">Εὐ<unclear>δ</unclear>άμ<hi rend="ligature">ου</hi></name></persName></persName>                      
                         </ab>
@@ -125,7 +125,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
             <p>i. . . . ]olios</p>
-            <p>  ii. Year 13, Philo <supplied reason="subaudible">son of</supplied> Eudamos
+            <p>  ii. <date ref="https://godot.date/id/aereZWnNTs2tRFwQdnGNKW">Year 13</date>, Philo <supplied reason="subaudible">son</supplied> of Eudamos
             </p></div>
          <div type="commentary">
             <head>Commentary</head>

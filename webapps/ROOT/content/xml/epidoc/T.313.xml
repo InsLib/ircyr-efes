@@ -129,9 +129,9 @@
                     <lb n="1"/> <gap reason="lost" extent="unknown" unit="character"/>
             <persName type="attested" key="lgpn:V1-60448"><name nymRef="Καλλίτυχος"><supplied reason="lost">Κα</supplied><unclear>λ</unclear>λίτ<unclear>υχ</unclear>οϲ</name></persName>
                     <date type="life-span" dur="P7Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w> <num value="7">ζ</num> </date>
-                    <lb n="2"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ια</unclear></orig>
+                    <lb n="2"/><date ref="https://godot.date/id/w8aXxu6mqrGnzrfmzUkcSk"><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>ια</unclear></orig>
                     <num value="17">ιζ</num> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
-                    <num value="23">κγ</num> <persName type="attested" key="lgpn:V1-60447"><name nymRef="Εὐαγγέλιος"><supplied reason="lost">Εύ</supplied><unclear>αν</unclear>γε<unclear>λ</unclear>ὶϲ</name></persName> 
+                    <num value="23">κγ</num></date> <persName type="attested" key="lgpn:V1-60447"><name nymRef="Εὐαγγέλιος"><supplied reason="lost">Εύ</supplied><unclear>αν</unclear>γε<unclear>λ</unclear>ὶϲ</name></persName> 
                     <date type="life-span" dur="P16Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="16">ιϛ</num> </date>
                 </ab>
@@ -154,7 +154,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Callitiche [di anni] 17. Felice, di anni 10; Euangelio, di anni -</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Kallitychos, aged 7. . . 17. Year 23, Euaggelios, aged 16</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p>Kallitychos, aged 7. <date ref="https://godot.date/id/w8aXxu6mqrGnzrfmzUkcSk"> . . . 17, Year 23</date>, Euaggelios, aged 16</p></div>
        </div>
          
          <div type="commentary">

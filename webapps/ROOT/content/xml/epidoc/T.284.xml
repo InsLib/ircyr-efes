@@ -115,8 +115,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="105">ρε</num> <w part="I"><unclear>Π</unclear></w> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><date ref="https://godot.date/id/PQQrkmpUTM8q4M88pR3bbT"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="105">ρε</num> <w part="I"><unclear>Π</unclear></w> <gap reason="lost" extent="unknown" unit="character"/></date>
                     <lb n="2"/><persName type="attested"><name nymRef="Ἀκάμας"><seg part="I"><unclear>Ἀκ</unclear>αμ<unclear>α</unclear><supplied reason="lost">ντ</supplied></seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="3"/><gap reason="lost" extent="unknown" unit="character"/><orig><unclear>μγ</unclear></orig> 
                     <persName type="attested"><name nymRef="Νικίας">Νικία</name></persName> <gap reason="lost" extent="unknown" unit="character"/>
@@ -129,8 +129,8 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>line 1, 105 of the Actian era, AD 74/5, in the month Paoin or Pachon.</p>
-            <p>l.4, Aged 7, 17 or a multiple of 10 + 7.</p>
+            <p>line 1, <date ref="https://godot.date/id/PQQrkmpUTM8q4M88pR3bbT">Year 105, in the month P[ayni or P[achons</date>.</p>
+            <p>AD 74/5l.4, Aged 7, 17 or a multiple of 10 + 7.</p>
          </div>
          
       </body>

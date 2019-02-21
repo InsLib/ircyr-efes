@@ -138,8 +138,8 @@
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60167"><name nymRef="Ἰταιαλαν">Ἰταιαλα<unclear>ν</unclear></name></persName>
                     </ab></div>
             <div subtype="part" n="iii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="15"><unclear>ει</unclear></num> 
+                        <lb n="1"/><date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="15"><unclear>ει</unclear></num></date> 
                         <persName type="attested" key="lgpn:V1-60214"><name nymRef="Νίκανδρος">Νε<supplied reason="lost">ί</supplied>κα<unclear>ν</unclear>δρος</name> 
                         <persName type="attested"><name nymRef="Α-"><seg part="I">Α</seg></name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
@@ -153,11 +153,11 @@
                         <persName type="attested"><name nymRef="Βοσύλιος">Βο<unclear>σ</unclear>υ<unclear>λ</unclear>ίω</name></persName>
                     </ab></div>
             <div subtype="part" n="vi" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="16">ιϛ</num>
+                        <lb n="1"/><date ref="https://godot.date/id/GHqVRtaH7Auya5BngnQGVM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="16">ιϛ</num></date>
                         <persName type="attested" key="lgpn:V1-60212"><name nymRef="Ἀρχίβιος">Ἀρχίβιος</name></persName> 
-                        <gap reason="lost" quantity="1" unit="character"/><orig>π</orig> <space quantity="3" unit="character"/> <w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="55">νε</num> <gap reason="lost" extent="unknown" unit="character"/><!-- check -->
+                        <gap reason="lost" quantity="1" unit="character"/><orig>π</orig> <space quantity="3" unit="character"/> <date ref="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="55">νε</num></date> <gap reason="lost" extent="unknown" unit="character"/><!-- check -->
                     </ab>
 </div>
 </div>
@@ -189,7 +189,8 @@
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>161: -this  Italeàn Euclide - ibba di Eufrosino. 162: Anno 19. Filocomo fi -ar- Casandro di A-</p></div>
             <div type="translation" source="#edd" xml:lang="en"><p>i: Emisathis, customary companion of Philokomos. ii: Itaialan. 
-               iii: Year 15: Nikandros A-. iv: Eukleitos. v: [A]ribbas, friend of Bosulios. vi: Year 16: Archibios P- year 55.</p></div>
+               iii: <date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL">Year 15</date>: Nikandros A-. iv: Eukleitos. v: [A]ribbas, friend of Bosulios. 
+               vi: <date ref="https://godot.date/id/GHqVRtaH7Auya5BngnQGVM">Year 16</date>: Archibios P- <date ref="https://godot.date/id/Y8KMxhiXFQt8bXaVvVcT2H">year 55</date>.</p></div>
          </div>
          <div type="commentary">
             <head>Commentary</head>
@@ -197,6 +198,7 @@
             <p>i: see commentary on <ref type="inscription" n="T02300">T.27</ref></p>
             <p>ii. For this Libyan name, see <bibl><ptr target="masson1976"/></bibl> 57)</p>
             <p>iv: Fraser, reading Εὔκλει<unclear>τος</unclear>, took this line with v, and suggested that Aribbas was the father. </p>
+            <p>vi: year 55 (Actian) would be 24 CE; year 16 of Tiberius would be 28 or 30, so these appear to be consecutive texts.</p>
          </div>
          
       </body>

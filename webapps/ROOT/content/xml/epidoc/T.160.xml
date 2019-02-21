@@ -134,20 +134,20 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="5">ε</num> 
+                        <lb n="1"/><date ref="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="5">ε</num></date> 
                         <persName type="attested"><name nymRef="Κρίτων">Κρίτων</name></persName>
                     </ab></div><div subtype="part" n="ii" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Τήλεφος"><del rend="erasure">Τήλ</del>εφος</name>
                             <persName type="attested"><name nymRef="Τήλεφος">Τηλέφω</name></persName></persName> <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div><div subtype="part" n="iii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="56">νϛ</num> 
+                        <lb n="1"/><date ref="https://godot.date/id/ctTMgwU9xVmjsEtChP8Yce"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="56">νϛ</num></date> 
                         <persName type="attested"><name nymRef="Ἀμμώνιος">Ἀμμώνιος</name> 
                             <persName type="attested"><name nymRef="Ἀέροπος">Ἀερόπ<supplied reason="lost">ω</supplied></name></persName></persName>
                     </ab></div><div subtype="part" n="iv" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="56">νϛ</num> 
+                        <lb n="1"/><date ref="https://godot.date/id/ctTMgwU9xVmjsEtChP8Yce"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="56">νϛ</num></date> 
                         <persName type="attested"><name nymRef="Δίοφαντος">Δίοφαντος</name> 
                             <persName type="attested"><name nymRef="Δωσίθεος">Δωσιθέου</name></persName></persName>
                     </ab></div><div subtype="part" n="v" type="textpart"><ab>
@@ -178,9 +178,9 @@
          <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>i. Year 5.</p>
-            <p>iii and iv. 56 of the Actian era = C.E. 25/26.</p>
-            
+            <p>i. <date  ref="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW">Year 5</date>.</p>
+            <p>iii. <date ref="https://godot.date/id/ctTMgwU9xVmjsEtChP8Yce">Year 56</date></p>
+            <p>iv. <date ref="https://godot.date/id/ctTMgwU9xVmjsEtChP8Yce">Year 56</date></p>
             <p>v. For the Libyan name see .......</p>
             
             <p>vii. See 60 n.2.</p>

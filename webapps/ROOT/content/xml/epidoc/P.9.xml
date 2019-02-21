@@ -148,36 +148,37 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
-                            <lb n="1"/><hi rend="ligature"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                            <num value="8">η</num> </hi>
+                            <lb n="1"/><date ref="https://godot.date/id/uggB4UR8WuKoFkouddSKob"><hi  rend="ligature"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                            <num value="8">η</num></hi></date> 
                             <persName type="attested" key="lgpn:V1-61489"><name nymRef="Μνασικλῆς">Μνασι<supplied reason="lost">κλῆ</supplied>ς</name>
-                                <persName type="attested" key="lgpn:V1-61294"><name nymRef="Ἡρακλείδας"><hi rend="ligature">Ἡρ</hi>ακλίδα</name></persName></persName>                       
+                                <persName type="attested" key="lgpn:V1-61294"><name nymRef="Ἡρακλείδας"><hi rend="ligature">Ἡρ</hi>ακλίδα</name></persName></persName> 
+            <w><expan><abbr><expan><abbr><am><g ref="symbols.xml#ΣΤΚ"/></am></abbr><ex>σύγκ</ex></expan></abbr><ex>οίτος</ex></expan></w>
                         </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
-                        <num value="12">ιβ</num> <persName type="attested" key="lgpn:V1-61466"><name nymRef="Μᾶρκος">Μᾶρκοϲ</name> 
+                        <lb n="1"/><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w>
+                        <num value="12">ιβ</num></date> <persName type="attested" key="lgpn:V1-61466"><name nymRef="Μᾶρκος">Μᾶρκοϲ</name> 
                         <persName type="attested" key="lgpn:V1-61465"><name nymRef="Μᾶρκος"><expan><abbr><hi rend="ligature">Μά</hi></abbr><ex>ρκω</ex></expan></name></persName></persName>
                     </ab></div>
             <div subtype="fragment" n="iii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="12">ιβ</num> <persName type="attested" key="lgpn:V1-61636"><name nymRef="Σῶσος">Σῶσος</name>
+                        <lb n="1"/><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="12">ιβ</num></date> <persName type="attested" key="lgpn:V1-61636"><name nymRef="Σῶσος">Σῶσος</name>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-61385"><name nymRef="Κάρνις">Κάρνιος</name></persName></persName>
                     </ab></div>
             <div subtype="fragment" n="iv" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="12">ιβ</num> <persName type="attested" key="lgpn:V1-61586"><name nymRef="Σαβῖνος">Σαβεῖνος</name></persName>
+                        <lb n="1"/><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="12">ιβ</num></date> <persName type="attested" key="lgpn:V1-61586"><name nymRef="Σαβῖνος">Σαβεῖνος</name></persName>
                     <lb n="2"/> <w><expan><abbr>φί</abbr><ex>λος</ex></expan></w>
                        <persName type="attested" key="lgpn:V1-61467"><name nymRef="Μᾶρκος"><expan><abbr>Μά</abbr><ex>ρκω</ex></expan></name></persName>
                     
                     </ab></div>
             <div subtype="fragment" n="v" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                        <num value="12">ιβ</num> <persName type="attested"><name nymRef="Μᾶρκος">Μᾶρκος</name>
+                        <lb n="1"/><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                        <num value="12">ιβ</num></date> <persName type="attested"><name nymRef="Μᾶρκος">Μᾶρκος</name>
                         <persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μά</abbr><ex>ρκω</ex></expan></name></persName></persName>
                     </ab></div>
             <div subtype="fragment" n="vi" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="12">ιβ</num> <orig>ΙΤ</orig>
+                        <lb n="1"/><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="12">ιβ</num></date> <orig>ΙΤ</orig>
                     </ab>
 </div>
 </div>
@@ -214,12 +215,13 @@
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 8. Mnesicle di Eraclide. - Anno 12. Marco di Ma(rco?). - Anno 12. Soso. 
             Enio. Anno 12. Sabino di Ma(rco). - Anno 12. Marco di Ma(rco?). </p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i. Year 8, Mnasikles bed-fellow of Heraklidas</p>
-            <p>ii. Year 12, Marcus  <supplied reason="subaudible">friend</supplied> of Marcus </p>
-            <p>iii. Year 12, Sosos <supplied reason="subaudible">friend</supplied> of Karnis</p>
-            <p>iv. Year 12, Sabeinos friend of Marcus </p>
-            <p>v. Year 12, Marcus  <supplied reason="subaudible">friend</supplied> of Marcus</p>
-            <p>vi. Year 12, IT...</p></div>
+            <div type="translation" source="#edd" xml:lang="en">
+               <p>i. <date ref="https://godot.date/id/uggB4UR8WuKoFkouddSKob">Year 8</date>, Mnasikles (bed-fellow) of Heraklidas</p>
+            <p>ii. <date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH">Year 12</date>, Marcus  <supplied reason="subaudible">friend</supplied> of Marcus </p>
+            <p>iii. <date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH">Year 12</date>, Sosos <supplied reason="subaudible">friend</supplied> of Karnis</p>
+            <p>iv. <date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH">Year 12</date>, Sabeinos friend of Marcus </p>
+            <p>v. <date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH">Year 12</date>, Marcus  <supplied reason="subaudible">friend</supplied> of Marcus</p>
+            <p>vi. <date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH">Year 12</date>, IT...</p></div>
          </div>
        
         
@@ -227,10 +229,10 @@
             <head>Commentary</head>
             <p>See commentary on <ref type="inscription" n="P00600">P.1</ref>
             </p>
-            <p> i. For K the cutter has used a monogram, ΣΤΚ, which recurs on the Gate, and on other blocks carrying graffiti, 
+            <p> i. For the K in Heraklidas the cutter has used a monogram, ΣΤΚ, which recurs on the Gate, and on other blocks carrying graffiti, 
                cf. <ref type="inscription" n="P04100">P.38</ref>, <ref type="inscription" n="P04200">P.39</ref>;
-               in some positions it might be a mason's mark, but in many there is little doubt that it is a graffito, 
-               probably used by ephebes to represent <foreign xml:lang="grc">συγκοιτοι</foreign> = <foreign xml:lang="la">contubernales</foreign>,
+               in some positions it might be a mason's mark, but in many there is little doubt that it is a monogram, 
+               apparently used by ephebes to represent σύγκοιτος/συγκοίτοι <foreign xml:lang="la">contubernales</foreign>,
                see on <ref type="inscription" n="P04600">P.43</ref>.
                On CIG 5203 it is suggested that it might be Christian (from its alleged similarity to a Coptic cross) but this is certainly wrong.</p>
             <p>ii: Oliverio tentatively suggested Μά(ρκω) Ἀλεξανδρεὺς.</p>

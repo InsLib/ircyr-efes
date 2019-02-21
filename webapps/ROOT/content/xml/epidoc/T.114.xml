@@ -114,8 +114,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-               <num value="13">ιγ</num>. 
+                    <lb n="1"/><date ref="https://godot.date/id/aiFranwdzxo4QonDse2yu2"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+               <num value="13">ιγ</num></date>. 
                <persName type="attested" key="lgpn:V1-60821"><name nymRef="Σήστιος">Σήσ
                     <lb n="2" break="no"/>τιος</name> <name nymRef="Πολύβιος">Πο                    
                     <lb n="3" break="no"/>λύβιος</name></persName>.
@@ -124,7 +124,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 13, Sestio Polibio.</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 13. Sestius Polybius.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/aiFranwdzxo4QonDse2yu2">Year 13</date>. Sestius Polybius.</p></div>
          </div>
         
          <div type="commentary">

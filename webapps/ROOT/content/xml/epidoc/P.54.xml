@@ -124,12 +124,12 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-             <lb n="1"/><supplied reason="lost"><w lemma="ἐπί">ἐφ᾽</w> <w lemma="ἱερεύς">ἱερεως</w></supplied>
+             <lb n="1"/><date><supplied reason="lost"><w lemma="ἐπί">ἐφ᾽</w> <w lemma="ἱερεύς">ἱερεως</w></supplied>
                     <persName type="divine" key="apollo"><name nymRef="Ἀπόλλων"><supplied reason="lost">Ἀπόλλων</supplied>ος</name></persName> 
                     <persName type="emperor" key="hadrianus"><name nymRef="Καῖσαρ">Καίσα<lb n="2" break="no"/><supplied reason="lost">ρος</supplied></name> 
                     <supplied reason="lost"><name nymRef="Τραιανός">Τραιανοῦ</name></supplied>
                     <name nymRef="Ἁδριανός"><supplied reason="lost">Ἁ</supplied>δριανοῦ</name> <name nymRef="Σεβαστός">Σε<lb n="3" break="no"/><supplied reason="lost">βαστοῦ</supplied></name> 
-                    <w><supplied reason="lost">Ὀλυ</supplied>μπίου</w></persName> <w lemma="ὁ">τὸ</w> <num value="2">β</num> 
+                    <w><supplied reason="lost">Ὀλυ</supplied>μπίου</w></persName> <w lemma="ὁ">τὸ</w> <num value="2">β</num></date> 
                     <lb n="4"/><gap reason="lost" quantity="12" unit="character" precision="low"/> <w>Ἀκαδημε<unclear>α</unclear><lb n="5" break="no"/><supplied reason="lost">ρχ</supplied></w> <gap reason="lost" quantity="10" unit="character" precision="low"/> 
                     <persName type="attested" key="lgpn:V1-61664"><name nymRef="Φαινιανός">Φαινιανὸς</name></persName> 
                     <lb n="6"/><gap reason="lost" quantity="11" unit="character" precision="low"/> <w><supplied reason="lost">ο</supplied>υ</w> 
@@ -179,7 +179,7 @@
             <p>l. 4. The title recurs in an ephebic context at Ptolemais under Commodus <ref type="inscription" n="P05700">P.55</ref>, but this is
                     its earliest known appearance so far; it implies that the Ptolemaitan ephebes received some
                     philosophical teaching. Its holders may be identical with the ephebarchs who head the list of 
-                    gymnasium officials in the Augustan text 246 χχχ and it would be possible to restore 4/5 here as 
+                    gymnasium officials in the Augustan text <ref type="inscription" n="P25100">P.79</ref> and it would be possible to restore 4/5 here as 
                     ἐφήβαρχοι καὶ ἀκαδημέα/ρχοι</p>
          </div>
          

@@ -121,8 +121,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="79">θο</num> <persName type="attested" key="lgpn:V1-60363"><name nymRef="Βαρκαῖος">Βαρκα<supplied reason="lost">ῖος</supplied></name></persName>
+                    <lb n="1"/><date ref="https://godot.date/id/2crkCU5wPe3riSKoqPx9J4"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="79">θο</num> </date><persName type="attested" key="lgpn:V1-60363"><name nymRef="Βαρκαῖος">Βαρκα<supplied reason="lost">ῖος</supplied></name></persName>
                 </ab>
 </div>
          
@@ -135,7 +135,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 79. Barceo.</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 79, Barkaios </p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/2crkCU5wPe3riSKoqPx9J4">Year 79</date>, Barkaios </p></div>
          </div>
          
          <div type="commentary">

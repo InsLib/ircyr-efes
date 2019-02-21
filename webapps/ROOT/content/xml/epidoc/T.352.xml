@@ -127,9 +127,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><date ref="https://godot.date/id/bCn6GtU39Z25XtSztQ4v3d"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="5">ε</num> <rs type="month" key="Παῦνι"><w lemma="Παῦνι">Παῦνι</w></rs> 
-                    <w>πε<lb n="2" break="no"/><unclear>ν</unclear>τεκαιδεκάτ<unclear>η</unclear></w> 
+                    <w>πε<lb n="2" break="no"/><unclear>ν</unclear>τεκαιδεκάτ<unclear>η</unclear></w></date> 
                     <lb n="3"/><persName type="attested" key="lgpn:V1-60477"><name nymRef="Σπεύσανδρος"><supplied reason="lost">Σ</supplied><unclear>π</unclear>εύσ<unclear>αν</unclear><supplied reason="lost">δρος</supplied></name> <persName type="attested" key="lgpn:V1-60478"><name nymRef="Σπεύσανδρος"><supplied reason="lost">Σπευσάν</supplied><lb n="4" break="no"/><unclear>δ</unclear>ρου</name></persName></persName>
                     <space quantity="3" unit="character"/> 
                     <lb n="5"/><date type="life-span" dur="P40Y"><w lemma="ἔτος">ἐτῶν</w> <num value="40">μ</num> </date>
@@ -155,12 +155,12 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 5, Payni nel quindecisimo (giorno). Telesandro di Iratthis, di anni 40.</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 5, Payni 15 <note>June 9</note>, Speusandros <supplied reason="subaudible">son</supplied> of Speusandros, aged 40.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/bCn6GtU39Z25XtSztQ4v3d">Year 5, Payni 15</date>, Speusandros <supplied reason="subaudible">son</supplied> of Speusandros, aged 40.</p></div>
        </div>
        
          <div type="commentary">
             <head>Commentary</head>
-            <p>line 1. Oliverio's photograph is, however, excellent.</p>
+            <p>line 1. Oliverio's photograph is, however, excellent.<note>June 9</note></p>
             
          </div>
          

@@ -131,18 +131,18 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="12">ιβ</num>
+                        <lb n="1"/><date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="12">ιβ</num></date>
                         <lb n="2"/> <space quantity="1" unit="character"/> <persName type="attested" key="lgpn:V1-60419"><name nymRef="Γάϊος"><expan><abbr>Γ</abbr><ex>άϊοϲ</ex></expan></name> <space quantity="1" unit="character"/>
                         <lb n="3"/><name nymRef="Ἔππιος">Ἔππι<lb n="4" break="no"/> <space quantity="1" unit="character"/> ο<unclear>ϲ</unclear></name>
                             <name nymRef="Ζωτικός">Ζω<lb n="5" break="no"/> <space quantity="1" unit="character"/> τικ<unclear>ό</unclear><lb n="6" break="no"/>ϲ</name></persName>
                     </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab> 
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="5"><unclear>ε</unclear></num>
+                    <lb n="1"/><date ref="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w> <num value="5"><unclear>ε</unclear></num></date>
                         <lb n="2"/><orig>τκ</orig> <persName type="attested"><name nymRef="Γάϊος">Γά<lb n="3" break="no"/>ϊοϲ</name></persName>
                     <lb n="4"/> <space quantity="1" unit="character"/> <orig><unclear>Α</unclear></orig> <space quantity="1" unit="character"/>
                     </ab></div>
             <div subtype="fragment" n="iii" type="textpart"><ab>
-                     <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="22">κβ</num>
+                     <lb n="1"/><date ref="https://godot.date/id/BkgWVm7TLw2Wdd7qjJbazB"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="22">κβ</num></date>
                         <lb n="2"/><persName type="attested"><name nymRef="Μᾶρκος">Μᾶρκος</name>
                      <lb n="3"/><name nymRef="Μοντανός">Μοντα<unclear>ν</unclear><lb n="4" break="no"/>ὸς</name> 
                             <name nymRef="Κρίσπος">Κρίσπ<lb n="5" break="no"/>ος</name></persName>
@@ -177,8 +177,9 @@
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 12, 3a (volta?), Ep(idio) ?Pio di Zotico. - Sestio Gaio, Ia (volta) - 
             Anno 22. Marco Montano Crispo.</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i: Year 12, G(aius) Eppios Zotikos</p><p>ii: Year 5, Gaios . .</p>
-            <p>iii: Year 22, Marcus Montanus Crispus</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p>i: <date ref="https://godot.date/id/y5b7k2Kd5Tg6QKS8nHj7QH">Year 12</date>, G(aius) Eppios Zotikos</p>
+               <p>ii: <date ref="https://godot.date/id/LBG9KV8e2LEJFgAfvtiZJW">Year 5</date>, Gaios . .</p>
+            <p>iii: <date ref="https://godot.date/id/BkgWVm7TLw2Wdd7qjJbazB">Year 22</date>, Marcus Montanus Crispus</p></div>
          </div>
          
          <div type="commentary">

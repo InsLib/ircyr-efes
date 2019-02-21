@@ -117,17 +117,18 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><rs  type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs>
-                    <num n="25">κε</num> <gap reason="lost" quantity="3" unit="character"/> <orig>αρ</orig> <gap reason="lost" quantity="3" unit="character"/>
+                    <lb n="1"/><date ref="https://godot.date/id/cbXquzjmhkW9zgK7NZx3Li"><gap reason="lost" extent="unknown" unit="character"/><rs  type="month" key="Ἁθύρ"><w>Ἁθὺρ</w></rs>
+                    <num value="25">κε</num></date> <gap reason="lost" quantity="3" unit="character"/> <orig>αρ</orig> <gap reason="lost" quantity="3" unit="character"/>
                     <lb n="2"/> <orig><unclear>τομ</unclear></orig><gap reason="lost" quantity="5" unit="character"/><orig><unclear>ατ</unclear>εσκει<unclear>λ</unclear></orig><gap reason="lost" quantity="2" unit="character"/><orig><unclear>ε</unclear></orig>
                     <space quantity="3" unit="character"/>
                 </ab>
 </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p>. . . ]<date ref="https://godot.date/id/cbXquzjmhkW9zgK7NZx3Li">Hathyr 25</date> [ . . . </p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>L1: Hathyr 25 (November 21).</p>
+            <p>L1: (November 21).</p>
          </div>
          
       </body>

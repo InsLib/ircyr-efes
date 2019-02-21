@@ -37,7 +37,7 @@
                         </support>
                      </supportDesc>
                      <layoutDesc>
-                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on the façade above the entrance to the main tomb-chamber within a sunk panel, approximately rectangular (<dimensions>
+                        <layout><rs type="execution" key="scalpro">Inscribed</rs> on the façade above the entrance to the main tomb-chamber within a sunk panel, which is approximately rectangular (<dimensions>
                               <width unit="metre">0.39 -0.45</width> 
                               <height unit="metre">0.36</height>
                            </dimensions>)</layout>
@@ -114,7 +114,7 @@
       <body>
          <div type="bibliography">
             <head>Bibliography</head>
-            <p><bibl><ptr target="bazama-jmr1978-1979"/>  <citedRange>261 (upper)</citedRange>  and pl. LXXXVII.b</bibl>, whence 
+            <p><bibl><ptr target="bazama-jmr1978-1979"/>  <citedRange>261 (upper)</citedRange> and pl. LXXXVII.b</bibl>, whence 
             <bibl><title>SEG</title> <citedRange>37.1715</citedRange></bibl>.</p>
               <p/>
          </div>
@@ -131,8 +131,10 @@
                 </ab>
 </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p><date ref="https://godot.date/id/SLxDJ4XwJNUpNdAh2rHaVC">Year 7, Phaophi 29</date>: Epagathos made a tomb for himself and his children</p></div>
+         <div type="translation" xml:space="preserve"><head>Translations</head>
+            <div type="translation" xml:lang="en" resp="edd"><p><date ref="https://godot.date/id/SLxDJ4XwJNUpNdAh2rHaVC">Year 7, Phaophi 29</date>: Epagathos made a tomb for himself and his children</p></div>
+         </div>
+         
          <div type="commentary">
             <head>Commentary</head>
             <p>Lines 4-5 were elided in the first publication</p><p/>

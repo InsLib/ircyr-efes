@@ -113,14 +113,11 @@
             <head>Bibliography</head>
             <p/>
          </div>
-         
-         
-         
          <div type="edition" xml:lang="grc" xml:space="preserve">
              
             <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-               <num value="4"><unclear>δ</unclear></num> <gap reason="lost" extent="unknown" unit="character"/>
+                    <lb n="1"/><date ref="https://godot.date/id/aFMpYxvXxYJ2jYWrjL2K37"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+               <num value="4"><unclear>δ</unclear></num></date> <gap reason="lost" extent="unknown" unit="character"/>
                     <lb n="2"/><persName type="attested"><name nymRef="Θευδᾶς">Θευδὰς</name> <persName type="attested"><name nymRef="Θευδᾶς">Θευ<lb n="3" break="no"/>δᾶ</name></persName></persName>
                <date type="life-span" dur="P4Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                <num value="4">δ</num> </date> <w>καὶ</w>
@@ -134,7 +131,7 @@
          
          <div type="translation" xml:space="preserve">
             <head>Translation</head>
-            <p>Year <note>?4 or -4</note>, Theudas <supplied reason="subaudible">son</supplied> of Theudas aged 4, and Jason <supplied reason="subaudible">son</supplied> of Theudas, aged 3.</p>
+            <p><date ref="https://godot.date/id/aFMpYxvXxYJ2jYWrjL2K37">Year <note>?4 or -4</note></date>, Theudas <supplied reason="subaudible">son</supplied> of Theudas aged 4, and Jason <supplied reason="subaudible">son</supplied> of Theudas, aged 3.</p>
          </div>
          
          <div type="commentary">

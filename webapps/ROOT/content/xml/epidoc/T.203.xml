@@ -54,8 +54,6 @@
                       <origPlace>Findspot.</origPlace>
                      <origDate evidence="internal-dating" notBefore="0014" notAfter="0015" precision="high">1.i: 14/15 C.E.</origDate>
                   </origin>
-                  
-                     
                         <provenance type="found">
                            <p>
                               <placeName type="ancientFindspot" ref="http://www.slsgazetteer.org/913">Taucheira</placeName>: 
@@ -64,8 +62,6 @@
                         <provenance type="observed">
                            <p>Findspot.</p>
                         </provenance>
-                     
-                  
                </history>
             </msDesc>
          </sourceDesc>
@@ -114,7 +110,6 @@
    </teiHeader><facsimile><!--Dept. JR. (no negative number).--><surface/></facsimile>
    <text>
       <body>
-         
          <div type="bibliography">
             <head>Bibliography</head>
             <p>1: <bibl><ptr target="oliverioDAI"/> <citedRange>223</citedRange>, <citedRange>224</citedRange> (VII,96. 96b)</bibl>, whence <bibl>
@@ -123,14 +118,14 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="block" n="1" type="textpart"><div subtype="fragment" n="i" type="textpart"><ab>
-                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                           <num value="45">με</num> <persName type="attested"><name nymRef="Σίνδρων" cert="low"><seg part="I">Σιν<unclear>δ</unclear></seg></name> <gap reason="lost" extent="unknown" unit="character"/>
+                           <lb n="1"/><date ref="https://godot.date/id/Z5m5gTBF9N8NockFCa7G6J"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                           <num value="45">με</num></date> <persName type="attested"><name nymRef="Σίνδρων" cert="low"><seg part="I">Σιν<unclear>δ</unclear></seg></name> <gap reason="lost" extent="unknown" unit="character"/>
                        <lb n="2"/> <space quantity="1" unit="character"/> 
                            <persName type="attested"><name nymRef="Σίνδρων" cert="low"><expan><abbr><am><g ref="symbols.xml#slanting-stroke"/></am></abbr><ex>Σίνδρωνος</ex></expan></name></persName></persName>
                        </ab></div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="7"><unclear>ζ</unclear></num> <persName type="attested" key="lgpn:V1-60341"><name nymRef="Φίλιππος">Φ<unclear>ιλί</unclear><gap reason="lost" extent="unknown" unit="character"/>
+                        <lb n="1"/><date ref="https://godot.date/id/Ee7cqUpNoSaN32zaZytNsM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="7"><unclear>ζ</unclear></num></date> <persName type="attested" key="lgpn:V1-60341"><name nymRef="Φίλιππος">Φ<unclear>ιλί</unclear><gap reason="lost" extent="unknown" unit="character"/>
                         <lb n="2"/><unclear>π</unclear>π<unclear>ω</unclear>ι</name></persName>
                     </ab></div>
             <div subtype="fragment" n="iii" type="textpart"><ab>
@@ -149,8 +144,8 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 45. Sindron di - Dachis</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>1.i: Year 45, Sindron <supplied reason="subaudible">son of</supplied> Sindron; 
-               1.ii: Year 7, for Philip; 1.iii: Dachis; 2: K.
+            <div type="translation" source="#edd" xml:lang="en"><p>1.i: <date ref="https://godot.date/id/Z5m5gTBF9N8NockFCa7G6J">Year 45</date>, Sindron <supplied reason="subaudible">son</supplied> of (Sindron); 
+               1.ii: <date ref="https://godot.date/id/Ee7cqUpNoSaN32zaZytNsM">Year 7</date>, for Philip; 1.iii: Dachis; 2: K.
            </p></div>
             </div>
             

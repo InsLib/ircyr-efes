@@ -119,19 +119,19 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><date><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="15">ιε</num></date> <persName type="attested" key="lgpn:V1-61289"><name nymRef="Ζωίλος">Ζωίλος</name> 
                     <lb n="2"/> <space quantity="3" unit="character"/> <persName type="attested" key="lgpn:V1-61411"><name nymRef="Κόσμος">Κόσμου</name></persName></persName>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 15, Zoilos, <supplied reason="subaudible">son</supplied> of Kosmos.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL">Year 15</date>, Zoilos, <supplied reason="subaudible">son</supplied> of Kosmos.</p></div>
          </div>
          
          <div type="commentary">
             <head>Commentary</head>
-            <p>On the building see Kraeling, 138f. But it is unsafe to date it on the assumption that the 
+            <p>On the building see Kraeling, 138f. This may name the donor of the column; but it is unsafe to date the buil;ding on the assumption that the 
                 column was originally designed for its present position. </p>
             <p> Year 15; Kraeling regards this as an Actian date (17-16 B.C.E.), but a regnal year is equally possible.</p>
          </div>

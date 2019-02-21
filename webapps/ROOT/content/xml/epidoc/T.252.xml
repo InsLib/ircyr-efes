@@ -127,20 +127,20 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w><gap unit="character" extent="2" reason="lost"/> 
+                    <lb n="1"/><date ref="https://godot.date/id/UGsKBAis8vjkqQEseo4oyG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w><gap unit="character" extent="2" reason="lost"/></date> 
                     <lb n="2"/><orig>γαη</orig>
                     <lb n="3"/><orig>θηπ<unclear>τ</unclear></orig>
                <lb n="4"/><orig>δ</orig><gap unit="character" extent="2" reason="lost"/><orig>ε</orig></ab>
 </div>
             <div subtype="fragment" n="ii" type="textpart"><ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="10"><unclear>ι</unclear></num> <orig>φ</orig>
+                    <lb n="1"/><date ref="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="10"><unclear>ι</unclear></num></date> <orig>φ</orig>
                <lb n="2"/><gap unit="character" extent="3" reason="lost"/><orig>ιλι</orig>
                     <lb n="3"/><orig>διφυω</orig>
                <lb n="4"/><orig>δϲ</orig> </ab>
 </div>
             <div subtype="fragment" n="iii" type="textpart"><ab>
-                <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w>  <num value="15">ιε</num>
+                <lb n="1"/><date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτουϲ</ex></expan></w>  <num value="15">ιε</num></date>
                     <lb n="2"/><persName type="attested"><name nymRef="Τίτος"><expan><abbr>Τ</abbr><ex>ίτοϲ</ex></expan></name>
                         <name nymRef="Σέστιος">Ϲήστιοϲ</name>
                 <lb n="3"/><name nymRef="Δομίτιος">Δομίτι<lb n="4" break="no"/>οϲ</name></persName> <w lemma="γραμματεύς"><expan><abbr>γραμ</abbr><ex>ματεὺϲ</ex></expan></w>
@@ -161,7 +161,8 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>iii: Anno 15. Sestio Domizio segretario.</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i and ii: not usefully translatable. iii: T(itius) Sestius Domitius, Secretary.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p>i: <date ref="https://godot.date/id/UGsKBAis8vjkqQEseo4oyG">Year ?</date> . . . 
+               ii: <date>Year 10</date> . . . iii: <date ref="https://godot.date/id/2kJ6Xzg5XNTahp89WC8CGL">Year 15</date>, T(itius) Sestius Domitius, Secretary.</p></div>
          </div>
          
          <div type="commentary">

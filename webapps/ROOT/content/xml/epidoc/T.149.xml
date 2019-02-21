@@ -142,8 +142,8 @@
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
                     
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
-                    <num value="1">α</num>
+                    <lb n="1"/><date ref="https://godot.date/id/wtdpMkHixnKf3paJYFzKXG"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> 
+                    <num value="1">α</num></date>
                     <lb n="2"/><persName type="attested" key="lgpn:V1-60236"><name nymRef="Ἄλεξις">Ἄλεξις</name></persName>
                 
                 </ab>
@@ -158,7 +158,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 11. Alexis</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 1, Alexis</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/wtdpMkHixnKf3paJYFzKXG">Year 1</date>, Alexis</p></div>
          </div>
          
          <div type="commentary">

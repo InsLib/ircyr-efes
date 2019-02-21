@@ -129,7 +129,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Sogene di Diocle ?</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Sogenes <supplied reason="subaudible">son of</supplied> Diokles</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p>Sogenes <supplied reason="subaudible">son</supplied> of Diokles</p></div>
          </div>
          <div type="commentary">
             <head>Commentary</head>

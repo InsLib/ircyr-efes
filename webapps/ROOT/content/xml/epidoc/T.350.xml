@@ -133,9 +133,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><date ref="https://godot.date/id/nrbarzN4BYXNcjjZotEPGM"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="109">ρθ</num> <rs type="month" key="Φαωφί"><w lemma="Φαωφί">Φαωφί</w></rs> 
-                    <lb n="2"/><num value="15">ιε</num> <persName type="attested" key="lgpn:V1-60474"><name nymRef="Πατροφίλα">Πατρο<lb n="3" break="no"/>φίλα </name>
+                    <lb n="2"/><num value="15">ιε</num></date> <persName type="attested" key="lgpn:V1-60474"><name nymRef="Πατροφίλα">Πατρο<lb n="3" break="no"/>φίλα </name>
                         <persName type="attested" key="lgpn:V1-60473"><name nymRef="Νεικασίων">Νει<lb n="4" break="no"/>κασίωνος</name></persName></persName> 
                     <lb n="5"/><date type="life-span" dur="P23Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="23">κγ</num> </date>
@@ -144,7 +144,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 109, Phaophi 15. Patrofila di Nicasione, di anni 23.</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 109, Phaophi 15 <note>C.E.78, October 12</note>, Patrophila, <supplied reason="subaudible">daughter</supplied> of Neikasion aged 23.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/nrbarzN4BYXNcjjZotEPGM">Year 109, Phaophi 15</date> <note>C.E.78, October 12</note>, Patrophila, <supplied reason="subaudible">daughter</supplied> of Neikasion aged 23.</p></div>
        </div>
        
          <div type="commentary">

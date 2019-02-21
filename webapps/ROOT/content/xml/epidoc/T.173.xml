@@ -130,8 +130,8 @@
                         <lb n="1"/><gap reason="lost" extent="unknown" unit="character"/><orig>πευ<unclear>γ</unclear></orig><gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
             <div subtype="fragment" n="iii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="49">μθ</num> <persName type="attested" key="lgpn:V1-60294"><name nymRef="Ἀφθάν">Ἀφθάν</name></persName>
+                        <lb n="1"/><date ref="https://godot.date/id/Zy5ZGTZPT3G8RbBYCLj4rm"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="49">μθ</num></date> <persName type="attested" key="lgpn:V1-60294"><name nymRef="Ἀφθάν">Ἀφθάν</name></persName>
                     </ab></div>
             <div subtype="fragment" n="iv" type="textpart"><ab> 
                         <lb n="1"/><persName type="attested" key="lgpn:V1-60295"><name nymRef="Δαμοκλῆς">Δαμοκλῆς</name></persName> 
@@ -148,7 +148,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>193: Aristarco - Anno 49. Aftàn ? Democle per costume di Agatocle. 194: Telocle di - nas-</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i: Aristarchos. ii: Not translatable. iii: year 49, Aphthan. 
+            <div type="translation" source="#edd" xml:lang="en"><p>i: Aristarchos. ii: Not translatable. iii: <date ref="https://godot.date/id/Zy5ZGTZPT3G8RbBYCLj4rm">Year 49</date>, Aphthan. 
                iv: Damokles, customary companion of Agathokles. v: Telokles. vi: Not translatable.</p></div>
          </div>
          

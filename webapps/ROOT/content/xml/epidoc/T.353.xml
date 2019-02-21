@@ -125,8 +125,8 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="7">ζ</num> <rs type="month" key="Φαμενώθ"><w lemma="Φαμενώθ">Φαμε<lb n="2" break="no"/>νὼτ</w></rs> <num value="10">ι</num> <persName type="attested" key="lgpn:V1-60471"><name nymRef="Ἀρίστας">Ἀρίσ<lb n="3" break="no"/>τας</name> <persName type="attested"  key="lgpn:V1-60472"><name nymRef="Κρίσπος">Κρίσ
+                    <lb n="1"/><date ref="https://godot.date/id/z5iEn3du4t3PUhLmriKd8j"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="7">ζ</num> <rs type="month" key="Φαμενώθ"><w lemma="Φαμενώθ">Φαμε<lb n="2" break="no"/>νὼτ</w></rs> <num value="10">ι</num></date> <persName type="attested" key="lgpn:V1-60471"><name nymRef="Ἀρίστας">Ἀρίσ<lb n="3" break="no"/>τας</name> <persName type="attested"  key="lgpn:V1-60472"><name nymRef="Κρίσπος">Κρίσ
                     <lb n="4" break="no"/>που</name></persName></persName> 
                     <date type="life-span" dur="P30Y"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἐτῶν</ex></expan></w>
                     <num value="30">λ</num> </date>
@@ -143,12 +143,12 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 7, Phamenoth 10, Arista di Crispo, di anni 30.</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>Year 7, Phamenoth 10 <note>March 6</note>, Aristas, <supplied reason="subaudible">son</supplied> of Crispus, aged 30.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p><date ref="https://godot.date/id/z5iEn3du4t3PUhLmriKd8j">Year 7, Phamenoth 10</date>, Aristas, <supplied reason="subaudible">son</supplied> of Crispus, aged 30.</p></div>
        </div>
        
          <div type="commentary">
             <head>Commentary</head>
-           
+            <p>March 6</p>
          </div>
          
       </body>

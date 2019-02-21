@@ -128,7 +128,7 @@
                             <persName type="attested"><name nymRef="Πόπλιος">Πόπλιος</name></persName>
                         </ab></div>
          </div><div subtype="part" n="b" type="textpart"><ab>
-                      <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6">ϛ</num>                   
+                      <lb n="1"/><date ref="https://godot.date/id/XNJjYWuSgde5h5BrCvWgib"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w> <num value="6">ϛ</num></date>                   
                       <lb n="2"/><persName type="attested"><name nymRef="Μᾶρκος"><expan><abbr>Μ</abbr><ex>ᾶρκος</ex></expan></name> <name nymRef="Ἰου-"><seg part="I">Ἰου</seg></name> <space quantity="1" unit="character"/>                     
                       <lb n="3"/><orig><unclear>π</unclear></orig></persName> <space quantity="3" unit="character"/> 
                       <lb n="3a"/> <space extent="unknown" unit="line"/> 
@@ -136,18 +136,14 @@
 </div>
 </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head><p>b, line  1, year 6.</p></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head>
+            <p>b, line  1, <date ref="https://godot.date/id/XNJjYWuSgde5h5BrCvWgib">year 6</date>.</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p>b, line  2, Μ is rather smaller than the letters that follow, suggesting that the cutter has 
-                    left space for a superscript bar above it and therfore that it = 
-                    <foreign xml:lang="grc">
-                  <expan>
-                     <abbr>M</abbr>
-                     <ex>ᾶρκος</ex>
-                  </expan>
-               </foreign>. 
-                    After <foreign xml:lang="grc">ΙΟΥ</foreign>, and apart from <foreign>Π</foreign> in line  3, 
+                    left space for a superscript bar above it and therefore that it stands for 
+                    M(ᾶρκος)
+                    After ΙΟΥ, and apart from Π in line  3, 
                     the condition of the stone suggests that nothing was ever inscribed until modern times - 
                     in fact that this is an abandoned text.</p>
          </div>

@@ -131,9 +131,9 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
             <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><date ref="https://godot.date/id/eowSTYRdVqnYNTjYJyLs3N"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                            <num value="8">η</num> <rs type="month" key="Θώθ"><w>Θώθυ</w></rs>
-                    <lb n="2"/><num value="1">α</num> <persName type="attested"><name nymRef="Σεκόνδα">Σεκόν<lb n="3" break="no"/>δα</name> <persName type="attested"><name nymRef="Σκευᾶς"><unclear>Σ</unclear><supplied reason="lost">κ</supplied><unclear>ε</unclear>υ
+                    <lb n="2"/><num value="1">α</num></date> <persName type="attested"><name nymRef="Σεκόνδα">Σεκόν<lb n="3" break="no"/>δα</name> <persName type="attested"><name nymRef="Σκευᾶς"><unclear>Σ</unclear><supplied reason="lost">κ</supplied><unclear>ε</unclear>υ
                     <lb n="4" break="no"/><unclear>ᾶ</unclear></name></persName></persName> <persName type="attested"><name nymRef="Πρίσκος"><seg part="I">Πρ<supplied reason="lost">ί</supplied>σ<unclear>κ</unclear></seg></name></persName>
                     <lb n="4a"/><gap reason="lost" quantity="2" unit="line"/>
                 </ab>
@@ -156,12 +156,12 @@
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 8, Thothy, Seconda di -</p></div>
             <div  type="translation" source="#gl-jmr1983" xml:lang="de"><p>(Jahr) 8, 1.Thothy, Secunda des Scaeva; Priscus . . . </p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>>Year 8, Thothy 1 <note>29 August</note>, Seconda <supplied reason="subaudible">daughter</supplied> of Scaeva;  Priscus [ . . . </p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p>><date ref="https://godot.date/id/eowSTYRdVqnYNTjYJyLs3N">Year 8, Thothy 1</date>, Seconda <supplied reason="subaudible">daughter</supplied> of Scaeva;  Priscus [ . . . </p></div>
        </div>
        
          <div type="commentary">
             <head>Commentary</head>
-           
+           <note>29 August</note>
             <p>On the names see Lüderitz.</p>
          </div>
          

@@ -123,8 +123,8 @@
          </div>
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="fragment" n="i" type="textpart"><ab>
-                           <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                           <num value="8">η</num>
+                           <lb n="1"/><date ref="https://godot.date/id/uggB4UR8WuKoFkouddSKob"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                           <num value="8">η</num></date>
                            <lb n="2"/><persName type="attested"><name nymRef="Σήτιος">Σήτιο<lb n="3" break="no"/>ς</name>
                            <name nymRef="Ἰούλιος">Ἰο<unclear>ύ</unclear>λι<lb n="4" break="no"/>ος</name></persName> 
                        </ab></div>
@@ -145,7 +145,7 @@
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>Anno 9. Sestio Giulio -</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i: Year 8, Setius Julius. ii: Nikostratos
+            <div type="translation" source="#edd" xml:lang="en"><p>i: <date ref="https://godot.date/id/uggB4UR8WuKoFkouddSKob">Year 8</date>, Setius Julius. ii: Nikostratos
            </p></div>
          </div>
          

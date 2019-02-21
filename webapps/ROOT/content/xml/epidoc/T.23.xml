@@ -119,18 +119,18 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <lb n="1"/><date ref="https://godot.date/id/DfsXa7wTtA88LBLfNjiwqK"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
                     <num value="3">γ</num> <persName type="emperor" key="vespasianus"><w>Αὐτοκράτορος</w>   
                     <lb n="2"/> <space quantity="3" unit="character"/> <name nymRef="Καῖσαρ">Κα<unclear>ίσαρ</unclear>ος</name>               
-                    <lb n="3"/><name nymRef="Οὐεσπασιανός">Ὀεσπασιανοῦ</name></persName> <note>sic</note>
+                    <lb n="3"/><name nymRef="Οὐεσπασιανός">Ὀεσπασιανοῦ</name></persName></date> <note>sic</note>
                 </ab>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translation</head>
-            <p>Year 3 of the Emperor Vespasian <supplied reason="explanation">C.E. 70/71</supplied></p></div>
+            <p><date ref="https://godot.date/id/DfsXa7wTtA88LBLfNjiwqK">Year 3 of the Emperor Vespasian</date> <supplied reason="explanation">C.E. 70/71</supplied></p></div>
          <div type="commentary">
             <head>Commentary</head>
-            <p>(?Bailey read the figure as square sigma as Ι seem to have done at one stage)</p>
+            <p>(?Bailey read the figure as square sigma as JMR seems to have done at one stage)</p>
          </div>
          
       </body>

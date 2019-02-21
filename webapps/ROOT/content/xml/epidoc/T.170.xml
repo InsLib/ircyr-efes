@@ -152,8 +152,8 @@
                         <lb n="1"/><persName type="attested"><name nymRef="Δημήτριος"><seg part="I">Δη<supplied reason="lost">μητρι</supplied></seg></name></persName>
                     </ab></div>
              <div subtype="fragment" n="vii" type="textpart"><ab>
-                        <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="4">δ</num> <persName type="attested"><name nymRef="Μαιαν">Μαιαν</name></persName>
+                        <lb n="1"/><date ref="https://godot.date/id/aFMpYxvXxYJ2jYWrjL2K37"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="4">δ</num></date> <persName type="attested"><name nymRef="Μαιαν">Μαιαν</name></persName>
                         <gap reason="lost" extent="unknown" unit="character"/>
                     </ab></div>
              <div subtype="fragment" n="viii" type="textpart"><ab>
@@ -200,8 +200,8 @@
           <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>181: Telefo di Poro ? Carnis Frasis di Si- Nicuro. 
             179: Demetrio Eupolo. Nicodromo. Demetrio di Demofilo, Anno 24 Ad-Amiràn di Teodoro. Nican- -àn. Pasion per costume di Li-</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i. Telephos <supplied reason="subaudible">son of</supplied> Proros. Itthanuras <supplied reason="subaudible">son of</supplied> Anussan. ii. Karnis. iii. Euphrantos son of Su-. iv.Phil-. v. Eu-.
-            vi. Demetrios. vii. Year 4. Maian. viii. Areithros. ix. Eutychos. x. Nikodromos. xi. Akaimuran. xii. Demetrios <supplied reason="subaudible">son of</supplied> Damophilos. xiii. -doros. 
+            <div type="translation" source="#edd" xml:lang="en"><p>i. Telephos <supplied reason="subaudible">son</supplied> of Proros. Itthanuras <supplied reason="subaudible">son</supplied> of Anussan. ii. Karnis. iii. Euphrantos son of Su-. iv.Phil-. v. Eu-.
+            vi. Demetrios. vii. <date ref="https://godot.date/id/aFMpYxvXxYJ2jYWrjL2K37">Year 4</date>. Maian. viii. Areithros. ix. Eutychos. x. Nikodromos. xi. Akaimuran. xii. Demetrios <supplied reason="subaudible">son</supplied> of Damophilos. xiii. -doros. 
             xiv. Pasion, customary companion of Lu-</p></div>
          </div>
           

@@ -133,24 +133,24 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve"><div subtype="part" n="i" type="textpart"><ab>
                         <lb n="1"/><persName type="attested"><name nymRef="Αν-"><seg part="I">Αν</seg></name></persName> <gap reason="lost" extent="unknown" unit="character"/>
-                        <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                        <num value="10">ι</num>
+                        <lb n="2"/><date ref="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                        <num value="10">ι</num></date>
                    </ab></div><div subtype="part" n="ii" type="textpart"><ab>
                            <lb n="1"/> <persName type="attested" key="lgpn:V1-60168"><name nymRef="Φίλων">Φίλω<supplied reason="lost">ν</supplied>ο<unclear>ς </unclear></name></persName>
-                           <lb n="2"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                           <num value="9">θ</num>
+                           <lb n="2"/><date ref="https://godot.date/id/mDha8ivFFUEeijcoAswNPW"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                           <num value="9">θ</num></date>
                         </ab>
 </div>
 </div>
          
          <div type="translation" xml:space="preserve"><head>Translations</head>
             <div  type="translation" source="#oliverioDAI" xml:lang="it"><p>No translation</p></div>
-            <div type="translation" source="#edd" xml:lang="en"><p>i: An- . . . year 10. ii. . . . of Philo, year 9.</p></div>
+            <div type="translation" source="#edd" xml:lang="en"><p>i: An- . . . <date ref="https://godot.date/id/PdyuasiMxoqYzoe7MfHeCB">year 10</date>. </p>
+             <p>  ii. . . . of Philo, <date ref="https://godot.date/id/mDha8ivFFUEeijcoAswNPW">year 9</date>.</p></div>
          </div>
          
          <div type="commentary">
             <head>Commentary</head>
-            <p>1. Year 10. 2. Year 9.</p>
          </div>
          
       </body>

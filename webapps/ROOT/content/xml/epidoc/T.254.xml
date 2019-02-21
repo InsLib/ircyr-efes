@@ -120,14 +120,15 @@
          
          <div type="edition" xml:lang="grc" xml:space="preserve">
 <ab>
-                    <lb n="1"/><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
-                    <num value="19">ιθ</num>
-                    <lb n="2"/><persName type="attested"><name nymRef="Ἰάσων">Ἰάσων</name>
+                    <lb n="1"/><date ref="https://godot.date/id/QEEpTtCKhwLjNEhLvD8woK"><w lemma="ἔτος"><expan><abbr><am><g ref="symbols.xml#year"/></am></abbr><ex>ἔτους</ex></expan></w>
+                    <num value="19">ιθ</num></date>
+                    <lb n="2"/><persName type="attested"><name nymRef="Ἰάσων">Ἰάϲων</name>
                 <lb n="3"/><persName type="attested"><name nymRef="Ζωΐλος">Ζοίλω</name></persName></persName>
                 </ab>
 </div>
          
-         <div type="translation" xml:space="preserve"><head>Translation</head><p/></div>
+         <div type="translation" xml:space="preserve"><head>Translation</head><p/>
+         <p><date ref="https://godot.date/id/QEEpTtCKhwLjNEhLvD8woK">Year 19</date>, Jason <supplied reason="subaudible">son</supplied> of Zoilos</p></div>
          <div type="commentary">
             <head>Commentary</head>
             <p/>
