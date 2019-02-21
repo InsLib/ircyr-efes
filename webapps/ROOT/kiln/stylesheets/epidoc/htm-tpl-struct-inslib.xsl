@@ -144,12 +144,24 @@
        <xsl:apply-templates select="$commtxt" mode="sqbrackets"/>
      </div>
 
-     <p><b><i18n:text i18n:key="epidoc-xslt-inslib-bibliography">Bibliography</i18n:text>: </b>
+     <p><b><i18n:text i18n:key="epidoc-xslt-inslib-bibliography">Bibliographyi</i18n:text>: </b>
      <xsl:apply-templates select="//t:div[@type='bibliography']/t:p/node()"/> 
      <br/>
      <b><i18n:text i18n:key="epidoc-xslt-inslib-constituted-from">Text constituted from</i18n:text>: </b>
      <xsl:apply-templates select="//t:creation"/>
      </p>
+     
+     <div id="images">
+       <h4>Images</h4>
+       <dl>
+         <xsl:for-each select="//t:facsimile//t:graphic">
+           <dt width="150" align="left"></dt>
+           <dd>
+             <xsl:apply-templates select="." />
+           </dd>
+         </xsl:for-each>
+       </dl>
+     </div>
    </xsl:template>
 
    <xsl:template name="inslib-structure">
